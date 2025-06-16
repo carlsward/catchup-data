@@ -1,6 +1,7 @@
 import feedparser, newspaper, time
 from transformers import pipeline as hf_pipeline
 from rank_bm25 import BM25Okapi
+import re 
 
 FEEDS = [
     "https://www.reuters.com/world/rss",
@@ -42,6 +43,8 @@ def summarize(docs):
                              max_length=100,
                              min_length=30,
                              do_sample=False)[0]["summary_text"]
+        summary = summary.strip()                           # tar bort start/slut-mellan­slag
+        summary = re.sub(r"\s+([.,!?;:])", r"\1", summary)  # tar bort space före . , ! ? ; :
         cards.append({"title": d["title"],
                       "summary": summary,
                       "url": d["url"]})
