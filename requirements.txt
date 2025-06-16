@@ -1,0 +1,5 @@
+feedparser
+newspaper3k
+transformers
+torch
+rank-bm25
