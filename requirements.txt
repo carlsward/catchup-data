@@ -1,6 +1,7 @@
 feedparser
-newspaper3k
+newspaper3k==0.2.8
 transformers
 torch
 rank-bm25
+lxml
 lxml-html-clean
