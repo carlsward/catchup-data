@@ -3,3 +3,4 @@ newspaper3k
 transformers
 torch
 rank-bm25
+lxml-html-clean
