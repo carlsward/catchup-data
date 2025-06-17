@@ -4,4 +4,4 @@ transformers
 torch
 rank-bm25
 lxml
-lxml-html-clean
+lxml[html_clean]==4.9.4
