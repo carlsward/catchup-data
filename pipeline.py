@@ -1,3 +1,14 @@
+# --- shim so newspaper works with lxml>=5 ---
+try:
+    import lxml_html_clean as _hc
+    import sys
+    sys.modules['lxml.html.clean'] = _hc
+except ImportError:
+    pass
+# --------------------------------------------
+
+
+
 import feedparser, newspaper, time
 from transformers import pipeline as hf_pipeline
 from rank_bm25 import BM25Okapi
