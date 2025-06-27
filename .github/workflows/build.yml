@@ -1,10 +1,10 @@
 name: Nightly JSON build
 
-# 03:00 i Stockholm = 01:00 UTC (GitHub cron använder UTC-tid)
+# 03:00 i Stockholm = 01:00 UTC
 on:
   schedule:
     - cron: '0 1 * * *'
-  workflow_dispatch:     # gör att du kan klicka "Run workflow" manuellt
+  workflow_dispatch:    # gör att du kan klicka “Run workflow” manuellt
 
 jobs:
   build:
@@ -19,23 +19,21 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Pre-pin lxml 4.9.4
-        run: python -m pip install "lxml[html_clean]==4.9.4"
-
+      # --- Debug: visa exakt requirements.txt som runnern ser ---
       - name: DEBUG – visa requirements.txt
         run: cat requirements.txt
 
-
+      # --- Installera alla beroenden (inkl. lxml_html_clean) ---
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-
+      # --- Kör pipeline och exportera JSON ---
       - name: Run pipeline & export JSON
         run: python make_json.py
 
-      # ---------- PUBLICERA ----------
+      # --- Publicera till GitHub Pages ---
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
