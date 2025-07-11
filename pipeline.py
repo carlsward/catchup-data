@@ -1,94 +1,136 @@
-# pipeline.py  – komplett fil
-# --- shim så newspaper fungerar med lxml>=5 ---
+# -----------------------------------------------------------
+#  Catch-up  ·  Nyhetsinsamling  ·  summering  ·  översättning
+# -----------------------------------------------------------
+#
+# 1. Hämtar artiklar från RSS-flöden (feedparser + newspaper3k)
+# 2. Väljer de mest relevanta med BM25
+# 3. Summerar (eng)   ── distilbart-cnn-6-6
+# 4. Översätter vid behov ── NLLB-200-distilled-600M
+#
+# -----------------------------------------------------------
+
+# --- shim så newspaper funkar med lxml>=5 ------------------
 try:
     import lxml_html_clean as _hc
     import sys
     sys.modules['lxml.html.clean'] = _hc
 except ImportError:
     pass
-# ------------------------------------------------
+# -----------------------------------------------------------
 
-import time, re, feedparser, newspaper
-from transformers import pipeline as hf_pipeline
+import feedparser, newspaper, time, re
 from rank_bm25 import BM25Okapi
 
+from transformers import (
+    pipeline   as hf_pipeline,
+    AutoTokenizer,
+    AutoModelForSeq2SeqLM,
+)
+
+# ----------- inställningar --------------------------------
 FEEDS = [
     "https://www.reuters.com/world/rss",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://www.svt.se/nyheter/rss",
 ]
 
-LANGS = {
-    "en": None,            # originaltext (ingen översättning)
-    "sv": "Helsinki-NLP/opus-mt-en-sv",
-    "de": "Helsinki-NLP/opus-mt-en-de",
-    "es": "Helsinki-NLP/opus-mt-en-es",
-    "fr": "Helsinki-NLP/opus-mt-en-fr",
-}
+TARGET_LANGS = ["en", "sv", "de", "es", "fr"]
 
-_SUMMARIZER = hf_pipeline(
+# ---- modeller (laddas en gång vid import) -----------------
+print("Device set to use cpu")        # loggraden i Actions-runnen
+summarizer = hf_pipeline(
     "summarization",
-    model="facebook/bart-large-cnn",
+    model="sshleifer/distilbart-cnn-6-6",
     device="cpu",
 )
 
+translator_tokenizer = AutoTokenizer.from_pretrained(
+    "facebook/nllb-200-distilled-600M"
+)
+translator_model = AutoModelForSeq2SeqLM.from_pretrained(
+    "facebook/nllb-200-distilled-600M"
+)
+
+_LANG_CODE = {
+    "en": "eng_Latn",
+    "sv": "swe_Latn",
+    "de": "deu_Latn",
+    "es": "spa_Latn",
+    "fr": "fra_Latn",
+}
+
+# -----------------------------------------------------------
+
+
+# ---------- hjälp­funktioner -------------------------------
+
+def translate(text: str, tgt_lang: str) -> str:
+    """Översätter ENG → tgt_lang med NLLB. (No-op om tgt=en)."""
+    if tgt_lang == "en":
+        return text
+    tgt = _LANG_CODE[tgt_lang]
+    inp = translator_tokenizer(
+        text, return_tensors="pt", truncation=True, padding=True, max_length=512
+    )
+    out_tokens = translator_model.generate(
+        **inp,
+        forced_bos_token_id=translator_tokenizer.lang_code_to_id[tgt],
+        max_length=512,
+        num_beams=4,
+    )
+    return translator_tokenizer.decode(out_tokens[0], skip_special_tokens=True)
+
+
 def collect_articles(days: int = 7):
-    """
-    Hämtar artiklar publicerade de ­senaste `days` dagarna.
-    Returnerar lista med dictar: {title, text, url}
-    """
+    """Hämtar artiklar ≤ `days` tillbaka, returnerar lista med dictar."""
     since = time.time() - days * 86_400
     docs = []
-    for feed in FEEDS:
-        for e in feedparser.parse(feed).entries:
-            if time.mktime(e.published_parsed) < since:
+    for feed_url in FEEDS:
+        for entry in feedparser.parse(feed_url).entries:
+            if time.mktime(entry.published_parsed) < since:
                 continue
-            art = newspaper.Article(e.link)
-            art.download(); art.parse()
-            docs.append({"title": e.title, "text": art.text, "url": e.link})
+            art = newspaper.Article(entry.link)
+            try:
+                art.download(); art.parse()
+            except Exception:
+                continue   # hoppade över trasig artikel
+            docs.append(
+                {
+                    "title": entry.title,
+                    "text":  art.text,
+                    "url":   entry.link,
+                }
+            )
     return docs
 
-def choose_top(docs, k: int, query=("news", "world", "sweden")):
-    """
-    Väljer de `k` mest relevanta artiklarna mha BM25.
-    """
-    corpus = [d["title"] + " " + d["text"] for d in docs]
-    bm25   = BM25Okapi([c.split() for c in corpus])
-    scores = bm25.get_scores(list(query))
+
+def choose_top_docs(docs, top_n=20):
+    """Rankar med BM25 (enkelt sök-query) och returnerar top_n docs."""
+    corpus = [f"{d['title']} {d['text']}" for d in docs]
+    bm25  = BM25Okapi([c.split() for c in corpus])
+    scores = bm25.get_scores(["news", "world", "sweden"])
     ranked = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
-    return [d for _, d in ranked[:k]]
+    return [d for _, d in ranked[:top_n]]
 
-def summarize(text: str, max_len=100, min_len=30):
-    """
-    Returnerar en engelsk sammanfattning av `text`.
-    """
-    short = text[:2000]                              # API-begränsning
-    s = _SUMMARIZER(short,
-                    max_length=max_len,
-                    min_length=min_len,
-                    do_sample=False)[0]["summary_text"]
-    s = re.sub(r"\s+([.,!?;:])", r"\1", s.strip())   # snygga till blanksteg
-    return s
 
-def translate(text: str, tgt_lang: str):
-    """
-    Översätter `text` från engelska → `tgt_lang` via Marian-MT.
-    Om `tgt_lang == "en"` returneras texten oförändrad.
-    """
-    model_name = LANGS[tgt_lang]
-    if model_name is None:
-        return text
-    translator = hf_pipeline("translation", model=model_name, device="cpu")
-    return translator(text, max_length=400)[0]["translation_text"]
+def make_card(doc: dict, tgt_lang: str) -> dict:
+    """Bygger ett 'kort' (rubrik + summering) på valt språk."""
+    # 1) Summera på engelska
+    short_txt = doc["text"][:2000]
+    en_sum = summarizer(
+        short_txt, max_length=100, min_length=30, do_sample=False
+    )[0]["summary_text"].strip()
+    en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)
 
-def build_cards(docs, tgt_lang: str):
-    """
-    Summariserar och (ev) översätter artiklar till kort.
-    """
-    cards = []
-    for d in docs:
-        summ_en = summarize(d["text"])
-        title   = d["title"] if tgt_lang == "en" else translate(d["title"], tgt_lang)
-        body    = summ_en     if tgt_lang == "en" else translate(summ_en,  tgt_lang)
-        cards.append({"title": title, "summary": body, "url": d["url"]})
-    return cards
+    # 2) Översätt vid behov
+    title   = translate(doc["title"], tgt_lang)
+    summary = translate(en_sum,    tgt_lang)
+
+    return {"title": title, "summary": summary, "url": doc["url"]}
+
+
+# -----------------------------------------------------------
+if __name__ == "__main__":
+    # snabbtest: skriv ut en svensk sammanfattning av första Reuters-artikel
+    art = collect_articles(1)[0]
+    print(make_card(art, "sv"))

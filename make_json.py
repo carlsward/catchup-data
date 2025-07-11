@@ -1,29 +1,50 @@
-# make_json.py  – komplett fil
-import json, datetime as dt, pipeline
+"""
+Genererar alla JSON-filer (day/week/month × språk) och sparar i
+mappen `public/`.  Körs automatiskt av GitHub Actions nattligen,
+men kan givetvis köras lokalt för test:
 
-SPANS = {
-    "day":   (1, 5),    # (antal dagar, antal kort)
-    "week":  (7, 10),
-    "month": (30, 20),
-}
-LANGS = ["en", "sv", "de", "es", "fr"]   # lägg till/ta bort språk här
+    python make_json.py
+"""
+from pathlib import Path
+import json, datetime as dt
+import pipeline
 
-def generate():
-    for span, (days, n_cards) in SPANS.items():
-        docs = pipeline.collect_articles(days)
-        top  = pipeline.choose_top(docs, n_cards)
-        for lang in LANGS:
-            cards = pipeline.build_cards(top, lang)
-            out = {
-                "generated": dt.datetime.utcnow().isoformat(timespec="seconds") + "Z",
-                "span": span,
-                "lang": lang,
-                "cards": cards,
-            }
-            fname = f"public/{span}_{lang}.json"
-            with open(fname, "w", encoding="utf-8") as f:
-                json.dump(out, f, ensure_ascii=False, indent=2)
-            print("✅", fname)
+OUTDIR = Path("public")
+OUTDIR.mkdir(exist_ok=True)
 
-if __name__ == "__main__":
-    generate()
+# ------------ verktyg -------------------------------------
+
+def write_json(path: Path, obj):
+    path.write_text(
+        json.dumps(obj, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
+# ------------ vilka filer som ska skapas ------------------
+
+SPAN_INFO = [
+    ("day",   1,  5),
+    ("week",  7, 10),
+    ("month", 30, 20),
+]
+LANGS = ["en", "sv", "de", "es", "fr"]
+
+# ------------ huvudslingan --------------------------------
+for span, days, topn in SPAN_INFO:
+    # 1) hämta & ranka artiklar EN gång per span
+    docs_raw  = pipeline.collect_articles(days)
+    docs_rank = pipeline.choose_top_docs(docs_raw, topn)
+
+    for lang in LANGS:
+        cards = [pipeline.make_card(d, lang) for d in docs_rank]
+
+        payload = {
+            "span":      span,
+            "language":  lang,
+            "generated": dt.datetime.utcnow()
+                            .isoformat(timespec="seconds") + "Z",
+            "cards":     cards,
+        }
+        fname = OUTDIR / f"{span}_{lang}.json"
+        write_json(fname, payload)
+        print(f"✅ {fname}")
