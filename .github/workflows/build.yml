@@ -23,6 +23,13 @@ jobs:
       - name: DEBUG – visa requirements.txt
         run: cat requirements.txt
 
+      - name: Cache HF models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-${{ hashFiles('requirements.txt') }}
+
+        
       # --- Installera alla beroenden (inkl. lxml_html_clean) ---
       - name: Install dependencies
         run: |
