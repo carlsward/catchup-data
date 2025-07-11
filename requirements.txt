@@ -4,7 +4,7 @@ transformers
 torch
 rank-bm25
 lxml_html_clean==0.4.2
-
+sentencepiece
 transformers>=4.53
 sentencepiece>=0.1.99   # tokenizer‐backend
 sacremoses              # bättre detokning
