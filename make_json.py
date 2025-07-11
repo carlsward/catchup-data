@@ -1,20 +1,29 @@
-import json, pathlib, datetime as dt
-import pipeline
+# make_json.py  – komplett fil
+import json, datetime as dt, pipeline
 
-OUT = pathlib.Path("public")
-OUT.mkdir(exist_ok=True)
+SPANS = {
+    "day":   (1, 5),    # (antal dagar, antal kort)
+    "week":  (7, 10),
+    "month": (30, 20),
+}
+LANGS = ["en", "sv", "de", "es", "fr"]   # lägg till/ta bort språk här
 
-for span, days in {"day":1, "week":7, "month":30}.items():
-    docs  = pipeline.collect_articles(days)
-    top20 = pipeline.choose_top20(docs)
-    cards = pipeline.summarize(top20)
-    payload = {
-        "generated": dt.datetime.utcnow()
-                     .isoformat(timespec="seconds") + "Z",
-        "cards": cards
-    }
-    (OUT / f"{span}.json").write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2)
-    )
+def generate():
+    for span, (days, n_cards) in SPANS.items():
+        docs = pipeline.collect_articles(days)
+        top  = pipeline.choose_top(docs, n_cards)
+        for lang in LANGS:
+            cards = pipeline.build_cards(top, lang)
+            out = {
+                "generated": dt.datetime.utcnow().isoformat(timespec="seconds") + "Z",
+                "span": span,
+                "lang": lang,
+                "cards": cards,
+            }
+            fname = f"public/{span}_{lang}.json"
+            with open(fname, "w", encoding="utf-8") as f:
+                json.dump(out, f, ensure_ascii=False, indent=2)
+            print("✅", fname)
 
-print("✔️  JSON-filer klara i public/")
+if __name__ == "__main__":
+    generate()
