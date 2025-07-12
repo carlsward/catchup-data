@@ -69,24 +69,29 @@ def translate(text: str, tgt_lang: str) -> str:
     """
     Översätter ENG → tgt_lang med NLLB-200.
     Returnerar originalet om tgt_lang == 'en'.
+    Klarar samtliga aktuella transformers-versioner.
     """
     if tgt_lang == "en":
         return text
 
-    tgt = _LANG_CODE[tgt_lang]          # t.ex. 'swe_Latn'
-
-    # -- Hitta BOS-id för målspråket ---------------------------------
-    # ① nytt API (>=4.43)  → token-sträng
-    tok_variants = [f"<<{tgt}>>", f"<2{tgt}>", f"__{tgt}__"]
+    tgt = _LANG_CODE[tgt_lang]           # t.ex. 'swe_Latn'
     bos_id = None
 
-    for tok in tok_variants:
+    # ----- 1) Nyare tokenizer: special-token-strängar ----------------
+    for tok in (f"<<{tgt}>>", f"<2{tgt}>", f"__{tgt}__"):
         tok_id = translator_tokenizer.convert_tokens_to_ids(tok)
         if tok_id not in (translator_tokenizer.unk_token_id, None):
             bos_id = tok_id
             break
 
-    # ② gammalt API (<=4.42)  → tabellerna finns kvar
+    # ----- 2) Nyare tokenizer: .get_lang_id() ------------------------
+    if bos_id is None and hasattr(translator_tokenizer, "get_lang_id"):
+        try:
+            bos_id = translator_tokenizer.get_lang_id(tgt)
+        except KeyError:
+            pass
+
+    # ----- 3) Äldre varianter: tabell-attribut -----------------------
     if bos_id is None:
         for attr in ("lang_code_to_id", "lang2id"):
             mapping = getattr(translator_tokenizer, attr, None)
@@ -96,7 +101,6 @@ def translate(text: str, tgt_lang: str) -> str:
 
     if bos_id is None:
         raise ValueError(f"Kunde inte hitta språk-ID för {tgt}")
-    # ----------------------------------------------------------------
 
     enc = translator_tokenizer(
         text,
@@ -112,6 +116,7 @@ def translate(text: str, tgt_lang: str) -> str:
         num_beams=4,
     )
     return translator_tokenizer.decode(out[0], skip_special_tokens=True)
+
 
 
 
