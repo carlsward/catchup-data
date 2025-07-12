@@ -1,17 +1,15 @@
 from __future__ import annotations
 
 # -----------------------------------------------------------
-#  Catch-up  ·  nyhetsinsamling · summering · översättning
+#  Catch‑up  ·  nyhetsinsamling · summering · översättning
 # -----------------------------------------------------------
 #
-# 1.  Hämtar artiklar från RSS-flöden (feedparser + newspaper3k)
-# 2.  Rankar med BM25 och väljer topp-N
-# 3.  Summerar på engelska    (distilbart-cnn-6-6)
-# 4.  Översätter om nödvändigt (NLLB-200-distilled-600M)
+# 1.  Hämtar artiklar från RSS‑flöden (feedparser + newspaper3k)
+# 2.  Rankar med BM25 och väljer topp‑N
+# 3.  Summerar på engelska    (distilbart‑cnn‑6‑6)
+# 4.  Översätter om nödvändigt (NLLB‑200‑distilled‑600M)
 #
 # -----------------------------------------------------------
-
-
 
 # ---- shim så newspaper funkar med lxml>=5 -----------------
 try:
@@ -37,9 +35,9 @@ FEEDS: List[str] = [
     "https://www.svt.se/nyheter/rss",
 ]
 
-TARGET_LANGS: List[str] = ["en", "sv", "de", "es", "fr"]   # skapa dessa JSON-filer
+TARGET_LANGS: List[str] = ["en", "sv", "de", "es", "fr"]   # skapa dessa JSON‑filer
 
-# ISO-639-3 + skript enligt NLLB (behövs av translation-pipen)
+# ISO‑639‑3 + skript enligt NLLB (behövs av translation‑pipen)
 _LANG_CODE: Dict[str, str] = {
     "en": "eng_Latn",
     "sv": "swe_Latn",
@@ -52,7 +50,7 @@ _LANG_CODE: Dict[str, str] = {
 #  MODELLER – laddas en enda gång vid import
 # -----------------------------------------------------------
 
-print("Device set to use cpu")          # → syns i GitHub Actions-loggen
+print("Device set to use cpu")          # → syns i GitHub Actions‑loggen
 
 summarizer = hf_pipeline(
     "summarization",
@@ -70,9 +68,20 @@ translator = hf_pipeline(
 #  HJÄLPFUNKTIONER
 # -----------------------------------------------------------
 
+def _shorten_title(title: str, max_len: int = 80) -> str:
+    """Trimma citattecken och klipp bort underrubrik efter streck/kolon."""
+    t = title.strip(" \"'\u2019\u201c\u201d")  # vanligaste citationstecken
+    # dela av vid första " – ", " - " eller ": " (både kort och lång tankstreck)
+    parts = re.split(r"\s+[–\-:]\s+", t, maxsplit=1)
+    t = parts[0]
+    if len(t) > max_len:
+        t = t[:max_len].rstrip() + "…"
+    return t
+
+
 def translate(text: str, tgt_lang: str) -> str:
     """
-    Översätter ENG → `tgt_lang` med NLLB-200.  
+    Översätter ENG → `tgt_lang` med NLLB‑200.
     Returnerar originalet om `tgt_lang == "en"`.
     """
     if tgt_lang == "en":
@@ -114,19 +123,30 @@ def choose_top_docs(docs: List[Dict], top_n: int = 20) -> List[Dict]:
 
 
 def make_card(doc: Dict, tgt_lang: str) -> Dict:
-    """Bygger ett 'kort' (rubrik + summering) på valt språk."""
+    """Bygger ett kort (rubrik + summering) på valt språk."""
+    # 0) Kortare rubrik redan på ENG
+    short_title_en = _shorten_title(doc["title"])
+
     # 1) Engelsk summering
     short_txt = doc["text"][:2_000]
     en_sum = summarizer(
         short_txt,
-        max_length=100,
-        min_length=30,
+        max_length=90,
+        min_length=25,
+        no_repeat_ngram_size=3,
         do_sample=False,
     )[0]["summary_text"].strip()
     en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)
 
-    # 2) Översätt titel + summary vid behov
-    title   = translate(doc["title"], tgt_lang)
+    # 1b) Om summaryn börjar med rubriken → plocka bort den meningen
+    first_sentence_match = re.match(r"^(.*?[.!?])\s+(.*)$", en_sum)
+    if first_sentence_match:
+        first_sent = first_sentence_match.group(1).lower()
+        if first_sent.startswith(short_title_en.lower().split()[0]):
+            en_sum = first_sentence_match.group(2).strip()
+
+    # 2) Översätt rubrik + summary vid behov
+    title   = translate(short_title_en, tgt_lang)
     summary = translate(en_sum,        tgt_lang)
 
     return {"title": title, "summary": summary, "url": doc["url"]}
