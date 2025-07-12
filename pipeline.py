@@ -66,7 +66,7 @@ summarizer = hf_pipeline(
 )
 
 translator_tokenizer = AutoTokenizer.from_pretrained(
-    "facebook/nllb-200-distilled-600M", use_fast=False
+    "facebook/nllb-200-distilled-600M"
 )
 translator_model = AutoModelForSeq2SeqLM.from_pretrained(
     "facebook/nllb-200-distilled-600M"
