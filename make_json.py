@@ -31,9 +31,9 @@ def utc_now_iso() -> str:
 
 # ------------------ VILKA FILER? ---------------------------
 SPAN_INFO = [          #  (filnamns-prefix, antal dagar, hur många kort)
-    ("day",   1,  5),
-    ("week",  7, 10),
-    ("month", 30, 20),
+    ("day",   1,  1),
+    ("week",  7, 1),
+    ("month", 30, 1),
 ]
 
 LANGS = pipeline.TARGET_LANGS     # hålls i synk med pipeline.py
