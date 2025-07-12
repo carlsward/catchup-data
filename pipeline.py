@@ -9,7 +9,7 @@
 #
 # -----------------------------------------------------------
 
-# --- shim så newspaper funkar med lxml>=5 ------------------
+# ---- shim så newspaper funkar med lxml>=5 -----------------
 try:
     import lxml_html_clean as _hc
     import sys
@@ -18,27 +18,27 @@ except ImportError:
     pass
 # -----------------------------------------------------------
 
+from __future__ import annotations
+
 import time, re, feedparser, newspaper
+from typing import List, Dict
 from rank_bm25 import BM25Okapi
-from transformers import (
-    pipeline as hf_pipeline,
-    AutoTokenizer,
-    AutoModelForSeq2SeqLM,
-)
+from transformers import pipeline as hf_pipeline
 
 # -----------------------------------------------------------
 #  INSTÄLLNINGAR
 # -----------------------------------------------------------
 
-FEEDS = [
+FEEDS: List[str] = [
     "https://www.reuters.com/world/rss",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://www.svt.se/nyheter/rss",
 ]
 
-TARGET_LANGS = ["en", "sv", "de", "es", "fr"]       # generera dessa
+TARGET_LANGS: List[str] = ["en", "sv", "de", "es", "fr"]   # skapa dessa JSON-filer
 
-_LANG_CODE = {      # ISO-639-3 + skript enligt NLLB
+# ISO-639-3 + skript enligt NLLB (behövs av translation-pipen)
+_LANG_CODE: Dict[str, str] = {
     "en": "eng_Latn",
     "sv": "swe_Latn",
     "de": "deu_Latn",
@@ -46,18 +46,11 @@ _LANG_CODE = {      # ISO-639-3 + skript enligt NLLB
     "fr": "fra_Latn",
 }
 
-# Tokensträngar som olika NLLB-/mBART-modeller kan använda
-_TOKEN_PATTERNS = [
-    "<2{code}>",     # nytt NLLB-200-format
-    "__{code}__",    # äldre fairseq-format
-    "<<{code}>>",    # äldre mBART-format
-]
-
 # -----------------------------------------------------------
 #  MODELLER – laddas en enda gång vid import
 # -----------------------------------------------------------
 
-print("Device set to use cpu")                 # → visas i GitHub Actions-loggen
+print("Device set to use cpu")          # → syns i GitHub Actions-loggen
 
 summarizer = hf_pipeline(
     "summarization",
@@ -65,81 +58,35 @@ summarizer = hf_pipeline(
     device="cpu",
 )
 
-translator_tokenizer = AutoTokenizer.from_pretrained(
-    "facebook/nllb-200-distilled-600M"
-)
-translator_model = AutoModelForSeq2SeqLM.from_pretrained(
-    "facebook/nllb-200-distilled-600M"
+translator = hf_pipeline(
+    "translation",
+    model="facebook/nllb-200-distilled-600M",
+    device="cpu",
 )
 
 # -----------------------------------------------------------
 #  HJÄLPFUNKTIONER
 # -----------------------------------------------------------
 
-def _try_get_id(tok, code: str) -> int | None:
-    """
-    Returnerar BOS-ID för given språkkod eller None om det inte hittas.
-    Stöd för både äldre och nya transformer-versioner.
-    """
-    # a) moderna hjälpfunktioner / tabeller med ID
-    for attr in ("get_lang_id", "lang_code_to_id", "lang2id"):
-        mapping = getattr(tok, attr, None)
-        if mapping:
-            try:
-                return mapping(code) if callable(mapping) else mapping.get(code)
-            except Exception:
-                pass
-
-    # b) prova välkända token-strängar (<2xx>, __xx__, <<xx>>)
-    for pat in ("<2{code}>", "__{code}__", "<<{code}>>"):
-        tid = tok.convert_tokens_to_ids(pat.format(code=code))
-        if tid not in (tok.unk_token_id, None):
-            return tid
-
-    # c) **NYTT** – Transformers 4.50+: lang_code_to_token → str → id
-    token_map = getattr(tok, "lang_code_to_token", None)
-    if token_map and code in token_map:
-        tid = tok.convert_tokens_to_ids(token_map[code])
-        if tid not in (tok.unk_token_id, None):
-            return tid
-
-    return None
-
-
-
 def translate(text: str, tgt_lang: str) -> str:
     """
-    Översätter ENG → tgt_lang med NLLB-200 (no-op om tgt_lang == 'en').
-    Kastat ValueError om språk-ID inte hittas.
+    Översätter ENG → `tgt_lang` med NLLB-200.  
+    Returnerar originalet om `tgt_lang == "en"`.
     """
     if tgt_lang == "en":
         return text
-
-    tgt_code = _LANG_CODE[tgt_lang]
-    bos_id   = _try_get_id(translator_tokenizer, tgt_code)
-    if bos_id is None:
-        raise ValueError(f"Hittar inte språk-ID för {tgt_code}")
-
-    enc = translator_tokenizer(
+    return translator(
         text,
-        return_tensors="pt",
-        truncation=True,
-        padding=True,
+        src_lang="eng_Latn",
+        tgt_lang=_LANG_CODE[tgt_lang],
         max_length=512,
-    )
-    out = translator_model.generate(
-        **enc,
-        forced_bos_token_id=bos_id,
-        max_length=512,
-        num_beams=4,
-    )
-    return translator_tokenizer.decode(out[0], skip_special_tokens=True)
+    )[0]["translation_text"]
 
 
-def collect_articles(days: int = 7) -> list[dict]:
-    """Hämtar artiklar ≤ `days` tillbaka och returnerar en lista med dictar."""
+def collect_articles(days: int = 7) -> List[Dict]:
+    """Hämtar artiklar ≤ `days` bakåt och returnerar en lista med dictar."""
     since = time.time() - days * 86_400
-    docs = []
+    docs: List[Dict] = []
     for feed_url in FEEDS:
         for entry in feedparser.parse(feed_url).entries:
             if time.mktime(entry.published_parsed) < since:
@@ -148,39 +95,42 @@ def collect_articles(days: int = 7) -> list[dict]:
             try:
                 art.download(); art.parse()
             except Exception:
-                continue           # hoppa trasig artikel
+                continue
             docs.append(
                 {"title": entry.title, "text": art.text, "url": entry.link}
             )
     return docs
 
 
-def choose_top_docs(docs: list[dict], top_n: int = 20) -> list[dict]:
-    """Rankar med BM25 och returnerar de top_n mest relevanta artiklarna."""
-    corpus  = [f"{d['title']} {d['text']}" for d in docs]
-    bm25    = BM25Okapi([c.split() for c in corpus])
-    scores  = bm25.get_scores(["news", "world", "sweden"])
-    ranked  = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
+def choose_top_docs(docs: List[Dict], top_n: int = 20) -> List[Dict]:
+    """Rankar med BM25 och returnerar de `top_n` mest relevanta artiklarna."""
+    corpus = [f"{d['title']} {d['text']}" for d in docs]
+    bm25   = BM25Okapi([c.split() for c in corpus])
+    scores = bm25.get_scores(["news", "world", "sweden"])
+    ranked = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
     return [d for _, d in ranked[:top_n]]
 
 
-def make_card(doc: dict, tgt_lang: str) -> dict:
+def make_card(doc: Dict, tgt_lang: str) -> Dict:
     """Bygger ett 'kort' (rubrik + summering) på valt språk."""
-    # 1) summering på engelska
-    short_txt = doc["text"][:2_000]   # begränsa längd
+    # 1) Engelsk summering
+    short_txt = doc["text"][:2_000]
     en_sum = summarizer(
-        short_txt, max_length=100, min_length=30, do_sample=False
+        short_txt,
+        max_length=100,
+        min_length=30,
+        do_sample=False,
     )[0]["summary_text"].strip()
-    en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)   # fix mellanslag
+    en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)
 
-    # 2) översätt titel + sammanfattning vid behov
+    # 2) Översätt titel + summary vid behov
     title   = translate(doc["title"], tgt_lang)
-    summary = translate(en_sum,       tgt_lang)
+    summary = translate(en_sum,        tgt_lang)
 
     return {"title": title, "summary": summary, "url": doc["url"]}
 
 # -----------------------------------------------------------
-#  snabbtest: kör “python pipeline.py” lokalt för sanity-check
+#  Snabbtest:  python pipeline.py   (lokalt)
 # -----------------------------------------------------------
 if __name__ == "__main__":
     art = collect_articles(1)[0]
