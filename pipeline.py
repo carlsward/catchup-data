@@ -22,8 +22,6 @@ except ImportError:
     pass
 # -----------------------------------------------------------
 
-from __future__ import annotations
-
 import time, re, feedparser, newspaper
 from typing import List, Dict
 from rank_bm25 import BM25Okapi
