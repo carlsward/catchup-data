@@ -66,37 +66,53 @@ _LANG_CODE = {
 # ---------- hjälp­funktioner -------------------------------
 
 def translate(text: str, tgt_lang: str) -> str:
-    """Översätter ENG → tgt_lang med NLLB. (Returnerar originalet om tgt_lang == 'en')."""
+    """
+    Översätter ENG → tgt_lang med NLLB-200.
+    Returnerar originalet om tgt_lang == 'en'.
+    """
     if tgt_lang == "en":
         return text
 
-    # ex. 'sv_Latn', 'de_Latn' …
-    tgt = _LANG_CODE[tgt_lang]
+    tgt = _LANG_CODE[tgt_lang]          # t.ex. 'swe_Latn'
 
-    # --- hämta språk-ID oavsett transformers-version ---------------
-    #  ◦ < 4.42  →  lang_code_to_id
-    #  ◦ ≥ 4.42  →  lang2id
-    tok_map = (
-        getattr(translator_tokenizer, "lang_code_to_id", None)
-        or getattr(translator_tokenizer, "lang2id")
-    )
-    bos_id = tok_map[tgt]
-    # ---------------------------------------------------------------
+    # -- Hitta BOS-id för målspråket ---------------------------------
+    # ① nytt API (>=4.43)  → token-sträng
+    tok_variants = [f"<<{tgt}>>", f"<2{tgt}>", f"__{tgt}__"]
+    bos_id = None
 
-    inp = translator_tokenizer(
+    for tok in tok_variants:
+        tok_id = translator_tokenizer.convert_tokens_to_ids(tok)
+        if tok_id not in (translator_tokenizer.unk_token_id, None):
+            bos_id = tok_id
+            break
+
+    # ② gammalt API (<=4.42)  → tabellerna finns kvar
+    if bos_id is None:
+        for attr in ("lang_code_to_id", "lang2id"):
+            mapping = getattr(translator_tokenizer, attr, None)
+            if mapping and tgt in mapping:
+                bos_id = mapping[tgt]
+                break
+
+    if bos_id is None:
+        raise ValueError(f"Kunde inte hitta språk-ID för {tgt}")
+    # ----------------------------------------------------------------
+
+    enc = translator_tokenizer(
         text,
         return_tensors="pt",
         truncation=True,
         padding=True,
         max_length=512,
     )
-    out_tokens = translator_model.generate(
-        **inp,
+    out = translator_model.generate(
+        **enc,
         forced_bos_token_id=bos_id,
         max_length=512,
         num_beams=4,
     )
-    return translator_tokenizer.decode(out_tokens[0], skip_special_tokens=True)
+    return translator_tokenizer.decode(out[0], skip_special_tokens=True)
+
 
 
 
