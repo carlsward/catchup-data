@@ -66,20 +66,38 @@ _LANG_CODE = {
 # ---------- hjälp­funktioner -------------------------------
 
 def translate(text: str, tgt_lang: str) -> str:
-    """Översätter ENG → tgt_lang med NLLB. (No-op om tgt=en)."""
+    """Översätter ENG → tgt_lang med NLLB. (Returnerar originalet om tgt_lang == 'en')."""
     if tgt_lang == "en":
         return text
+
+    # ex. 'sv_Latn', 'de_Latn' …
     tgt = _LANG_CODE[tgt_lang]
+
+    # --- hämta språk-ID oavsett transformers-version ---------------
+    #  ◦ < 4.42  →  lang_code_to_id
+    #  ◦ ≥ 4.42  →  lang2id
+    tok_map = (
+        getattr(translator_tokenizer, "lang_code_to_id", None)
+        or getattr(translator_tokenizer, "lang2id")
+    )
+    bos_id = tok_map[tgt]
+    # ---------------------------------------------------------------
+
     inp = translator_tokenizer(
-        text, return_tensors="pt", truncation=True, padding=True, max_length=512
+        text,
+        return_tensors="pt",
+        truncation=True,
+        padding=True,
+        max_length=512,
     )
     out_tokens = translator_model.generate(
         **inp,
-        forced_bos_token_id=translator_tokenizer.lang_code_to_id[tgt],
+        forced_bos_token_id=bos_id,
         max_length=512,
         num_beams=4,
     )
     return translator_tokenizer.decode(out_tokens[0], skip_special_tokens=True)
+
 
 
 def collect_articles(days: int = 7):
