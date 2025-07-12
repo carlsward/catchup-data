@@ -1,12 +1,22 @@
 {
   "span": "day",
   "language": "fr",
-  "generated": "2025-07-12T11:54:22+00:00",
+  "generated": "2025-07-12T16:43:25+00:00",
   "cards": [
     {
-      "title": "Deux Palestiniens tués dans une attaque de colons en Cisjordanie, selon le ministère de la Santé",
-      "summary": "Deux Palestiniens tués dans une attaque de colons en Cisjordanie, selon le ministère de la Santé.",
+      "title": "Un sac à dos allemand retrouvé après 11 nuits dans l'outback australien",
+      "summary": "Caroline Wilga, 26 ans, d'Allemagne, a été retrouvée après 11 nuits perdues dans l'outback de l'Australie occidentale. La police dit qu'elle marchait à 24 km de sa camionnette dans un état \" confus et désorienté \". Elle souffrait d'épuisement, de déshydratation, de \" piqûres d'insectes étendues \" et d'un pied blessé.",
+      "url": "https://www.bbc.com/news/articles/c17w87pv5ljo"
+    },
+    {
+      "title": "Des colons israéliens tuent des Palestiniens dans une attaque en Cisjordanie, selon le ministère de la Santé",
+      "summary": "Sayfollah Musallet, un citoyen américain doublement âgé de 20 ans originaire de Floride, a été battu à mort par des colons israéliens. Mohammed al-Shalabi, également âgé de 23 ans, est mort après avoir reçu une balle dans la poitrine, a-t-il ajouté.",
       "url": "https://www.bbc.com/news/articles/cm2mknzn99eo"
+    },
+    {
+      "title": "Le projet ferroviaire de Prague attire des critiques",
+      "summary": "Le pont ferroviaire de Vysehrad de Prague, âgé de 123 ans, doit être remplacé et relocalisé.",
+      "url": "https://www.bbc.com/news/articles/cvg8r0v05p8o"
     }
   ]
 }

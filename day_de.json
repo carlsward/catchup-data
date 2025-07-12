@@ -1,12 +1,22 @@
 {
   "span": "day",
   "language": "de",
-  "generated": "2025-07-12T11:53:27+00:00",
+  "generated": "2025-07-12T16:39:51+00:00",
   "cards": [
     {
-      "title": "Zwei Palästinenser wurden bei einem Siedlerangriff in der Westbank getötet, sagt das Gesundheitsministerium",
-      "summary": "Zwei Palästinenser wurden bei einem Angriff auf Siedler in der Westbank getötet, sagt das Gesundheitsministerium.",
+      "title": "Ein deutscher Backpacker wurde nach 11 Nächten im australischen Außenland gefunden",
+      "summary": "Carolina Wilga, 26, aus Deutschland, wurde nach 11 Nächten im Westaustraliens Outback gefunden. Die Polizei sagt, sie sei in einem \"verwirrten und desorientierten\" Zustand 24 km von ihrem Van entfernt gegangen. Sie litt an Erschöpfung, Dehydration, \"intensiven Insektenbissen\" und einem verletzten Fuß.",
+      "url": "https://www.bbc.com/news/articles/c17w87pv5ljo"
+    },
+    {
+      "title": "Israelische Siedler töten Palästinenser bei einem Angriff auf die Westbank, sagt das Gesundheitsministerium",
+      "summary": "Sayfollah Musallet, ein 20-jähriger US-Bürger aus Florida, wurde von israelischen Siedlern zu Tode geschlagen. Mohammed al-Shalabi, ebenfalls 23, starb nach einem Schuss in die Brust, fügte es hinzu.",
       "url": "https://www.bbc.com/news/articles/cm2mknzn99eo"
+    },
+    {
+      "title": "Eine Brücke ist zu weit?",
+      "summary": "Die 123-jährige Eisenbahnbrücke von Vysehrad in Prag soll ersetzt und verlegt werden.",
+      "url": "https://www.bbc.com/news/articles/cvg8r0v05p8o"
     }
   ]
 }
