@@ -47,3 +47,35 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./public
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - name: Debug NLLB tokenizer
+        run: |
+          python - <<'PY'
+          from transformers import AutoTokenizer
+          tok = AutoTokenizer.from_pretrained("facebook/nllb-200-distilled-600M")
+
+          print("\n=== DEBUG NLLB TOKENIZER ===")
+          print("Class:", tok.__class__.__name__)
+          # 1) Finns moderna get_lang_id?
+          has_get = hasattr(tok, "get_lang_id")
+          print("get_lang_id:", has_get)
+
+          # 2) Existerar mapping-tabeller?
+          for attr in ("lang_code_to_id", "lang2id"):
+              mapping = getattr(tok, attr, {})
+              print(f"{attr}: {bool(mapping)}  (#keys={len(mapping) if mapping else 0})")
+
+          # 3) Vad ger olika token-strängar?
+          for t in ("__swe_Latn__", "<<swe_Latn>>", "<2swe_Latn>"):
+              print(f"'{t}' ->", tok.convert_tokens_to_ids(t))
+
+          # 4) Språk-ID via ev. metod
+          if has_get:
+              try:
+                  print("get_lang_id('swe_Latn') ->", tok.get_lang_id("swe_Latn"))
+              except Exception as e:
+                  print("get_lang_id exception:", e)
+
+          print("=============================\n")
+          PY
