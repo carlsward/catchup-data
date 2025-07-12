@@ -78,10 +78,10 @@ translator_model = AutoModelForSeq2SeqLM.from_pretrained(
 
 def _try_get_id(tok, code: str) -> int | None:
     """
-    Returnerar språk-ID (BOS-token-id) för given språkkod eller None.
-    Fungerar mot både gamla och nya tokenizer-implementationer.
+    Returnerar BOS-ID för given språkkod eller None om det inte hittas.
+    Stöd för både äldre och nya transformer-versioner.
     """
-    # a) moderna hjälpfunktioner
+    # a) moderna hjälpfunktioner / tabeller med ID
     for attr in ("get_lang_id", "lang_code_to_id", "lang2id"):
         mapping = getattr(tok, attr, None)
         if mapping:
@@ -90,12 +90,21 @@ def _try_get_id(tok, code: str) -> int | None:
             except Exception:
                 pass
 
-    # b) konvertera välkända token-strängar manuellt
-    for pat in _TOKEN_PATTERNS:
+    # b) prova välkända token-strängar (<2xx>, __xx__, <<xx>>)
+    for pat in ("<2{code}>", "__{code}__", "<<{code}>>"):
         tid = tok.convert_tokens_to_ids(pat.format(code=code))
         if tid not in (tok.unk_token_id, None):
             return tid
+
+    # c) **NYTT** – Transformers 4.50+: lang_code_to_token → str → id
+    token_map = getattr(tok, "lang_code_to_token", None)
+    if token_map and code in token_map:
+        tid = tok.convert_tokens_to_ids(token_map[code])
+        if tid not in (tok.unk_token_id, None):
+            return tid
+
     return None
+
 
 
 def translate(text: str, tgt_lang: str) -> str:
