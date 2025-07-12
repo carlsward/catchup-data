@@ -1,11 +1,11 @@
 # -----------------------------------------------------------
-#  Catch-up  ·  Nyhetsinsamling  ·  summering  ·  översättning
+#  Catch-up  ·  nyhetsinsamling · summering · översättning
 # -----------------------------------------------------------
 #
-# 1. Hämtar artiklar från RSS-flöden (feedparser + newspaper3k)
-# 2. Väljer de mest relevanta med BM25
-# 3. Summerar (eng)   ── distilbart-cnn-6-6
-# 4. Översätter vid behov ── NLLB-200-distilled-600M
+# 1.  Hämtar artiklar från RSS-flöden (feedparser + newspaper3k)
+# 2.  Rankar med BM25 och väljer topp-N
+# 3.  Summerar på engelska    (distilbart-cnn-6-6)
+# 4.  Översätter om nödvändigt (NLLB-200-distilled-600M)
 #
 # -----------------------------------------------------------
 
@@ -13,46 +13,32 @@
 try:
     import lxml_html_clean as _hc
     import sys
-    sys.modules['lxml.html.clean'] = _hc
+    sys.modules["lxml.html.clean"] = _hc
 except ImportError:
     pass
 # -----------------------------------------------------------
 
-import feedparser, newspaper, time, re
+import time, re, feedparser, newspaper
 from rank_bm25 import BM25Okapi
-
 from transformers import (
-    pipeline   as hf_pipeline,
+    pipeline as hf_pipeline,
     AutoTokenizer,
     AutoModelForSeq2SeqLM,
 )
 
-# ----------- inställningar --------------------------------
+# -----------------------------------------------------------
+#  INSTÄLLNINGAR
+# -----------------------------------------------------------
+
 FEEDS = [
     "https://www.reuters.com/world/rss",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://www.svt.se/nyheter/rss",
 ]
 
-TARGET_LANGS = ["en", "sv", "de", "es", "fr"]
+TARGET_LANGS = ["en", "sv", "de", "es", "fr"]       # generera dessa
 
-# ---- modeller (laddas en gång vid import) -----------------
-print("Device set to use cpu")        # loggraden i Actions-runnen
-summarizer = hf_pipeline(
-    "summarization",
-    model="sshleifer/distilbart-cnn-6-6",
-    device="cpu",
-)
-
-translator_tokenizer = AutoTokenizer.from_pretrained(
-    "facebook/nllb-200-distilled-600M",
-    use_fast=False
-)
-translator_model = AutoModelForSeq2SeqLM.from_pretrained(
-    "facebook/nllb-200-distilled-600M"
-)
-
-_LANG_CODE = {
+_LANG_CODE = {      # ISO-639-3 + skript enligt NLLB
     "en": "eng_Latn",
     "sv": "swe_Latn",
     "de": "deu_Latn",
@@ -60,47 +46,70 @@ _LANG_CODE = {
     "fr": "fra_Latn",
 }
 
+# Tokensträngar som olika NLLB-/mBART-modeller kan använda
+_TOKEN_PATTERNS = [
+    "<2{code}>",     # nytt NLLB-200-format
+    "__{code}__",    # äldre fairseq-format
+    "<<{code}>>",    # äldre mBART-format
+]
+
+# -----------------------------------------------------------
+#  MODELLER – laddas en enda gång vid import
 # -----------------------------------------------------------
 
+print("Device set to use cpu")                 # → visas i GitHub Actions-loggen
 
-# ---------- hjälp­funktioner -------------------------------
+summarizer = hf_pipeline(
+    "summarization",
+    model="sshleifer/distilbart-cnn-6-6",
+    device="cpu",
+)
+
+translator_tokenizer = AutoTokenizer.from_pretrained(
+    "facebook/nllb-200-distilled-600M", use_fast=False
+)
+translator_model = AutoModelForSeq2SeqLM.from_pretrained(
+    "facebook/nllb-200-distilled-600M"
+)
+
+# -----------------------------------------------------------
+#  HJÄLPFUNKTIONER
+# -----------------------------------------------------------
+
+def _try_get_id(tok, code: str) -> int | None:
+    """
+    Returnerar språk-ID (BOS-token-id) för given språkkod eller None.
+    Fungerar mot både gamla och nya tokenizer-implementationer.
+    """
+    # a) moderna hjälpfunktioner
+    for attr in ("get_lang_id", "lang_code_to_id", "lang2id"):
+        mapping = getattr(tok, attr, None)
+        if mapping:
+            try:
+                return mapping(code) if callable(mapping) else mapping.get(code)
+            except Exception:
+                pass
+
+    # b) konvertera välkända token-strängar manuellt
+    for pat in _TOKEN_PATTERNS:
+        tid = tok.convert_tokens_to_ids(pat.format(code=code))
+        if tid not in (tok.unk_token_id, None):
+            return tid
+    return None
+
 
 def translate(text: str, tgt_lang: str) -> str:
     """
-    Översätter ENG → tgt_lang med NLLB-200.
-    Returnerar originalet om tgt_lang == 'en'.
-    Klarar samtliga aktuella transformers-versioner.
+    Översätter ENG → tgt_lang med NLLB-200 (no-op om tgt_lang == 'en').
+    Kastat ValueError om språk-ID inte hittas.
     """
     if tgt_lang == "en":
         return text
 
-    tgt = _LANG_CODE[tgt_lang]           # t.ex. 'swe_Latn'
-    bos_id = None
-
-    # ----- 1) Nyare tokenizer: special-token-strängar ----------------
-    for tok in (f"<<{tgt}>>", f"<2{tgt}>", f"__{tgt}__"):
-        tok_id = translator_tokenizer.convert_tokens_to_ids(tok)
-        if tok_id not in (translator_tokenizer.unk_token_id, None):
-            bos_id = tok_id
-            break
-
-    # ----- 2) Nyare tokenizer: .get_lang_id() ------------------------
-    if bos_id is None and hasattr(translator_tokenizer, "get_lang_id"):
-        try:
-            bos_id = translator_tokenizer.get_lang_id(tgt)
-        except KeyError:
-            pass
-
-    # ----- 3) Äldre varianter: tabell-attribut -----------------------
+    tgt_code = _LANG_CODE[tgt_lang]
+    bos_id   = _try_get_id(translator_tokenizer, tgt_code)
     if bos_id is None:
-        for attr in ("lang_code_to_id", "lang2id"):
-            mapping = getattr(translator_tokenizer, attr, None)
-            if mapping and tgt in mapping:
-                bos_id = mapping[tgt]
-                break
-
-    if bos_id is None:
-        raise ValueError(f"Kunde inte hitta språk-ID för {tgt}")
+        raise ValueError(f"Hittar inte språk-ID för {tgt_code}")
 
     enc = translator_tokenizer(
         text,
@@ -118,11 +127,8 @@ def translate(text: str, tgt_lang: str) -> str:
     return translator_tokenizer.decode(out[0], skip_special_tokens=True)
 
 
-
-
-
-def collect_articles(days: int = 7):
-    """Hämtar artiklar ≤ `days` tillbaka, returnerar lista med dictar."""
+def collect_articles(days: int = 7) -> list[dict]:
+    """Hämtar artiklar ≤ `days` tillbaka och returnerar en lista med dictar."""
     since = time.time() - days * 86_400
     docs = []
     for feed_url in FEEDS:
@@ -133,44 +139,42 @@ def collect_articles(days: int = 7):
             try:
                 art.download(); art.parse()
             except Exception:
-                continue   # hoppade över trasig artikel
+                continue           # hoppa trasig artikel
             docs.append(
-                {
-                    "title": entry.title,
-                    "text":  art.text,
-                    "url":   entry.link,
-                }
+                {"title": entry.title, "text": art.text, "url": entry.link}
             )
     return docs
 
 
-def choose_top_docs(docs, top_n=20):
-    """Rankar med BM25 (enkelt sök-query) och returnerar top_n docs."""
-    corpus = [f"{d['title']} {d['text']}" for d in docs]
-    bm25  = BM25Okapi([c.split() for c in corpus])
-    scores = bm25.get_scores(["news", "world", "sweden"])
-    ranked = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
+def choose_top_docs(docs: list[dict], top_n: int = 20) -> list[dict]:
+    """Rankar med BM25 och returnerar de top_n mest relevanta artiklarna."""
+    corpus  = [f"{d['title']} {d['text']}" for d in docs]
+    bm25    = BM25Okapi([c.split() for c in corpus])
+    scores  = bm25.get_scores(["news", "world", "sweden"])
+    ranked  = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
     return [d for _, d in ranked[:top_n]]
 
 
 def make_card(doc: dict, tgt_lang: str) -> dict:
     """Bygger ett 'kort' (rubrik + summering) på valt språk."""
-    # 1) Summera på engelska
-    short_txt = doc["text"][:2000]
+    # 1) summering på engelska
+    short_txt = doc["text"][:2_000]   # begränsa längd
     en_sum = summarizer(
         short_txt, max_length=100, min_length=30, do_sample=False
     )[0]["summary_text"].strip()
-    en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)
+    en_sum = re.sub(r"\s+([.,!?;:])", r"\1", en_sum)   # fix mellanslag
 
-    # 2) Översätt vid behov
+    # 2) översätt titel + sammanfattning vid behov
     title   = translate(doc["title"], tgt_lang)
-    summary = translate(en_sum,    tgt_lang)
+    summary = translate(en_sum,       tgt_lang)
 
     return {"title": title, "summary": summary, "url": doc["url"]}
 
-
+# -----------------------------------------------------------
+#  snabbtest: kör “python pipeline.py” lokalt för sanity-check
 # -----------------------------------------------------------
 if __name__ == "__main__":
-    # snabbtest: skriv ut en svensk sammanfattning av första Reuters-artikel
     art = collect_articles(1)[0]
-    print(make_card(art, "sv"))
+    for lang in TARGET_LANGS:
+        print(f"\n--- {lang} ---")
+        print(make_card(art, lang))
