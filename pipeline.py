@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 # -----------------------------------------------------------
 #  Catch-up  ·  nyhetsinsamling · summering · översättning
 # -----------------------------------------------------------
@@ -8,6 +10,8 @@
 # 4.  Översätter om nödvändigt (NLLB-200-distilled-600M)
 #
 # -----------------------------------------------------------
+
+
 
 # ---- shim så newspaper funkar med lxml>=5 -----------------
 try:
