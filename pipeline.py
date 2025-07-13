@@ -44,6 +44,7 @@ _LANG_CODE: Dict[str, str] = {
     "de": "deu_Latn",
     "es": "spa_Latn",
     "fr": "fra_Latn",
+    "el": "ell_Grek"
 }
 
 # -----------------------------------------------------------
