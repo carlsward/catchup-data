@@ -1,11 +1,11 @@
 {
   "span": "day",
   "language": "sv",
-  "generated": "2025-07-13T03:07:08+00:00",
+  "generated": "2025-07-13T10:35:02+00:00",
   "cards": [
     {
-      "title": "Trump säger att EU och Mexiko står inför 30% tull från augusti",
-      "summary": "Trump säger att han kommer att införa ännu högre importskatter om någon av USA:s handelspartners bestämmer sig för att hämnas. EU:s 27 medlemsländer sa tidigare i veckan att de hoppas kunna komma överens om ett avtal med Washington före den 1 augusti.",
+      "title": "EU och Mexiko kritiserar Trumps föreslagna 30%-tull",
+      "summary": "Mexiko kritiserade vad det kallade Trumps \"oärliga avtal\" och insisterade på att dess suveränitet inte var förhandlingsbar. EU:s chef Ursula von der Leyen hotade med att vidta \"proportionala motåtgärder\".",
       "url": "https://www.bbc.com/news/articles/cyvj13d9ylpo"
     },
     {
@@ -14,9 +14,9 @@
       "url": "https://www.bbc.com/news/articles/c0m8glx2zleo"
     },
     {
-      "title": "Nordkorea bekräftar sitt stöd för Rysslands krig i Ukraina",
-      "summary": "De västerländska myndigheterna tror att Pyongyang under det senaste året har skickat omkring 11 000 soldater till Ryssland för att bekämpa Ukraina.",
-      "url": "https://www.bbc.com/news/articles/czeyxrng6gro"
+      "title": "Gaza-sjukhuset säger att 24 personer dödades nära hjälpplatsen när vittnen skyller på IDF",
+      "summary": "Israeliska försvarsstyrkorna (IDF) sade att det inte fanns några kända skadade individer från IDF:s eld nära platsen.",
+      "url": "https://www.bbc.com/news/articles/cp90v2ng70yo"
     }
   ]
 }
