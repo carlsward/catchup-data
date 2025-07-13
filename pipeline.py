@@ -35,7 +35,7 @@ FEEDS: List[str] = [
     "https://www.svt.se/nyheter/rss",
 ]
 
-TARGET_LANGS: List[str] = ["en", "sv", "de", "es", "fr"]   # skapa dessa JSON‑filer
+TARGET_LANGS: List[str] = ["en", "sv", "de", "es", "fr", "el"]   # skapa dessa JSON‑filer
 
 # ISO‑639‑3 + skript enligt NLLB (behövs av translation‑pipen)
 _LANG_CODE: Dict[str, str] = {
