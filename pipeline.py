@@ -61,7 +61,7 @@ summarizer = hf_pipeline(
 
 translator = hf_pipeline(
     "translation",
-    model="facebook/nllb-200-distilled-600M",
+    model="facebook/nllb-200-1.3B",
     device="cpu",
 )
 
