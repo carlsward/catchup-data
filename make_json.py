@@ -32,9 +32,9 @@ CATEGORIES = list((pipeline.SOURCES or {}).keys()) or ["world"]
 LANGS = sorted({lg for cat in (pipeline.SOURCES or {}).values() for lg in (cat or {}).keys()}) or ["sv","en","de","es","fr","el"]
 
 SPAN_INFO = [          #  (filnamns-prefix, antal dagar, hur många kort)
-    ("day",   1,   6),
-    ("week",  7,  25),
-    ("month", 30,  40),
+    ("day",   1,   3),
+    ("week",  7,  0),
+    ("month", 30,  0),
 ]
 
 # -----------------------------------------------------------
