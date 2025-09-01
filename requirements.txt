@@ -1,11 +1,9 @@
 feedparser
 newspaper3k==0.2.8
-transformers
-torch
-rank-bm25
 lxml_html_clean==0.4.2
-sentencepiece
-transformers>=4.53
-sentencepiece   # tokenizer‐backend
-sacremoses              # bättre detokning
-accelerate              # snabbar upp inference
+rank-bm25==0.2.2
+PyYAML>=6.0
+transformers>=4.41,<5
+torch>=2.2,<3
+sentencepiece>=0.1.99
+accelerate>=0.30
