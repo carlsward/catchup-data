@@ -1,0 +1,96 @@
+{
+  "span": "month",
+  "language": "en",
+  "category": "world",
+  "generated": "2025-09-01T11:57:09+00:00",
+  "total_raw": 200,
+  "total_rank": 12,
+  "min_required": 6,
+  "fallback_used": false,
+  "cards": [
+    {
+      "title": "Putin says he reached 'understandings' with Trump over end of Ukraine war",
+      "summary": "Russian President Vladimir Putin says he reached \"understandings\" with US President Donald Trump over the end of the Ukraine war.",
+      "url": "https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-01T08:32:33Z"
+    },
+    {
+      "title": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+      "summary": "The European Commission's chief of state has landed in Bulgaria after being hit by a \"GPS jamming\".",
+      "url": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-01T11:50:09Z"
+    },
+    {
+      "title": "Mob burns Nigerian woman to death for alleged blasphemy",
+      "summary": "Police in Nigeria have condemned the killing of a woman after being accused of blasphemy.",
+      "url": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-01T10:07:09Z"
+    },
+    {
+      "title": "UN chief demands release of 11 staff arrested in Yemen",
+      "summary": "The United Nations says 11 UN workers have been arrested in Yemen during raids by security forces.",
+      "url": "https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-01T10:06:28Z"
+    },
+    {
+      "title": "Indonesia: Protests continue despite crackdown and deaths",
+      "summary": "Thousands of people have gathered outside Indonesia's parliament to express their displeasure after a week of violent protests.",
+      "url": "https://www.dw.com/en/indonesia-protests-continue-despite-crackdown-and-deaths/a-73833183?maca=en-rss-en-all-1573-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T11:49:00Z"
+    },
+    {
+      "title": "Criminal extortion cripples Cape Town's economy",
+      "summary": "South Africa's anti-extortion summit has been held in Cape Town for the first time in more than a decade.",
+      "url": "https://www.dw.com/en/criminal-extortion-cripples-cape-town-s-economy/a-73796428?maca=en-rss-en-all-1573-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T11:31:00Z"
+    },
+    {
+      "title": "Why some countries want fewer public holidays?",
+      "summary": "There is a growing debate over whether cutting public holidays could boost worker productivity.",
+      "url": "https://www.dw.com/en/why-some-countries-want-fewer-public-holidays/a-73752589?maca=en-rss-en-all-1573-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T11:15:00Z"
+    },
+    {
+      "title": "EU chief plane hit by suspected Russian GPS jamming",
+      "summary": "The European Commission has confirmed that its president's plane has landed safe in Bulgaria after a GPS malfunction.",
+      "url": "https://www.dw.com/en/eu-chief-plane-hit-by-suspected-russian-gps-jamming/a-73832942?maca=en-rss-en-all-1573-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T10:32:00Z"
+    },
+    {
+      "title": "Deadly earthquake hits Afghanistan: What we know so far",
+      "summary": "At least 812 people have died after a shallow earthquake hit the Afghan capital, Kabul.",
+      "url": "https://www.aljazeera.com/news/2025/9/1/deadly-earthquake-hits-afghanistan-what-we-know-so-far?traffic_source=rss",
+      "domain": "aljazeera.com",
+      "published": "2025-09-01T11:12:58Z"
+    },
+    {
+      "title": "UK Muslims report vandalism, attacks amid controversial flag campaign",
+      "summary": "A spate of racist graffiti has been spreading across the UK, including mosques.",
+      "url": "https://www.aljazeera.com/news/2025/9/1/uk-muslims-report-vandalism-attacks-amid-controversial-flag-campaign?traffic_source=rss",
+      "domain": "aljazeera.com",
+      "published": "2025-09-01T10:20:50Z"
+    },
+    {
+      "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
+      "summary": "The United Nations has confirmed that a missile attack on an Israeli-owned shipping tanker in the Red Sea has killed at least three crew members.",
+      "url": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss",
+      "domain": "aljazeera.com",
+      "published": "2025-09-01T10:16:52Z"
+    },
+    {
+      "title": "The Global Sumud Flotilla to Gaza: Everything you need to know",
+      "summary": "The largest maritime mission to the Gaza Strip has been called off after being forced to turn back to Tunisia.",
+      "url": "https://www.aljazeera.com/news/2025/9/1/the-global-sumud-flotilla-to-gaza-everything-you-need-to-know-2?traffic_source=rss",
+      "domain": "aljazeera.com",
+      "published": "2025-09-01T10:10:41Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "span": "day",
+  "language": "fr",
+  "category": "world",
+  "generated": "2025-09-01T11:28:24+00:00",
+  "total_raw": 32,
+  "total_rank": 3,
+  "min_required": 6,
+  "fallback_used": true,
+  "cards": [
+    {
+      "title": "Guerre en Ukraine",
+      "summary": "L’armée ukrainienne déploie massivement des véhicules terrestres sans pilote dans toutes les brigades.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/en-ukraine-l-essor-des-robots-terrestres-pour-remedier-au-manque-d-effectifs_6638027_3210.html",
+      "domain": "lemonde.fr",
+      "published": "2025-09-01T11:00:05Z"
+    },
+    {
+      "title": "L’avion d’Ursula von der Leyen victime d’un « brouillage GPS » en Bulgarie, la C…",
+      "summary": "La présidente de la Commission européenne a été victime d’un « brouillage GPS ».",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/l-avion-d-ursula-von-der-leyen-victime-d-un-brouillage-gps-a-son-arrivee-en-bulgarie-dimanche-la-commission-europeenne-accuse-la-russie_6638023_3210.html",
+      "domain": "lemonde.fr",
+      "published": "2025-09-01T10:47:25Z"
+    },
+    {
+      "title": "« Mentalité de guerre froide » et « actes d’intimidation »",
+      "summary": "Le sommet de l’Organisation de coopération de Shanghaï (OCS) à Tianjin, la capitale économique de la Chine, s’est transformé en un nouvel ordre antioccidental.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/xi-jinping-et-vladimir-poutine-attaquent-l-occident-au-sommet-de-tianjin_6638016_3210.html",
+      "domain": "lemonde.fr",
+      "published": "2025-09-01T09:22:13Z"
+    }
+  ]
+}

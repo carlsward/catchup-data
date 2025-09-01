@@ -1,0 +1,68 @@
+{
+  "span": "week",
+  "language": "es",
+  "category": "world",
+  "generated": "2025-09-01T11:41:57+00:00",
+  "total_raw": 42,
+  "total_rank": 8,
+  "min_required": 6,
+  "fallback_used": false,
+  "cards": [
+    {
+      "title": "El avión en el que viajaba Von der Leyen sufre interferencias rusas en el GPS",
+      "summary": "El avión en el que viajaba la presidenta de la Comisión Europea, Ursula von der Leyen, rumbo a Bulgaria tuvo que aterrizar de forma segura.",
+      "url": "https://elpais.com/internacional/2025-09-01/el-avion-en-el-que-viajaba-von-der-leyen-sufre-interferencias-rusas-en-el-gps.html",
+      "domain": "elpais.com",
+      "published": "2025-09-01T10:36:07Z"
+    },
+    {
+      "title": "El plan de Trump para el futuro de Gaza prevé desplazar a todos sus habitantes",
+      "summary": "La Franja de Gaza es una de las zonas más restringidas del mundo, donde se ha convertido en un centro de producción tecnológica.",
+      "url": "https://elpais.com/internacional/2025-09-01/un-plan-para-gaza-que-maneja-el-gobierno-de-trump-preve-desplazar-a-todos-sus-habitantes.html",
+      "domain": "elpais.com",
+      "published": "2025-09-01T00:23:30Z"
+    },
+    {
+      "title": "Un fuerte terremoto causa más de 800 muertos en Afganistán",
+      "summary": "Un fuerte terremoto de magnitud 6,0 ha sacudido en la noche del domingo el este de Afganistán, una de las naciones más pobres del mundo.",
+      "url": "https://elpais.com/internacional/2025-09-01/un-fuerte-terremoto-causa-cientos-de-muertos-en-el-este-de-afganistan.html",
+      "domain": "elpais.com",
+      "published": "2025-09-01T10:30:22Z"
+    },
+    {
+      "title": "China proyecta su visión alternativa del mundo frente a EE UU en una cumbre junt…",
+      "summary": "Es una de las palabras más repetidas en la historia de la diplomacia mundial: “el mundo está a punto de cambiar”.",
+      "url": "https://elpais.com/internacional/2025-09-01/china-proyecta-su-vision-alternativa-del-mundo-frente-a-ee-uu-en-una-cumbre-junto-a-modi-y-putin.html",
+      "domain": "elpais.com",
+      "published": "2025-09-01T03:30:01Z"
+    },
+    {
+      "title": "Comienza rescate masivo en Afganistán tras devastador sismo",
+      "summary": "Es una de las catástrofes más devastadoras de la historia reciente de Afganistán y, a pesar de los esfuerzos por salvar vidas, se ha convertido en una fuente de esperanza.",
+      "url": "https://www.dw.com/es/comienza-rescate-masivo-en-afganistán-tras-devastador-sismo/a-73831866?maca=spa-rss-sp-top-547-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T09:15:00Z"
+    },
+    {
+      "title": "Abren los colegios electorales para las elecciones generales de Guyana",
+      "summary": "Las elecciones generales y regionales en Guyana se celebran este lunes, en medio de la crisis política que vive el país.",
+      "url": "https://www.dw.com/es/abren-los-colegios-electorales-para-las-elecciones-generales-de-guyana/a-73832951?maca=spa-rss-sp-top-547-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T10:47:00Z"
+    },
+    {
+      "title": "Ucrania ve un “rastro ruso” en asesinato del exjefe del Parlamento",
+      "summary": "Un \"rastro ruso\" en el asesinato de un político ucraniano y un acto de homenaje al expresidente Yanukóvich.",
+      "url": "https://www.dw.com/es/ucrania-ve-un-rastro-ruso-en-asesinato-del-exjefe-del-parlamento/a-73832502?maca=spa-rss-sp-top-547-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T10:35:00Z"
+    },
+    {
+      "title": "Leverkusen destituye a Erik ten Hag tras dos fechas de Bundesliga",
+      "summary": "La destitución del entrenador del equipo de fútbol más importante de la historia ha sido calificada como \"desoladora\".",
+      "url": "https://www.dw.com/es/leverkusen-destituye-a-erik-ten-hag-tras-dos-fechas-de-bundesliga/a-73832819?maca=spa-rss-sp-top-547-rdf",
+      "domain": "dw.com",
+      "published": "2025-09-01T10:14:00Z"
+    }
+  ]
+}
