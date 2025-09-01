@@ -41,8 +41,11 @@ jobs:
       - name: Preload summarizer model
         run: |
           python - <<'PY'
-          from transformers import pipeline
-          pipeline("summarization", model="csebuetnlp/mT5_multilingual_XLSum")
+          from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+          MODEL = "csebuetnlp/mT5_multilingual_XLSum"
+          tok = AutoTokenizer.from_pretrained(MODEL, use_fast=False)
+          mdl = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
+          pipeline("summarization", model=mdl, tokenizer=tok)
           print("Models preloaded.")
           PY
 

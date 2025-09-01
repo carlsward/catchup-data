@@ -29,7 +29,8 @@ import feedparser
 import newspaper
 import yaml
 from rank_bm25 import BM25Okapi
-from transformers import pipeline as hf_pipeline
+from transformers import pipeline as hf_pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
+
 
 # -----------------------------------------------------------
 #  INSTÄLLNINGAR
@@ -95,11 +96,12 @@ def get_summarizer():
     global _summarizer
     if _summarizer is None:
         print(f"🧠 Laddar summarizer: {SUMMARIZER_MODEL}", flush=True)
-        _summarizer = hf_pipeline(
-            "summarization",
-            model=SUMMARIZER_MODEL,
-        )
+        # Undvik Fast-tokenizer (då slipper vi protobuf-kravet/problemet)
+        tok = AutoTokenizer.from_pretrained(SUMMARIZER_MODEL, use_fast=False)
+        mdl = AutoModelForSeq2SeqLM.from_pretrained(SUMMARIZER_MODEL)
+        _summarizer = hf_pipeline("summarization", model=mdl, tokenizer=tok)
     return _summarizer
+
 
 # -----------------------------------------------------------
 #  HJÄLPFUNKTIONER
