@@ -2,67 +2,67 @@
   "span": "month",
   "language": "fr",
   "category": "world",
-  "generated": "2025-09-01T12:01:38+00:00",
-  "total_raw": 29,
+  "generated": "2025-09-02T03:24:54+00:00",
+  "total_raw": 32,
   "total_rank": 8,
   "min_required": 6,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Guerre en Ukraine",
-      "summary": "L’armée ukrainienne déploie massivement des véhicules terrestres sans pilote dans toutes les brigades.",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/en-ukraine-l-essor-des-robots-terrestres-pour-remedier-au-manque-d-effectifs_6638027_3210.html",
+      "title": "Moscou est soupçonné d’avoir brouillé le signal GPS d’un avion transportant Ursu…",
+      "summary": "La présidente de la Commission européenne, Ursula von der Leyen, a été surpris du temps que leur avion s’est posé sur la terre ferme.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/02/moscou-est-soupconne-d-avoir-brouille-le-signal-gps-d-un-avion-transportant-ursula-von-der-leyen_6638085_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T11:00:05Z"
+      "published": "2025-09-02T03:15:10Z"
     },
     {
-      "title": "L’avion d’Ursula von der Leyen victime d’un « brouillage GPS » en Bulgarie, la C…",
-      "summary": "La présidente de la Commission européenne a été victime d’un « brouillage GPS ».",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/l-avion-d-ursula-von-der-leyen-victime-d-un-brouillage-gps-a-son-arrivee-en-bulgarie-dimanche-la-commission-europeenne-accuse-la-russie_6638023_3210.html",
+      "title": "Entre Xi Jinping et Vladimir Poutine, une amitié stratégique",
+      "summary": "Le président russe, Vladimir Poutine, et son homologue chinois, Xi Jinping, se réunissent mardi à Pékin.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/02/entre-xi-jinping-et-vladimir-poutine-une-amitie-strategique_6638083_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T10:47:25Z"
+      "published": "2025-09-02T03:00:20Z"
     },
     {
-      "title": "« Mentalité de guerre froide » et « actes d’intimidation »",
-      "summary": "Le sommet de l’Organisation de coopération de Shanghaï (OCS) à Tianjin, la capitale économique de la Chine, s’est transformé en un nouvel ordre antioccidental.",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/xi-jinping-et-vladimir-poutine-attaquent-l-occident-au-sommet-de-tianjin_6638016_3210.html",
+      "title": "Gavin Newsom trolle Donald Trump avec ses propres armes pour « combattre le feu…",
+      "summary": "Le gouverneur de Californie, Gavin Newsom, a été désormais le « govneur Préféré de l’Américaine » en lettres capitales sur les réseaux sociaux.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/02/gavin-newsom-trolle-donald-trump-avec-ses-propres-armes-pour-combattre-le-feu-par-le-feu_6638078_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T09:22:13Z"
+      "published": "2025-09-02T01:00:09Z"
     },
     {
-      "title": "En Afghanistan, où un séisme a fait au moins 800 morts, la crainte de nouvelles…",
-      "summary": "Le tremblement de terre qui a tué des centaines de personnes et détruit de nombreux villages dans l’est du pays, à la frontière avec le Pakistan.",
-      "url": "https://www.lemonde.fr/planete/article/2025/09/01/en-afghanistan-ou-un-seisme-a-fait-au-moins-800-morts-la-crainte-de-nouvelles-repliques_6638010_3244.html",
+      "title": "Serbie",
+      "summary": "La Serbie est secouée par un mouvement de contestation parmi les plus importants de son histoire.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/serbie-des-milliers-de-personnes-defilent-a-belgrade-pour-demander-des-elections_6638073_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T08:46:36Z"
+      "published": "2025-09-01T20:27:50Z"
     },
     {
-      "title": "L'avion d'Ursula von der Leyen victime d'un brouillage GPS en Bulgarie, la Russi…",
-      "summary": "La présidente de la Commission européenne a été victime d'un \"brouillage GPS\".",
-      "url": "https://www.france24.com/fr/info-en-continu/20250901-l-avion-de-von-der-leyen-victime-d-un-brouillage-gps-en-bulgarie-la-russie-soup%C3%A7onn%C3%A9e",
+      "title": "Soudan",
+      "summary": "Un glissement de terrain \"massif et dévastateur\" dans la région soudanaise du Darfour (ouest) a tué plus d'un millier de personne.",
+      "url": "https://www.france24.com/fr/afrique/20250902-soudan-millier-morts-glissement-terrain-tarasin-selon-groupe-arm%C3%A9-darfour-mouvement-arm%C3%A9e-lib%C3%A9ration",
       "domain": "france24.com",
-      "published": "2025-09-01T10:57:10Z"
+      "published": "2025-09-02T02:39:35Z"
     },
     {
-      "title": "France",
-      "summary": "En écoute et en télévision, l'émission 'Paroles-en' de la BBC s'est achevée vendredi.",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20250901-france-et-le-budget-dans-tout-%C3%A7a-parlons-en-avec-v-gas-t-grjebine-et-e-rivi%C3%A8re",
+      "title": "La Belgique va, elle aussi, reconnaître l'État de Palestine lors de l'AG de l'ON…",
+      "summary": "La Belgique va reconnaître l'État de Palestine lors de la session des Nations unies. Mais qu'est-ce que cela signifie?",
+      "url": "https://www.france24.com/fr/moyen-orient/20250902-belgique-reconna%C3%AEtre-%C3%A9tat-palestine-assemblee-generale-onu-septembre-france",
       "domain": "france24.com",
-      "published": "2025-09-01T10:41:39Z"
+      "published": "2025-09-02T01:46:09Z"
     },
     {
-      "title": "Les basketteurs français battus, Croft s'offre l'UTMB, Hadjar sur le podium",
-      "summary": "Les grands championnats de football africains ont été marqués par des victoires historiques, avec l'Olympique lyonnais en quarts de finale et le Maroc rejoint en tête de la Coupe d'Afrique des nations 2025.",
-      "url": "https://www.france24.com/fr/sports/20250901-les-basketteurs-fran%C3%A7ais-battus-croft-s-offre-l-utmb-hadjar-sur-le-podium-les-infos-sport-du-week-end",
+      "title": "Le Burkina Faso adopte une loi pénalisant l'homosexualité, qui devient passible…",
+      "summary": "Le Burkina Faso criminalise désormais l'homosexualité. La loi a été promulguée lundi 1er septembre.",
+      "url": "https://www.france24.com/fr/afrique/20250901-criminaliser-burkina-faso-adopte-loi-p%C3%A9nalisant-homosexualit%C3%A9-ibrahim-traore-junte-prison-expulsion-code-personnes-familles",
       "domain": "france24.com",
-      "published": "2025-09-01T10:36:17Z"
+      "published": "2025-09-01T21:51:50Z"
     },
     {
-      "title": "Présidentielle au Bénin",
-      "summary": "Romuald Wadagni a été désigné ministre de l’économie et des finances depuis neuf mois de la fin du mandat du président Patrice Talon.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20250901-pr%C3%A9sidentielle-au-b%C3%A9nin-romuald-wadagni-dauphin-de-patrice-talon",
+      "title": "RD Congo",
+      "summary": "En République démocratique du Congo, jour de rentrée scolaire pour des millions d'écoliers. Une épidémie de choléra frappe le Tchad. Plus de 1000 cas suspects ont été enregistrés et près de 80 personnes ont succombé à la maladie.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20250901-rd-congo-une-rentr%C3%A9e-des-classes-particuli%C3%A8re-%C3%A0-goma",
       "domain": "france24.com",
-      "published": "2025-09-01T10:32:46Z"
+      "published": "2025-09-01T21:01:17Z"
     }
   ]
 }

@@ -2,32 +2,32 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-01T11:29:07+00:00",
-  "total_raw": 12,
+  "generated": "2025-09-02T02:48:38+00:00",
+  "total_raw": 8,
   "total_rank": 3,
   "min_required": 6,
   "fallback_used": true,
   "cards": [
     {
-      "title": "Thunbergs konvoj vänder tillbaka",
-      "summary": "Konvover a cargo stuck i Gibraltar - en container carrying Swedish environmentalist activists, usually known as X – r ö n e g o l yd '.",
-      "url": "https://www.svt.se/nyheter/utrikes/thunbergs-konvoj-vander-tillbaka",
+      "title": "Uppmaningen i Londons tunnelbana: Använd hörlurar",
+      "summary": "Hundreds of thousands commuters i London - almost everybody across the UK – stuck behind the wheel of the railway station.",
+      "url": "https://www.svt.se/nyheter/utrikes/uppmaningen-i-londons-tunnelbana-anvand-horlurar",
       "domain": "svt.se",
-      "published": "2025-09-01T11:14:47Z"
+      "published": "2025-09-02T02:23:54Z"
     },
     {
-      "title": "Ukrainska polisen: Ryssland inblandat i mordet på toppolitiker",
-      "summary": "Ukrainas chief inspector general, Andrii Nesterenko, pekar u r y a t o s",
-      "url": "https://www.svt.se/nyheter/utrikes/ukrainska-polisen-ryssland-inblandat-i-mordet-pa-toppolitiker",
+      "title": "Över 1 000 döda i jordskred i Sudan",
+      "summary": "Sudans rebell i Darfur, a provinsi where hundreds of thousands pessoas stuck during heavy rain, har เรียกร้องn مساعدen.",
+      "url": "https://www.svt.se/nyheter/utrikes/over-1-000-doda-i-jordskred-i-sudan",
       "domain": "svt.se",
-      "published": "2025-09-01T08:57:13Z"
+      "published": "2025-09-02T01:24:51Z"
     },
     {
-      "title": "Kraftig ökning av ny drog i Finland: ”Du blir helt galen",
-      "summary": "Ta  drogs i Finland - opioids, amphetamines and drugs – sydd increasingly under wraps.",
-      "url": "https://www.svt.se/nyheter/utrikes/kraftig-okning-av-ny-drog-i-finland-du-blir-helt-galen",
+      "title": "Forskargrupp anklagar Israel för folkmord i Gaza",
+      "summary": "En resolution i Geneva calling for Israels actions to be referred to as ’fundamentally motivated crimes’ submitted to the Human Rights Watch (HRW).",
+      "url": "https://www.svt.se/nyheter/utrikes/forskargrupp-anklagar-israel-for-folkmord-i-gaza",
       "domain": "svt.se",
-      "published": "2025-09-01T04:07:10Z"
+      "published": "2025-09-01T16:26:04Z"
     }
   ]
 }

@@ -2,32 +2,32 @@
   "span": "day",
   "language": "fr",
   "category": "world",
-  "generated": "2025-09-01T11:28:24+00:00",
-  "total_raw": 32,
+  "generated": "2025-09-02T02:48:00+00:00",
+  "total_raw": 33,
   "total_rank": 3,
   "min_required": 6,
   "fallback_used": true,
   "cards": [
     {
-      "title": "Guerre en Ukraine",
-      "summary": "L’armée ukrainienne déploie massivement des véhicules terrestres sans pilote dans toutes les brigades.",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/en-ukraine-l-essor-des-robots-terrestres-pour-remedier-au-manque-d-effectifs_6638027_3210.html",
+      "title": "Gavin Newsom trolle Donald Trump avec ses propres armes pour « combattre le feu…",
+      "summary": "Le gouverneur de Californie, Gavin Newsom, a été désormais le « govneur Préféré de l’Américaine » en lettres capitales sur les réseaux sociaux.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/02/gavin-newsom-trolle-donald-trump-avec-ses-propres-armes-pour-combattre-le-feu-par-le-feu_6638078_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T11:00:05Z"
+      "published": "2025-09-02T01:00:09Z"
     },
     {
-      "title": "L’avion d’Ursula von der Leyen victime d’un « brouillage GPS » en Bulgarie, la C…",
-      "summary": "La présidente de la Commission européenne a été victime d’un « brouillage GPS ».",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/l-avion-d-ursula-von-der-leyen-victime-d-un-brouillage-gps-a-son-arrivee-en-bulgarie-dimanche-la-commission-europeenne-accuse-la-russie_6638023_3210.html",
+      "title": "Serbie",
+      "summary": "La Serbie est secouée par un mouvement de contestation parmi les plus importants de son histoire.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/serbie-des-milliers-de-personnes-defilent-a-belgrade-pour-demander-des-elections_6638073_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T10:47:25Z"
+      "published": "2025-09-01T20:27:50Z"
     },
     {
-      "title": "« Mentalité de guerre froide » et « actes d’intimidation »",
-      "summary": "Le sommet de l’Organisation de coopération de Shanghaï (OCS) à Tianjin, la capitale économique de la Chine, s’est transformé en un nouvel ordre antioccidental.",
-      "url": "https://www.lemonde.fr/international/article/2025/09/01/xi-jinping-et-vladimir-poutine-attaquent-l-occident-au-sommet-de-tianjin_6638016_3210.html",
+      "title": "Le Royaume-Uni suspend le regroupement familial pour les réfugiés",
+      "summary": "La ministre britannique de l’intérieur a déclaré lundi à la Chambre des communes qu’elle présenterait une réforme du système d’immigration familiale.",
+      "url": "https://www.lemonde.fr/international/article/2025/09/01/le-royaume-uni-suspend-le-regroupement-familial-pour-les-refugies_6638072_3210.html",
       "domain": "lemonde.fr",
-      "published": "2025-09-01T09:22:13Z"
+      "published": "2025-09-01T20:17:35Z"
     }
   ]
 }
