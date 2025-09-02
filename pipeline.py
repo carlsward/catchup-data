@@ -1,112 +1,123 @@
 from __future__ import annotations
 
 # -----------------------------------------------------------
-#  CatchUp · nyhetsinsamling · ranking · summering (utan MT)
+#  CatchUp · insamling · ranking · språkvis summering
 # -----------------------------------------------------------
-# - Hämtar artiklar från RSS-flöden per (kategori, språk)
+# - Hämtar artiklar från RSS per (kategori, språk) ur sources.yaml
 # - Rankar med BM25 + recency + källdiversitet
-# - Summerar på källspråk med flerspråkig summarizer (mT5/XLSum)
-# - Export sker från make_json.py
+# - Summerar på KÄLLSPRÅKET (ingen MT) med språk-specifika modeller:
+#     sv: Gabriel/bart-base-cnn-swe
+#     en: facebook/bart-large-cnn
+#     de: Shahm/bart-german
+#     fr: moussaKam/barthez-orangesum-abstract
+#     es: Narrativa/bsc_roberta2roberta_shared-mlsum-summarization
+#     el: IMISLab/GreekT5-umt5-base-greeksum
+# - Om ett språk saknar modell: fallback = ta de första meningarna ur texten
 # -----------------------------------------------------------
 
 # ---- shim så newspaper funkar med lxml>=5 -----------------
 try:
     import lxml_html_clean as _hc
-    import sys
-    sys.modules["lxml.html.clean"] = _hc
-except ImportError:
+    import sys as _sys
+    _sys.modules["lxml.html.clean"] = _hc
+except Exception:
     pass
 # -----------------------------------------------------------
 
 import math
 import time
-import json
 import re
 from typing import List, Dict, Optional
 from pathlib import Path
 from urllib.parse import urlparse
+
 import feedparser
 import newspaper
 import yaml
 from rank_bm25 import BM25Okapi
-from transformers import pipeline as hf_pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
+from transformers import (
+    pipeline as hf_pipeline,
+    AutoTokenizer,
+    AutoModelForSeq2SeqLM,
+)
 
+# Trafilatura (renare extraktion). Faller tillbaka till newspaper3k om saknas.
+try:
+    import trafilatura  # type: ignore
+except Exception:
+    trafilatura = None
 
 # -----------------------------------------------------------
 #  INSTÄLLNINGAR
 # -----------------------------------------------------------
 
-# Om du inte har sources.yaml används en tom fallback (ger tomma resultat).
-SOURCES_PATH = Path("sources.yaml")
+SOURCES_PATH = Path("sources.yaml")  # läses i repo-roten
 
-# Minimikrav per vy; om färre hittas markeras fallback_used i JSON.
-MIN_REQUIRED = 6
-
-# Hur mycket vi hämtar/rankar innan topp-N (per språk/kategori)
-RAW_LIMIT = 200
-MAX_PER_DOMAIN = 4
-MIN_TEXT_CHARS = 400
-
-# Hämtning
-USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) CatchUpBot/1.0"
+# Beta/tuning
+MIN_REQUIRED = 3         # min kort per vy innan 'fallback_used' markeras
+RAW_LIMIT = 60           # hur många råa artiklar som max hämtas per (cat,lang)
+MAX_PER_DOMAIN = 4       # diversitet: max kort per domän
+MIN_TEXT_CHARS = 400     # släng tunn/tom text
 REQUEST_TIMEOUT = 10
-REQUEST_DELAY = 0.2  # artighet mellan sidladdningar (sek)
+REQUEST_DELAY = 0        # 0 under beta
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) CatchUpBot/1.0"
 
-# Summarizer (flerspråkig)
-SUMMARIZER_MODEL = "csebuetnlp/mT5_multilingual_XLSum"
-
-# -----------------------------------------------------------
-#  KÄLLLADDNING
+# Sammanfattning
+SUMMARY_SENTENCES = 3    # klipp till ~3 meningar
 # -----------------------------------------------------------
 
 def load_sources() -> Dict[str, Dict[str, List[str]]]:
-    """
-    Läser sources.yaml med struktur:
-      category:
-        lang:
-          - https://.../rss
-    """
     if SOURCES_PATH.exists():
         with open(SOURCES_PATH, "r", encoding="utf-8") as f:
             data = yaml.safe_load(f) or {}
         if not isinstance(data, dict):
-            print("⚠️  sources.yaml är ogiltig – förväntade en mapping.")
+            print("⚠️  sources.yaml ogiltig (måste vara mapping).")
             return {}
         return data
-    print("ℹ️  Hittade ingen sources.yaml – kör med tomma källor.")
+    print("ℹ️  Ingen sources.yaml hittad – tomma källor.")
     return {}
 
 SOURCES = load_sources()
 
-# -----------------------------------------------------------
-#  NEWSPAPER KONFIG
-# -----------------------------------------------------------
-
+# Newspaper-konfig
 NP_CFG = newspaper.Config()
 NP_CFG.browser_user_agent = USER_AGENT
 NP_CFG.request_timeout = REQUEST_TIMEOUT
 
-# -----------------------------------------------------------
-#  MODELL (lazy-load)
-# -----------------------------------------------------------
+# ------------------ Språk → modell -------------------------
+#  Kvalitet före hastighet, kör lokalt utan API-nycklar.
+SUM_MODELS = {
+    "sv": "Gabriel/bart-base-cnn-swe",                                # svensk nyhets-BART
+    "en": "facebook/bart-large-cnn",                                   # eng. nyhets-BART (large)
+    "de": "Shahm/bart-german",                                         # tysk BART (MLSUM)
+    "fr": "moussaKam/barthez-orangesum-abstract",                      # fransk BARThez (OrangeSum)
+    "es": "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization",  # spansk RoBERTa2RoBERTa (MLSUM)
+    "el": "IMISLab/GreekT5-umt5-base-greeksum",                        # grekisk mT5 (GreekSum)
+}
 
-_summarizer = None
+_summarizers: Dict[str, any] = {}
 
-def get_summarizer():
-    global _summarizer
-    if _summarizer is None:
-        print(f"🧠 Laddar summarizer: {SUMMARIZER_MODEL}", flush=True)
-        # Undvik Fast-tokenizer (då slipper vi protobuf-kravet/problemet)
-        tok = AutoTokenizer.from_pretrained(SUMMARIZER_MODEL, use_fast=False)
-        mdl = AutoModelForSeq2SeqLM.from_pretrained(SUMMARIZER_MODEL)
-        _summarizer = hf_pipeline("summarization", model=mdl, tokenizer=tok)
-    return _summarizer
+def _load_sum_model(model_name: str):
+    tok = AutoTokenizer.from_pretrained(model_name, use_fast=False)
+    try:
+        mdl = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+    except Exception:
+        # vissa modeller är sparade som EncoderDecoderModel (t.ex. *2* shared-modeller)
+        from transformers import EncoderDecoderModel
+        mdl = EncoderDecoderModel.from_pretrained(model_name)
+    return hf_pipeline("summarization", model=mdl, tokenizer=tok)
 
+def get_summarizer_for(lang: str):
+    if lang in _summarizers:
+        return _summarizers[lang]
+    model = SUM_MODELS.get(lang)
+    if not model:
+        return None
+    print(f"🧠 Laddar summarizer för {lang}: {model}", flush=True)
+    _summarizers[lang] = _load_sum_model(model)
+    return _summarizers[lang]
 
-# -----------------------------------------------------------
-#  HJÄLPFUNKTIONER
-# -----------------------------------------------------------
-
+# ------------------ Hjälp & textstäd ----------------------
 def _epoch_from_entry(e) -> Optional[float]:
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(e, attr, None)
@@ -133,17 +144,50 @@ def _shorten_title(title: str, max_len: int = 80) -> str:
     t = (title or "").strip(" \"'\u2019\u201c\u201d")
     parts = re.split(r"\s+[–\-:]\s+", t, maxsplit=1)
     t = parts[0]
-    if len(t) > max_len:
-        t = t[:max_len].rstrip() + "…"
-    return t
+    return (t[:max_len].rstrip() + "…") if len(t) > max_len else t
 
 _TOKEN_RE = re.compile(r"\w+", flags=re.UNICODE)
 def _tok(s: str) -> List[str]:
     return [m.group(0).lower() for m in _TOKEN_RE.finditer(s or "")]
 
-# -----------------------------------------------------------
-#  INSAMLING
-# -----------------------------------------------------------
+_LATIN = "A-Za-zÅÄÖåäöÉÈÊËÂÀÁÍÌÎÏÓÒÔÖÚÙÛÜÑÇß"
+def _collapse_spaced_words(s: str) -> str:
+    # slå ihop "a n i g ü r e l o s t" → "anigürelost"
+    return re.sub(
+        rf"(?:(?<=\b)[{_LATIN}]{{1}}\s+){{3,}}[{_LATIN}]{{1}}(?=\b)",
+        lambda m: m.group(0).replace(" ", ""),
+        s,
+    )
+
+def clean_text(s: str) -> str:
+    s = (s or "").replace("\u00AD", "")        # mjukt bindestreck
+    s = re.sub(r"\s+", " ", s)
+    s = _collapse_spaced_words(s)
+    return s.strip()
+
+# inkluderar grekiskt ';' (frågetecken)
+_SENT_SPLIT = re.compile(r'(?<=[\.\!\?…]|[;])\s+')
+
+def first_n_sentences(text: str, n: int = SUMMARY_SENTENCES) -> str:
+    parts = [p.strip(' "\'–-') for p in _SENT_SPLIT.split(text)]
+    parts = [p for p in parts if p]
+    return " ".join(parts[:n])
+
+def postprocess_summary(s: str) -> str:
+    s = _collapse_spaced_words(s)
+    s = re.sub(r"\s+([.,!?;:])", r"\1", s)
+    return s.strip()
+
+# ------------------ Insamling ------------------------------
+def _extract_text_with_trafilatura(url: str, html: Optional[str]) -> str:
+    if trafilatura is None:
+        return ""
+    try:
+        if html:
+            return trafilatura.extract(html, include_comments=False) or ""
+    except Exception:
+        return ""
+    return ""
 
 def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
     urls = (SOURCES.get(category, {}) or {}).get(lang, []) or []
@@ -151,23 +195,22 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
         print(f"⚠️  Inga källor för {category}/{lang}.")
         return []
     since = time.time() - days * 86_400
-    seen_urls = set()
-    docs: List[Dict] = []
+    seen = set()
+    out: List[Dict] = []
 
     for feed_url in urls:
         try:
             feed = feedparser.parse(feed_url)
-        except Exception as ex:
-            print(f"⚠️  Misslyckades läsa feed: {feed_url} ({ex})")
+        except Exception:
             continue
 
-        for entry in getattr(feed, "entries", []):
-            ts = _epoch_from_entry(entry)
+        for e in getattr(feed, "entries", []):
+            ts = _epoch_from_entry(e)
             if ts and ts < since:
                 continue
-            url = getattr(entry, "link", None)
-            title = getattr(entry, "title", "") or ""
-            if not url or url in seen_urls:
+            url = getattr(e, "link", None)
+            title = getattr(e, "title", "") or ""
+            if not url or url in seen:
                 continue
 
             art = newspaper.Article(url, config=NP_CFG)
@@ -175,15 +218,15 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
                 art.download()
                 art.parse()
             except Exception:
-                # hoppa över artikeln men fortsätt
                 continue
 
-            text = (art.text or "").strip()
+            text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
+            text = clean_text(text)
             if len(text) < MIN_TEXT_CHARS:
                 continue
 
-            seen_urls.add(url)
-            docs.append({
+            seen.add(url)
+            out.append({
                 "title": title,
                 "text": text,
                 "url": url,
@@ -193,36 +236,29 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
                 "category": category,
             })
 
-            if REQUEST_DELAY > 0:
+            if REQUEST_DELAY:
                 time.sleep(REQUEST_DELAY)
-
-            if len(docs) >= RAW_LIMIT:
+            if len(out) >= RAW_LIMIT:
                 break
-        if len(docs) >= RAW_LIMIT:
+        if len(out) >= RAW_LIMIT:
             break
 
-    print(f"✅ Insamlat {len(docs)} artiklar för {category}/{lang}")
-    return docs
+    print(f"✅ Insamlat {len(out)} artiklar för {category}/{lang}")
+    return out
 
-# -----------------------------------------------------------
-#  RANKNING
-# -----------------------------------------------------------
-
+# ------------------ Rankning -------------------------------
 def choose_top_docs(docs: List[Dict], top_n: int) -> List[Dict]:
     if not docs:
         return []
 
     corpus_tokens = [_tok(f"{d['title']} {d['text']}") for d in docs]
     bm25 = BM25Okapi(corpus_tokens)
-    # Neutral query → täckningsmått; komplettera med recency + diversitet
-    scores = bm25.get_scores([])
+    scores = bm25.get_scores([])  # neutral query
 
     now = time.time()
-    per_domain = {}
-    scored = []
-
-    # Sortera först på BM25, använd sedan bonusar
+    per_domain: Dict[str, int] = {}
     prelim = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
+    picked: List[Dict] = []
 
     for s, d in prelim:
         dom = d.get("domain", "")
@@ -234,31 +270,38 @@ def choose_top_docs(docs: List[Dict], top_n: int) -> List[Dict]:
             age_days = max(1.0, (now - d["published"]) / 86400.0)
             rec = 1.0 / math.sqrt(age_days)
 
-        total = float(s) + 0.2 * rec
-        scored.append((total, d))
+        d["_score"] = float(s) + 0.2 * rec
         per_domain[dom] = per_domain.get(dom, 0) + 1
-
-        if top_n > 0 and len(scored) >= top_n:
+        picked.append(d)
+        if top_n > 0 and len(picked) >= top_n:
             break
 
-    scored.sort(key=lambda x: x[0], reverse=True)
-    return [d for _, d in scored]
+    picked.sort(key=lambda x: x.get("_score", 0.0), reverse=True)
+    return picked
 
-# -----------------------------------------------------------
-#  SUMMERING & KORT
-# -----------------------------------------------------------
+# ------------------ Summering & kort -----------------------
+def summarize_for_lang(text: str, lang: str) -> str:
+    txt = clean_text(text)[:4000]
+    summ = get_summarizer_for(lang)
+    if summ is not None:
+        out = summ(
+            txt,
+            max_length=220,   # lite längre → bättre innehåll
+            min_length=90,
+            do_sample=False,
+            num_beams=4
+        )
+        return first_n_sentences(postprocess_summary(out[0]["summary_text"]), SUMMARY_SENTENCES)
 
-def summarize(text: str) -> str:
-    s = get_summarizer()
-    out = s(text[:4000], max_length=90, min_length=25, do_sample=False)
-    summary = (out[0]["summary_text"] or "").strip()
-    # snygga till mellanslag före skiljetecken
-    summary = re.sub(r"\s+([.,!?;:])", r"\1", summary)
-    return summary
+    # Om språket saknar modell: enkel fallback (ingen översättning)
+    return first_n_sentences(txt, SUMMARY_SENTENCES)
+
+def summarize(text: str, lang: str) -> str:
+    return summarize_for_lang(text, lang)
 
 def make_card(doc: Dict) -> Dict:
     title = _shorten_title(doc["title"])
-    summary = summarize(doc["text"])
+    summary = summarize(doc["text"], doc.get("language", "en"))
     return {
         "title": title,
         "summary": summary,
@@ -267,15 +310,14 @@ def make_card(doc: Dict) -> Dict:
         "published": _iso_utc_from_epoch(doc.get("published")),
     }
 
-# -----------------------------------------------------------
-#  Snabbtest:  python pipeline.py
-# -----------------------------------------------------------
+# ------------------ Snabbtest ------------------------------
 if __name__ == "__main__":
-    # Exempel: world/sv senaste 1 dygn
+    # Exempel: world/sv (24h, top 3) – för snabb röktest lokalt
     cat, lang, days = "world", "sv", 1
     raw = collect_articles(cat, lang, days)
-    top = choose_top_docs(raw, top_n=6)
-    print(f"Top {len(top)}")
+    top = choose_top_docs(raw, top_n=3)
     for d in top:
         c = make_card(d)
-        print(c["title"], "—", c["domain"])
+        print("—", c["title"], f"({c['domain']})")
+        print(c["summary"])
+        print()

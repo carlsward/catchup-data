@@ -1,9 +1,8 @@
 name: Nightly JSON build
 
-# 03:00 i Stockholm = 01:00 UTC
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 1 * * *'   # 01:00 UTC = 03:00 Stockholm
   workflow_dispatch:
 
 jobs:
@@ -24,10 +23,10 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: DEBUG – visa requirements.txt
+      - name: Show requirements.txt
         run: cat requirements.txt
 
-      - name: Cache HF models
+      - name: Cache Hugging Face models
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
@@ -38,19 +37,40 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Preload summarizer model
+      - name: Preload summarization models
         run: |
           python - <<'PY'
           from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
-          MODEL = "csebuetnlp/mT5_multilingual_XLSum"
-          tok = AutoTokenizer.from_pretrained(MODEL, use_fast=False)
-          mdl = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
-          pipeline("summarization", model=mdl, tokenizer=tok)
-          print("Models preloaded.")
+          from transformers import EncoderDecoderModel
+
+          MODELS = [
+            "Gabriel/bart-base-cnn-swe",                               # sv
+            "facebook/bart-large-cnn",                                  # en
+            "Shahm/bart-german",                                        # de
+            "moussaKam/barthez-orangesum-abstract",                     # fr
+            "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization", # es
+            "IMISLab/GreekT5-umt5-base-greeksum",                       # el
+          ]
+
+          def preload(m):
+            tok = AutoTokenizer.from_pretrained(m, use_fast=False)
+            try:
+              mdl = AutoModelForSeq2SeqLM.from_pretrained(m)
+            except Exception:
+              mdl = EncoderDecoderModel.from_pretrained(m)
+            pipeline("summarization", model=mdl, tokenizer=tok)
+            print("preloaded:", m)
+
+          for m in MODELS:
+            preload(m)
           PY
 
-      - name: Run pipeline & export JSON
-        run: python make_json.py
+      # Beta-läge: bygg bara 3 kort från senaste 24h
+      - name: Run pipeline & export JSON (beta)
+        run: TOPN=3 DAYS=1 python make_json.py
+
+      - name: List built files
+        run: ls -lh public | sed -n '1,200p'
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

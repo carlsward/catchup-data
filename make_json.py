@@ -1,12 +1,14 @@
 from __future__ import annotations
 
 """
-Genererar JSON-filer (kategori × (day|week|month) × språk) till `public/`.
+Genererar JSON-filer (kategori × span × språk) till `public/`.
 
-Körs nattligen av GitHub Actions, men kan även köras lokalt:
+Kör lokalt:
     python make_json.py
+Eller i GitHub Actions (se build.yml).
 """
 
+import os
 import json
 import sys
 import traceback
@@ -15,11 +17,10 @@ from pathlib import Path
 
 import pipeline
 
-# ------------------ OUTPUTMAPP -----------------------------
+# ------------------ OUTPUT -------------------------------
 OUTDIR = Path("public")
 OUTDIR.mkdir(exist_ok=True)
 
-# ------------------ HJÄLP -------------------------------
 def write_json(path: Path, obj) -> None:
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -27,20 +28,30 @@ def utc_now_iso() -> str:
     return dt.datetime.now(tz=dt.timezone.utc).replace(microsecond=0).isoformat()
 
 # ------------------ KONFIG -------------------------------
-# Justera efter dina källor (sources.yaml)
+# Hämtas från sources.yaml. Fallback om filen är tom.
 CATEGORIES = list((pipeline.SOURCES or {}).keys()) or ["world"]
-LANGS = sorted({lg for cat in (pipeline.SOURCES or {}).values() for lg in (cat or {}).keys()}) or ["sv","en","de","es","fr","el"]
+LANGS = sorted({lg for cat in (pipeline.SOURCES or {}).values() for lg in (cat or {}).keys()}) or ["sv","en","de","fr","es","el"]
 
-SPAN_INFO = [          #  (filnamns-prefix, antal dagar, hur många kort)
-    ("day",   1,   3),
-    ("week",  7,  0),
-    ("month", 30,  0),
+# Standard: beta-körning → bara 24h och 3 kort
+SPAN_INFO = [
+    ("day",   1, 3),
+    # ("week",  7, 25),
+    # ("month", 30, 40),
 ]
 
-# -----------------------------------------------------------
-#                       HUVUDSLINGA
-# -----------------------------------------------------------
+# Miljövariabler för snabb test utan kodändring
+TOPN = os.getenv("TOPN")
+DAYS = os.getenv("DAYS")
+if TOPN or DAYS:
+    topn = int(TOPN or 3)
+    days = int(DAYS or 1)
+    SPAN_INFO = [("day", days, topn)]
+
+# ------------------ HUVUDSLINGA --------------------------
 for span, days, topn in SPAN_INFO:
+    if topn <= 0:
+        print(f"⏭️  Skippar {span} (top_n={topn})")
+        continue
     print(f"\n=== {span.upper()}  ({days} dygn, top {topn}) ===", flush=True)
 
     for category in CATEGORIES:
@@ -53,7 +64,7 @@ for span, days, topn in SPAN_INFO:
 
             fallback_used = len(docs_rank) < pipeline.MIN_REQUIRED
 
-            # 2) bygg kort med tydlig progress-logg
+            # 2) bygg kort
             cards = []
             for idx, doc in enumerate(docs_rank, 1):
                 title_preview = (doc.get("title","")[:60]).replace("\n", " ")
@@ -61,22 +72,31 @@ for span, days, topn in SPAN_INFO:
                 try:
                     cards.append(pipeline.make_card(doc))
                 except Exception as exc:
-                    # logga och fortsätt – enstaka fel får inte döda hela jobben
                     print(f"⚠️  Skippades p.g.a. fel: {exc}", file=sys.stderr, flush=True)
                     traceback.print_exc()
 
-            # 3) skriv ut JSON-filen
+            # 3) skriv ut
             payload = {
-                "span":       span,
-                "language":   lang,
-                "category":   category,
-                "generated":  utc_now_iso(),
-                "total_raw":  len(docs_raw),
-                "total_rank": len(docs_rank),
-                "min_required": pipeline.MIN_REQUIRED,
+                "span":          span,
+                "language":      lang,
+                "category":      category,
+                "generated":     utc_now_iso(),
+                "total_raw":     len(docs_raw),
+                "total_rank":    len(docs_rank),
+                "min_required":  pipeline.MIN_REQUIRED,
                 "fallback_used": fallback_used,
-                "cards":      cards,
+                "cards":         cards,
             }
             fname = OUTDIR / f"{category}_{span}_{lang}.json"
             write_json(fname, payload)
             print(f"✅ {fname}", flush=True)
+
+# (Valfritt) index för klienter
+index = {
+    "categories": CATEGORIES,
+    "languages": LANGS,
+    "spans": [s for s,_,_ in SPAN_INFO if _ > 0],
+    "generated": utc_now_iso(),
+}
+write_json(OUTDIR / "index.json", index)
+print("✅ public/index.json", flush=True)
