@@ -1,49 +1,28 @@
-# sources.yaml
-# Struktur: category -> language -> list of RSS feeds
-# Börja litet och stabilt. Fyll på senare.
-
 world:
   sv:
-    # SVT: alla nyheter (blandat; bra som baseline)
-    - https://www.svt.se/nyheter/rss
-    # SVT: Utrikes/Världen (kan heta "varlden" eller "utrikes" beroende på feed; funkar i många miljöer)
     - https://www.svt.se/nyheter/varlden/rss.xml
-
+    - https://www.svd.se/nyheter/utrikes?output=rss
+    - https://feeds.expressen.se/nyheter/utrikes
   en:
     - https://feeds.bbci.co.uk/news/world/rss.xml
     - https://www.reuters.com/world/rss
-    - https://rss.dw.com/rdf/rss-en-all
     - https://www.aljazeera.com/xml/rss/all.xml
-
   de:
-    # Tagesschau – alla rubriker
-    - https://www.tagesschau.de/index~rss2.xml
-    - https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml
-    # DW Deutsch – alla
-    - https://rss.dw.com/rdf/rss-de-all
-    # ZEIT – (generellt flöde, kan ge bra täckning)
-    - https://newsfeed.zeit.de/index
-
+    - https://www.tagesschau.de/ausland/index~rss2.xml
+    - https://newsfeed.zeit.de/politik/ausland
+    - https://www.faz.net/rss/aktuell/politik/ausland/
+    - https://www.sueddeutsche.de/contentexport/feed/politik-ausland
+    - https://rss.dw.com/rdf/rss-de-welt
   es:
     - https://elpais.com/rss/internacional/portada.xml
-    - https://rss.dw.com/rdf/rss-sp-top
-    # RTVE (generellt nyhetsflöde)
-    - https://www.rtve.es/rss/noticias.xml
-
+    - https://www.elmundo.es/rss/internacional.xml
+    - https://www.abc.es/rss/feeds/abc_Internacional.xml
   fr:
-    # Le Monde – International (sektionens RSS)
     - https://www.lemonde.fr/international/rss_full.xml
-    # France 24 – Monde
-    - https://www.france24.com/fr/monde/rss
-    # RFI (allmänt flöde)
-    - https://www.rfi.fr/fr/flux-rss
-
+    - https://www.francetvinfo.fr/monde.rss
+    - https://www.rfi.fr/fr/monde/rss
+    - https://www.lefigaro.fr/rss/figaro_international.xml
   el:
-    # Kathimerini – Κόσμος (vanligt WordPress-mönster)
     - https://www.kathimerini.gr/world/feed/
-    # To Vima – Διεθνή
-    - https://www.tovima.gr/category/world/feed/
-    # Ta Nea – Διεθνή
     - https://www.tanea.gr/category/world/feed/
-    # SKAI – nyhets-RSS (översiktssida har RSS-länkar; vissa läsare accepterar direkt)
-    - https://www.skai.gr/news/rss
+    - https://www.tovima.gr/category/world/feed/
