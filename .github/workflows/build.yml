@@ -28,9 +28,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Beta: bygg bara 3 kort / 24h och släpp modeller mellan språk
-      - name: Run pipeline & export JSON (beta)
-        run: TOPN=3 DAYS=1 KEEP_MODELS_LOADED=0 python make_json.py
+      - name: Run pipeline & export JSON
+        run: KEEP_MODELS_LOADED=0 python make_json.py
+
 
       - name: List built files
         run: ls -lh public | sed -n '1,200p'
