@@ -2,11 +2,13 @@ world:
   sv:
     - https://www.svt.se/nyheter/varlden/rss.xml
     - https://www.svd.se/nyheter/utrikes?output=rss
+    - https://www.dn.se/rss/utrikes/
     - https://feeds.expressen.se/nyheter/utrikes
   en:
     - https://feeds.bbci.co.uk/news/world/rss.xml
     - https://www.reuters.com/world/rss
-    - https://www.aljazeera.com/xml/rss/all.xml
+    - https://www.theguardian.com/world/rss
+    - https://www.euronews.com/rss?level=theme&name=news&theme=world
   de:
     - https://www.tagesschau.de/ausland/index~rss2.xml
     - https://newsfeed.zeit.de/politik/ausland

@@ -2,17 +2,9 @@ from __future__ import annotations
 
 # -----------------------------------------------------------
 #  CatchUp · insamling · ranking · språkvis summering
-# -----------------------------------------------------------
-# - Hämtar artiklar från RSS per (kategori, språk) ur sources.yaml
-# - Rankar med BM25 + recency + källdiversitet
-# - Summerar på KÄLLSPRÅKET (ingen MT) med språk-specifika modeller:
-#     sv: Gabriel/bart-base-cnn-swe
-#     en: facebook/bart-large-cnn
-#     de: Shahm/bart-german
-#     fr: moussaKam/barthez-orangesum-abstract
-#     es: Narrativa/bsc_roberta2roberta_shared-mlsum-summarization
-#     el: IMISLab/GreekT5-umt5-base-greeksum
-# - Om ett språk saknar modell: fallback = ta de första meningarna ur texten
+#  A: språkdetektion in/ut, robust decoding, städning
+#  C: ämnes-diversitet (MMR-light) + span-baserad recency
+#  D: snål minnesprofil – unload summarizers per språk
 # -----------------------------------------------------------
 
 # ---- shim så newspaper funkar med lxml>=5 -----------------
@@ -24,10 +16,11 @@ except Exception:
     pass
 # -----------------------------------------------------------
 
+import gc
 import math
 import time
 import re
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple, Any
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -41,68 +34,71 @@ from transformers import (
     AutoModelForSeq2SeqLM,
 )
 
-# Trafilatura (renare extraktion). Faller tillbaka till newspaper3k om saknas.
 try:
     import trafilatura  # type: ignore
 except Exception:
     trafilatura = None
 
+from langdetect import detect_langs, DetectorFactory
+DetectorFactory.seed = 0
+
 # -----------------------------------------------------------
 #  INSTÄLLNINGAR
 # -----------------------------------------------------------
 
-SOURCES_PATH = Path("sources.yaml")  # läses i repo-roten
+SOURCES_PATH = Path("sources.yaml")  # repo-rot
 
-# Beta/tuning
-MIN_REQUIRED = 3         # min kort per vy innan 'fallback_used' markeras
-RAW_LIMIT = 60           # hur många råa artiklar som max hämtas per (cat,lang)
-MAX_PER_DOMAIN = 4       # diversitet: max kort per domän
-MIN_TEXT_CHARS = 400     # släng tunn/tom text
+MIN_REQUIRED = 3
+RAW_LIMIT = 60
+MAX_PER_DOMAIN = 4
+MIN_TEXT_CHARS = 400
 REQUEST_TIMEOUT = 10
-REQUEST_DELAY = 0        # 0 under beta
+REQUEST_DELAY = 0
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) CatchUpBot/1.0"
 
-# Sammanfattning
-SUMMARY_SENTENCES = 3    # klipp till ~3 meningar
-# -----------------------------------------------------------
+SUMMARY_SENTENCES = 3
+LANG_OK_PROB = 0.65
+
+# C: recency/diversitet
+RECENCY_WEIGHT = {"day": 0.35, "week": 0.15, "month": 0.05, "_default": 0.20}
+DIVERSITY_LAMBDA = 0.60
+TITLE_DUP_JACCARD = 0.80
 
 def load_sources() -> Dict[str, Dict[str, List[str]]]:
     if SOURCES_PATH.exists():
         with open(SOURCES_PATH, "r", encoding="utf-8") as f:
             data = yaml.safe_load(f) or {}
-        if not isinstance(data, dict):
-            print("⚠️  sources.yaml ogiltig (måste vara mapping).")
-            return {}
-        return data
-    print("ℹ️  Ingen sources.yaml hittad – tomma källor.")
+        return data if isinstance(data, dict) else {}
     return {}
 
 SOURCES = load_sources()
 
-# Newspaper-konfig
 NP_CFG = newspaper.Config()
 NP_CFG.browser_user_agent = USER_AGENT
 NP_CFG.request_timeout = REQUEST_TIMEOUT
 
 # ------------------ Språk → modell -------------------------
-#  Kvalitet före hastighet, kör lokalt utan API-nycklar.
 SUM_MODELS = {
-    "sv": "Gabriel/bart-base-cnn-swe",                                # svensk nyhets-BART
-    "en": "facebook/bart-large-cnn",                                   # eng. nyhets-BART (large)
-    "de": "Shahm/bart-german",                                         # tysk BART (MLSUM)
-    "fr": "moussaKam/barthez-orangesum-abstract",                      # fransk BARThez (OrangeSum)
-    "es": "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization",  # spansk RoBERTa2RoBERTa (MLSUM)
-    "el": "IMISLab/GreekT5-umt5-base-greeksum",                        # grekisk mT5 (GreekSum)
+    "sv": "Gabriel/bart-base-cnn-swe",
+    "en": "facebook/bart-large-cnn",
+    "de": "Shahm/bart-german",
+    "fr": "moussaKam/barthez-orangesum-abstract",
+    "es": "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization",
+    "el": "IMISLab/GreekT5-umt5-base-greeksum",
 }
 
-_summarizers: Dict[str, any] = {}
+DECODING = {
+    "_default": dict(max_length=220, min_length=90, num_beams=6,
+                     do_sample=False, no_repeat_ngram_size=3, length_penalty=1.0),
+}
+
+_summarizers: Dict[str, Any] = {}
 
 def _load_sum_model(model_name: str):
     tok = AutoTokenizer.from_pretrained(model_name, use_fast=False)
     try:
         mdl = AutoModelForSeq2SeqLM.from_pretrained(model_name)
     except Exception:
-        # vissa modeller är sparade som EncoderDecoderModel (t.ex. *2* shared-modeller)
         from transformers import EncoderDecoderModel
         mdl = EncoderDecoderModel.from_pretrained(model_name)
     return hf_pipeline("summarization", model=mdl, tokenizer=tok)
@@ -117,21 +113,46 @@ def get_summarizer_for(lang: str):
     _summarizers[lang] = _load_sum_model(model)
     return _summarizers[lang]
 
+def unload_summarizer(lang: str) -> None:
+    """Frigör minne efter att ett språk batchats klart (D)."""
+    try:
+        if lang in _summarizers:
+            obj = _summarizers.pop(lang)
+            del obj
+            gc.collect()
+            try:
+                import torch
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+            except Exception:
+                pass
+            print(f"🧹 Unloaded summarizer for {lang}", flush=True)
+    except Exception:
+        pass
+
+# ------------------ Hjälp: språkdetektion -----------------
+def detect_lang_code(text: str) -> tuple[str | None, float]:
+    s = (text or "").strip()
+    if not s:
+        return None, 0.0
+    try:
+        cand = detect_langs(s[:2000])
+        best = max(cand, key=lambda x: x.prob)
+        return best.lang, float(best.prob)
+    except Exception:
+        return None, 0.0
+
 # ------------------ Hjälp & textstäd ----------------------
 def _epoch_from_entry(e) -> Optional[float]:
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(e, attr, None)
         if t:
-            try:
-                return time.mktime(t)
-            except Exception:
-                return None
+            try: return time.mktime(t)
+            except Exception: return None
     return None
 
 def _iso_utc_from_epoch(ts: Optional[float]) -> Optional[str]:
-    if ts is None:
-        return None
-    return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(ts))
+    return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(ts)) if ts else None
 
 def _domain(url: str) -> str:
     try:
@@ -152,20 +173,31 @@ def _tok(s: str) -> List[str]:
 
 _LATIN = "A-Za-zÅÄÖåäöÉÈÊËÂÀÁÍÌÎÏÓÒÔÖÚÙÛÜÑÇß"
 def _collapse_spaced_words(s: str) -> str:
-    # slå ihop "a n i g ü r e l o s t" → "anigürelost"
     return re.sub(
         rf"(?:(?<=\b)[{_LATIN}]{{1}}\s+){{3,}}[{_LATIN}]{{1}}(?=\b)",
         lambda m: m.group(0).replace(" ", ""),
         s,
     )
 
+_BLOCK_PATTERNS = [
+    r"(?mi)^\s*(bbc monitoring|reuters|ap|afp)\s*[-–:]\s*",
+    r"(?mi)^\s*(läs mer|läs också|read more|weiterlesen|lire aussi|leer más)\s*:.*?$",
+    r"(?mi)^\s*(share this|related articles?|advertisement|annons).*?$",
+    r"(?mi)\(\s*report(ing|ed) by .*?\)",
+]
+
+def _scrub_noise(s: str) -> str:
+    for pat in _BLOCK_PATTERNS:
+        s = re.sub(pat, "", s)
+    return s
+
 def clean_text(s: str) -> str:
-    s = (s or "").replace("\u00AD", "")        # mjukt bindestreck
+    s = (s or "").replace("\u00AD", "")
+    s = _scrub_noise(s)
     s = re.sub(r"\s+", " ", s)
     s = _collapse_spaced_words(s)
     return s.strip()
 
-# inkluderar grekiskt ';' (frågetecken)
 _SENT_SPLIT = re.compile(r'(?<=[\.\!\?…]|[;])\s+')
 
 def first_n_sentences(text: str, n: int = SUMMARY_SENTENCES) -> str:
@@ -215,14 +247,17 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
 
             art = newspaper.Article(url, config=NP_CFG)
             try:
-                art.download()
-                art.parse()
+                art.download(); art.parse()
             except Exception:
                 continue
 
             text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
             text = clean_text(text)
             if len(text) < MIN_TEXT_CHARS:
+                continue
+
+            det_lang, prob = detect_lang_code(text)
+            if det_lang != lang or prob < LANG_OK_PROB:
                 continue
 
             seen.add(url)
@@ -246,58 +281,144 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
     print(f"✅ Insamlat {len(out)} artiklar för {category}/{lang}")
     return out
 
-# ------------------ Rankning -------------------------------
-def choose_top_docs(docs: List[Dict], top_n: int) -> List[Dict]:
-    if not docs:
+# ------------------ Diversitets-hjälp ----------------------
+_STOPWORDS = {
+    "en": {"the","a","an","of","and","to","in","on","for","with","by","at","from","as","that","this","is","are","be","was","were"},
+    "sv": {"en","ett","och","att","som","för","med","till","på","av","är","var","från","om","i"},
+    "de": {"der","die","das","und","zu","im","in","auf","für","mit","von","als","ist","sind","war"},
+    "fr": {"le","la","les","des","de","du","et","à","au","aux","en","pour","avec","par","est","sont"},
+    "es": {"el","la","los","las","de","del","y","a","en","para","con","por","es","son","un","una"},
+    "el": {"και","σε","του","της","το","η","τα","των","με","για","στο","στη","στις","ενώ","είναι"},
+}
+
+def _norm_tokens(text: str, lang: str) -> set:
+    toks = [t for t in _tok(text) if len(t) >= 3 and not t.isdigit()]
+    sw = _STOPWORDS.get(lang, set())
+    return set(t for t in toks if t not in sw)
+
+def _title_tokens(title: str, lang: str) -> set:
+    t = re.sub(r"[^\w\s]", " ", title.lower())
+    return _norm_tokens(t, lang)
+
+def _jaccard(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    inter = len(a & b)
+    return 0.0 if inter == 0 else inter / float(len(a | b))
+
+# ------------------ Rankning (MMR-light) -------------------
+def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dict]:
+    if not docs or top_n == 0:
         return []
 
     corpus_tokens = [_tok(f"{d['title']} {d['text']}") for d in docs]
     bm25 = BM25Okapi(corpus_tokens)
-    scores = bm25.get_scores([])  # neutral query
+    bm25_scores = bm25.get_scores([])
 
     now = time.time()
-    per_domain: Dict[str, int] = {}
-    prelim = sorted(zip(scores, docs), key=lambda x: x[0], reverse=True)
-    picked: List[Dict] = []
-
-    for s, d in prelim:
-        dom = d.get("domain", "")
-        if per_domain.get(dom, 0) >= MAX_PER_DOMAIN:
-            continue
-
+    rw = RECENCY_WEIGHT.get(span, RECENCY_WEIGHT["_default"])
+    items: List[Dict[str, Any]] = []
+    for s, d in zip(bm25_scores, docs):
         rec = 0.0
         if d.get("published"):
             age_days = max(1.0, (now - d["published"]) / 86400.0)
             rec = 1.0 / math.sqrt(age_days)
+        base = float(s) + rw * rec
 
-        d["_score"] = float(s) + 0.2 * rec
-        per_domain[dom] = per_domain.get(dom, 0) + 1
-        picked.append(d)
-        if top_n > 0 and len(picked) >= top_n:
+        lang = d.get("language", "en")
+        t_tokens = _title_tokens(d.get("title",""), lang)
+        x_tokens = _norm_tokens(d.get("text","")[:1000], lang)
+        items.append({
+            "doc": d,
+            "base": base,
+            "domain": d.get("domain",""),
+            "title_tokens": t_tokens,
+            "text_tokens": x_tokens,
+        })
+
+    per_domain: Dict[str, int] = {}
+    selected: List[Dict] = []
+    candidates = sorted(items, key=lambda z: z["base"], reverse=True)
+
+    while candidates and len(selected) < top_n:
+        best_idx = -1
+        best_score = -1e9
+        for i, it in enumerate(candidates):
+            dom = it["domain"]
+            if per_domain.get(dom, 0) >= MAX_PER_DOMAIN:
+                continue
+
+            max_sim = 0.0
+            title_dup = False
+            for s in selected:
+                sim_title = _jaccard(it["title_tokens"], s["title_tokens"])
+                if sim_title >= TITLE_DUP_JACCARD:
+                    title_dup = True
+                    break
+                sim_text = _jaccard(it["text_tokens"], s["text_tokens"])
+                if sim_text > max_sim:
+                    max_sim = sim_text
+            if title_dup:
+                continue
+
+            mmr = it["base"] - DIVERSITY_LAMBDA * max_sim
+            if mmr > best_score:
+                best_score = mmr
+                best_idx = i
+
+        if best_idx < 0:
             break
 
-    picked.sort(key=lambda x: x.get("_score", 0.0), reverse=True)
-    return picked
+        chosen = candidates.pop(best_idx)
+        d = chosen["doc"]
+        per_domain[chosen["domain"]] = per_domain.get(chosen["domain"], 0) + 1
+        selected.append({
+            "title_tokens": chosen["title_tokens"],
+            "text_tokens": chosen["text_tokens"],
+            "doc": d,
+            "_score": chosen["base"],
+        })
+
+    return [s["doc"] for s in selected]
 
 # ------------------ Summering & kort -----------------------
+def _decoding_for(lang: str) -> Dict:
+    cfg = DECODING.get(lang, {})
+    base = DECODING["_default"].copy()
+    base.update(cfg)
+    return base
+
 def summarize_for_lang(text: str, lang: str) -> str:
     txt = clean_text(text)[:4000]
     summ = get_summarizer_for(lang)
-    if summ is not None:
-        out = summ(
-            txt,
-            max_length=220,   # lite längre → bättre innehåll
-            min_length=90,
-            do_sample=False,
-            num_beams=4
-        )
-        return first_n_sentences(postprocess_summary(out[0]["summary_text"]), SUMMARY_SENTENCES)
+    if summ is None:
+        return first_n_sentences(txt, SUMMARY_SENTENCES)
 
-    # Om språket saknar modell: enkel fallback (ingen översättning)
-    return first_n_sentences(txt, SUMMARY_SENTENCES)
+    kwargs = _decoding_for(lang)
+    out = summ(txt, **kwargs)
+    summ_text = postprocess_summary(out[0]["summary_text"])
+    s_lang, s_prob = detect_lang_code(summ_text)
+
+    if s_lang != lang or s_prob < 0.50:
+        strict = kwargs.copy()
+        strict["num_beams"] = max(6, kwargs.get("num_beams", 6) + 2)
+        strict["no_repeat_ngram_size"] = max(4, kwargs.get("no_repeat_ngram_size", 3) + 1)
+        strict["max_length"] = int(kwargs.get("max_length", 220) * 0.9)
+        out2 = summ(txt, **strict)
+        summ_text2 = postprocess_summary(out2[0]["summary_text"])
+        s2, p2 = detect_lang_code(summ_text2)
+        if s2 == lang and p2 >= 0.50:
+            summ_text = summ_text2
+        else:
+            summ_text = first_n_sentences(txt, SUMMARY_SENTENCES)
+
+    return first_n_sentences(summ_text, SUMMARY_SENTENCES)
 
 def summarize(text: str, lang: str) -> str:
-    return summarize_for_lang(text, lang)
+    try:
+        return summarize_for_lang(text, lang)
+    except Exception:
+        return first_n_sentences(clean_text(text), SUMMARY_SENTENCES)
 
 def make_card(doc: Dict) -> Dict:
     title = _shorten_title(doc["title"])
@@ -312,12 +433,9 @@ def make_card(doc: Dict) -> Dict:
 
 # ------------------ Snabbtest ------------------------------
 if __name__ == "__main__":
-    # Exempel: world/sv (24h, top 3) – för snabb röktest lokalt
     cat, lang, days = "world", "sv", 1
     raw = collect_articles(cat, lang, days)
-    top = choose_top_docs(raw, top_n=3)
+    top = choose_top_docs(raw, top_n=3, span="day")
     for d in top:
         c = make_card(d)
-        print("—", c["title"], f"({c['domain']})")
-        print(c["summary"])
-        print()
+        print("—", c["title"], f"({c['domain']})"); print(c["summary"]); print()

@@ -2,7 +2,7 @@ name: Nightly JSON build
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 01:00 UTC = 03:00 Stockholm
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -37,20 +37,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Preload summarization models
+      - name: Preload ONLY used summarization models
         run: |
           python - <<'PY'
           from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
           from transformers import EncoderDecoderModel
+          import pipeline as pl
 
-          MODELS = [
-            "Gabriel/bart-base-cnn-swe",                               # sv
-            "facebook/bart-large-cnn",                                  # en
-            "Shahm/bart-german",                                        # de
-            "moussaKam/barthez-orangesum-abstract",                     # fr
-            "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization", # es
-            "IMISLab/GreekT5-umt5-base-greeksum",                       # el
-          ]
+          # Hämta språk från sources.yaml
+          langs = sorted({lg for cat in (pl.SOURCES or {}).values() for lg in (cat or {}).keys()})
+          models = []
+          for lg in langs:
+            m = pl.SUM_MODELS.get(lg)
+            if m: models.append(m)
+          # Fallback om sources.yaml är tom → ladda inget onödigt
+          if not models:
+            print("No models to preload (sources.yaml empty?)")
+          models = list(dict.fromkeys(models))  # unika
 
           def preload(m):
             tok = AutoTokenizer.from_pretrained(m, use_fast=False)
@@ -61,13 +64,13 @@ jobs:
             pipeline("summarization", model=mdl, tokenizer=tok)
             print("preloaded:", m)
 
-          for m in MODELS:
+          for m in models:
             preload(m)
           PY
 
-      # Beta-läge: bygg bara 3 kort från senaste 24h
+      # Beta: bygg bara 3 kort / 24h, och släpp modeller efter varje språk
       - name: Run pipeline & export JSON (beta)
-        run: TOPN=3 DAYS=1 python make_json.py
+        run: TOPN=3 DAYS=1 KEEP_MODELS_LOADED=0 python make_json.py
 
       - name: List built files
         run: ls -lh public | sed -n '1,200p'
