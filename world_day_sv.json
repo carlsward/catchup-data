@@ -2,32 +2,32 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-02T02:48:38+00:00",
+  "generated": "2025-09-03T23:12:17+00:00",
   "total_raw": 8,
   "total_rank": 3,
-  "min_required": 6,
-  "fallback_used": true,
+  "min_required": 3,
+  "fallback_used": false,
   "cards": [
     {
-      "title": "Uppmaningen i Londons tunnelbana: Använd hörlurar",
-      "summary": "Hundreds of thousands commuters i London - almost everybody across the UK – stuck behind the wheel of the railway station.",
-      "url": "https://www.svt.se/nyheter/utrikes/uppmaningen-i-londons-tunnelbana-anvand-horlurar",
+      "title": "Minst 15 döda när bergbana spårade ur i Portugal",
+      "summary": "Olyckan inträffade mellan stadsdelarna Restauradores och Príncipe Real. Ett omfattande räddningsarbete har pågått under kvällen och minst 15 personer har bekräftats döda. Ytterligare 18 personer har skadats, varav fem allvarligt, enligt CNN Portugal.",
+      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
       "domain": "svt.se",
-      "published": "2025-09-02T02:23:54Z"
+      "published": "2025-09-03T18:14:03Z"
     },
     {
-      "title": "Över 1 000 döda i jordskred i Sudan",
-      "summary": "Sudans rebell i Darfur, a provinsi where hundreds of thousands pessoas stuck during heavy rain, har เรียกร้องn مساعدen.",
-      "url": "https://www.svt.se/nyheter/utrikes/over-1-000-doda-i-jordskred-i-sudan",
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
       "domain": "svt.se",
-      "published": "2025-09-02T01:24:51Z"
+      "published": "2025-09-03T03:14:04Z"
     },
     {
-      "title": "Forskargrupp anklagar Israel för folkmord i Gaza",
-      "summary": "En resolution i Geneva calling for Israels actions to be referred to as ’fundamentally motivated crimes’ submitted to the Human Rights Watch (HRW).",
-      "url": "https://www.svt.se/nyheter/utrikes/forskargrupp-anklagar-israel-for-folkmord-i-gaza",
+      "title": "USA sänder en tydlig signal",
+      "summary": "Under tisdagen attackerade USA en båt från Venezuela, som de hävdar användes för narkotikasmuggling. Elva personer dog. Den amerikanske presidenten Donald Trump har i ett inlägg på sociala medieplattformen Truth social lagt upp bilder som påstås visa den dödliga attacken.",
+      "url": "https://www.svt.se/nyheter/utrikes/usa-sander-en-tydlig-signal-nu-galler-nya-spelregler",
       "domain": "svt.se",
-      "published": "2025-09-01T16:26:04Z"
+      "published": "2025-09-03T10:57:46Z"
     }
   ]
 }
