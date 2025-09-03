@@ -83,7 +83,7 @@ SUM_MODELS = {
     "en": "facebook/bart-large-cnn",
     "de": "Shahm/bart-german",
     "fr": "moussaKam/barthez-orangesum-abstract",
-    "es": "Narrativa/bsc_roberta2roberta_shared-mlsum-summarization",
+    "es": "Narrativa/bsc_roberta2roberta_shared-spanish-finetuned-mlsum-summarization",
     "el": "IMISLab/GreekT5-umt5-base-greeksum",
 }
 
