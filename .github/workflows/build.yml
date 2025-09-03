@@ -23,52 +23,12 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Show requirements.txt
-        run: cat requirements.txt
-
-      - name: Cache Hugging Face models
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/huggingface
-          key: ${{ runner.os }}-hf-${{ hashFiles('requirements.txt') }}
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Preload ONLY used summarization models
-        run: |
-          python - <<'PY'
-          from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
-          from transformers import EncoderDecoderModel
-          import pipeline as pl
-
-          # Hämta språk från sources.yaml
-          langs = sorted({lg for cat in (pl.SOURCES or {}).values() for lg in (cat or {}).keys()})
-          models = []
-          for lg in langs:
-            m = pl.SUM_MODELS.get(lg)
-            if m: models.append(m)
-          # Fallback om sources.yaml är tom → ladda inget onödigt
-          if not models:
-            print("No models to preload (sources.yaml empty?)")
-          models = list(dict.fromkeys(models))  # unika
-
-          def preload(m):
-            tok = AutoTokenizer.from_pretrained(m, use_fast=False)
-            try:
-              mdl = AutoModelForSeq2SeqLM.from_pretrained(m)
-            except Exception:
-              mdl = EncoderDecoderModel.from_pretrained(m)
-            pipeline("summarization", model=mdl, tokenizer=tok)
-            print("preloaded:", m)
-
-          for m in models:
-            preload(m)
-          PY
-
-      # Beta: bygg bara 3 kort / 24h, och släpp modeller efter varje språk
+      # Beta: bygg bara 3 kort / 24h och släpp modeller mellan språk
       - name: Run pipeline & export JSON (beta)
         run: TOPN=3 DAYS=1 KEEP_MODELS_LOADED=0 python make_json.py
 

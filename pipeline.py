@@ -5,6 +5,7 @@ from __future__ import annotations
 #  A: språkdetektion in/ut, robust decoding, städning
 #  C: ämnes-diversitet (MMR-light) + span-baserad recency
 #  D: snål minnesprofil – unload summarizers per språk
+#  **Denna version är reducerad till EN + SV.**
 # -----------------------------------------------------------
 
 # ---- shim så newspaper funkar med lxml>=5 -----------------
@@ -20,7 +21,7 @@ import gc
 import math
 import time
 import re
-from typing import List, Dict, Optional, Tuple, Any
+from typing import List, Dict, Optional, Any
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -34,11 +35,13 @@ from transformers import (
     AutoModelForSeq2SeqLM,
 )
 
+# Trafilatura för renare extraktion (fallback till newspaper3k om den saknas)
 try:
     import trafilatura  # type: ignore
 except Exception:
     trafilatura = None
 
+# Språkdetektion (deterministisk)
 from langdetect import detect_langs, DetectorFactory
 DetectorFactory.seed = 0
 
@@ -77,14 +80,10 @@ NP_CFG = newspaper.Config()
 NP_CFG.browser_user_agent = USER_AGENT
 NP_CFG.request_timeout = REQUEST_TIMEOUT
 
-# ------------------ Språk → modell -------------------------
+# ------------------ Språk → modell (endast sv/en) ----------
 SUM_MODELS = {
     "sv": "Gabriel/bart-base-cnn-swe",
     "en": "facebook/bart-large-cnn",
-    "de": "Shahm/bart-german",
-    "fr": "moussaKam/barthez-orangesum-abstract",
-    "es": "Narrativa/bsc_roberta2roberta_shared-spanish-finetuned-mlsum-summarization",
-    "el": "IMISLab/GreekT5-umt5-base-greeksum",
 }
 
 DECODING = {
@@ -136,7 +135,7 @@ def detect_lang_code(text: str) -> tuple[str | None, float]:
     if not s:
         return None, 0.0
     try:
-        cand = detect_langs(s[:2000])
+        cand = detect_langs(s[:2000])  # klipp för hastighet
         best = max(cand, key=lambda x: x.prob)
         return best.lang, float(best.prob)
     except Exception:
@@ -147,8 +146,10 @@ def _epoch_from_entry(e) -> Optional[float]:
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(e, attr, None)
         if t:
-            try: return time.mktime(t)
-            except Exception: return None
+            try:
+                return time.mktime(t)
+            except Exception:
+                return None
     return None
 
 def _iso_utc_from_epoch(ts: Optional[float]) -> Optional[str]:
@@ -173,6 +174,7 @@ def _tok(s: str) -> List[str]:
 
 _LATIN = "A-Za-zÅÄÖåäöÉÈÊËÂÀÁÍÌÎÏÓÒÔÖÚÙÛÜÑÇß"
 def _collapse_spaced_words(s: str) -> str:
+    # slå ihop "a n i g ü r e l o s t" → "anigürelost"
     return re.sub(
         rf"(?:(?<=\b)[{_LATIN}]{{1}}\s+){{3,}}[{_LATIN}]{{1}}(?=\b)",
         lambda m: m.group(0).replace(" ", ""),
@@ -198,6 +200,7 @@ def clean_text(s: str) -> str:
     s = _collapse_spaced_words(s)
     return s.strip()
 
+# inkluderar grekiskt ';' (frågetecken) – ofarligt att ha kvar
 _SENT_SPLIT = re.compile(r'(?<=[\.\!\?…]|[;])\s+')
 
 def first_n_sentences(text: str, n: int = SUMMARY_SENTENCES) -> str:
@@ -285,10 +288,6 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
 _STOPWORDS = {
     "en": {"the","a","an","of","and","to","in","on","for","with","by","at","from","as","that","this","is","are","be","was","were"},
     "sv": {"en","ett","och","att","som","för","med","till","på","av","är","var","från","om","i"},
-    "de": {"der","die","das","und","zu","im","in","auf","für","mit","von","als","ist","sind","war"},
-    "fr": {"le","la","les","des","de","du","et","à","au","aux","en","pour","avec","par","est","sont"},
-    "es": {"el","la","los","las","de","del","y","a","en","para","con","por","es","son","un","una"},
-    "el": {"και","σε","του","της","το","η","τα","των","με","για","στο","στη","στις","ενώ","είναι"},
 }
 
 def _norm_tokens(text: str, lang: str) -> set:
@@ -438,4 +437,6 @@ if __name__ == "__main__":
     top = choose_top_docs(raw, top_n=3, span="day")
     for d in top:
         c = make_card(d)
-        print("—", c["title"], f"({c['domain']})"); print(c["summary"]); print()
+        print("—", c["title"], f"({c['domain']})")
+        print(c["summary"])
+        print()
