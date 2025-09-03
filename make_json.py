@@ -15,7 +15,11 @@ def utc_now_iso() -> str:
 CATEGORIES = list((pipeline.SOURCES or {}).keys()) or ["world"]
 LANGS = sorted({lg for cat in (pipeline.SOURCES or {}).values() for lg in (cat or {}).keys()}) or ["sv","en","de","fr","es","el"]
 
-SPAN_INFO = [("day", 1, 3)]
+SPAN_INFO = [
+    ("day",   1,  3),   # 24 h: 6 kort
+    ("week",  7, 3),   # 7 dygn: 20 kort
+    ("month", 30, 3),  # 30 dygn: 30 kort
+]
 TOPN = os.getenv("TOPN"); DAYS = os.getenv("DAYS")
 if TOPN or DAYS:
     SPAN_INFO = [("day", int(DAYS or 1), int(TOPN or 3))]
