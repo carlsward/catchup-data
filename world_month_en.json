@@ -2,32 +2,32 @@
   "span": "month",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-04T00:03:30+00:00",
-  "total_raw": 60,
+  "generated": "2025-09-04T00:31:04+00:00",
+  "total_raw": 89,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Hot mic catches Putin and Xi discussing organ transplants and immortality",
-      "summary": "Vladimir Putin was in Beijing with Chinese leader Xi Jinping for a military parade. State media aired live footage that captured parts of what appeared to be a private conversation. Putin’s interpreter could be heard saying in Chinese: “Biotechnology is continuously developing” After a brief inaudible passage, the interpreter added: ‘The longer you live, the younger you become, and [you can] even achieve immortality’",
-      "url": "https://www.theguardian.com/world/2025/sep/03/hot-mic-catches-vladimir-putin-xi-jinping-discussing-organ-transplants-immortality",
+      "title": "At least 15 people killed after funicular railway in Lisbon derails",
+      "summary": "At least 15 people killed after Lisbon's Gloria funicular railway car derailed. At least 18 people, including a child, were injured, five of them seriously. Authorities said some foreign nationals were among the dead but would not identify the victims or disclose their nationalities.",
+      "url": "https://www.theguardian.com/world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash",
       "domain": "theguardian.com",
-      "published": "2025-09-03T16:21:25Z"
+      "published": "2025-09-03T23:30:07Z"
     },
     {
-      "title": "What we know about fatal Lisbon funicular derailment",
-      "summary": "Crash occurred at around 18:05 on Wednesday, near Lisbon's Avenida da Liberdade. At least 15 people have been killed and 18 more injured, some critically. It is not yet clear what caused the carriage to derail.",
-      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Hot mic catches Xi and Putin discussing organ transplants and immortality",
+      "summary": "Hot mic catches Xi and Putin discussing organ transplants and immortality. Putin suggested even eternal life could be achievable as a result of innovations in biotechnology. The unguarded moment was captured on a livestream carried by Chinese state TV as the two leaders walked together through China's historic Tiananmen Square.",
+      "url": "https://www.bbc.com/news/articles/cr70rvrd41ko?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T21:33:06Z"
+      "published": "2025-09-03T16:51:50Z"
     },
     {
-      "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree dea…",
-      "summary": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal. Russia launched a full-scale invasion of its neighbour in February 2022. Russia will not relinquish the Donbas region of eastern Ukraine his troops have seized.",
-      "url": "https://www.bbc.com/news/articles/c4g7dze5n1vo?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein accusers say they are compiling list of his associates",
+      "summary": "Nine female Epstein accusers spoke at a Capitol rally on Wednesday. They say they are compiling a list of Epstein associates who they say were involved in abuse. The event was organised by US lawmakers who are calling for more files to be released.",
+      "url": "https://www.bbc.com/news/articles/c5yvpgyjed8o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T20:15:02Z"
+      "published": "2025-09-04T00:06:43Z"
     }
   ]
 }
