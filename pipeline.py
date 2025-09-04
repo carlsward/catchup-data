@@ -241,11 +241,14 @@ def _extract_text_with_trafilatura(url: str, html: Optional[str]) -> str:
         return ""
     return ""
 
-def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
+def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | None = None) -> List[Dict]:
+    """Hämtar artiklar ≤ `days` bakåt. `raw_limit` kan öka/minska max antal råa."""
     urls = (SOURCES.get(category, {}) or {}).get(lang, []) or []
     if not urls:
         print(f"⚠️  Inga källor för {category}/{lang}.")
         return []
+
+    limit = raw_limit or RAW_LIMIT
     since = time.time() - days * 86_400
     seen = set()
     out: List[Dict] = []
@@ -293,13 +296,14 @@ def collect_articles(category: str, lang: str, days: int = 7) -> List[Dict]:
 
             if REQUEST_DELAY:
                 time.sleep(REQUEST_DELAY)
-            if len(out) >= RAW_LIMIT:
+            if len(out) >= limit:
                 break
-        if len(out) >= RAW_LIMIT:
+        if len(out) >= limit:
             break
 
     print(f"✅ Insamlat {len(out)} artiklar för {category}/{lang}")
     return out
+
 
 # ------------------ Diversitets-hjälp ----------------------
 _STOPWORDS = {
@@ -323,14 +327,26 @@ def _jaccard(a: set, b: set) -> float:
     return 0.0 if inter == 0 else inter / float(len(a | b))
 
 # ------------------ Rankning -------------------------------
-def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dict]:
+def choose_top_docs(
+    docs: List[Dict],
+    top_n: int,
+    span: str = "day",
+    exclude_urls: set[str] | None = None
+) -> List[Dict]:
     """
-    day  : hybrid (lite recency + diversitet, MMR-light)
+    day  : hybrid (recency + diversitet, MMR-light)
     week : viktighet via story-kluster (recency≈0)
     month: viktighet via story-kluster (recency≈0)
+    `exclude_urls` – hoppa över redan valda artiklar (för dedupe mellan spann).
     """
     if not docs or top_n == 0:
         return []
+
+    # Dedupe mot tidigare spann
+    if exclude_urls:
+        docs = [d for d in docs if d.get("url") not in exclude_urls]
+        if not docs:
+            return []
 
     # Förbered tokenisering & BM25
     corpus_tokens = [_tok(f"{d['title']} {d['text']}") for d in docs]
@@ -404,7 +420,6 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
         return [s["doc"] for s in selected]
 
     # ---- Week/Month: story-klustring = viktighet ----
-    # 1) Klustra artiklar i stories
     clusters: List[Dict[str, Any]] = []  # {"members": [item,...], "domains": set()}
     for it in items:
         placed = False
@@ -421,14 +436,13 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
         if not placed:
             clusters.append({"members": [it], "domains": {it["domain"]}})
 
-    # 2) Ranka kluster efter viktighet
+    # Ranka kluster
     cluster_ranks: List[tuple[float, Dict[str, Any]]] = []
     for cl in clusters:
         mem = cl["members"]
         n = len(mem)
         uniq_dom = len(cl["domains"])
 
-        # centralitet: medel av "bästa likhet" per artikel mot klustret
         sims = []
         for i, a in enumerate(mem):
             best = 0.0
@@ -444,7 +458,6 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
 
     cluster_ranks.sort(key=lambda t: t[0], reverse=True)
 
-    # 3) Välj bästa representant per kluster
     picked_docs: List[Dict] = []
     per_domain: Dict[str, int] = {}
 
@@ -466,7 +479,6 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
 
         dom = best_rep["domain"]
         if per_domain.get(dom, 0) >= MAX_PER_DOMAIN:
-            # försök hitta alternativ källa i samma kluster
             alt = None
             for it in sorted(cl["members"], key=lambda z: z["bm25"], reverse=True):
                 if per_domain.get(it["domain"], 0) < MAX_PER_DOMAIN:
@@ -480,7 +492,6 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
         picked_docs.append(best_rep["doc"])
         per_domain[dom] = per_domain.get(dom, 0) + 1
 
-    # 4) Fyll på om färre kluster än top_n
     if len(picked_docs) < top_n:
         remaining = [it for _, cl in cluster_ranks for it in cl["members"]]
         seen_urls = {d["url"] for d in picked_docs}
@@ -495,6 +506,7 @@ def choose_top_docs(docs: List[Dict], top_n: int, span: str = "day") -> List[Dic
                 break
 
     return picked_docs
+
 
 # ------------------ Summering & kort -----------------------
 def _decoding_for(lang: str) -> Dict:
