@@ -2,7 +2,7 @@
   "span": "day",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-03T23:38:54+00:00",
+  "generated": "2025-09-03T23:59:03+00:00",
   "total_raw": 60,
   "total_rank": 3,
   "min_required": 3,
@@ -10,10 +10,17 @@
   "cards": [
     {
       "title": "At least 15 dead after Lisbon's historic funicular derails",
-      "summary": "At least 15 dead and 18 others injured after carriage on Lisbon's Gloria funicular derailed and crashed, emergency services said. Five of those injured were in a serious condition; the remaining 13 sustained minor injuries.",
+      "summary": "At least 15 dead and 18 others injured after carriage on Lisbon's famous Gloria funicular derailed and crashed. Five of those injured were in a serious condition, while 13 sustained minor injuries. It is unclear how many people were on board at the time of the cable railway crash, which occurred near the Avenida da Liberdade around 18:05 on Wednesday.",
       "url": "https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
       "published": "2025-09-03T21:52:01Z"
+    },
+    {
+      "title": "Australia politics live: Nationals cross floor to back Pauline Hanson motion on…",
+      "summary": "Two Nationals and a Liberal cross floor to support immigration inquiry proposal Tom McIlroy The Nationals shadow ministers Bridget McKenzie and Ross Cadell and the Liberal backbencher Sarah Henderson crossed the floor on a Senate vote about immigration levels last night. Pauline Hanson’s One Nation party attempted to establish a parliamentary inquiry into “the impact of high immigration on the Australian economy” The motion was ultimately defeated 37 votes to 9. The vote came in a week when large public rallies about immigration featured speeches by right-wing activists and neo-Nazis.",
+      "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
+      "domain": "theguardian.com",
+      "published": "2025-09-03T23:46:43Z"
     },
     {
       "title": "Watch: Nigel Farage and US congressman clash on freedom of speech",
@@ -21,13 +28,6 @@
       "url": "https://www.bbc.com/news/videos/c0ez8wj275zo?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
       "published": "2025-09-03T16:16:53Z"
-    },
-    {
-      "title": "Australia politics live: Nationals cross floor to back Pauline Hanson motion on…",
-      "summary": "Two Nationals and a Liberal cross floor to support immigration inquiry proposal Tom McIlroy The Nationals shadow ministers Bridget McKenzie and Ross Cadell and the Liberal backbencher Sarah Henderson crossed the floor on a Senate vote about immigration levels last night. Pauline Hanson’s One Nation party attempted to establish a parliamentary inquiry into “the impact of high immigration on the Australian economy” The motion was ultimately defeated 37 votes to 9.",
-      "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
-      "domain": "theguardian.com",
-      "published": "2025-09-03T23:23:57Z"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "span": "week",
+  "language": "sv",
+  "category": "world",
+  "generated": "2025-09-04T00:01:48+00:00",
+  "total_raw": 19,
+  "total_rank": 3,
+  "min_required": 3,
+  "fallback_used": false,
+  "cards": [
+    {
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
+      "domain": "svt.se",
+      "published": "2025-09-03T03:14:04Z"
+    },
+    {
+      "title": "Minst 15 döda när bergbana spårade ur i Portugal",
+      "summary": "Olyckan inträffade mellan stadsdelarna Restauradores och Príncipe Real. Ett omfattande räddningsarbete har pågått under kvällen och minst 15 personer har bekräftats döda. Ytterligare 18 personer har skadats, varav fem allvarligt, enligt CNN Portugal.",
+      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
+      "domain": "svt.se",
+      "published": "2025-09-03T18:14:03Z"
+    },
+    {
+      "title": "Tältläger överfullt när människor flyr från Gaza stad",
+      "summary": "Befolkningen i al - Mawasi berättar om stor trängsel, sjukdomar och vattenbrist. De beskriver hur situationen redan är desperat när människor från Gaza stad och norra delarna av Gazaremsan beordras att fly till lägret. Havet är på ena sidan, och trängseln på den andra.",
+      "url": "https://www.svt.se/nyheter/utrikes/taltlager-overfullt-nar-manniskor-flyr-fran-gaza-stad",
+      "domain": "svt.se",
+      "published": "2025-09-03T11:02:01Z"
+    }
+  ]
+}
