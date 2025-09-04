@@ -2,32 +2,32 @@
   "span": "week",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-04T00:29:18+00:00",
-  "total_raw": 78,
+  "generated": "2025-09-04T02:25:13+00:00",
+  "total_raw": 112,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Sudan landslide kills at least 1,000 people, rebel group says",
+      "summary": "The landslide destroyed the village of Tarasin in the Marra mountains area of western Sudan and left only one survivor. The Sudan Liberation Movement/Army (SLM) appealed to the UN and international aid agencies to help recover the bodies. The SLM has mostly stayed out of the fighting but controls parts of Sudan’s tallest mountain range.",
+      "url": "https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says",
+      "domain": "theguardian.com",
+      "published": "2025-09-02T12:28:19Z"
+    },
+    {
+      "title": "Painting looted by Nazis recovered in Argentina",
+      "summary": "Portrait of a Lady, by Italian master Giuseppe Ghislandi, had been missing for 80 years. It was spotted last month on an estate agent's website, where a photo showed it hanging in a house that had belonged to the daughter of a Nazi fugitive. Patricia Kadgien's late father Friedrich had been a top adviser to Hermann Goring, Adolf Hitler's deputy, who plundered thousands of works from across Europe.",
+      "url": "https://www.bbc.com/news/articles/cdx26z142vko?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-03T23:42:37Z"
+    },
     {
       "title": "Hot mic catches Putin and Xi discussing organ transplants and immortality",
       "summary": "Vladimir Putin was in Beijing with Chinese leader Xi Jinping for a military parade. State media aired live footage that captured parts of what appeared to be a private conversation. Putin’s interpreter could be heard saying in Chinese: “Biotechnology is continuously developing” After a brief inaudible passage, the interpreter added: ‘The longer you live, the younger you become, and [you can] even achieve immortality’",
       "url": "https://www.theguardian.com/world/2025/sep/03/hot-mic-catches-vladimir-putin-xi-jinping-discussing-organ-transplants-immortality",
       "domain": "theguardian.com",
       "published": "2025-09-03T16:21:25Z"
-    },
-    {
-      "title": "What we know about fatal Lisbon funicular derailment",
-      "summary": "Crash occurred at around 18:05 on Wednesday, near Lisbon's Avenida da Liberdade. At least 15 people have been killed and 18 more injured, some critically. It is not yet clear what caused the carriage to derail.",
-      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-03T21:33:06Z"
-    },
-    {
-      "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree dea…",
-      "summary": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal. Russia launched a full-scale invasion of its neighbour in February 2022. US president has tried to persuade Putin to end the war, but the Russian leader has so far not done so.",
-      "url": "https://www.bbc.com/news/articles/c4g7dze5n1vo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-03T20:15:02Z"
     }
   ]
 }
