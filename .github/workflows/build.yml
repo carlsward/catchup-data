@@ -28,6 +28,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Cache news NDJSON
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: ${{ runner.os }}-news-cache-v1
+          restore-keys: |
+            ${{ runner.os }}-news-cache-
+
+
+
       - name: Run pipeline & export JSON
         run: KEEP_MODELS_LOADED=0 python make_json.py
 
