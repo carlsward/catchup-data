@@ -2,32 +2,32 @@
   "span": "month",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-05T02:30:48+00:00",
-  "total_raw": 109,
+  "generated": "2025-09-05T23:53:03+00:00",
+  "total_raw": 114,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Out of control': Witnesses describe fatal Lisbon funicular crash",
-      "summary": "The carriage \"lost control\", descending at full speed and crashing on its side. It sounded like a bomb, she said, followed by \"complete scary silence\" Police are still investigating the cause of the crash near Lisbon's Avenida da Liberdade. The two carriages of the 140-year-old funicular, which runs on electric motors, are attached to a cable that enables one to travel downhill while the other goes uphill.",
-      "url": "https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-04T15:40:03Z"
+      "title": "Western troops in Ukraine would be ‘legitimate targets’, Putin says",
+      "summary": "Vladimir Putin said any western troops placed in Ukraine would be “legitimate targets” for Russian strikes. Putin made the comments a day after the French president, Emmanuel Macron, announced still-vague plans for a package of support for Ukraine. European leaders have been trying to draw up security guarantees for Ukraine in the event of a future deal.",
+      "url": "https://www.theguardian.com/world/2025/sep/05/western-troops-ukraine-legitimate-targets-vladimir-putin-says",
+      "domain": "theguardian.com",
+      "published": "2025-09-05T15:32:14Z"
     },
     {
-      "title": "Legendary Italian designer Giorgio Armani dies",
-      "summary": "Italian fashion designer and billionaire brand owner Giorgio Armani has died at the age of 91. He was the archetype of Italian style and elegance, reimagining men's and women's suits for a modern audience. Donatella Versace: \"The world lost a giant today, he made history and will be remembered forever\" Russell Crowe: \"He made a mark acknowledged around the globe\" Julia Roberts: \"A true friend.",
-      "url": "https://www.bbc.com/news/articles/ceq25w34lv4o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-04T14:44:41Z"
+      "title": "Afghan earthquake death toll jumps to more than 2,200, say Taliban",
+      "summary": "The death toll from a major earthquake in Afghanistan this week has jumped to more than 2,200. The shallow, magnitude-6.0 quake struck the mountainous and remote eastern part of the country around midnight on Sunday. Fears rose after another earthquake, this time with a 6.2 magnitude, struck southeastern Afghanistan on Thursday night.",
+      "url": "https://www.theguardian.com/world/2025/sep/04/afghan-earthquake-death-toll-jumps-says-taliban",
+      "domain": "theguardian.com",
+      "published": "2025-09-05T10:43:39Z"
     },
     {
-      "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire",
-      "summary": "Emmanuel Macron says 26 countries ready to send troops for Ukraine ceasefire. French president says US support for their \"reassurance force\" will be finalised in coming days. President Donald Trump recently indicated that US backing could \"probably\" come in the form of air support.",
-      "url": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-04T17:26:57Z"
+      "title": "Lammy made deputy PM with Cooper as foreign secretary and Mahmood at Home Office",
+      "summary": "Keir Starmer implements major reshuffle of his cabinet following Angela Rayner's resignation from her government posts and position as deputy Labour leader. Rayner said she takes “full responsibility” in her resignation letter. PM’s ethics adviser found that while Rayner “acted with integrity”, she had breached the ministerial code.",
+      "url": "https://www.theguardian.com/politics/live/2025/sep/05/angela-rayner-stamp-duty-labour-starmer-reform-nigel-farage-uk-politics-live-news-updates",
+      "domain": "theguardian.com",
+      "published": "2025-09-05T19:13:29Z"
     }
   ]
 }

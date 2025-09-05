@@ -2,12 +2,19 @@
   "span": "week",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-05T02:28:40+00:00",
-  "total_raw": 108,
+  "generated": "2025-09-05T23:51:38+00:00",
+  "total_raw": 112,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Putin says western troops in Ukraine would be ‘legitimate targets’ as European c…",
+      "summary": "Putin says western troops in Ukraine would be 'legitimate targets' as he repeats offer to host talks in Moscow. Ukraine’s president Volodymyr Zelenskyy has called for the European planning on security guarantees for Ukraine to accelerate. EU leaders have suggested the bloc was planning to step up its work on the next round of sanctions against Russia.",
+      "url": "https://www.theguardian.com/world/live/2025/sep/05/volodymyr-zelenskyy-ukraine-robert-fico-slovakia-vladimir-putin-russia-energy-europe-live-news-updates",
+      "domain": "theguardian.com",
+      "published": "2025-09-05T16:46:04Z"
+    },
     {
       "title": "Teen killed and seven injured in mass stabbing in Canada",
       "summary": "18-year-old woman killed and seven others injured in mass stabbing in Canada. The suspect also died in the attack at a First Nations community in Manitoba. Police said the suspect was fleeing the scene when he died in a vehicle collision.",
@@ -16,18 +23,11 @@
       "published": "2025-09-04T21:37:32Z"
     },
     {
-      "title": "Hot mic catches Xi and Putin discussing organ transplants and immortality",
-      "summary": "Hot mic catches Xi and Putin discussing organ transplants and immortality. Putin suggested even eternal life could be achievable as a result of innovations in biotechnology. The unguarded moment was captured on a livestream carried by Chinese state TV as the two leaders walked together through China's historic Tiananmen Square.",
-      "url": "https://www.bbc.com/news/articles/cr70rvrd41ko?at_medium=RSS&at_campaign=rss",
+      "title": "Google fined €2.95bn by EU for abusing advertising dominance",
+      "summary": "Google fined €2.95bn by EU for abusing advertising dominance. Comes amid increased scrutiny by regulators worldwide over the tech giant's empire in online search and advertising. Google told the BBC the Commission's decision was \"wrong\" and it would appeal.",
+      "url": "https://www.bbc.com/news/articles/c1wgn3lre14o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T16:51:50Z"
-    },
-    {
-      "title": "Boy, 3, pulled from funicular crash that has shocked Portugal",
-      "summary": "Boy, 3, pulled from funicular crash that has shocked Portugal. He was pulled from the carriage where his father reportedly died. His mother was among more than 20 other people who were injured.",
-      "url": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "published": "2025-09-04T20:33:09Z"
+      "published": "2025-09-05T19:42:04Z"
     }
   ]
 }

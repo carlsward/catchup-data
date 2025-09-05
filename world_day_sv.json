@@ -2,32 +2,32 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-05T02:31:28+00:00",
-  "total_raw": 4,
+  "generated": "2025-09-05T23:53:48+00:00",
+  "total_raw": 5,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump döper om Försvarsdepartementet",
+      "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
+      "domain": "svt.se",
+      "published": "2025-09-05T20:31:38Z"
+    },
+    {
+      "title": "Demonstrationerna i Serbien fortsätter: ”På randen till revolution",
+      "summary": "Serbien har skakats av våldsamma sammandrabbningar mellan polisen och regeringskritiska demonstranter i över tio månader. Under helgen fortsätter de stora protesterna i landet. På fredag blockerade runt 1000 personer en väg i Novi Sad, rapporterar EBU med hänvisning till lokala medier.",
+      "url": "https://www.svt.se/nyheter/utrikes/demonstrationerna-i-serbien-fortsatter-pa-randen-till-revolution",
+      "domain": "svt.se",
+      "published": "2025-09-05T20:20:18Z"
+    },
     {
       "title": "Presidentfruar skickar brev om fred",
       "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
       "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
       "domain": "svt.se",
       "published": "2025-09-05T01:26:28Z"
-    },
-    {
-      "title": "Sudan: Hundratusentals fast i dödsfälla",
-      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
-      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
-      "domain": "svt.se",
-      "published": "2025-09-04T18:52:21Z"
-    },
-    {
-      "title": "Biden opererad för hudcancer",
-      "summary": "Joe Biden bekräftade tidigare i år att han hade en aggressiv form av prostatacancer. Cancer berör oss alla. Som så många av er har Jill och jag lärt oss att vi är starkast på de trasiga platserna.",
-      "url": "https://www.svt.se/nyheter/utrikes/biden-opererad-for-hudcancer",
-      "domain": "svt.se",
-      "published": "2025-09-04T22:23:10Z"
     }
   ]
 }

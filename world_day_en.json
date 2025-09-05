@@ -2,32 +2,32 @@
   "span": "day",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-05T02:26:40+00:00",
-  "total_raw": 60,
+  "generated": "2025-09-05T23:50:22+00:00",
+  "total_raw": 58,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Rubio says US will 'blow up' foreign crime groups if needed",
-      "summary": "Marco Rubio says US will 'blow up' foreign crime groups if needed. Comments come days after US forces carried out a strike on a boat in the Caribbean Sea. The White House says it killed 11 drug-traffickers, though it did not release their identities.",
-      "url": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+      "title": "Putin rejects Western security in Ukraine, warning troops would be target",
+      "summary": "Putin rejects Western security in Ukraine, warning troops would be target. French President Emmanuel Macron said 26 of Ukraine's allies had formally committed to deploying troops \"by land, sea or air\" Putin sought to quash the allies' initiative, with a warning that any troops deployed to Ukraine would be \"legitimate targets\" There seems little hope of a ceasefire for now, after last month's summit in Alaska between Putin and US President Donald Trump.",
+      "url": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-05T01:43:49Z"
+      "published": "2025-09-05T18:02:40Z"
     },
     {
-      "title": "Trump’s LA national guard deployment cost taxpayers $120m, Newsom says",
-      "summary": "President sent 2,000 national guard troops into the city in June amid clashes between federal immigration agents and protesters. This week a judge ruled that dispatching the military to accompany authorities on immigration enforcement operations violated federal law. More than 4,200 national guard soldiers and 700 marines were deployed in the region.",
-      "url": "https://www.theguardian.com/us-news/2025/sep/04/trump-national-guard-deployment-los-angeles",
-      "domain": "theguardian.com",
-      "published": "2025-09-05T01:41:03Z"
+      "title": "Senegal’s Layene Sufi brotherhood celebrates Mawlid in Dakar",
+      "summary": "Worshippers gathered at the seaside mausoleum of Seydina Limamou Laye. Chants echoed from mosques across the capital until sunrise on Friday. The Layene order was established in 1884 and is smaller than Senegal’s Mouride and Tijan brotherhoods.",
+      "url": "http://www.euronews.com/video/2025/09/05/senegals-layene-sufi-brotherhood-celebrates-mawlid-in-dakar",
+      "domain": "euronews.com",
+      "published": "2025-09-05T12:41:10Z"
     },
     {
-      "title": "He doesn't follow trends': How celebrities described Armani over the years",
-      "summary": "Giorgio Armani passed away aged 91. He was the archetype of Italian style and elegance. He reimagined men's and women's suits for a modern audience.",
-      "url": "https://www.bbc.com/news/videos/c5y85eyvlm0o?at_medium=RSS&at_campaign=rss",
+      "title": "Hamas releases video of two Israeli hostages held in Gaza",
+      "summary": "Hamas releases video of two Israeli hostages held in Gaza. Video claims to show Guy Gilboa-Dalal in Gaza City in late August. It also shows captive Alon Ohel for the first time since he was abducted.",
+      "url": "https://www.bbc.com/news/articles/cy0vly9zyl2o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-04T15:31:16Z"
+      "published": "2025-09-05T18:20:08Z"
     }
   ]
 }
