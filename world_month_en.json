@@ -2,32 +2,32 @@
   "span": "month",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-04T02:27:25+00:00",
-  "total_raw": 102,
+  "generated": "2025-09-05T02:30:48+00:00",
+  "total_raw": 109,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Putin thanks Kim for North Koreans fighting in Ukraine",
-      "summary": "Putin thanks Kim for North Koreans fighting in Ukraine on the Russian side. The two leaders met on Wednesday in Beijing as China held one of its largest ever military parades. It marked the first time the North Korean leader has attended an international gathering of world leaders.",
-      "url": "https://www.bbc.com/news/articles/cj9w9m1xz1go?at_medium=RSS&at_campaign=rss",
+      "title": "Out of control': Witnesses describe fatal Lisbon funicular crash",
+      "summary": "The carriage \"lost control\", descending at full speed and crashing on its side. It sounded like a bomb, she said, followed by \"complete scary silence\" Police are still investigating the cause of the crash near Lisbon's Avenida da Liberdade. The two carriages of the 140-year-old funicular, which runs on electric motors, are attached to a cable that enables one to travel downhill while the other goes uphill.",
+      "url": "https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T08:14:39Z"
+      "published": "2025-09-04T15:40:03Z"
     },
     {
-      "title": "What we know about fatal Lisbon funicular derailment",
-      "summary": "Crash occurred at around 18:05 on Wednesday, near Lisbon's Avenida da Liberdade. At least 15 people have been killed and 18 more injured, some critically. It is not yet clear what caused the carriage to derail.",
-      "url": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Legendary Italian designer Giorgio Armani dies",
+      "summary": "Italian fashion designer and billionaire brand owner Giorgio Armani has died at the age of 91. He was the archetype of Italian style and elegance, reimagining men's and women's suits for a modern audience. Donatella Versace: \"The world lost a giant today, he made history and will be remembered forever\" Russell Crowe: \"He made a mark acknowledged around the globe\" Julia Roberts: \"A true friend.",
+      "url": "https://www.bbc.com/news/articles/ceq25w34lv4o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T21:33:06Z"
+      "published": "2025-09-04T14:44:41Z"
     },
     {
-      "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree dea…",
-      "summary": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal. Russia launched a full-scale invasion of its neighbour in February 2022. US president has tried to persuade Putin to end the war, but the Russian leader has so far not done so.",
-      "url": "https://www.bbc.com/news/articles/c4g7dze5n1vo?at_medium=RSS&at_campaign=rss",
+      "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire",
+      "summary": "Emmanuel Macron says 26 countries ready to send troops for Ukraine ceasefire. French president says US support for their \"reassurance force\" will be finalised in coming days. President Donald Trump recently indicated that US backing could \"probably\" come in the form of air support.",
+      "url": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T20:15:02Z"
+      "published": "2025-09-04T17:26:57Z"
     }
   ]
 }

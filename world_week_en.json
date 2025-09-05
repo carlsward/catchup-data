@@ -2,32 +2,32 @@
   "span": "week",
   "language": "en",
   "category": "world",
-  "generated": "2025-09-04T02:25:13+00:00",
-  "total_raw": 112,
+  "generated": "2025-09-05T02:28:40+00:00",
+  "total_raw": 108,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sudan landslide kills at least 1,000 people, rebel group says",
-      "summary": "The landslide destroyed the village of Tarasin in the Marra mountains area of western Sudan and left only one survivor. The Sudan Liberation Movement/Army (SLM) appealed to the UN and international aid agencies to help recover the bodies. The SLM has mostly stayed out of the fighting but controls parts of Sudan’s tallest mountain range.",
-      "url": "https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says",
-      "domain": "theguardian.com",
-      "published": "2025-09-02T12:28:19Z"
-    },
-    {
-      "title": "Painting looted by Nazis recovered in Argentina",
-      "summary": "Portrait of a Lady, by Italian master Giuseppe Ghislandi, had been missing for 80 years. It was spotted last month on an estate agent's website, where a photo showed it hanging in a house that had belonged to the daughter of a Nazi fugitive. Patricia Kadgien's late father Friedrich had been a top adviser to Hermann Goring, Adolf Hitler's deputy, who plundered thousands of works from across Europe.",
-      "url": "https://www.bbc.com/news/articles/cdx26z142vko?at_medium=RSS&at_campaign=rss",
+      "title": "Teen killed and seven injured in mass stabbing in Canada",
+      "summary": "18-year-old woman killed and seven others injured in mass stabbing in Canada. The suspect also died in the attack at a First Nations community in Manitoba. Police said the suspect was fleeing the scene when he died in a vehicle collision.",
+      "url": "https://www.bbc.com/news/articles/cp8jnrrlvqvo?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.com",
-      "published": "2025-09-03T23:42:37Z"
+      "published": "2025-09-04T21:37:32Z"
     },
     {
-      "title": "Hot mic catches Putin and Xi discussing organ transplants and immortality",
-      "summary": "Vladimir Putin was in Beijing with Chinese leader Xi Jinping for a military parade. State media aired live footage that captured parts of what appeared to be a private conversation. Putin’s interpreter could be heard saying in Chinese: “Biotechnology is continuously developing” After a brief inaudible passage, the interpreter added: ‘The longer you live, the younger you become, and [you can] even achieve immortality’",
-      "url": "https://www.theguardian.com/world/2025/sep/03/hot-mic-catches-vladimir-putin-xi-jinping-discussing-organ-transplants-immortality",
-      "domain": "theguardian.com",
-      "published": "2025-09-03T16:21:25Z"
+      "title": "Hot mic catches Xi and Putin discussing organ transplants and immortality",
+      "summary": "Hot mic catches Xi and Putin discussing organ transplants and immortality. Putin suggested even eternal life could be achievable as a result of innovations in biotechnology. The unguarded moment was captured on a livestream carried by Chinese state TV as the two leaders walked together through China's historic Tiananmen Square.",
+      "url": "https://www.bbc.com/news/articles/cr70rvrd41ko?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-03T16:51:50Z"
+    },
+    {
+      "title": "Boy, 3, pulled from funicular crash that has shocked Portugal",
+      "summary": "Boy, 3, pulled from funicular crash that has shocked Portugal. He was pulled from the carriage where his father reportedly died. His mother was among more than 20 other people who were injured.",
+      "url": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "published": "2025-09-04T20:33:09Z"
     }
   ]
 }

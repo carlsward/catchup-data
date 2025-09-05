@@ -2,32 +2,32 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-04T02:27:55+00:00",
-  "total_raw": 7,
+  "generated": "2025-09-05T02:31:28+00:00",
+  "total_raw": 4,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Bergbana har spårat ur i Lissabon",
-      "summary": "Olyckan inträffade mellan Restauradores och Príncipe Real. Bergbanan var på väg ner från utsiktsplatsen São Pedro de Alcântara när den plötsligt spårade ur och kraschade in i en vägg. Vittnen berättar för lokala medier hur vagnen gick i bitar till följd av kraschen.",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
+      "title": "Presidentfruar skickar brev om fred",
+      "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
+      "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
       "domain": "svt.se",
-      "published": "2025-09-03T18:14:03Z"
+      "published": "2025-09-05T01:26:28Z"
     },
     {
-      "title": "Därför möts Ryssland, Nordkorea och Kina just nu",
-      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Rysslands president Vladimir Putin och Nordkoreas diktator Kim Jong - Un var de mest uppmärksammade besökarna. Det är första gången som männen har träffats i offentligheten.",
-      "url": "https://www.svt.se/nyheter/utrikes/darfor-mots-ryssland-nordkorea-och-kina-just-nu",
+      "title": "Sudan: Hundratusentals fast i dödsfälla",
+      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
+      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
       "domain": "svt.se",
-      "published": "2025-09-03T11:53:13Z"
+      "published": "2025-09-04T18:52:21Z"
     },
     {
-      "title": "USA sänder en tydlig signal",
-      "summary": "Under tisdagen attackerade USA en båt från Venezuela, som de hävdar användes för narkotikasmuggling. Elva personer dog. Den amerikanske presidenten Donald Trump har i ett inlägg på sociala medieplattformen Truth social lagt upp bilder som påstås visa den dödliga attacken.",
-      "url": "https://www.svt.se/nyheter/utrikes/usa-sander-en-tydlig-signal-nu-galler-nya-spelregler",
+      "title": "Biden opererad för hudcancer",
+      "summary": "Joe Biden bekräftade tidigare i år att han hade en aggressiv form av prostatacancer. Cancer berör oss alla. Som så många av er har Jill och jag lärt oss att vi är starkast på de trasiga platserna.",
+      "url": "https://www.svt.se/nyheter/utrikes/biden-opererad-for-hudcancer",
       "domain": "svt.se",
-      "published": "2025-09-03T10:57:46Z"
+      "published": "2025-09-04T22:23:10Z"
     }
   ]
 }

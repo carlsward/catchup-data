@@ -2,32 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-04T02:28:23+00:00",
-  "total_raw": 19,
+  "generated": "2025-09-05T02:32:09+00:00",
+  "total_raw": 17,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tältläger överfullt när människor flyr från Gaza stad",
-      "summary": "Befolkningen i al - Mawasi berättar om stor trängsel, sjukdomar och vattenbrist. De beskriver hur situationen redan är desperat när människor från Gaza stad och norra delarna av Gazaremsan beordras att fly till lägret. Havet är på ena sidan, och trängseln på den andra.",
-      "url": "https://www.svt.se/nyheter/utrikes/taltlager-overfullt-nar-manniskor-flyr-fran-gaza-stad",
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
       "domain": "svt.se",
-      "published": "2025-09-03T11:02:01Z"
+      "published": "2025-09-03T03:14:04Z"
     },
     {
-      "title": "Chatt: Xi, Kim och Putin möts",
-      "summary": "Vad undrar du om mötet mellan Xi, Putin och Kim? MatsW: Har inte Trump skjutit sig i foten med sina tullar? Agerandet passar ju Xi & co?",
-      "url": "https://www.svt.se/nyheter/utrikes/chatt-xi-kim-och-putin-mots-vad-undrar-du",
+      "title": "Forskare: Klimatförändringar förvärrade bränderna i Spanien och Portugal",
+      "summary": "Studien genomfördes av 13 forskare från olika universitet och meteorologiska myndigheter. Det är inte en fullständig så kallad attributionsstudie, eftersom forskarna analyserade väderobservationer men inte använde klimatmodeller. Resultaten överensstämmer dock med vetenskap som fokuserar på skogsbränder i regionen och en fullständig attributionsanalys av de senaste skogsbränderna i Turkiet, Grekland och Cypern.",
+      "url": "https://www.svt.se/nyheter/utrikes/forskare-klimatforandringar-forvarrade-branderna-i-spanien-och-portugal",
       "domain": "svt.se",
-      "published": "2025-09-03T08:33:17Z"
+      "published": "2025-09-04T04:28:27Z"
     },
     {
-      "title": "Här är Putin och Xis önskedröm",
-      "summary": "Organisationen The Shanghai Cooperation, SCO, har försökt bli en motpol mot USA och Europa – kanske är de på väg att lyckas. Det här är en analys. Slutsatserna är journalistens egna.",
-      "url": "https://www.svt.se/nyheter/utrikes/har-ar-putin-och-xis-onskedrom-kan-den-ga-i-uppfyllelse",
+      "title": "Bergbana har spårat ur i Lissabon",
+      "summary": "Olyckan inträffade mellan Restauradores och Príncipe Real. Bergbanan var på väg ner från utsiktsplatsen São Pedro de Alcântara när den plötsligt spårade ur och kraschade in i en byggnad. Vittnen berättar för lokala medier hur bergbanan skenade okontrollerat nerför den smala gränden.",
+      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
       "domain": "svt.se",
-      "published": "2025-09-03T05:59:05Z"
+      "published": "2025-09-03T18:14:03Z"
     }
   ]
 }
