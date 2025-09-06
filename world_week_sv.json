@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T00:29:09+00:00",
+  "generated": "2025-09-06T00:43:10+00:00",
   "total_raw": 17,
-  "total_rank": 12,
+  "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump döper om Försvarsdepartementet",
+      "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
+      "domain": "svt.se",
+      "published": "2025-09-05T20:31:38Z"
+    },
+    {
+      "title": "Demonstrationerna i Serbien fortsätter: ”På randen till revolution",
+      "summary": "Serbien har skakats av våldsamma sammandrabbningar mellan polisen och regeringskritiska demonstranter i över tio månader. Under helgen fortsätter de stora protesterna i landet. På fredag blockerade runt 1000 personer en väg i Novi Sad, rapporterar EBU med hänvisning till lokala medier.",
+      "url": "https://www.svt.se/nyheter/utrikes/demonstrationerna-i-serbien-fortsatter-pa-randen-till-revolution",
+      "domain": "svt.se",
+      "published": "2025-09-05T20:20:18Z"
+    },
     {
       "title": "Biden opererad för hudcancer",
       "summary": "För två år sedan, när Biden fortfarande var USA: s president, gjorde han en liknande operation på bröstet. Då rörde det sig om basaliom, en vanlig form av hudcancer. I maj tidigare i år bekräftade Joe Biden även att han diagnostiserats med en aggressiv form av prostatacancer som spridit sig till hans skelett.",
@@ -44,6 +58,13 @@
       "published": "2025-09-03T00:15:37Z"
     },
     {
+      "title": "Trump skickar tio stridsflyg till Puerto Rico",
+      "summary": "Pentagon säger att två venezuelanska militärflygplan flög nära ett amerikanskt fartyg. Beslutet följer också ett amerikanskt robotangrepp på en båt i Karibiska havet som dödade elva personer, enligt Trump - administrationen. F - 35 - flygplanen anländer till USA: s territorium i Puerto Rico nästa vecka och är en del av en omfattande militär insats i Latinamerika.",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-skickar-tio-stridsflyg-till-puerto-rico",
+      "domain": "svt.se",
+      "published": "2025-09-05T15:33:23Z"
+    },
+    {
       "title": "Sudan: Hundratusentals fast i dödsfälla",
       "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
       "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
@@ -51,46 +72,11 @@
       "published": "2025-09-04T18:52:21Z"
     },
     {
-      "title": "Ökat våld mot demonstranter i Serbien väcker oro för inbördeskrig",
-      "summary": "Serbiens president Aleksandar Vucic säger att Kroatien medvetet och illasinnat försöker skada landets image i världen. Han säger att även de som demonstrerar kan komma att alltmer svara med våld. Stora demonstrationer kommer att hållas i helgen i Novi Sad.",
-      "url": "https://www.svt.se/nyheter/utrikes/okat-vald-mot-demonstranter-i-serbien-vacker-oro-for-inbordeskrig",
+      "title": "Protesterna i Serbien som kan leda till maktskifte",
+      "summary": "Förra hösten miste 16 personer livet när ett nyrenoverat tak rasade på tågstationen i Novi Sad. Olyckan blev en symbol för korruption och många serbiska medborgares ilska riktas mot den sittande presidenten Aleksandar Vučić. Som mest har hundratusentals tagit sig ut på gatorna samtidigt.",
+      "url": "https://www.svt.se/nyheter/utrikes/protesterna-i-serbien-som-kan-leda-till-maktskifte",
       "domain": "svt.se",
-      "published": "2025-09-04T10:56:38Z"
-    },
-    {
-      "title": "USA sänder en tydlig signal",
-      "summary": "Under tisdagen attackerade USA en båt från Venezuela, som de hävdar användes för narkotikasmuggling. Elva personer dog. Den amerikanske presidenten Donald Trump har i ett inlägg på sociala medieplattformen Truth social lagt upp bilder som påstås visa den dödliga attacken.",
-      "url": "https://www.svt.se/nyheter/utrikes/usa-sander-en-tydlig-signal-nu-galler-nya-spelregler",
-      "domain": "svt.se",
-      "published": "2025-09-03T10:57:46Z"
-    },
-    {
-      "title": "Xi, Kim och Putin möts för första gången",
-      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
-      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
-      "domain": "svt.se",
-      "published": "2025-09-03T03:14:04Z"
-    },
-    {
-      "title": "Chatt: Xi, Kim och Putin möts",
-      "summary": "Vad undrar du om mötet mellan Xi, Putin och Kim? MatsW: Har inte Trump skjutit sig i foten med sina tullar? Agerandet passar ju Xi & co?",
-      "url": "https://www.svt.se/nyheter/utrikes/chatt-xi-kim-och-putin-mots-vad-undrar-du",
-      "domain": "svt.se",
-      "published": "2025-09-03T08:33:17Z"
-    },
-    {
-      "title": "Tältläger överfullt när människor flyr från Gaza stad",
-      "summary": "Befolkningen i al - Mawasi berättar om stor trängsel, sjukdomar och vattenbrist. De beskriver hur situationen redan är desperat när människor från Gaza stad och norra delarna av Gazaremsan beordras att fly till lägret. Havet är på ena sidan, och trängseln på den andra.",
-      "url": "https://www.svt.se/nyheter/utrikes/taltlager-overfullt-nar-manniskor-flyr-fran-gaza-stad",
-      "domain": "svt.se",
-      "published": "2025-09-03T11:02:01Z"
-    },
-    {
-      "title": "Här är Putin och Xis önskedröm",
-      "summary": "Organisationen The Shanghai Cooperation, SCO, har försökt bli en motpol mot USA och Europa – kanske är de på väg att lyckas. Det här är en analys. Slutsatserna är journalistens egna.",
-      "url": "https://www.svt.se/nyheter/utrikes/har-ar-putin-och-xis-onskedrom-kan-den-ga-i-uppfyllelse",
-      "domain": "svt.se",
-      "published": "2025-09-03T05:59:05Z"
+      "published": "2025-09-05T13:51:30Z"
     }
   ]
 }
