@@ -55,34 +55,27 @@ SOURCES_PATH = Path("sources.yaml")  # repo-rot
 MIN_REQUIRED = 3
 RAW_LIMIT = 60
 MAX_PER_DOMAIN = 4
-MIN_TEXT_CHARS = 400
+MIN_TEXT_CHARS_ARTICLE = 400
+MIN_TEXT_CHARS_RSS = 160
+ALLOW_RSS_FALLBACK = True
 REQUEST_TIMEOUT = 10
 REQUEST_DELAY = 0
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) CatchUpBot/1.0"
 
 SUMMARY_SENTENCES = 3
 LANG_OK_PROB = 0.65
+LANG_OK_PROB_RSS  = 0.45
 
 # C: recency/diversitet (används främst för 'day')
 RECENCY_WEIGHT = {"day": 0.35, "week": 0.15, "month": 0.05, "_default": 0.20}
 DIVERSITY_LAMBDA = 0.60
 TITLE_DUP_JACCARD = 0.80
 
-# E: viktighetsrankning (klustring) för week/month
-SIM_TEXT_JACCARD = 0.28   # 0.25–0.35 vettigt intervall
-SIM_TITLE_JACCARD = 0.55  # titlar kortare → högre tröskel
-DOMAIN_REPUTATION = {
-    "reuters.com": 1.0,
-    "bbc.co.uk": 1,
-    "bbc.com": 1,
-    "svt.se": 1,
-    "dn.se": 1,
-    "svd.se": 1,
-    "theguardian.com": 1,
-    "euronews.com": 1,
-    "expressen.se": 1,
-}
-REP_DEFAULT = 0.60
+
+
+# Ge feedparser en tydlig UA (vissa sajter filtrerar)
+feedparser.USER_AGENT = USER_AGENT
+
 
 def load_sources() -> Dict[str, Dict[str, List[str]]]:
     if SOURCES_PATH.exists():
@@ -103,9 +96,16 @@ SUM_MODELS = {
 }
 
 DECODING = {
-    "_default": dict(max_length=220, min_length=90, num_beams=6,
-                     do_sample=False, no_repeat_ngram_size=3, length_penalty=1.0),
+    "_default": dict(
+        max_new_tokens=160,   # ungefär 2–3 meningar
+        min_length=90,
+        num_beams=6,
+        do_sample=False,
+        no_repeat_ngram_size=3,
+        length_penalty=1.0,
+    ),
 }
+
 
 _summarizers: Dict[str, Any] = {}
 
@@ -241,7 +241,7 @@ def _extract_text_with_trafilatura(url: str, html: Optional[str]) -> str:
     return ""
 
 def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | None = None) -> List[Dict]:
-    """Hämtar artiklar ≤ `days` bakåt. `raw_limit` kan öka/minska max antal råa."""
+    """Hämtar artiklar ≤ `days` bakåt. Har robust RSS-fallback för paywallasidor (SVD/Expressen m.fl.)."""
     urls = (SOURCES.get(category, {}) or {}).get(lang, []) or []
     if not urls:
         print(f"⚠️  Inga källor för {category}/{lang}.")
@@ -249,7 +249,7 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
 
     limit = raw_limit or RAW_LIMIT
     since = time.time() - days * 86_400
-    seen = set()
+    seen: set[str] = set()
     out: List[Dict] = []
 
     for feed_url in urls:
@@ -262,24 +262,49 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
             ts = _epoch_from_entry(e)
             if ts and ts < since:
                 continue
-            url = getattr(e, "link", None)
+
+            url   = getattr(e, "link", None)
             title = getattr(e, "title", "") or ""
             if not url or url in seen:
                 continue
 
+            # 1) Försök hämta fulltext
             art = newspaper.Article(url, config=NP_CFG)
+            text = ""
             try:
                 art.download(); art.parse()
+                text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
             except Exception:
-                continue
+                text = ""
 
-            text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
             text = clean_text(text)
-            if len(text) < MIN_TEXT_CHARS:
+            used_fallback = False
+
+            # 2) RSS-fallback om paywall/kort text
+            if ALLOW_RSS_FALLBACK and len(text) < MIN_TEXT_CHARS_ARTICLE:
+                rss_text = ""
+                try:
+                    if getattr(e, "content", None):
+                        # ofta HTML-fulltext i content[0].value
+                        rss_text = clean_text((e.content[0].get("value") or ""))
+                except Exception:
+                    pass
+                if not rss_text:
+                    rss_text = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
+                if len(rss_text) >= MIN_TEXT_CHARS_RSS:
+                    text = rss_text
+                    used_fallback = True
+
+
+            # 3) Släpp igenom bara om vi faktiskt har något
+            if len(text) < (MIN_TEXT_CHARS_RSS if used_fallback else MIN_TEXT_CHARS_ARTICLE):
                 continue
 
+            # 4) Språk – var snällare mot RSS-fallback
             det_lang, prob = detect_lang_code(text)
-            if det_lang != lang or prob < LANG_OK_PROB:
+            need = (LANG_OK_PROB_RSS if used_fallback else LANG_OK_PROB)
+            # Acceptera om detektorn säger "sv" ELLER om den är osäker (< need)
+            if det_lang and det_lang != lang and prob >= need:
                 continue
 
             seen.add(url)
@@ -291,6 +316,7 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
                 "domain": _domain(url),
                 "language": lang,
                 "category": category,
+                "fallback": "rss" if used_fallback else "html",
             })
 
             if REQUEST_DELAY:
@@ -302,6 +328,7 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
 
     print(f"✅ Insamlat {len(out)} artiklar för {category}/{lang}")
     return out
+
 
 
 # ------------------ Diversitets-hjälp ----------------------
@@ -470,7 +497,8 @@ def summarize(text: str, lang: str) -> str:
 
 def make_card(doc: Dict) -> Dict:
     title = _shorten_title(doc["title"])
-    summary = summarize(doc["text"], doc.get("language", "en"))
+    # SV är enda språket – använd 'sv' som default
+    summary = summarize(doc["text"], doc.get("language", "sv"))
     return {
         "title": title,
         "summary": summary,
@@ -478,6 +506,7 @@ def make_card(doc: Dict) -> Dict:
         "domain": doc.get("domain"),
         "published": _iso_utc_from_epoch(doc.get("published")),
     }
+
 
 # ------------------ Snabbtest ------------------------------
 if __name__ == "__main__":

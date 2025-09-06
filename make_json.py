@@ -1,9 +1,11 @@
 from __future__ import annotations
+from zoneinfo import ZoneInfo
 import os, json, sys, traceback, datetime as dt, time
 from pathlib import Path
 import gc
 
 import pipeline
+LOCAL_TZ = ZoneInfo(os.getenv("LOCAL_TZ", "Europe/Stockholm"))
 
 # ===================== OUTPUT =============================
 OUTDIR = Path("public")
@@ -31,6 +33,19 @@ def _now_ts() -> float:
 def _coalesce_ts(doc: dict) -> float:
     ts = doc.get("published")
     return float(ts) if ts else float(doc.get("first_seen_ts", _now_ts()))
+
+def _day_bounds_local_utc(days_ago: int) -> tuple[float, float]:
+    """Start/slut för kalenderdygn i LOCAL_TZ, konverterat till UTC-epoch."""
+    now_local = dt.datetime.now(LOCAL_TZ).replace(hour=0, minute=0, second=0, microsecond=0)
+    start_local = now_local - dt.timedelta(days=days_ago)
+    end_local   = start_local + dt.timedelta(days=1)
+    start_utc = start_local.astimezone(dt.timezone.utc).timestamp()
+    end_utc   = end_local.astimezone(dt.timezone.utc).timestamp()
+    return start_utc, end_utc
+
+def _filter_by_window(items: list[dict], start_ts: float, end_ts: float) -> list[dict]:
+    return [it for it in items if start_ts <= _coalesce_ts(it) < end_ts]
+
 
 def load_cache(category: str, lang: str) -> list[dict]:
     p = _cache_path(category, lang)
@@ -115,8 +130,6 @@ if TOPN or DAYS:
 KEEP_MODELS_LOADED = os.getenv("KEEP_MODELS_LOADED", "0") == "1"
 
 # ===================== BUCKET-URVAL =======================
-def _filter_by_window(items: list[dict], start_ts: float, end_ts: float) -> list[dict]:
-    return [it for it in items if start_ts <= _coalesce_ts(it) < end_ts]
 
 def pick_strict_daily(
     candidates: list[dict],
@@ -124,46 +137,81 @@ def pick_strict_daily(
     days: int,
     per_day: int,
     span: str,
-    per_day_domain_cap: int = 1,    # mål: max 1 per domän när flera domäner finns samma dag
 ) -> list[dict]:
     """
-    Plockar upp till `per_day` artiklar för varje av de senaste `days` dagarna.
-    Plockar ALDRIG extra från andra dagar – om en dag saknar material blir totalen lägre.
-    Domäncap är dynamisk: om dagen bara har en domän → tillåt upp till `per_day` från den.
+    Försök: EXAKT per_day per lokal kalenderdag senaste `days`.
+    1) Välj först max 1/artikelkälla per dag.
+    2) Fyll upp inom dagen till per_day.
+    3) Om några dagar ändå saknas -> global uppfyllnad över hela spannet
+       (utan dagskrav) för att nå 'days*per_day'.
     """
-    now = _now_ts()
+    target = days * per_day
     seen: set[str] = set()
     picked: list[dict] = []
 
+    # Steg A: dag-för-dag
     for i in range(days):
-        end = now - i * 86400.0
-        start = end - 86400.0
-
+        start, end = _day_bounds_local_utc(i)
         day_docs = _filter_by_window(candidates, start, end)
         if not day_docs:
             continue
 
-        # Dynamisk per-dag-domäncap
-        day_domains = {d.get("domain", "") for d in day_docs if d.get("domain")}
-        day_cap = per_day if len(day_domains) <= 1 else per_day_domain_cap
-
-        sel = pipeline.choose_top_docs(
+        # A1) Max 1 per domän
+        first = pipeline.choose_top_docs(
             day_docs,
             top_n=per_day,
-            span="month",              # neutral recency
-            exclude_urls=seen,         # undvik dubletter inom spannet
-            max_per_domain=day_cap,    # << viktig ändring
+            span="month",            # neutral recency
+            exclude_urls=seen,
+            max_per_domain=1,
         )
+        chosen: list[dict] = list(first)
 
-        for d in sel:
-            url = d.get("url")
-            if not url or url in seen:
-                continue
-            picked.append(d)
-            seen.add(url)
+        # A2) Fyll upp till per_day inom dagen
+        if len(chosen) < per_day:
+            remaining = [
+                d for d in day_docs
+                if d.get("url") not in {x.get("url") for x in chosen}
+                and d.get("url") not in seen
+            ]
+            if remaining:
+                fill = pipeline.choose_top_docs(
+                    remaining,
+                    top_n=per_day - len(chosen),
+                    span="month",
+                    exclude_urls=seen,
+                    max_per_domain=per_day,  # låt samma domän få ännu en om det behövs
+                )
+                chosen += fill
 
+        for d in chosen[:per_day]:
+            u = d.get("url")
+            if u and u not in seen:
+                picked.append(d)
+                seen.add(u)
+
+    # Steg B: Global uppfyllnad om vi inte nått målet
+    if len(picked) < target:
+        rest = [d for d in candidates if d.get("url") not in seen]
+        if rest:
+            add = pipeline.choose_top_docs(
+                rest,
+                top_n=target - len(picked),
+                span="month",
+                exclude_urls=seen,
+                # balansera källor över helheten (dynamisk cap)
+                max_per_domain=pipeline.domain_cap(candidates, target),
+            )
+            for d in add:
+                u = d.get("url")
+                if u and u not in seen:
+                    picked.append(d)
+                    seen.add(u)
+
+    # Nyast först i hela spannet
     picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
-    return picked[: days * per_day]
+    return picked[:target]
+
+
 
 
 
@@ -236,7 +284,7 @@ for category in CATEGORIES:
         # 1) Läs/uppdatera cache med dagens insamling (upp till största span)
         cache_items = load_cache(category, lang)
         max_days = max(days for _, days, _ in SPAN_INFO)
-        raw_cap = 200 if max_days >= 30 else 120
+        raw_cap = 400 if max_days >= 30 else 200
         print(f"⏳ Hämtar nya artiklar (≤ {max_days} dygn, cap {raw_cap})…", flush=True)
         new_docs = pipeline.collect_articles(category, lang, days=max_days, raw_limit=raw_cap)
 
@@ -261,8 +309,8 @@ for category in CATEGORIES:
                     days=policy["days"],
                     per_day=policy["per_day"],
                     span=span,
-                    per_day_domain_cap=1,   # ändra till 2 om du vill mjuka upp per-dag-domän-taket
-    )
+                )
+
             elif policy:
                 # (behåll din gamla bucket-funktion om du vill kunna slå på den senare)
                 docs_rank = pick_by_buckets(
