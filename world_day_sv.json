@@ -2,9 +2,9 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T00:11:59+00:00",
+  "generated": "2025-09-06T00:27:37+00:00",
   "total_raw": 5,
-  "total_rank": 4,
+  "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
@@ -35,6 +35,13 @@
       "url": "https://www.svt.se/nyheter/utrikes/trump-skickar-tio-stridsflyg-till-puerto-rico",
       "domain": "svt.se",
       "published": "2025-09-05T15:33:23Z"
+    },
+    {
+      "title": "Protesterna i Serbien som kan leda till maktskifte",
+      "summary": "Förra hösten miste 16 personer livet när ett nyrenoverat tak rasade på tågstationen i Novi Sad. Olyckan blev en symbol för korruption och många serbiska medborgares ilska riktas mot den sittande presidenten Aleksandar Vučić. Som mest har hundratusentals tagit sig ut på gatorna samtidigt.",
+      "url": "https://www.svt.se/nyheter/utrikes/protesterna-i-serbien-som-kan-leda-till-maktskifte",
+      "domain": "svt.se",
+      "published": "2025-09-05T13:51:30Z"
     }
   ]
 }
