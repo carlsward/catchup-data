@@ -1,16 +1,7 @@
 world:
   sv:
-    - https://www.svt.se/nyheter/varlden/rss.xml
-    - https://www.svt.se/nyheter/utrikes/rss
-    - https://www.svd.se/nyheter/utrikes?output=rss
-    - https://www.dn.se/rss/utrikes/
-    - https://feeds.expressen.se/nyheter/utrikes
-    - https://www.aftonbladet.se/nyheter/utrikes/rss.xml
-    - https://www.altinget.se/eu/rss
-    - https://svenska.yle.fi/rss
-    - https://www.ui.se/utrikesmagasinet/feed/
-    - https://www.omvarlden.se/feed/
-    - https://sverigesradio.se/ekot_rss.xml
-    - https://www.gp.se/rss
-    - https://www.sydsvenskan.se/rss
+    - https://svenska.yle.fi/rss/utrikes
+    - https://www.svt.se/nyheter/utrikes/rss.xml
+
+
 

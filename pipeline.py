@@ -22,7 +22,9 @@ import gc
 import math
 import time
 import re
+import os
 from typing import List, Dict, Optional, Any
+from datetime import datetime  # högst upp i filen
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -35,6 +37,12 @@ from transformers import (
     AutoTokenizer,
     AutoModelForSeq2SeqLM,
 )
+import unicodedata
+import html as _html
+
+
+WP_PAGINATE_PAGES = int(os.getenv("WP_PAGINATE_PAGES", "6"))  # hur många sidor vi provar
+
 
 # Trafilatura för renare extraktion (fallback till newspaper3k om den saknas)
 try:
@@ -72,7 +80,6 @@ DIVERSITY_LAMBDA = 0.60
 TITLE_DUP_JACCARD = 0.80
 
 
-
 # Ge feedparser en tydlig UA (vissa sajter filtrerar)
 feedparser.USER_AGENT = USER_AGENT
 
@@ -89,6 +96,16 @@ SOURCES = load_sources()
 NP_CFG = newspaper.Config()
 NP_CFG.browser_user_agent = USER_AGENT
 NP_CFG.request_timeout = REQUEST_TIMEOUT
+
+def _iter_feed_endpoints(feed_url: str):
+    """Ger original-URL + ev. WordPress-paginering (?paged=2..N)."""
+    u = feed_url.rstrip("/")
+    yield u
+    # enkel heuristik: WP-feeds slutar ofta på /feed eller innehåller /feed/
+    if u.endswith("/feed") or u.endswith("/feed/") or "/feed/" in u:
+        for p in range(2, WP_PAGINATE_PAGES + 1):
+            yield f"{u}/?paged={p}"
+
 
 # ------------------ Språk → modell (endast sv/en) ----------
 SUM_MODELS = {
@@ -241,7 +258,7 @@ def _extract_text_with_trafilatura(url: str, html: Optional[str]) -> str:
     return ""
 
 def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | None = None) -> List[Dict]:
-    """Hämtar artiklar ≤ `days` bakåt. Har robust RSS-fallback för paywallasidor (SVD/Expressen m.fl.)."""
+    """Hämtar artiklar ≤ `days` bakåt. Har robust RSS-fallback för paywallasidor."""
     urls = (SOURCES.get(category, {}) or {}).get(lang, []) or []
     if not urls:
         print(f"⚠️  Inga källor för {category}/{lang}.")
@@ -253,78 +270,94 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
     out: List[Dict] = []
 
     for feed_url in urls:
-        try:
-            feed = feedparser.parse(feed_url)
-        except Exception:
-            continue
-
-        for e in getattr(feed, "entries", []):
-            ts = _epoch_from_entry(e)
-            if ts and ts < since:
-                continue
-
-            url   = getattr(e, "link", None)
-            title = getattr(e, "title", "") or ""
-            if not url or url in seen:
-                continue
-
-            # 1) Försök hämta fulltext
-            art = newspaper.Article(url, config=NP_CFG)
-            text = ""
+        for feed_variant in _iter_feed_endpoints(feed_url):
             try:
-                art.download(); art.parse()
-                text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
+                feed = feedparser.parse(feed_variant)
             except Exception:
+                continue
+
+            entries = getattr(feed, "entries", []) or []
+            all_too_old = True  # antag tills vi hittar något nytt
+
+            for e in entries:
+                ts = _epoch_from_entry(e)
+                if ts and ts < since:
+                    continue  # för gammal
+                all_too_old = False
+
+                url = getattr(e, "link", None)
+                title = getattr(e, "title", "") or ""
+                if not url or url in seen:
+                    continue
+
+                # 1) Försök hämta fulltext
+                art = newspaper.Article(url, config=NP_CFG)
                 text = ""
-
-            text = clean_text(text)
-            used_fallback = False
-
-            # 2) RSS-fallback om paywall/kort text
-            if ALLOW_RSS_FALLBACK and len(text) < MIN_TEXT_CHARS_ARTICLE:
-                rss_text = ""
                 try:
-                    if getattr(e, "content", None):
-                        # ofta HTML-fulltext i content[0].value
-                        rss_text = clean_text((e.content[0].get("value") or ""))
+                    art.download(); art.parse()
+                    text = _extract_text_with_trafilatura(url, getattr(art, "html", None)) or (art.text or "")
                 except Exception:
-                    pass
-                if not rss_text:
-                    rss_text = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
-                if len(rss_text) >= MIN_TEXT_CHARS_RSS:
-                    text = rss_text
-                    used_fallback = True
+                    text = ""
 
+                # Fallback publ.datum
+                if not ts:
+                    try:
+                        if getattr(art, "publish_date", None) and isinstance(art.publish_date, datetime):
+                            ts = art.publish_date.timestamp()
+                    except Exception:
+                        pass
 
-            # 3) Släpp igenom bara om vi faktiskt har något
-            if len(text) < (MIN_TEXT_CHARS_RSS if used_fallback else MIN_TEXT_CHARS_ARTICLE):
-                continue
+                text = clean_text(text)
+                used_fallback = False
 
-            # 4) Språk – var snällare mot RSS-fallback
-            det_lang, prob = detect_lang_code(text)
-            need = (LANG_OK_PROB_RSS if used_fallback else LANG_OK_PROB)
-            # Acceptera om detektorn säger "sv" ELLER om den är osäker (< need)
-            if det_lang and det_lang != lang and prob >= need:
-                continue
+                # 2) RSS-fallback vid kort artikeln
+                if ALLOW_RSS_FALLBACK and len(text) < MIN_TEXT_CHARS_ARTICLE:
+                    rss_text = ""
+                    try:
+                        if getattr(e, "content", None):
+                            rss_text = clean_text((e.content[0].get("value") or ""))
+                    except Exception:
+                        pass
+                    if not rss_text:
+                        rss_text = clean_text(getattr(e, "summary", "") or getattr(e, "description", ""))
+                    if len(rss_text) >= MIN_TEXT_CHARS_RSS:
+                        text = rss_text
+                        used_fallback = True
 
-            seen.add(url)
-            out.append({
-                "title": title,
-                "text": text,
-                "url": url,
-                "published": ts,
-                "domain": _domain(url),
-                "language": lang,
-                "category": category,
-                "fallback": "rss" if used_fallback else "html",
-            })
+                # 3) Släng för kort text
+                if len(text) < (MIN_TEXT_CHARS_RSS if used_fallback else MIN_TEXT_CHARS_ARTICLE):
+                    continue
 
-            if REQUEST_DELAY:
-                time.sleep(REQUEST_DELAY)
+                # 4) Språkfilter
+                det_lang, prob = detect_lang_code(text)
+                need = (LANG_OK_PROB_RSS if used_fallback else LANG_OK_PROB)
+                if det_lang and det_lang != lang and prob >= need:
+                    continue
+
+                seen.add(url)
+                out.append({
+                    "title": title,
+                    "text": text,
+                    "url": url,
+                    "published": ts,
+                    "domain": _domain(url),
+                    "language": lang,
+                    "category": category,
+                    "fallback": "rss" if used_fallback else "html",
+                })
+
+                if REQUEST_DELAY:
+                    time.sleep(REQUEST_DELAY)
+                if len(out) >= limit:
+                    break  # sluta läsa fler entries från denna feed-sida
+
             if len(out) >= limit:
-                break
+                break  # sluta paginera denna feed
+            if all_too_old:
+                break  # sluta paginera (allt var gammalt)
+
         if len(out) >= limit:
-            break
+            break  # gå inte vidare till fler feeds
 
     print(f"✅ Insamlat {len(out)} artiklar för {category}/{lang}")
     return out

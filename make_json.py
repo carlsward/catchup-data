@@ -130,12 +130,14 @@ if TOPN or DAYS:
 KEEP_MODELS_LOADED = os.getenv("KEEP_MODELS_LOADED", "0") == "1"
 
 def _debug_day_hist(cands: list[dict], days: int):
-    from math import ceil
     rows = []
     for i in range(days):
         start, end = _day_bounds_local_utc(i)
-        rows.append(len(_filter_by_window(cands, start, end)))
+        # räkna bara artiklar med publicerad tid
+        day_docs = [d for d in cands if d.get("published") and start <= d["published"] < end]
+        rows.append(len(day_docs))
     print(f"📊 Kandidater per dag (nyast→äldst, {days}d): {rows}", flush=True)
+
 
 
 # ===================== BUCKET-URVAL =======================
@@ -161,7 +163,10 @@ def pick_strict_daily(
     # Steg A: dag-för-dag
     for i in range(days):
         start, end = _day_bounds_local_utc(i)
-        day_docs = _filter_by_window(candidates, start, end)
+        day_docs_all = _filter_by_window(candidates, start, end)
+
+        day_docs = [d for d in day_docs_all if d.get("published")]
+
         if not day_docs:
             continue
 
@@ -309,7 +314,10 @@ for category in CATEGORIES:
 
             print(f"\n--- {span.upper()}  ({days} dygn, top {topn}) ---", flush=True)
             cutoff = _now_ts() - days * 86400.0
-            candidates = [it for it in cache_items if _coalesce_ts(it) >= cutoff]
+            if span in ("day", "week", "month"):
+                candidates = [it for it in cache_items if it.get("published") and it["published"] >= cutoff]
+            else:
+                candidates = [it for it in cache_items if _coalesce_ts(it) >= cutoff]
             _debug_day_hist(candidates, days)
 
 
