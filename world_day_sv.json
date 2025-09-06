@@ -2,8 +2,8 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T00:59:54+00:00",
-  "total_raw": 6,
+  "generated": "2025-09-06T01:34:49+00:00",
+  "total_raw": 5,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
@@ -30,11 +30,11 @@
       "published": "2025-09-05T20:20:18Z"
     },
     {
-      "title": "Presidentfruar skickar brev om fred",
-      "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
-      "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
+      "title": "Trump skickar tio stridsflyg till Puerto Rico",
+      "summary": "Pentagon säger att två venezuelanska militärflygplan flög nära ett amerikanskt fartyg. Beslutet följer också ett amerikanskt robotangrepp på en båt i Karibiska havet som dödade elva personer, enligt Trump - administrationen. F - 35 - flygplanen anländer till USA: s territorium i Puerto Rico nästa vecka och är en del av en omfattande militär insats i Latinamerika.",
+      "url": "https://www.svt.se/nyheter/utrikes/trump-skickar-tio-stridsflyg-till-puerto-rico",
       "domain": "svt.se",
-      "published": "2025-09-05T01:26:28Z"
+      "published": "2025-09-05T15:33:23Z"
     }
   ]
 }
