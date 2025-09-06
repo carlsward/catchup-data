@@ -195,9 +195,7 @@ for category in CATEGORIES:
         cache_items = prune_cache(cache_items)
         save_cache(category, lang, cache_items)
 
-        # 2) Bygg spans från cache
-        seen_urls_across_spans: set[str] = set()
-
+        # 2) Bygg spans från cache – OBS: ingen dedup mellan spans
         for span, days, topn in SPAN_INFO:
             if topn <= 0:
                 print(f"⏭️  Skippar {span} (top_n={topn})")
@@ -214,15 +212,15 @@ for category in CATEGORIES:
                     span=span,
                     buckets=policy["buckets"],
                     per_bucket=policy["per_bucket"],
-                    exclude_urls=seen_urls_across_spans,
+                    exclude_urls=None,  # ← viktig ändring: ingen cross-span-exkludering
                 )
             else:
                 docs_rank = pipeline.choose_top_docs(
-                    candidates, top_n=topn, span=span, exclude_urls=seen_urls_across_spans
+                    candidates,
+                    top_n=topn,
+                    span=span,
+                    exclude_urls=None,   # ← viktig ändring
                 )
-
-            # undvik dubbletter mellan olika spans
-            seen_urls_across_spans.update(d.get("url") for d in docs_rank)
 
             # Bygg kort
             cards = []
@@ -263,3 +261,4 @@ index = {
 }
 write_json(OUTDIR / "index.json", index)
 print("✅ public/index.json", flush=True)
+

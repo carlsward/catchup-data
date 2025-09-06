@@ -327,13 +327,20 @@ def _jaccard(a: set, b: set) -> float:
 
 # ------------------ Rankning -------------------------------
 def domain_cap(docs: List[Dict], top_n: int) -> int:
-    """Beräkna ett rimligt per-domän-tak givet kandidatlistan.
-    Om vi har ≤2 domäner i materialet → ingen begränsning."""
+    """
+    Rimligt per-domän-tak givet kandidatlistan.
+    - Om bara 1 domän finns: tillåt upp till ~70% av platserna (avrundat uppåt),
+      men minst MAX_PER_DOMAIN.
+    - Om 2 domäner finns: ~60% (så båda syns om det går).
+    - Annars: fördela ungefärligt + 1 i slack, aldrig under MAX_PER_DOMAIN.
+    """
     doms = {d.get("domain", "") for d in docs if d.get("domain")}
-    if len(doms) <= 2:
-        return top_n  # disable cap när utbudet är tunt
-    # annars: fördela ungefärligt + lite slack, men inte lägre än din globala default
-    return max(MAX_PER_DOMAIN, int(math.ceil(top_n / max(1, len(doms)))) + 1)
+    k = len(doms)
+    if k <= 1:
+        return max(MAX_PER_DOMAIN, int(math.ceil(top_n * 0.7)))
+    if k == 2:
+        return max(MAX_PER_DOMAIN, int(math.ceil(top_n * 0.6)))
+    return max(MAX_PER_DOMAIN, int(math.ceil(top_n / k)) + 1)
 
 
 def choose_top_docs(
