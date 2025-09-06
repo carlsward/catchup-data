@@ -1,0 +1,23 @@
+backfill:
+  world:
+    sv:
+      # EXEMPEL 1: SVT sitemap – filtrera utrikes-URL:er
+      - type: sitemap
+        url: https://www.svt.se/sitemaps/sitemap-index.xml
+        include: "svt\\.se/nyheter/utrikes/"
+        exclude: "(sport|lokalt|inrikes|kultur|debatt)"
+        stop_days: 30
+
+      # EXEMPEL 2: Svenska Yle – sitemap (justera include efter behov)
+      - type: sitemap
+        url: https://svenska.yle.fi/sitemap.xml
+        include: "svenska\\.yle\\.fi/.*utrikes"
+        exclude: "(sport|kultur|inrikes)"
+        stop_days: 30
+
+      # EXEMPEL 3: WordPress-lik arkivsida (ersätt med faktisk kategori/arkiv-URL)
+      # - type: listing
+      #   url: https://globalbar.se/page/1/
+      #   include: "https://globalbar\\.se/\\d{4}/\\d{2}/"
+      #   exclude: "(debatt|kultur|sport)"
+      #   stop_days: 30
