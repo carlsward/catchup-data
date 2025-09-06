@@ -2,8 +2,8 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T01:36:31+00:00",
-  "total_raw": 27,
+  "generated": "2025-09-06T02:18:29+00:00",
+  "total_raw": 109,
   "total_rank": 14,
   "min_required": 3,
   "fallback_used": false,
@@ -14,6 +14,13 @@
       "url": "https://www.svt.se/nyheter/utrikes/40-procent-av-gaza-stad-overtaget-en-manad-innan-invasionen-skulle-inledas",
       "domain": "svt.se",
       "published": "2025-09-06T00:43:17Z"
+    },
+    {
+      "title": "Försökte attackera person med farligt föremål",
+      "summary": "Försökte attackera person med farligt föremål – greps på plats Under natten mot lördagen arresterades en person i en bostad i Lund efter att ha försökt misshandla en person med ett farligt föremål. För att din app ska fortsätta fungera som det är tänkt behöver du uppdatera till nyaste versionen. Använd den dagliga diskussionen för att hjälpa eleverna med läsförståelse och ordförråd.",
+      "url": "https://www.sydsvenskan.se/artikel/forsokte-attackera-person-med-farligt-foremal-greps-pa-plats/",
+      "domain": "sydsvenskan.se",
+      "published": "2025-09-05T23:48:35Z"
     },
     {
       "title": "Trump döper om Försvarsdepartementet",
@@ -30,18 +37,32 @@
       "published": "2025-09-05T20:20:18Z"
     },
     {
-      "title": "Trump skickar tio stridsflyg till Puerto Rico",
-      "summary": "Pentagon säger att två venezuelanska militärflygplan flög nära ett amerikanskt fartyg. Beslutet följer också ett amerikanskt robotangrepp på en båt i Karibiska havet som dödade elva personer, enligt Trump - administrationen. F - 35 - flygplanen anländer till USA: s territorium i Puerto Rico nästa vecka och är en del av en omfattande militär insats i Latinamerika.",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-skickar-tio-stridsflyg-till-puerto-rico",
-      "domain": "svt.se",
-      "published": "2025-09-05T15:33:23Z"
+      "title": "Malmö Redhawks",
+      "summary": "För att uppdatera din app måste du uppdatera till den nyaste versionen. Längst ner på sidan, klicka på knappen för att uppdatera! Du måste nu skriva in dig för att sidan ska fortsätta fungera som det är tänkt att vara en del av en Champions League kampanj.",
+      "url": "https://www.sydsvenskan.se/artikel/malmo-redhawks-linkoping-hc-atT9J/",
+      "domain": "sydsvenskan.se",
+      "published": "2025-09-05T19:43:47Z"
     },
     {
-      "title": "Protesterna i Serbien som kan leda till maktskifte",
-      "summary": "Förra hösten miste 16 personer livet när ett nyrenoverat tak rasade på tågstationen i Novi Sad. Olyckan blev en symbol för korruption och många serbiska medborgares ilska riktas mot den sittande presidenten Aleksandar Vučić. Som mest har hundratusentals tagit sig ut på gatorna samtidigt.",
-      "url": "https://www.svt.se/nyheter/utrikes/protesterna-i-serbien-som-kan-leda-till-maktskifte",
-      "domain": "svt.se",
-      "published": "2025-09-05T13:51:30Z"
+      "title": "Lagergren i Europatourledning",
+      "summary": "Lagergren sköt nio birdies och en eagle på The K Club. Den 33 - årige är ett skott före Adrien Saddier och fem skott före Rory McIlroy. I fjol vann Lagergren tävlingen på European Challengetouren.",
+      "url": "https://www.sydsvenskan.se/artikel/lagergren-i-europatourledning-efter-62-slag/",
+      "domain": "sydsvenskan.se",
+      "published": "2025-09-05T19:38:11Z"
+    },
+    {
+      "title": "Darth Vaders ljussabel såld för 34 miljoner",
+      "summary": "Ljussabel användes av skådespelaren David Prowse, som fysiskt gestaltade Vader, under inspelningarna. Det är den enda rekvisitan från filmerna med verifierad skärmtid som någonsin erbjudits på offentlig auktion. Det visar \" Star Wars \" bestående kulturella kraft och passionen hos fans och samlare som ser dessa artefakter som moderna mytologiska ikoner, sade Brandon Alinger, chef för Propstore.",
+      "url": "https://www.sydsvenskan.se/artikel/darth-vaders-ljussabel-sald-for-34-miljoner/",
+      "domain": "sydsvenskan.se",
+      "published": "2025-09-05T19:00:00Z"
+    },
+    {
+      "title": "Huset på Rosenholms Allé 15 i Malmö sålt igen",
+      "summary": "Anders Jörgen Jarl, 69, och Edith Catharina Margaretha Lachmann, 70, har nyligen blivit nya ägare till fastigheten på adressen Rosenholms Allé 15 i Malmö. Försäljningen blev klar i augusti 2025 och priset på huset landade på 27 700 000 kronor. Den tidigare ägaren köpte huset i juni 2024 för 25 000 000 dollar.",
+      "url": "https://www.sydsvenskan.se/artikel/huset-pa-rosenholms-alle-15-i-malmo-salt-igen-andra-gangen-pa-ett-ar/",
+      "domain": "sydsvenskan.se",
+      "published": "2025-09-05T10:31:52Z"
     },
     {
       "title": "Sudan: Hundratusentals fast i dödsfälla",
@@ -51,30 +72,9 @@
       "published": "2025-09-04T18:52:21Z"
     },
     {
-      "title": "Många barn sjuka i influensa",
-      "summary": "Nassersjukhuset i Khan Younis tar emot många barn med influensasymtom just nu. Det är trångt på barnkliniken, och barnens motståndskraft är påverkad av näringsbrist, berättar läkaren Ahmad Al - Farra. Barnets motståndskraft är också påverkad av brist på näring, säger läkaren, som tillägger: \" Det är viktigt att näringstillståndet inte är begränsat till näringsfysiologiska nivåer.",
-      "url": "https://www.svt.se/nyheter/utrikes/manga-barn-sjuka-i-influensa-svart-lage-pa-nassersjukhuset-i-gaza",
-      "domain": "svt.se",
-      "published": "2025-09-04T15:19:45Z"
-    },
-    {
-      "title": "Bil körde in i flera personer i Berlin",
-      "summary": "En bil körde in i flera personer i stadsdelen Wedding i Berlin, skriver Bild. Räddningstjänsten beskriver händelsen som en olycka och tre barn skadades lindrigt. Händelsen inträffade vid tidpunkten för olyckan.",
-      "url": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-flera-personer-i-berlin",
-      "domain": "svt.se",
-      "published": "2025-09-04T12:08:07Z"
-    },
-    {
       "title": "Därför borde EU villkora klimatkrediter",
       "summary": "EU bör kunna tillgodoräkna sig åtgärder i andra delar av världen i form av utsläppsenheter av hög kvalitet enligt artikel 6 i Parisavtalet. Kruxet är att sådana krediter endast kan utfärdas om det kan garanteras att insatserna är \" additionella \" Systemet garanterar att utsläppen minskar. Men det innebär i princip att det inte finns någon.",
       "url": "https://www.altinget.se/eu/artikel/darfor-borde-eu-villkora-klimatkrediter",
-      "domain": "altinget.se",
-      "published": "2025-09-04T02:00:00Z"
-    },
-    {
-      "title": "Ett år efter EU-valet sitter de konservativa tungt på makten",
-      "summary": "Ett år efter EU - valet sitter de konservativa tungt på makten De konservativa i högergruppen EPP har på allvar befäst sin makt i Europaparlamentet. Med gruppen i centrum för nästan alla majoriteter reduceras resten av parlamentet till statister. Niels Erik Kaaber Rasmussen och Marianne Skovlund: EU - bureauet är en dansk ideell förening för analytiker och journalister som arbetar med databaserad EU - journalistik, publicerar politiska analyser och arrangerar nätverksaktiviteter.",
-      "url": "https://www.altinget.se/eu/artikel/ett-aar-efter-eu-valet-sitter-de-konservativa-tungt-paa-makten",
       "domain": "altinget.se",
       "published": "2025-09-04T02:00:00Z"
     },
