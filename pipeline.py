@@ -73,14 +73,14 @@ SIM_TEXT_JACCARD = 0.28   # 0.25–0.35 vettigt intervall
 SIM_TITLE_JACCARD = 0.55  # titlar kortare → högre tröskel
 DOMAIN_REPUTATION = {
     "reuters.com": 1.0,
-    "bbc.co.uk": 0.95,
-    "bbc.com": 0.95,
-    "svt.se": 0.95,
-    "dn.se": 0.90,
-    "svd.se": 0.90,
-    "theguardian.com": 0.85,
-    "euronews.com": 0.70,
-    "expressen.se": 0.55,
+    "bbc.co.uk": 1,
+    "bbc.com": 1,
+    "svt.se": 1,
+    "dn.se": 1,
+    "svd.se": 1,
+    "theguardian.com": 1,
+    "euronews.com": 1,
+    "expressen.se": 1,
 }
 REP_DEFAULT = 0.60
 
@@ -100,7 +100,6 @@ NP_CFG.request_timeout = REQUEST_TIMEOUT
 # ------------------ Språk → modell (endast sv/en) ----------
 SUM_MODELS = {
     "sv": "Gabriel/bart-base-cnn-swe",
-    "en": "facebook/bart-large-cnn",
 }
 
 DECODING = {
