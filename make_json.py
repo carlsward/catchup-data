@@ -124,11 +124,12 @@ def pick_strict_daily(
     days: int,
     per_day: int,
     span: str,
-    per_day_domain_cap: int = 1,    # max 1/artikelkälla per dag om möjligt
+    per_day_domain_cap: int = 1,    # mål: max 1 per domän när flera domäner finns samma dag
 ) -> list[dict]:
     """
     Plockar upp till `per_day` artiklar för varje av de senaste `days` dagarna.
     Plockar ALDRIG extra från andra dagar – om en dag saknar material blir totalen lägre.
+    Domäncap är dynamisk: om dagen bara har en domän → tillåt upp till `per_day` från den.
     """
     now = _now_ts()
     seen: set[str] = set()
@@ -142,14 +143,18 @@ def pick_strict_daily(
         if not day_docs:
             continue
 
-        # Ta högst 'per_day' för den här dagen, utan recency-bias
+        # Dynamisk per-dag-domäncap
+        day_domains = {d.get("domain", "") for d in day_docs if d.get("domain")}
+        day_cap = per_day if len(day_domains) <= 1 else per_day_domain_cap
+
         sel = pipeline.choose_top_docs(
             day_docs,
             top_n=per_day,
-            span="month",                   # neutral recency
-            exclude_urls=seen,              # undvik dubletter inom spannet
-            max_per_domain=per_day_domain_cap,  # dämpa dominans per dag
+            span="month",              # neutral recency
+            exclude_urls=seen,         # undvik dubletter inom spannet
+            max_per_domain=day_cap,    # << viktig ändring
         )
+
         for d in sel:
             url = d.get("url")
             if not url or url in seen:
@@ -157,10 +162,9 @@ def pick_strict_daily(
             picked.append(d)
             seen.add(url)
 
-    # sortera nyast först i hela spannet
     picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
-    # klipp om något blev längre än teoretiskt mål (kan hända om dublettfiltrering slog sent)
     return picked[: days * per_day]
+
 
 
 def pick_by_buckets(
@@ -251,21 +255,31 @@ for category in CATEGORIES:
             candidates = [it for it in cache_items if _coalesce_ts(it) >= cutoff]
 
             policy = BUCKET_POLICY.get(span)
-            if policy:
+            if policy and policy.get("mode") == "strict_daily":
+                docs_rank = pick_strict_daily(
+                    candidates,
+                    days=policy["days"],
+                    per_day=policy["per_day"],
+                    span=span,
+                    per_day_domain_cap=1,   # ändra till 2 om du vill mjuka upp per-dag-domän-taket
+    )
+            elif policy:
+                # (behåll din gamla bucket-funktion om du vill kunna slå på den senare)
                 docs_rank = pick_by_buckets(
                     candidates,
                     span=span,
                     buckets=policy["buckets"],
                     per_bucket=policy["per_bucket"],
-                    exclude_urls=None,  # ← viktig ändring: ingen cross-span-exkludering
+                    exclude_urls=None,      # ingen cross-span-dedup
                 )
             else:
                 docs_rank = pipeline.choose_top_docs(
                     candidates,
                     top_n=topn,
                     span=span,
-                    exclude_urls=None,   # ← viktig ändring
+                    exclude_urls=None,      # ingen cross-span-dedup
                 )
+
 
             # Bygg kort
             cards = []
