@@ -2,9 +2,9 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T21:21:22+00:00",
+  "generated": "2025-09-06T22:28:12+00:00",
   "total_raw": 44,
-  "total_rank": 14,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
@@ -23,46 +23,11 @@
       "published": "2025-09-06T17:24:00Z"
     },
     {
-      "title": "Venezuelas Maduro anklagar USA för att planera ett ”våldsamt regimskifte",
-      "summary": "Venezuelas president Nicolás Maduro säger att USA bör överge sina planer på ett \" våldsamt regimskifte \" i Venezuela. USA har placerat ut marinfartyg och tusentals amerikanska marinsoldater. President Donald Trump avfärdade Maduros påstående på fredag och sa att USA inte talar om regimskifte.",
-      "url": "https://yle.fi/a/7-10083872?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-06T10:11:34Z"
-    },
-    {
-      "title": "Massivt bråk om vaccin i USA",
-      "summary": "Robert F. Kennedy har en minst sagt arbetsam sommar bakom sig. Under de senaste månaderna har hälsoministern klubbat reform efter reform – och ofta mötts av skarp kritik.",
-      "url": "https://www.svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
-      "domain": "svt.se",
-      "published": "2025-09-06T09:57:19Z"
-    },
-    {
-      "title": "SVT: Ryska signaler har stört 123 000 flyg i Östersjöområdet på fyra månader",
-      "summary": "I april påverkades 27 procent av flygningarna i de aktuella luftrummen. I vissa regioner översteg andelen 42 procent. Problemen varierade från felaktiga positionsuppgifter till systemstörningar som kunde följa flyget även efter att de lämnat störningsområdet.",
-      "url": "https://yle.fi/a/7-10083874?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-06T09:51:39Z"
-    },
-    {
-      "title": "40 procent av Gaza stad övertaget",
-      "summary": "IDF säger att det har tagit kontroll över 40 procent av staden och att offensiven ska intensifieras. Den israeliska offensiven har nu nått tätbefolkade stadsdelar vilket har lett till än fler dödade och skadade, varav flera barn, säger Samir Abu Eid, Mellanösternreporter. Hör mer om Israels offensiv och vad den kan få för konsekvenser för civilbefolkningen i videon ovan.",
-      "url": "https://www.svt.se/nyheter/utrikes/40-procent-av-gaza-stad-overtaget-en-manad-innan-invasionen-skulle-inledas",
-      "domain": "svt.se",
-      "published": "2025-09-06T00:43:17Z"
-    },
-    {
       "title": "Trump döper om Försvarsdepartementet",
       "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
       "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
       "domain": "svt.se",
       "published": "2025-09-05T20:31:38Z"
-    },
-    {
-      "title": "Populära gellack förbjuds",
-      "summary": "TPO är ett vanligt förekommande ämne i gelnagellack och andra nagelprodukter. Det påskyndar härdningen av produkterna i i UV - eller LED - ljus. Det har kopplats till flera olika hälsorisker.",
-      "url": "https://yle.fi/a/7-10083665?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-05T11:37:31Z"
     },
     {
       "title": "Efter bortglömda sekretesshandlingar",
@@ -77,13 +42,6 @@
       "url": "https://yle.fi/a/7-10083803?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-04T19:08:49Z"
-    },
-    {
-      "title": "Många barn sjuka i influensa",
-      "summary": "Nassersjukhuset i Khan Younis tar emot många barn med influensasymtom just nu. Det är trångt på barnkliniken, och barnens motståndskraft är påverkad av näringsbrist, berättar läkaren Ahmad Al - Farra. Barnets motståndskraft är också påverkad av brist på näring, säger läkaren, som tillägger: \" Det är viktigt att näringstillståndet inte är begränsat till näringsfysiologiska nivåer.",
-      "url": "https://www.svt.se/nyheter/utrikes/manga-barn-sjuka-i-influensa-svart-lage-pa-nassersjukhuset-i-gaza",
-      "domain": "svt.se",
-      "published": "2025-09-04T15:19:45Z"
     },
     {
       "title": "Bil körde in i flera personer i Berlin",
