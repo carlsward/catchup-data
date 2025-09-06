@@ -92,12 +92,12 @@ def prune_cache(items: list[dict]) -> list[dict]:
 CATEGORIES = list((pipeline.SOURCES or {}).keys()) or ["world"]
 LANGS = ["sv"]  # ← bara svenska
 
-# Bucket-policy: sprid urvalet över dagar
+# Bucket-policy: strikt per-dag-urval (ingen cross-dagsfyllning)
 BUCKET_POLICY = {
-    # day: “vanlig” ranking, ingen buckets (men kan sättas till {"buckets":1,"per_bucket":5})
-    "week":  {"buckets": 7,  "per_bucket": 2},  # 2 st per dag → 14
-    "month": {"buckets": 30, "per_bucket": 1},  # 1 st per dag → 30
+    "week":  {"mode": "strict_daily", "days": 7,  "per_day": 2},  # 2/dag → upp till 14
+    "month": {"mode": "strict_daily", "days": 30, "per_day": 1},  # 1/dag → upp till 30
 }
+
 
 # Antal kort per span (matcha bucket-policy där det finns)
 SPAN_INFO = [
@@ -117,6 +117,51 @@ KEEP_MODELS_LOADED = os.getenv("KEEP_MODELS_LOADED", "0") == "1"
 # ===================== BUCKET-URVAL =======================
 def _filter_by_window(items: list[dict], start_ts: float, end_ts: float) -> list[dict]:
     return [it for it in items if start_ts <= _coalesce_ts(it) < end_ts]
+
+def pick_strict_daily(
+    candidates: list[dict],
+    *,               # tvinga namngivna argument
+    days: int,
+    per_day: int,
+    span: str,
+    per_day_domain_cap: int = 1,    # max 1/artikelkälla per dag om möjligt
+) -> list[dict]:
+    """
+    Plockar upp till `per_day` artiklar för varje av de senaste `days` dagarna.
+    Plockar ALDRIG extra från andra dagar – om en dag saknar material blir totalen lägre.
+    """
+    now = _now_ts()
+    seen: set[str] = set()
+    picked: list[dict] = []
+
+    for i in range(days):
+        end = now - i * 86400.0
+        start = end - 86400.0
+
+        day_docs = _filter_by_window(candidates, start, end)
+        if not day_docs:
+            continue
+
+        # Ta högst 'per_day' för den här dagen, utan recency-bias
+        sel = pipeline.choose_top_docs(
+            day_docs,
+            top_n=per_day,
+            span="month",                   # neutral recency
+            exclude_urls=seen,              # undvik dubletter inom spannet
+            max_per_domain=per_day_domain_cap,  # dämpa dominans per dag
+        )
+        for d in sel:
+            url = d.get("url")
+            if not url or url in seen:
+                continue
+            picked.append(d)
+            seen.add(url)
+
+    # sortera nyast först i hela spannet
+    picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
+    # klipp om något blev längre än teoretiskt mål (kan hända om dublettfiltrering slog sent)
+    return picked[: days * per_day]
+
 
 def pick_by_buckets(
     candidates: list[dict],
