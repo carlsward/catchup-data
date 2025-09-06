@@ -125,43 +125,34 @@ def pick_by_buckets(
     per_bucket: int,
     exclude_urls: set[str] | None = None,
 ) -> list[dict]:
-    """
-    Sprid urvalet över `buckets` dagar bakåt (dag 0 = senaste dygnet),
-    välj `per_bucket` från varje dagsfack med pipeline.choose_top_docs (utan recency-bias).
-    Fyll underskott från resten av kandidaterna.
-    Respekterar global domänkapacitet över ALLA buckets.
-    """
     now = _now_ts()
     seen = set(exclude_urls or set())
     picked: list[dict] = []
     per_domain: dict[str, int] = {}
 
     target = buckets * per_bucket
+    global_cap = pipeline.domain_cap(candidates, target)  # dynamiskt per domän över HELA urvalet
 
     for i in range(buckets):
         end = now - i * 86400.0
         start = end - 86400.0
         bucket_docs = _filter_by_window(candidates, start, end)
-
         if not bucket_docs:
             continue
 
-        # undvik att överskrida global domänkapacitet när vi skickar in kandidater
-        cand = [
-            d for d in bucket_docs
-            if per_domain.get(d.get("domain",""), 0) < pipeline.MAX_PER_DOMAIN
-            and d.get("url") not in seen
-        ] or [d for d in bucket_docs if d.get("url") not in seen]
+        cand = [d for d in bucket_docs if d.get("url") not in seen]
 
+        # välj bästa i dagens fack – utan recency-bias, och låt choose_top_docs föreslå fler,
+        # vi vaktar global domän-cap när vi lägger till.
         sel = pipeline.choose_top_docs(
-            cand, top_n=per_bucket, span="month", exclude_urls=seen  # span 'month' = ingen recency
+            cand, top_n=per_bucket, span="month", exclude_urls=seen
         )
 
         for d in sel:
             if d.get("url") in seen:
                 continue
-            dom = d.get("domain","")
-            if per_domain.get(dom, 0) >= pipeline.MAX_PER_DOMAIN:
+            dom = d.get("domain", "")
+            if per_domain.get(dom, 0) >= global_cap:
                 continue
             picked.append(d)
             seen.add(d.get("url"))
@@ -170,16 +161,14 @@ def pick_by_buckets(
         if len(picked) >= target:
             break
 
-    # Fyll upp till målet med bästa återstående (utan recency)
+    # fyll upp om vi saknar
     need = target - len(picked)
     if need > 0:
         rest = [d for d in candidates if d.get("url") not in seen]
-        # filtrera bort domäner som redan slagit i taket
-        rest = [d for d in rest if per_domain.get(d.get("domain",""), 0) < pipeline.MAX_PER_DOMAIN] or rest
         extra = pipeline.choose_top_docs(rest, top_n=need, span="month", exclude_urls=seen)
         for d in extra:
-            dom = d.get("domain","")
-            if per_domain.get(dom, 0) >= pipeline.MAX_PER_DOMAIN:
+            dom = d.get("domain", "")
+            if per_domain.get(dom, 0) >= global_cap:
                 continue
             picked.append(d)
             seen.add(d.get("url"))
@@ -188,6 +177,7 @@ def pick_by_buckets(
                 break
 
     return picked[:target]
+
 
 # ===================== HUVUDSLINGA ========================
 for category in CATEGORIES:

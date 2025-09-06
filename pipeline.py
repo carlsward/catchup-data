@@ -326,185 +326,100 @@ def _jaccard(a: set, b: set) -> float:
     return 0.0 if inter == 0 else inter / float(len(a | b))
 
 # ------------------ Rankning -------------------------------
+def domain_cap(docs: List[Dict], top_n: int) -> int:
+    """Beräkna ett rimligt per-domän-tak givet kandidatlistan.
+    Om vi har ≤2 domäner i materialet → ingen begränsning."""
+    doms = {d.get("domain", "") for d in docs if d.get("domain")}
+    if len(doms) <= 2:
+        return top_n  # disable cap när utbudet är tunt
+    # annars: fördela ungefärligt + lite slack, men inte lägre än din globala default
+    return max(MAX_PER_DOMAIN, int(math.ceil(top_n / max(1, len(doms)))) + 1)
+
+
 def choose_top_docs(
     docs: List[Dict],
     top_n: int,
     span: str = "day",
-    exclude_urls: set[str] | None = None
+    exclude_urls: Optional[set[str]] = None,
+    max_per_domain: Optional[int] = None,
 ) -> List[Dict]:
-    """
-    day  : hybrid (recency + diversitet, MMR-light)
-    week : viktighet via story-kluster (recency≈0)
-    month: viktighet via story-kluster (recency≈0)
-    `exclude_urls` – hoppa över redan valda artiklar (för dedupe mellan spann).
-    """
     if not docs or top_n == 0:
         return []
 
-    # Dedupe mot tidigare spann
-    if exclude_urls:
-        docs = [d for d in docs if d.get("url") not in exclude_urls]
-        if not docs:
-            return []
-
-    # Förbered tokenisering & BM25
+    # BM25-bas
     corpus_tokens = [_tok(f"{d['title']} {d['text']}") for d in docs]
     bm25 = BM25Okapi(corpus_tokens)
-    bm25_scores = bm25.get_scores([])  # neutral "query"
+    bm25_scores = bm25.get_scores([])
 
+    # recency-vikt (svag för week/month i din konfig)
     now = time.time()
     rw = RECENCY_WEIGHT.get(span, RECENCY_WEIGHT["_default"])
 
-    items: List[Dict[str, Any]] = []
+    # dynamiskt domän-tak
+    cap = max_per_domain if max_per_domain is not None else domain_cap(docs, top_n)
+
+    items = []
     for s, d in zip(bm25_scores, docs):
+        if exclude_urls and d.get("url") in exclude_urls:
+            continue
         rec = 0.0
         if d.get("published"):
             age_days = max(1.0, (now - d["published"]) / 86400.0)
             rec = 1.0 / math.sqrt(age_days)
+        base = float(s) + rw * rec
 
-        lang = d.get("language", "en")
-        t_tokens = _title_tokens(d.get("title", ""), lang)
-        x_tokens = _norm_tokens(d.get("text", "")[:1200], lang)
-
+        lang = d.get("language", "sv")
         items.append({
             "doc": d,
-            "bm25": float(s),
-            "recency": rec,
-            "base_day": float(s) + rw * rec,   # används för 'day'
+            "base": base,
             "domain": d.get("domain", ""),
-            "title_tokens": t_tokens,
-            "text_tokens": x_tokens,
-            "text_len": len(d.get("text", "")),
+            "title_tokens": _title_tokens(d.get("title",""), lang),
+            "text_tokens": _norm_tokens(d.get("text","")[:1000], lang),
         })
 
-    # ---- 24 timmar: MMR-light med recency ----
-    if span == "day":
-        per_domain: Dict[str, int] = {}
-        selected: List[Dict] = []
-        candidates = sorted(items, key=lambda z: z["base_day"], reverse=True)
-
-        while candidates and len(selected) < top_n:
-            best_idx = -1
-            best_score = -1e9
-            for i, it in enumerate(candidates):
-                dom = it["domain"]
-                if per_domain.get(dom, 0) >= MAX_PER_DOMAIN:
-                    continue
-
-                max_sim = 0.0
-                title_dup = False
-                for s in selected:
-                    sim_title = _jaccard(it["title_tokens"], s["title_tokens"])
-                    if sim_title >= TITLE_DUP_JACCARD:
-                        title_dup = True
-                        break
-                    sim_text = _jaccard(it["text_tokens"], s["text_tokens"])
-                    if sim_text > max_sim:
-                        max_sim = sim_text
-                if title_dup:
-                    continue
-
-                mmr = it["base_day"] - DIVERSITY_LAMBDA * max_sim
-                if mmr > best_score:
-                    best_score = mmr
-                    best_idx = i
-
-            if best_idx < 0:
-                break
-
-            chosen = candidates.pop(best_idx)
-            per_domain[chosen["domain"]] = per_domain.get(chosen["domain"], 0) + 1
-            selected.append(chosen)
-
-        return [s["doc"] for s in selected]
-
-    # ---- Week/Month: story-klustring = viktighet ----
-    clusters: List[Dict[str, Any]] = []  # {"members": [item,...], "domains": set()}
-    for it in items:
-        placed = False
-        for cl in clusters:
-            if any(
-                (_jaccard(it["text_tokens"], m["text_tokens"]) >= SIM_TEXT_JACCARD) or
-                (_jaccard(it["title_tokens"], m["title_tokens"]) >= SIM_TITLE_JACCARD)
-                for m in cl["members"]
-            ):
-                cl["members"].append(it)
-                cl["domains"].add(it["domain"])
-                placed = True
-                break
-        if not placed:
-            clusters.append({"members": [it], "domains": {it["domain"]}})
-
-    # Ranka kluster
-    cluster_ranks: List[tuple[float, Dict[str, Any]]] = []
-    for cl in clusters:
-        mem = cl["members"]
-        n = len(mem)
-        uniq_dom = len(cl["domains"])
-
-        sims = []
-        for i, a in enumerate(mem):
-            best = 0.0
-            for j, b in enumerate(mem):
-                if i == j:
-                    continue
-                best = max(best, _jaccard(a["text_tokens"], b["text_tokens"]))
-            sims.append(best)
-        centrality = sum(sims) / len(sims) if sims else 0.0
-
-        score = (1.0 * n) + (0.6 * uniq_dom) + (0.8 * centrality * n)
-        cluster_ranks.append((score, cl))
-
-    cluster_ranks.sort(key=lambda t: t[0], reverse=True)
-
-    picked_docs: List[Dict] = []
     per_domain: Dict[str, int] = {}
+    selected: List[Dict] = []
+    candidates = sorted(items, key=lambda z: z["base"], reverse=True)
 
-    for _, cl in cluster_ranks:
-        if len(picked_docs) >= top_n:
+    while candidates and len(selected) < top_n:
+        best_idx = -1
+        best_score = -1e9
+        for i, it in enumerate(candidates):
+            dom = it["domain"]
+            if per_domain.get(dom, 0) >= cap:
+                continue
+
+            # diversitet mot redan valda (MMR-light)
+            max_sim = 0.0
+            title_dup = False
+            for s in selected:
+                if _jaccard(it["title_tokens"], s["title_tokens"]) >= TITLE_DUP_JACCARD:
+                    title_dup = True
+                    break
+                max_sim = max(max_sim, _jaccard(it["text_tokens"], s["text_tokens"]))
+            if title_dup:
+                continue
+
+            mmr = it["base"] - DIVERSITY_LAMBDA * max_sim
+            if mmr > best_score:
+                best_score = mmr
+                best_idx = i
+
+        if best_idx < 0:
             break
 
-        best_rep = None
-        best_rep_score = -1e9
-        for it in cl["members"]:
-            rep = DOMAIN_REPUTATION.get(it["domain"], REP_DEFAULT)
-            rep_score = (it["bm25"]) + (0.35 * rep) + (0.0006 * it["text_len"])
-            if rep_score > best_rep_score:
-                best_rep_score = rep_score
-                best_rep = it
+        chosen = candidates.pop(best_idx)
+        d = chosen["doc"]
+        per_domain[chosen["domain"]] = per_domain.get(chosen["domain"], 0) + 1
+        selected.append({
+            "title_tokens": chosen["title_tokens"],
+            "text_tokens": chosen["text_tokens"],
+            "doc": d,
+            "_score": chosen["base"],
+        })
 
-        if not best_rep:
-            continue
+    return [s["doc"] for s in selected]
 
-        dom = best_rep["domain"]
-        if per_domain.get(dom, 0) >= MAX_PER_DOMAIN:
-            alt = None
-            for it in sorted(cl["members"], key=lambda z: z["bm25"], reverse=True):
-                if per_domain.get(it["domain"], 0) < MAX_PER_DOMAIN:
-                    alt = it
-                    break
-            if not alt:
-                continue
-            best_rep = alt
-            dom = best_rep["domain"]
-
-        picked_docs.append(best_rep["doc"])
-        per_domain[dom] = per_domain.get(dom, 0) + 1
-
-    if len(picked_docs) < top_n:
-        remaining = [it for _, cl in cluster_ranks for it in cl["members"]]
-        seen_urls = {d["url"] for d in picked_docs}
-        for it in sorted(remaining, key=lambda z: z["bm25"], reverse=True):
-            if it["doc"]["url"] in seen_urls:
-                continue
-            if per_domain.get(it["domain"], 0) >= MAX_PER_DOMAIN:
-                continue
-            picked_docs.append(it["doc"])
-            per_domain[it["domain"]] = per_domain.get(it["domain"], 0) + 1
-            if len(picked_docs) >= top_n:
-                break
-
-    return picked_docs
 
 
 # ------------------ Summering & kort -----------------------
