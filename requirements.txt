@@ -10,3 +10,5 @@ protobuf>=3.20,<6
 trafilatura>=1.8
 accelerate>=0.30
 langdetect>=1.0.9
+requests>=2.31
+python-dateutil>=2.8.2

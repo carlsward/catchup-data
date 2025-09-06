@@ -1,4 +1,6 @@
 from __future__ import annotations
+from datetime import datetime, timezone
+
 
 # -----------------------------------------------------------
 #  CatchUp · insamling · ranking · språkvis summering
@@ -21,12 +23,15 @@ except Exception:
 import gc
 import math
 import time
+import calendar
+
 import re
 import os
 from typing import List, Dict, Optional, Any
 from datetime import datetime  # högst upp i filen
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
+
 
 import feedparser
 import newspaper
@@ -176,14 +181,19 @@ def detect_lang_code(text: str) -> tuple[str | None, float]:
 
 # ------------------ Hjälp & textstäd ----------------------
 def _epoch_from_entry(e) -> Optional[float]:
+    """
+    Returnera UNIX-epoch i UTC från feedparser-entry.
+    feedparser.*_parsed är UTC-baserad struct_time → använd calendar.timegm.
+    """
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(e, attr, None)
         if t:
             try:
-                return time.mktime(t)
+                return float(calendar.timegm(t))
             except Exception:
                 return None
     return None
+
 
 def _iso_utc_from_epoch(ts: Optional[float]) -> Optional[str]:
     return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(ts)) if ts else None
@@ -194,6 +204,38 @@ def _domain(url: str) -> str:
         return netloc[4:] if netloc.startswith("www.") else netloc
     except Exception:
         return ""
+    
+def canonicalize_url(u: str) -> str:
+    """
+    Normalisera URL för bättre dedup:
+    - lowercasa domän (utan www)
+    - ta bort trackingparametrar (utm_*, gclid, fbclid, m.fl.)
+    - ta bort trailing slash (ej root)
+    - ta bort /amp-suffix
+    - bevara ordningen i övrigt
+    """
+    try:
+        p = urlparse(u)
+        netloc = p.netloc.lower()
+        if netloc.startswith("www."):
+            netloc = netloc[4:]
+
+        # släng spårningsparametrar
+        drop = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content",
+                "gclid","fbclid","_hsenc","_hsmi","mc_cid","mc_eid"}
+        q = [(k, v) for (k, v) in parse_qsl(p.query, keep_blank_values=False) if k.lower() not in drop]
+        new_query = urlencode(q, doseq=True)
+
+        path = p.path or "/"
+        if path != "/" and path.endswith("/"):
+            path = path.rstrip("/")
+        # ta bort AMP-svans
+        path = re.sub(r"/amp/?$", "", path)
+
+        return urlunparse((p.scheme or "https", netloc, path, "", new_query, ""))
+    except Exception:
+        return u
+
 
 def _shorten_title(title: str, max_len: int = 80) -> str:
     t = (title or "").strip(" \"'\u2019\u201c\u201d")
@@ -287,7 +329,10 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
 
                 url = getattr(e, "link", None)
                 title = getattr(e, "title", "") or ""
-                if not url or url in seen:
+                if not url:
+                    continue
+                url = canonicalize_url(url)
+                if url in seen:
                     continue
 
                 # 1) Försök hämta fulltext
@@ -299,11 +344,16 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
                 except Exception:
                     text = ""
 
-                # Fallback publ.datum
+                # Fallback publ.datum → normalisera till UTC
                 if not ts:
                     try:
-                        if getattr(art, "publish_date", None) and isinstance(art.publish_date, datetime):
-                            ts = art.publish_date.timestamp()
+                        pd = getattr(art, "publish_date", None)
+                        if isinstance(pd, datetime):
+                            if pd.tzinfo is None:
+                                pd = pd.replace(tzinfo=timezone.utc)
+                            else:
+                                pd = pd.astimezone(timezone.utc)
+                            ts = pd.timestamp()
                     except Exception:
                         pass
 
@@ -364,6 +414,7 @@ def collect_articles(category: str, lang: str, days: int = 7, raw_limit: int | N
 
 
 
+
 # ------------------ Diversitets-hjälp ----------------------
 _STOPWORDS = {
     "en": {"the","a","an","of","and","to","in","on","for","with","by","at","from","as","that","this","is","are","be","was","were"},
@@ -388,19 +439,22 @@ def _jaccard(a: set, b: set) -> float:
 # ------------------ Rankning -------------------------------
 def domain_cap(docs: List[Dict], top_n: int) -> int:
     """
-    Rimligt per-domän-tak givet kandidatlistan.
-    - Om bara 1 domän finns: tillåt upp till ~70% av platserna (avrundat uppåt),
-      men minst MAX_PER_DOMAIN.
-    - Om 2 domäner finns: ~60% (så båda syns om det går).
-    - Annars: fördela ungefärligt + 1 i slack, aldrig under MAX_PER_DOMAIN.
+    Övre tak per domän givet kandidatlistan.
+    - 1 domän: tillåt upp till ~70% av platserna, klippt mot MAX_PER_DOMAIN.
+    - 2 domäner: ~60% (klippt mot MAX_PER_DOMAIN).
+    - ≥3 domäner: ungefärlig jämn fördelning (klippt mot MAX_PER_DOMAIN).
+    - Aldrig under 1.
     """
     doms = {d.get("domain", "") for d in docs if d.get("domain")}
     k = len(doms)
+    if top_n <= 1:
+        return 1
     if k <= 1:
-        return max(MAX_PER_DOMAIN, int(math.ceil(top_n * 0.7)))
+        return min(MAX_PER_DOMAIN, max(1, int(math.ceil(top_n * 0.7))))
     if k == 2:
-        return max(MAX_PER_DOMAIN, int(math.ceil(top_n * 0.6)))
-    return max(MAX_PER_DOMAIN, int(math.ceil(top_n / k)) + 1)
+        return min(MAX_PER_DOMAIN, max(1, int(math.ceil(top_n * 0.6))))
+    return min(MAX_PER_DOMAIN, max(1, int(math.ceil(top_n / max(1, k)))))
+
 
 
 def choose_top_docs(
@@ -413,20 +467,41 @@ def choose_top_docs(
     if not docs or top_n == 0:
         return []
 
-    # BM25-bas
+    # Tokenisera korpus
     corpus_tokens = [_tok(f"{d['title']} {d['text']}") for d in docs]
-    bm25 = BM25Okapi(corpus_tokens)
-    bm25_scores = bm25.get_scores([])
 
-    # recency-vikt (svag för week/month i din konfig)
+    # Bygg dokumentfrekvens och IDF (BM25-liknande)
+    N = max(1, len(corpus_tokens))
+    df: Dict[str, int] = {}
+    for toks in corpus_tokens:
+        for t in set(toks):
+            df[t] = df.get(t, 0) + 1
+
+    def idf(t: str) -> float:
+        # klassisk BM25-idf: log( (N - df + 0.5)/(df + 0.5) + 1 )
+        dft = df.get(t, 0)
+        return math.log((N - dft + 0.5) / (dft + 0.5) + 1.0)
+
+    # "Salience"-score: summa IDF över unika tokener, normaliserad
+    def salience(toks: List[str]) -> float:
+        if not toks:
+            return 0.0
+        uniq = set(toks)
+        s = sum(idf(t) for t in uniq)
+        return s / (1.0 + math.log(1.0 + len(uniq)))
+
+    sal_scores = [salience(toks) for toks in corpus_tokens]
+
+    # recency-vikt (svagare för week/month enligt din konfig)
     now = time.time()
     rw = RECENCY_WEIGHT.get(span, RECENCY_WEIGHT["_default"])
 
-    # dynamiskt domän-tak
+    # domän-tak
     cap = max_per_domain if max_per_domain is not None else domain_cap(docs, top_n)
 
+    # Packa kandidater
     items = []
-    for s, d in zip(bm25_scores, docs):
+    for s, d in zip(sal_scores, docs):
         if exclude_urls and d.get("url") in exclude_urls:
             continue
         rec = 0.0
@@ -453,7 +528,7 @@ def choose_top_docs(
         best_score = -1e9
         for i, it in enumerate(candidates):
             dom = it["domain"]
-            if per_domain.get(dom, 0) >= cap:
+            if cap and per_domain.get(dom, 0) >= cap:
                 continue
 
             # diversitet mot redan valda (MMR-light)
@@ -486,6 +561,7 @@ def choose_top_docs(
         })
 
     return [s["doc"] for s in selected]
+
 
 
 

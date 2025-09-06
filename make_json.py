@@ -5,8 +5,14 @@ from pathlib import Path
 import gc
 
 import pipeline
+import backfill
+
+# === ENV / FLAGGOR ===
+BACKFILL_ENABLED = os.getenv("BACKFILL_ENABLED", "1") == "1"
 LOCAL_TZ = ZoneInfo(os.getenv("LOCAL_TZ", "Europe/Stockholm"))
 STRICT_NO_GLOBAL_FILL = True  # sätt False om du vill garanterat nå 14/30 oavsett dagluckor
+STRICT_EXCLUDE_TODAY = os.getenv("STRICT_EXCLUDE_TODAY", "0") == "1"  # exkludera pågående dag i strict_daily
+DEBUG_DAY_BREAKDOWN = os.getenv("DEBUG_DAY_BREAKDOWN", "1") == "1"
 
 # ===================== OUTPUT =============================
 OUTDIR = Path("public")
@@ -108,10 +114,10 @@ def prune_cache(items: list[dict]) -> list[dict]:
 CATEGORIES = list((pipeline.SOURCES or {}).keys()) or ["world"]
 LANGS = ["sv"]  # ← bara svenska
 
-# Bucket-policy: strikt per-dag-urval (ingen cross-dagsfyllning)
+# Bucket-policy: strikt per-dag-urval
 BUCKET_POLICY = {
-    "week":  {"mode": "strict_daily", "days": 7,  "per_day": 2},  # 2/dag → upp till 14
-    "month": {"mode": "strict_daily", "days": 30, "per_day": 1},  # 1/dag → upp till 30
+    "week":  {"mode": "strict_nearby", "days": 7,  "per_day": 2},
+    "month": {"mode": "strict_nearby", "days": 30, "per_day": 1},
 }
 
 
@@ -139,6 +145,62 @@ def _debug_day_hist(cands: list[dict], days: int):
         rows.append(len(day_docs))
     print(f"📊 Kandidater per dag (nyast→äldst, {days}d): {rows}", flush=True)
 
+def _debug_day_breakdown(cands: list[dict], days: int):
+    if not DEBUG_DAY_BREAKDOWN:
+        return
+    for i in range(days):
+        start, end = _day_bounds_local_utc(i)
+        day_docs = [d for d in cands if d.get("published") and start <= d["published"] < end]
+        per_dom: dict[str, int] = {}
+        for d in day_docs:
+            dom = d.get("domain","")
+            per_dom[dom] = per_dom.get(dom, 0) + 1
+        if day_docs:
+            top = sorted(per_dom.items(), key=lambda x: -x[1])[:6]
+            print(f"🗓️  Dag -{i}: {len(day_docs)} kandidater · domäner: {top}", flush=True)
+        else:
+            print(f"🗓️  Dag -{i}: 0 kandidater", flush=True)
+
+def build_span_diagnostics(category: str, lang: str, span: str, days: int, candidates: list[dict], selected: list[dict]) -> dict:
+    diag = {
+        "category": category,
+        "language": lang,
+        "span": span,
+        "days": days,
+        "generated": utc_now_iso(),
+        "total_candidates": len(candidates),
+        "total_selected": len(selected),
+        "utc_range": None,
+        "per_day": [],
+        "per_domain_selected": {},
+    }
+    if candidates:
+        ts_all = [d["published"] for d in candidates if d.get("published")]
+        if ts_all:
+            diag["utc_range"] = {
+                "min": int(min(ts_all)),
+                "max": int(max(ts_all)),
+            }
+
+    # per dag
+    for i in range(days):
+        start, end = _day_bounds_local_utc(i)
+        day_c = [d for d in candidates if d.get("published") and start <= d["published"] < end]
+        day_s = [d for d in selected   if d.get("published") and start <= d["published"] < end]
+        diag["per_day"].append({
+            "day_index": i,  # 0 = idag (eller igår om du exkluderar pågående dag)
+            "candidates": len(day_c),
+            "selected": len(day_s),
+        })
+
+    # per domän (valda)
+    dom = {}
+    for d in selected:
+        nm = d.get("domain","")
+        dom[nm] = dom.get(nm, 0) + 1
+    diag["per_domain_selected"] = dict(sorted(dom.items(), key=lambda x: -x[1]))
+
+    return diag
 
 
 # ===================== BUCKET-URVAL =======================
@@ -154,19 +216,17 @@ def pick_strict_daily(
     Försök: EXAKT per_day per lokal kalenderdag senaste `days`.
     1) Välj först max 1/artikelkälla per dag.
     2) Fyll upp inom dagen till per_day.
-    3) Om några dagar ändå saknas -> global uppfyllnad över hela spannet
-       (utan dagskrav) för att nå 'days*per_day'.
+    3) Om några dagar ändå saknas -> global uppfyllnad (om STRICT_NO_GLOBAL_FILL=False).
     """
     target = days * per_day
     seen: set[str] = set()
     picked: list[dict] = []
 
-    # Steg A: dag-för-dag
-    for i in range(days):
+    # Valfritt: exkludera pågående dag för stabilitet
+    start_offset = 1 if STRICT_EXCLUDE_TODAY else 0
+    for i in range(start_offset, start_offset + days):
         start, end = _day_bounds_local_utc(i)
         day_docs = [d for d in candidates if d.get("published") and start <= d["published"] < end]
-
-
         if not day_docs:
             continue
 
@@ -202,7 +262,6 @@ def pick_strict_daily(
             if u and u not in seen:
                 picked.append(d)
                 seen.add(u)
-            
 
     # Steg B: Global uppfyllnad om vi inte nått målet
     if (not STRICT_NO_GLOBAL_FILL) and len(picked) < target:
@@ -221,13 +280,84 @@ def pick_strict_daily(
                     picked.append(d)
                     seen.add(u)
 
-
     # Nyast först i hela spannet
     picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
     return picked[:target]
 
+def pick_strict_nearby(
+    candidates: list[dict],
+    *,
+    days: int,
+    per_day: int,
+    span: str,
+    max_shift_days: int = 2,
+) -> list[dict]:
+    """
+    Exakt per_day per lokal kalenderdag, men om en dag har 0 kandidater:
+    låna från närmaste dag inom ±max_shift_days. Lånet taggas i export.
+    """
+    target = days * per_day
+    seen: set[str] = set()
+    picked: list[dict] = []
 
+    # Bygg dagsmap {dag_index: [docs]}
+    day_map: dict[int, list[dict]] = {}
+    for i in range(days):
+        start, end = _day_bounds_local_utc(i)
+        day_docs = [d for d in candidates if d.get("published") and start <= d["published"] < end]
+        if day_docs:
+            # välj först max 1 per domän
+            first = pipeline.choose_top_docs(day_docs, top_n=per_day, span="month", exclude_urls=seen, max_per_domain=1)
+            chosen = list(first)
+            if len(chosen) < per_day:
+                rem = [d for d in day_docs if d.get("url") not in {x.get("url") for x in chosen} and d.get("url") not in seen]
+                if rem:
+                    fill = pipeline.choose_top_docs(rem, top_n=per_day - len(chosen), span="month", exclude_urls=seen, max_per_domain=per_day)
+                    chosen += fill
+            day_map[i] = chosen[:per_day]
+        else:
+            day_map[i] = []
 
+    # Fyll luckor med lån ±max_shift_days
+    for i in range(days):
+        if len(day_map[i]) >= per_day:
+            continue
+        needed = per_day - len(day_map[i])
+        # sök närmaste dag med överskott
+        for shift in range(1, max_shift_days + 1):
+            for sign in (+1, -1):
+                j = i + sign * shift
+                if j < 0 or j >= days:
+                    continue
+                avail = [d for d in day_map[j] if d.get("url") not in seen]
+                if not avail:
+                    continue
+                take = avail[:needed]
+                # tagga att vi lånade
+                for d in take:
+                    d = dict(d)
+                    d["_borrowed_from"] = j  # lagra index; du kan översätta till datum senare om du vill
+                    day_map[i].append(d)
+                    # ta bort från ursprungsdagens lista
+                    day_map[j] = [x for x in day_map[j] if x.get("url") != d.get("url")]
+                    needed -= 1
+                    if needed == 0:
+                        break
+                if needed == 0:
+                    break
+            if needed == 0:
+                break
+
+    # Plocka upp i nyast-först ordning och klipp
+    for i in range(days):
+        for d in day_map[i]:
+            u = d.get("url")
+            if u and u not in seen:
+                picked.append(d)
+                seen.add(u)
+
+    picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
+    return picked[:target]
 
 
 def pick_by_buckets(
@@ -237,59 +367,108 @@ def pick_by_buckets(
     per_bucket: int,
     exclude_urls: set[str] | None = None,
 ) -> list[dict]:
+    """
+    Bucket-baserat urval (1 kalenderdygn = 1 bucket).
+    - Val per bucket sker i två pass:
+        1) max 1 per domän (för diversitet inom dagen)
+        2) fyll upp resterande platser (tillåt fler från samma domän om det behövs)
+    - Global domän-cap vaktas över hela spannet.
+    - Om env STRICT_EXCLUDE_TODAY=1 hoppar vi över pågående dag.
+    - Fyller upp globalt om totalen saknas.
+    """
     now = _now_ts()
     seen = set(exclude_urls or set())
     picked: list[dict] = []
     per_domain: dict[str, int] = {}
 
     target = buckets * per_bucket
-    global_cap = pipeline.domain_cap(candidates, target)  # dynamiskt per domän över HELA urvalet
+    # Globalt domän-tak över hela urvalet (använder dina pipeline-regler)
+    global_cap = pipeline.domain_cap(candidates, target)
 
-    for i in range(buckets):
+    # Valfritt: exkludera pågående dag för stabilare 7/30-dagars
+    start_offset = 1 if STRICT_EXCLUDE_TODAY else 0
+
+    # Loopa dag för dag (bucket 0 = senaste 24h om STRICT_EXCLUDE_TODAY=0)
+    for i in range(start_offset, start_offset + buckets):
         end = now - i * 86400.0
         start = end - 86400.0
         bucket_docs = _filter_by_window(candidates, start, end)
         if not bucket_docs:
             continue
 
+        # Filtrera bort redan valda URL:er
         cand = [d for d in bucket_docs if d.get("url") not in seen]
+        if not cand:
+            continue
 
-        # välj bästa i dagens fack – utan recency-bias, och låt choose_top_docs föreslå fler,
-        # vi vaktar global domän-cap när vi lägger till.
-        sel = pipeline.choose_top_docs(
-            cand, top_n=per_bucket, span="month", exclude_urls=seen
+        # PASS 1: max 1 per domän inom dagens bucket
+        sel1 = pipeline.choose_top_docs(
+            cand,
+            top_n=per_bucket,
+            span="month",             # neutral recency
+            exclude_urls=seen,
+            max_per_domain=1,         # främja inom-daglig diversitet
         )
 
-        for d in sel:
-            if d.get("url") in seen:
+        chosen_urls = {d.get("url") for d in sel1 if d.get("url")}
+        remaining = [d for d in cand if d.get("url") not in chosen_urls]
+
+        # PASS 2: fyll upp till per_bucket om det saknas
+        sel2: list[dict] = []
+        if len(sel1) < per_bucket and remaining:
+            sel2 = pipeline.choose_top_docs(
+                remaining,
+                top_n=per_bucket - len(sel1),
+                span="month",
+                exclude_urls=seen,
+                max_per_domain=per_bucket,  # släpp domän-taket inom dagen för att kunna fylla
+            )
+
+        # Lägg till val från båda passen, men respektera GLOBAL domän-cap
+        for d in (sel1 + sel2):
+            url = d.get("url")
+            if not url or url in seen:
                 continue
             dom = d.get("domain", "")
             if per_domain.get(dom, 0) >= global_cap:
                 continue
             picked.append(d)
-            seen.add(d.get("url"))
-            per_domain[dom] = per_domain.get(dom, 0) + 1
-
-        if len(picked) >= target:
-            break
-
-    # fyll upp om vi saknar
-    need = target - len(picked)
-    if need > 0:
-        rest = [d for d in candidates if d.get("url") not in seen]
-        extra = pipeline.choose_top_docs(rest, top_n=need, span="month", exclude_urls=seen)
-        for d in extra:
-            dom = d.get("domain", "")
-            if per_domain.get(dom, 0) >= global_cap:
-                continue
-            picked.append(d)
-            seen.add(d.get("url"))
+            seen.add(url)
             per_domain[dom] = per_domain.get(dom, 0) + 1
             if len(picked) >= target:
                 break
 
-    return picked[:target]
+        if len(picked) >= target:
+            break
 
+    # Global uppfyllnad om vi saknar totalmålet
+    need = target - len(picked)
+    if need > 0:
+        rest = [d for d in candidates if d.get("url") not in seen]
+        if rest:
+            extra = pipeline.choose_top_docs(
+                rest,
+                top_n=need,
+                span="month",
+                exclude_urls=seen,
+                # inget max_per_domain här – vi vaktar global_cap när vi lägger till
+            )
+            for d in extra:
+                url = d.get("url")
+                if not url or url in seen:
+                    continue
+                dom = d.get("domain", "")
+                if per_domain.get(dom, 0) >= global_cap:
+                    continue
+                picked.append(d)
+                seen.add(url)
+                per_domain[dom] = per_domain.get(dom, 0) + 1
+                if len(picked) >= target:
+                    break
+
+    # Sortera nyast först och klipp till target
+    picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
+    return picked[:target]
 
 # ===================== HUVUDSLINGA ========================
 for category in CATEGORIES:
@@ -300,14 +479,30 @@ for category in CATEGORIES:
         cache_items = load_cache(category, lang)
         max_days = max(days for _, days, _ in SPAN_INFO)
         raw_cap = 400 if max_days >= 30 else 200
+
         print(f"⏳ Hämtar nya artiklar (≤ {max_days} dygn, cap {raw_cap})…", flush=True)
+
+        # Steg 0: Backfill från sitemaps/arkiv (frivillig)
+        if BACKFILL_ENABLED:
+            try:
+                bf_docs = backfill.run_backfill(category, lang, days=max_days)
+            except Exception as e:
+                print(f"⚠️  Backfill-avhopp: {e}", flush=True)
+                bf_docs = []
+        else:
+            bf_docs = []
+
+        # Steg 1: Vanlig RSS-insamling
         new_docs = pipeline.collect_articles(category, lang, days=max_days, raw_limit=raw_cap)
 
+        # 2) Uppdatera cache: backfill först (äldre) + nya via RSS
+        if bf_docs:
+            cache_items = update_cache_with_new(cache_items, bf_docs)
         cache_items = update_cache_with_new(cache_items, new_docs)
         cache_items = prune_cache(cache_items)
         save_cache(category, lang, cache_items)
 
-        # 2) Bygg spans från cache – OBS: ingen dedup mellan spans
+        # 3) Bygg spans från cache – OBS: ingen dedup mellan spans
         for span, days, topn in SPAN_INFO:
             if topn <= 0:
                 print(f"⏭️  Skippar {span} (top_n={topn})")
@@ -319,8 +514,10 @@ for category in CATEGORIES:
                 candidates = [it for it in cache_items if it.get("published") and it["published"] >= cutoff]
             else:
                 candidates = [it for it in cache_items if _coalesce_ts(it) >= cutoff]
-            _debug_day_hist(candidates, days)
 
+            _debug_day_hist(candidates, days)
+            if BUCKET_POLICY.get(span, {}).get("mode") == "strict_daily":
+                _debug_day_breakdown(candidates, days)
 
             policy = BUCKET_POLICY.get(span)
             if policy and policy.get("mode") == "strict_daily":
@@ -330,9 +527,16 @@ for category in CATEGORIES:
                     per_day=policy["per_day"],
                     span=span,
                 )
+            elif policy and policy.get("mode") == "strict_nearby":
+                docs_rank = pick_strict_nearby(
+                    candidates,
+                    days=policy["days"],
+                    per_day=policy["per_day"],
+                    span=span,
+                    max_shift_days=int(os.getenv("NEARBY_SHIFT_DAYS", "2")),
+    )
 
             elif policy:
-                # (behåll din gamla bucket-funktion om du vill kunna slå på den senare)
                 docs_rank = pick_by_buckets(
                     candidates,
                     span=span,
@@ -347,7 +551,6 @@ for category in CATEGORIES:
                     span=span,
                     exclude_urls=None,      # ingen cross-span-dedup
                 )
-
 
             # Bygg kort
             cards = []
@@ -375,11 +578,17 @@ for category in CATEGORIES:
             write_json(fname, payload)
             print(f"✅ {fname}", flush=True)
 
+            # Diagnostik-JSON
+            diag = build_span_diagnostics(category, lang, span, days, candidates, docs_rank)
+            dfname = OUTDIR / f"diagnostics_{category}_{span}_{lang}.json"
+            write_json(dfname, diag)
+            print(f"🩺 {dfname}", flush=True)
+
         if not KEEP_MODELS_LOADED:
             pipeline.unload_summarizer(lang)
             gc.collect()
 
-# 3) Indexfil
+# 4) Indexfil
 index = {
     "categories": CATEGORIES,
     "languages": LANGS,
@@ -388,4 +597,3 @@ index = {
 }
 write_json(OUTDIR / "index.json", index)
 print("✅ public/index.json", flush=True)
-
