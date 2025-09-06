@@ -511,7 +511,10 @@ def summarize_for_lang(text: str, lang: str) -> str:
         strict = kwargs.copy()
         strict["num_beams"] = max(6, kwargs.get("num_beams", 6) + 2)
         strict["no_repeat_ngram_size"] = max(4, kwargs.get("no_repeat_ngram_size", 3) + 1)
-        strict["max_length"] = int(kwargs.get("max_length", 220) * 0.9)
+        # justera max_new_tokens i stället för max_length
+        strict["max_new_tokens"] = max(120, int(kwargs.get("max_new_tokens", 160) * 0.9))
+        strict.pop("max_length", None)  # säkerställ att vi inte skickar båda
+
         out2 = summ(txt, **strict)
         summ_text2 = postprocess_summary(out2[0]["summary_text"])
         s2, p2 = detect_lang_code(summ_text2)

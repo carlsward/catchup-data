@@ -6,6 +6,7 @@ import gc
 
 import pipeline
 LOCAL_TZ = ZoneInfo(os.getenv("LOCAL_TZ", "Europe/Stockholm"))
+STRICT_NO_GLOBAL_FILL = True  # sätt False om du vill garanterat nå 14/30 oavsett dagluckor
 
 # ===================== OUTPUT =============================
 OUTDIR = Path("public")
@@ -163,9 +164,8 @@ def pick_strict_daily(
     # Steg A: dag-för-dag
     for i in range(days):
         start, end = _day_bounds_local_utc(i)
-        day_docs_all = _filter_by_window(candidates, start, end)
+        day_docs = [d for d in candidates if d.get("published") and start <= d["published"] < end]
 
-        day_docs = [d for d in day_docs_all if d.get("published")]
 
         if not day_docs:
             continue
@@ -202,9 +202,10 @@ def pick_strict_daily(
             if u and u not in seen:
                 picked.append(d)
                 seen.add(u)
+            
 
     # Steg B: Global uppfyllnad om vi inte nått målet
-    if len(picked) < target:
+    if (not STRICT_NO_GLOBAL_FILL) and len(picked) < target:
         rest = [d for d in candidates if d.get("url") not in seen]
         if rest:
             add = pipeline.choose_top_docs(
@@ -212,7 +213,6 @@ def pick_strict_daily(
                 top_n=target - len(picked),
                 span="month",
                 exclude_urls=seen,
-                # balansera källor över helheten (dynamisk cap)
                 max_per_domain=pipeline.domain_cap(candidates, target),
             )
             for d in add:
@@ -220,6 +220,7 @@ def pick_strict_daily(
                 if u and u not in seen:
                     picked.append(d)
                     seen.add(u)
+
 
     # Nyast först i hela spannet
     picked.sort(key=lambda it: _coalesce_ts(it), reverse=True)
