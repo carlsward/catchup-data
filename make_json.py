@@ -129,6 +129,15 @@ if TOPN or DAYS:
 
 KEEP_MODELS_LOADED = os.getenv("KEEP_MODELS_LOADED", "0") == "1"
 
+def _debug_day_hist(cands: list[dict], days: int):
+    from math import ceil
+    rows = []
+    for i in range(days):
+        start, end = _day_bounds_local_utc(i)
+        rows.append(len(_filter_by_window(cands, start, end)))
+    print(f"📊 Kandidater per dag (nyast→äldst, {days}d): {rows}", flush=True)
+
+
 # ===================== BUCKET-URVAL =======================
 
 def pick_strict_daily(
@@ -301,6 +310,8 @@ for category in CATEGORIES:
             print(f"\n--- {span.upper()}  ({days} dygn, top {topn}) ---", flush=True)
             cutoff = _now_ts() - days * 86400.0
             candidates = [it for it in cache_items if _coalesce_ts(it) >= cutoff]
+            _debug_day_hist(candidates, days)
+
 
             policy = BUCKET_POLICY.get(span)
             if policy and policy.get("mode") == "strict_daily":
