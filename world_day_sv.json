@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T02:22:49+00:00",
-  "total_raw": 87,
+  "generated": "2025-09-06T21:19:44+00:00",
+  "total_raw": 10,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump döper om Försvarsdepartementet",
-      "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
+      "title": "Bergbaneolyckan i Lissabon orsakades av kabelfel",
+      "summary": "Sexton människor omkom när en kabel som förenade två bergbanevagnar gick av på onsdagskvällen och den ena vagnen störtade ner och krockade med en byggnad. Bland dödsoffren fanns 11 utlänningar, men inga finländare. En officiell och mer detaljerad rapport om olyckan väntas vara klar först närmare slutet av oktober.",
+      "url": "https://yle.fi/a/7-10083884?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-06T20:27:45Z"
+    },
+    {
+      "title": "Därför undviker EU att markera skarpt mot Serbien",
+      "summary": "Protester ägde rum utanför filosofiska fakulteten på Novi Sads universitet. EU: s intresse för Serbien som viktig strategisk partner kan väga in och dämpa viljan till konflikt. Protesterna har hittills varit i huvudsak fredliga, men våldsamma grupper har angripit polis med stenkastning och fyrverkerier.",
+      "url": "https://www.svt.se/nyheter/utrikes/darfor-undviker-eu-att-markera-skarpt-mot-serbien",
       "domain": "svt.se",
-      "published": "2025-09-05T20:31:38Z"
+      "published": "2025-09-06T17:24:00Z"
     },
     {
-      "title": "Lagergren i Europatourledning",
-      "summary": "Lagergren sköt nio birdies och en eagle på The K Club. Den 33 - årige är ett skott före Adrien Saddier och fem skott före Rory McIlroy. I fjol vann Lagergren tävlingen på European Challengetouren.",
-      "url": "https://www.sydsvenskan.se/artikel/lagergren-i-europatourledning-efter-62-slag/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T19:38:11Z"
+      "title": "SVT: Ryska signaler har stört 123 000 flyg i Östersjöområdet på fyra månader",
+      "summary": "I april påverkades 27 procent av flygningarna i de aktuella luftrummen. I vissa regioner översteg andelen 42 procent. Problemen varierade från felaktiga positionsuppgifter till systemstörningar som kunde följa flyget även efter att de lämnat störningsområdet.",
+      "url": "https://yle.fi/a/7-10083874?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-06T09:51:39Z"
     },
     {
-      "title": "Tv: Här slår blixten ner i huset",
-      "summary": "Ett rejält åskoväder drog över Malmö på fredagen. Flera blixtnedslag noterades och en blixt slog rakt ner i ett hus på Sofielund. För att din app ska fortsätta fungera som det är tänkt behöver du uppdatera till nyaste versionen.",
-      "url": "https://www.sydsvenskan.se/artikel/tv-har-slar-blixten-ner-i-huset/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T10:51:19Z"
+      "title": "Massivt bråk om vaccin i USA",
+      "summary": "Robert F. Kennedy har en minst sagt arbetsam sommar bakom sig. Under de senaste månaderna har hälsoministern klubbat reform efter reform – och ofta mötts av skarp kritik.",
+      "url": "https://www.svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
+      "domain": "svt.se",
+      "published": "2025-09-06T09:57:19Z"
     },
     {
-      "title": "Frölundas superstart",
-      "summary": "Ella Hellman rakade in 1 - 2 på en retur i slutet av tredje perioden av SDHL - premiären i Coop Norrbotten Arena. Det var Luleås fjärde seger på raken mot det lag som varit giganten i svensk damhockey. På isen vrålade målskytten ut sin glädje.",
-      "url": "https://www.gp.se/sport/ishockey/frolunda/frolundas-superstart-vann-guldreprisen.0045bd10-297d-4078-ab5c-7fc1c3c9b52d",
-      "domain": "gp.se",
-      "published": "2025-09-05T19:10:56Z"
-    },
-    {
-      "title": "Nya ägare till villa i Lund",
-      "summary": "Försäljningen av fastigheten på Läsvägen 27 i Lund är nu klar. Nya ägare är Diego Andres Gonzalez Lopez, 41, och Elsa Magdalena Gertrud Hedling, 40, och säljare Knut - Ingvar och Lilian Bodil Marianne Mårtensson. Huset är byggt 1964 och har en boyta på 122 kvadratmeter.",
-      "url": "https://www.sydsvenskan.se/artikel/nya-agare-till-villa-i-lund-6-475-000-kronor-blev-priset/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T16:01:52Z"
+      "title": "Ny attack mot höghus i Gaza stad",
+      "summary": "Hamas använde 15 våningar Soussi Tower för att observera israeliska trupper och utföra attacker via underjordiska tunnlar anslutna till huset. IDF: s talesman förvarnade invånarna om att attacken var på gång, och uppmanade dem att evakuera. En IDF talesman sade att attacken pågick, och att boende uppmanades att hålla sig borta från området i väntan på en evakueringsorder.",
+      "url": "https://www.svt.se/nyheter/utrikes/ny-attack-mot-hoghus-i-gaza-stad",
+      "domain": "svt.se",
+      "published": "2025-09-06T14:07:23Z"
     }
   ]
 }

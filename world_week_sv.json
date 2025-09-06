@@ -2,25 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T02:24:36+00:00",
-  "total_raw": 109,
+  "generated": "2025-09-06T21:21:22+00:00",
+  "total_raw": 44,
   "total_rank": 14,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Bergbaneolyckan i Lissabon orsakades av kabelfel",
+      "summary": "Sexton människor omkom när en kabel som förenade två bergbanevagnar gick av på onsdagskvällen och den ena vagnen störtade ner och krockade med en byggnad. Bland dödsoffren fanns 11 utlänningar, men inga finländare. En officiell och mer detaljerad rapport om olyckan väntas vara klar först närmare slutet av oktober.",
+      "url": "https://yle.fi/a/7-10083884?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-06T20:27:45Z"
+    },
+    {
+      "title": "Därför undviker EU att markera skarpt mot Serbien",
+      "summary": "Protester ägde rum utanför filosofiska fakulteten på Novi Sads universitet. EU: s intresse för Serbien som viktig strategisk partner kan väga in och dämpa viljan till konflikt. Protesterna har hittills varit i huvudsak fredliga, men våldsamma grupper har angripit polis med stenkastning och fyrverkerier.",
+      "url": "https://www.svt.se/nyheter/utrikes/darfor-undviker-eu-att-markera-skarpt-mot-serbien",
+      "domain": "svt.se",
+      "published": "2025-09-06T17:24:00Z"
+    },
+    {
+      "title": "Venezuelas Maduro anklagar USA för att planera ett ”våldsamt regimskifte",
+      "summary": "Venezuelas president Nicolás Maduro säger att USA bör överge sina planer på ett \" våldsamt regimskifte \" i Venezuela. USA har placerat ut marinfartyg och tusentals amerikanska marinsoldater. President Donald Trump avfärdade Maduros påstående på fredag och sa att USA inte talar om regimskifte.",
+      "url": "https://yle.fi/a/7-10083872?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-06T10:11:34Z"
+    },
+    {
+      "title": "Massivt bråk om vaccin i USA",
+      "summary": "Robert F. Kennedy har en minst sagt arbetsam sommar bakom sig. Under de senaste månaderna har hälsoministern klubbat reform efter reform – och ofta mötts av skarp kritik.",
+      "url": "https://www.svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
+      "domain": "svt.se",
+      "published": "2025-09-06T09:57:19Z"
+    },
+    {
+      "title": "SVT: Ryska signaler har stört 123 000 flyg i Östersjöområdet på fyra månader",
+      "summary": "I april påverkades 27 procent av flygningarna i de aktuella luftrummen. I vissa regioner översteg andelen 42 procent. Problemen varierade från felaktiga positionsuppgifter till systemstörningar som kunde följa flyget även efter att de lämnat störningsområdet.",
+      "url": "https://yle.fi/a/7-10083874?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-06T09:51:39Z"
+    },
     {
       "title": "40 procent av Gaza stad övertaget",
       "summary": "IDF säger att det har tagit kontroll över 40 procent av staden och att offensiven ska intensifieras. Den israeliska offensiven har nu nått tätbefolkade stadsdelar vilket har lett till än fler dödade och skadade, varav flera barn, säger Samir Abu Eid, Mellanösternreporter. Hör mer om Israels offensiv och vad den kan få för konsekvenser för civilbefolkningen i videon ovan.",
       "url": "https://www.svt.se/nyheter/utrikes/40-procent-av-gaza-stad-overtaget-en-manad-innan-invasionen-skulle-inledas",
       "domain": "svt.se",
       "published": "2025-09-06T00:43:17Z"
-    },
-    {
-      "title": "Försökte attackera person med farligt föremål",
-      "summary": "Försökte attackera person med farligt föremål – greps på plats Under natten mot lördagen arresterades en person i en bostad i Lund efter att ha försökt misshandla en person med ett farligt föremål. För att din app ska fortsätta fungera som det är tänkt behöver du uppdatera till nyaste versionen. Använd den dagliga diskussionen för att hjälpa eleverna med läsförståelse och ordförråd.",
-      "url": "https://www.sydsvenskan.se/artikel/forsokte-attackera-person-med-farligt-foremal-greps-pa-plats/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T23:48:35Z"
     },
     {
       "title": "Trump döper om Försvarsdepartementet",
@@ -30,53 +58,39 @@
       "published": "2025-09-05T20:31:38Z"
     },
     {
-      "title": "Demonstrationerna i Serbien fortsätter: ”På randen till revolution",
-      "summary": "Serbien har skakats av våldsamma sammandrabbningar mellan polisen och regeringskritiska demonstranter i över tio månader. Under helgen fortsätter de stora protesterna i landet. På fredag blockerade runt 1000 personer en väg i Novi Sad, rapporterar EBU med hänvisning till lokala medier.",
-      "url": "https://www.svt.se/nyheter/utrikes/demonstrationerna-i-serbien-fortsatter-pa-randen-till-revolution",
+      "title": "Populära gellack förbjuds",
+      "summary": "TPO är ett vanligt förekommande ämne i gelnagellack och andra nagelprodukter. Det påskyndar härdningen av produkterna i i UV - eller LED - ljus. Det har kopplats till flera olika hälsorisker.",
+      "url": "https://yle.fi/a/7-10083665?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-05T11:37:31Z"
+    },
+    {
+      "title": "Efter bortglömda sekretesshandlingar",
+      "summary": "Henrik Landerholm, Sveriges tidigare nationella säkerhetsrådgivare frias för brott av Attunda tingsrätt. Han stod åtalad för vårdslöshet med hemlig uppgift för att ha glömt sekretessbelagda dokument i ett olåst värdeskåp på en kursgård, våren 2023. Domstolen bedömde att uppgifter i de bortglömda handlingarna kunde skada Sveriges säkerhet, och att de kan betraktas som röjda.",
+      "url": "https://yle.fi/a/7-10083827?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-05T09:11:25Z"
+    },
+    {
+      "title": "Analys: Ukrainas säkerhetsgarantier fick en knuff framåt",
+      "summary": "26 länder har nu åtagit sig att stödja Ukraina med garantier. Syftet med garantierna är att förhindra att Ryssland utnyttjar en vapenvila eller ett fredsavtal med Ukraina för att rusta upp för ett nytt angrepp mot landet. Många svåra avvägningar väntar de länder som förbundit sig vid att skydda Ukraina mot framtida rysk aggression.",
+      "url": "https://yle.fi/a/7-10083803?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-04T19:08:49Z"
+    },
+    {
+      "title": "Många barn sjuka i influensa",
+      "summary": "Nassersjukhuset i Khan Younis tar emot många barn med influensasymtom just nu. Det är trångt på barnkliniken, och barnens motståndskraft är påverkad av näringsbrist, berättar läkaren Ahmad Al - Farra. Barnets motståndskraft är också påverkad av brist på näring, säger läkaren, som tillägger: \" Det är viktigt att näringstillståndet inte är begränsat till näringsfysiologiska nivåer.",
+      "url": "https://www.svt.se/nyheter/utrikes/manga-barn-sjuka-i-influensa-svart-lage-pa-nassersjukhuset-i-gaza",
       "domain": "svt.se",
-      "published": "2025-09-05T20:20:18Z"
+      "published": "2025-09-04T15:19:45Z"
     },
     {
-      "title": "Malmö Redhawks",
-      "summary": "För att uppdatera din app måste du uppdatera till den nyaste versionen. Längst ner på sidan, klicka på knappen för att uppdatera! Du måste nu skriva in dig för att sidan ska fortsätta fungera som det är tänkt att vara en del av en Champions League kampanj.",
-      "url": "https://www.sydsvenskan.se/artikel/malmo-redhawks-linkoping-hc-atT9J/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T19:43:47Z"
-    },
-    {
-      "title": "Lagergren i Europatourledning",
-      "summary": "Lagergren sköt nio birdies och en eagle på The K Club. Den 33 - årige är ett skott före Adrien Saddier och fem skott före Rory McIlroy. I fjol vann Lagergren tävlingen på European Challengetouren.",
-      "url": "https://www.sydsvenskan.se/artikel/lagergren-i-europatourledning-efter-62-slag/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T19:38:11Z"
-    },
-    {
-      "title": "Darth Vaders ljussabel såld för 34 miljoner",
-      "summary": "Ljussabel användes av skådespelaren David Prowse, som fysiskt gestaltade Vader, under inspelningarna. Det är den enda rekvisitan från filmerna med verifierad skärmtid som någonsin erbjudits på offentlig auktion. Det visar \" Star Wars \" bestående kulturella kraft och passionen hos fans och samlare som ser dessa artefakter som moderna mytologiska ikoner, sade Brandon Alinger, chef för Propstore.",
-      "url": "https://www.sydsvenskan.se/artikel/darth-vaders-ljussabel-sald-for-34-miljoner/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T19:00:00Z"
-    },
-    {
-      "title": "Huset på Rosenholms Allé 15 i Malmö sålt igen",
-      "summary": "Anders Jörgen Jarl, 69, och Edith Catharina Margaretha Lachmann, 70, har nyligen blivit nya ägare till fastigheten på adressen Rosenholms Allé 15 i Malmö. Försäljningen blev klar i augusti 2025 och priset på huset landade på 27 700 000 kronor. Den tidigare ägaren köpte huset i juni 2024 för 25 000 000 dollar.",
-      "url": "https://www.sydsvenskan.se/artikel/huset-pa-rosenholms-alle-15-i-malmo-salt-igen-andra-gangen-pa-ett-ar/",
-      "domain": "sydsvenskan.se",
-      "published": "2025-09-05T10:31:52Z"
-    },
-    {
-      "title": "Sudan: Hundratusentals fast i dödsfälla",
-      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
-      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
+      "title": "Bil körde in i flera personer i Berlin",
+      "summary": "En bil körde in i flera personer i stadsdelen Wedding i Berlin, skriver Bild. Räddningstjänsten beskriver händelsen som en olycka och tre barn skadades lindrigt. Händelsen inträffade vid tidpunkten för olyckan.",
+      "url": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-flera-personer-i-berlin",
       "domain": "svt.se",
-      "published": "2025-09-04T18:52:21Z"
-    },
-    {
-      "title": "Därför borde EU villkora klimatkrediter",
-      "summary": "EU bör kunna tillgodoräkna sig åtgärder i andra delar av världen i form av utsläppsenheter av hög kvalitet enligt artikel 6 i Parisavtalet. Kruxet är att sådana krediter endast kan utfärdas om det kan garanteras att insatserna är \" additionella \" Systemet garanterar att utsläppen minskar. Men det innebär i princip att det inte finns någon.",
-      "url": "https://www.altinget.se/eu/artikel/darfor-borde-eu-villkora-klimatkrediter",
-      "domain": "altinget.se",
-      "published": "2025-09-04T02:00:00Z"
+      "published": "2025-09-04T12:08:07Z"
     },
     {
       "title": "Bergbana har spårat ur i Lissabon",
@@ -91,20 +105,6 @@
       "url": "https://www.svt.se/nyheter/utrikes/darfor-mots-ryssland-nordkorea-och-kina-just-nu",
       "domain": "svt.se",
       "published": "2025-09-03T11:53:13Z"
-    },
-    {
-      "title": "Veckan i EU: Europatour, utvidgning och het tulldiskussion väntas i parlamentet",
-      "summary": "Under höstterminens första officiella jobbvecka börjar rådets ordförande António Costa en rundresa bland medlemsländerna. Europeiska kommissionen presenterar nya budgetförslag och EU - minister Jessica Rosencrantz ( M ) träffar sina kollegor i för att diskutera unionens nästa utvidgning. Europaparlamentets talman Roberta Metsola sparkar igång den nya EU - terminen efter sommaruppehållet med en frukost i parlamentsbyggnaderna.",
-      "url": "https://www.altinget.se/eu/artikel/veckan-i-eu-europatour-utvidgning-och-het-tulldiskussion-vantas-i-parlamentet",
-      "domain": "altinget.se",
-      "published": "2025-09-01T04:00:00Z"
-    },
-    {
-      "title": "Så kan EU stärka sin konkurrenskraft och globala roll",
-      "summary": "I en orolig omvärld måste EU växla upp tempot, fördjupa handelsrelationerna och skapa bättre förutsättningar för privata investeringar. Ingrid Serup, handelspolitisk expert på Svenskt näringsliv I ett tal förra veckan sade Mario Draghi att EU inte längre är en global stormakt med geopolitiskt och handelspolitiskt inflytande. För att återta tätpositionen måste EU fortsätta stå upp för regelbaserad handel och driva en ambitiös agenda för att ingå frihandelsavtal för att öka företagens möjlighet att diversifiera.",
-      "url": "https://www.altinget.se/eu/artikel/saa-kan-eu-starka-sin-konkurrenskraft-och-globala-roll",
-      "domain": "altinget.se",
-      "published": "2025-09-01T02:00:00Z"
     }
   ]
 }
