@@ -2,32 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-05T23:54:11+00:00",
+  "generated": "2025-09-06T00:12:32+00:00",
   "total_raw": 17,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
-    {
-      "title": "Xi, Kim och Putin möts för första gången",
-      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
-      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
-      "domain": "svt.se",
-      "published": "2025-09-03T03:14:04Z"
-    },
-    {
-      "title": "Trump skickar tio stridsflyg till Puerto Rico",
-      "summary": "Pentagon säger att två venezuelanska militärflygplan flög nära ett amerikanskt fartyg. Beslutet följer också ett amerikanskt robotangrepp på en båt i Karibiska havet som dödade elva personer, enligt Trump - administrationen. F - 35 - flygplanen anländer till USA: s territorium i Puerto Rico nästa vecka och är en del av en omfattande militär insats i Latinamerika.",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-skickar-tio-stridsflyg-till-puerto-rico",
-      "domain": "svt.se",
-      "published": "2025-09-05T15:33:23Z"
-    },
     {
       "title": "Protesterna i Serbien som kan leda till maktskifte",
       "summary": "Förra hösten miste 16 personer livet när ett nyrenoverat tak rasade på tågstationen i Novi Sad. Olyckan blev en symbol för korruption och många serbiska medborgares ilska riktas mot den sittande presidenten Aleksandar Vučić. Som mest har hundratusentals tagit sig ut på gatorna samtidigt.",
       "url": "https://www.svt.se/nyheter/utrikes/protesterna-i-serbien-som-kan-leda-till-maktskifte",
       "domain": "svt.se",
       "published": "2025-09-05T13:51:30Z"
+    },
+    {
+      "title": "Biden opererad för hudcancer",
+      "summary": "För två år sedan, när Biden fortfarande var USA: s president, gjorde han en liknande operation på bröstet. Då rörde det sig om basaliom, en vanlig form av hudcancer. I maj tidigare i år bekräftade Joe Biden även att han diagnostiserats med en aggressiv form av prostatacancer som spridit sig till hans skelett.",
+      "url": "https://www.svt.se/nyheter/utrikes/biden-opererad-for-hudcancer",
+      "domain": "svt.se",
+      "published": "2025-09-04T22:23:10Z"
+    },
+    {
+      "title": "Sudan: Hundratusentals fast i dödsfälla",
+      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
+      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
+      "domain": "svt.se",
+      "published": "2025-09-04T18:52:21Z"
+    },
+    {
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
+      "domain": "svt.se",
+      "published": "2025-09-03T03:14:04Z"
     }
   ]
 }
