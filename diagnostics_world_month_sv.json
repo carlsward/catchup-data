@@ -1,0 +1,169 @@
+{
+  "category": "world",
+  "language": "sv",
+  "span": "month",
+  "days": 30,
+  "generated": "2025-09-06T23:56:23+00:00",
+  "total_candidates": 55,
+  "total_selected": 4,
+  "utc_range": {
+    "min": 1756858537,
+    "max": 1757190465
+  },
+  "per_day": [
+    {
+      "day_index": 0,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 1,
+      "candidates": 10,
+      "selected": 1
+    },
+    {
+      "day_index": 2,
+      "candidates": 24,
+      "selected": 1
+    },
+    {
+      "day_index": 3,
+      "candidates": 11,
+      "selected": 1
+    },
+    {
+      "day_index": 4,
+      "candidates": 10,
+      "selected": 1
+    },
+    {
+      "day_index": 5,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 6,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 7,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 8,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 9,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 10,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 11,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 12,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 13,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 14,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 15,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 16,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 17,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 18,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 19,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 20,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 21,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 22,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 23,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 24,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 25,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 26,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 27,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 28,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 29,
+      "candidates": 0,
+      "selected": 0
+    }
+  ],
+  "per_domain_selected": {
+    "yle.fi": 3,
+    "svt.se": 1
+  }
+}

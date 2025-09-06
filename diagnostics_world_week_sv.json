@@ -1,0 +1,54 @@
+{
+  "category": "world",
+  "language": "sv",
+  "span": "week",
+  "days": 7,
+  "generated": "2025-09-06T23:55:43+00:00",
+  "total_candidates": 55,
+  "total_selected": 8,
+  "utc_range": {
+    "min": 1756858537,
+    "max": 1757190465
+  },
+  "per_day": [
+    {
+      "day_index": 0,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 1,
+      "candidates": 10,
+      "selected": 2
+    },
+    {
+      "day_index": 2,
+      "candidates": 24,
+      "selected": 2
+    },
+    {
+      "day_index": 3,
+      "candidates": 11,
+      "selected": 2
+    },
+    {
+      "day_index": 4,
+      "candidates": 10,
+      "selected": 2
+    },
+    {
+      "day_index": 5,
+      "candidates": 0,
+      "selected": 0
+    },
+    {
+      "day_index": 6,
+      "candidates": 0,
+      "selected": 0
+    }
+  ],
+  "per_domain_selected": {
+    "svt.se": 5,
+    "yle.fi": 3
+  }
+}

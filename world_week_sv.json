@@ -2,39 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T23:49:11+00:00",
-  "total_raw": 44,
+  "generated": "2025-09-06T23:55:43+00:00",
+  "total_raw": 55,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Bergbaneolyckan i Lissabon orsakades av kabelfel",
-      "summary": "Sexton människor omkom när en kabel som förenade två bergbanevagnar gick av på onsdagskvällen och den ena vagnen störtade ner och krockade med en byggnad. Bland dödsoffren fanns 11 utlänningar, men inga finländare. En officiell och mer detaljerad rapport om olyckan väntas vara klar först närmare slutet av oktober.",
-      "url": "https://yle.fi/a/7-10083884?origin=rss",
+      "title": "Venezuelas Maduro anklagar USA för att planera ett ”våldsamt regimskifte",
+      "summary": "Venezuelas president Nicolás Maduro säger att USA bör överge sina planer på ett \" våldsamt regimskifte \" i Venezuela. USA har placerat ut marinfartyg och tusentals amerikanska marinsoldater. President Donald Trump avfärdade Maduros påstående på fredag och sa att USA inte talar om regimskifte.",
+      "url": "https://yle.fi/a/7-10083872?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-06T20:27:45Z"
+      "published": "2025-09-06T10:11:34Z"
     },
     {
-      "title": "Därför undviker EU att markera skarpt mot Serbien",
-      "summary": "Protester ägde rum utanför filosofiska fakulteten på Novi Sads universitet. EU: s intresse för Serbien som viktig strategisk partner kan väga in och dämpa viljan till konflikt. Protesterna har hittills varit i huvudsak fredliga, men våldsamma grupper har angripit polis med stenkastning och fyrverkerier.",
-      "url": "https://www.svt.se/nyheter/utrikes/darfor-undviker-eu-att-markera-skarpt-mot-serbien",
+      "title": "Massivt bråk om vaccin i USA",
+      "summary": "Robert F. Kennedy har en minst sagt arbetsam sommar bakom sig. Under de senaste månaderna har hälsoministern klubbat reform efter reform – och ofta mötts av skarp kritik.",
+      "url": "https://svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
       "domain": "svt.se",
-      "published": "2025-09-06T17:24:00Z"
+      "published": "2025-09-06T09:57:19Z"
     },
     {
-      "title": "Trump döper om Försvarsdepartementet",
-      "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
-      "domain": "svt.se",
-      "published": "2025-09-05T20:31:38Z"
-    },
-    {
-      "title": "Efter bortglömda sekretesshandlingar",
-      "summary": "Henrik Landerholm, Sveriges tidigare nationella säkerhetsrådgivare frias för brott av Attunda tingsrätt. Han stod åtalad för vårdslöshet med hemlig uppgift för att ha glömt sekretessbelagda dokument i ett olåst värdeskåp på en kursgård, våren 2023. Domstolen bedömde att uppgifter i de bortglömda handlingarna kunde skada Sveriges säkerhet, och att de kan betraktas som röjda.",
-      "url": "https://yle.fi/a/7-10083827?origin=rss",
+      "title": "Putins besök i Kina ses som en seger i Ryssland",
+      "summary": "Ryska medier beskriver landets president Vladimir Putin som den främsta gästen under veckans toppmöte i Kina. Ryska bedömare tror att besöket var en stor framgång för Ryssland och ett bakslag för \" det kollektiva västet \" Medierna jublar över att Rysslands \" multipolära världsordning \" är fullbordad och att USA: s dominans är avslutad. I Moskva menar man också att Rysslands position har stärkts tack vare att minst 20 nya samarbetsavtal skrevs under med Kina inom kärnenergi, jordbruk, utbildning och innovation.",
+      "url": "https://yle.fi/a/7-10083778?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-05T09:11:25Z"
+      "published": "2025-09-05T02:30:12Z"
+    },
+    {
+      "title": "Presidentfruar skickar brev om fred",
+      "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
+      "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
+      "domain": "svt.se",
+      "published": "2025-09-05T01:26:28Z"
     },
     {
       "title": "Analys: Ukrainas säkerhetsgarantier fick en knuff framåt",
@@ -44,11 +44,11 @@
       "published": "2025-09-04T19:08:49Z"
     },
     {
-      "title": "Bil körde in i flera personer i Berlin",
-      "summary": "En bil körde in i flera personer i stadsdelen Wedding i Berlin, skriver Bild. Räddningstjänsten beskriver händelsen som en olycka och tre barn skadades lindrigt. Händelsen inträffade vid tidpunkten för olyckan.",
-      "url": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-flera-personer-i-berlin",
+      "title": "Sudan: Hundratusentals fast i dödsfälla",
+      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
+      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
       "domain": "svt.se",
-      "published": "2025-09-04T12:08:07Z"
+      "published": "2025-09-04T18:52:21Z"
     },
     {
       "title": "Bergbana har spårat ur i Lissabon",
@@ -58,11 +58,11 @@
       "published": "2025-09-03T18:14:03Z"
     },
     {
-      "title": "Därför möts Ryssland, Nordkorea och Kina just nu",
-      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Rysslands president Vladimir Putin och Nordkoreas diktator Kim Jong - Un var de mest uppmärksammade besökarna. Det är första gången som männen har träffats i offentligheten.",
-      "url": "https://www.svt.se/nyheter/utrikes/darfor-mots-ryssland-nordkorea-och-kina-just-nu",
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
       "domain": "svt.se",
-      "published": "2025-09-03T11:53:13Z"
+      "published": "2025-09-03T03:14:04Z"
     }
   ]
 }

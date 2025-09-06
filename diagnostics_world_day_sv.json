@@ -1,0 +1,24 @@
+{
+  "category": "world",
+  "language": "sv",
+  "span": "day",
+  "days": 1,
+  "generated": "2025-09-06T23:54:28+00:00",
+  "total_candidates": 10,
+  "total_selected": 5,
+  "utc_range": {
+    "min": 1757119397,
+    "max": 1757190465
+  },
+  "per_day": [
+    {
+      "day_index": 0,
+      "candidates": 0,
+      "selected": 0
+    }
+  ],
+  "per_domain_selected": {
+    "yle.fi": 3,
+    "svt.se": 2
+  }
+}

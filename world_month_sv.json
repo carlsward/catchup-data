@@ -2,25 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T23:49:41+00:00",
-  "total_raw": 44,
+  "generated": "2025-09-06T23:56:23+00:00",
+  "total_raw": 55,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Bergbaneolyckan i Lissabon orsakades av kabelfel",
-      "summary": "Sexton människor omkom när en kabel som förenade två bergbanevagnar gick av på onsdagskvällen och den ena vagnen störtade ner och krockade med en byggnad. Bland dödsoffren fanns 11 utlänningar, men inga finländare. En officiell och mer detaljerad rapport om olyckan väntas vara klar först närmare slutet av oktober.",
-      "url": "https://yle.fi/a/7-10083884?origin=rss",
+      "title": "Venezuelas Maduro anklagar USA för att planera ett ”våldsamt regimskifte",
+      "summary": "Venezuelas president Nicolás Maduro säger att USA bör överge sina planer på ett \" våldsamt regimskifte \" i Venezuela. USA har placerat ut marinfartyg och tusentals amerikanska marinsoldater. President Donald Trump avfärdade Maduros påstående på fredag och sa att USA inte talar om regimskifte.",
+      "url": "https://yle.fi/a/7-10083872?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-06T20:27:45Z"
+      "published": "2025-09-06T10:11:34Z"
     },
     {
-      "title": "Trump döper om Försvarsdepartementet",
-      "summary": "Ordern uppmanar till att använda det nya namnet och att titulera försvarsminister Pete Hegseth som krigsminister. Innan dess hette det just Department of War ( Krigsdepartementet ), ett namn som användes under större delen av USA: s historia fram till efter andra världskriget. Namnet blir inledningsvis en.",
-      "url": "https://www.svt.se/nyheter/utrikes/trump-doper-om-forsvarsdepartementet-ska-heta-krigsdepartementet",
-      "domain": "svt.se",
-      "published": "2025-09-05T20:31:38Z"
+      "title": "Putins besök i Kina ses som en seger i Ryssland",
+      "summary": "Ryska medier beskriver landets president Vladimir Putin som den främsta gästen under veckans toppmöte i Kina. Ryska bedömare tror att besöket var en stor framgång för Ryssland och ett bakslag för \" det kollektiva västet \" Medierna jublar över att Rysslands \" multipolära världsordning \" är fullbordad och att USA: s dominans är avslutad. I Moskva menar man också att Rysslands position har stärkts tack vare att minst 20 nya samarbetsavtal skrevs under med Kina inom kärnenergi, jordbruk, utbildning och innovation.",
+      "url": "https://yle.fi/a/7-10083778?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-05T02:30:12Z"
     },
     {
       "title": "Analys: Ukrainas säkerhetsgarantier fick en knuff framåt",
@@ -30,11 +30,11 @@
       "published": "2025-09-04T19:08:49Z"
     },
     {
-      "title": "Bergbana har spårat ur i Lissabon",
-      "summary": "Olyckan inträffade mellan Restauradores och Príncipe Real. Bergbanan var på väg ner från utsiktsplatsen São Pedro de Alcântara när den plötsligt spårade ur och kraschade in i en byggnad. Vittnen berättar för lokala medier hur bergbanan skenade okontrollerat nerför den smala gränden.",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
+      "title": "Xi, Kim och Putin möts för första gången",
+      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
+      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
       "domain": "svt.se",
-      "published": "2025-09-03T18:14:03Z"
+      "published": "2025-09-03T03:14:04Z"
     }
   ]
 }
