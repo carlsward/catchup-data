@@ -2,8 +2,8 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-06T23:54:28+00:00",
-  "total_raw": 10,
+  "generated": "2025-09-07T04:32:22+00:00",
+  "total_raw": 11,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
@@ -14,6 +14,20 @@
       "url": "https://yle.fi/a/7-10083872?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-06T10:11:34Z"
+    },
+    {
+      "title": "Livet som biståndsarbetare i Tchad",
+      "summary": "Iriba är en stad i östra Tchad med närmare 48 000 invånare. Staden ligger mitt ute i öknen men är ett viktigt administrativt centrum för de biståndsorganisationer som är verksamma i området. Det finns både beväpnade banditer och rebeller i området och det har hänt att biståndsorganisationernas bilar har kapats.",
+      "url": "https://yle.fi/a/7-10082790?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-07T04:10:52Z"
+    },
+    {
+      "title": "Experten varnar för stor oljeolycka på Östersjön: ”Bara en tidsfråga",
+      "summary": "Den ryska skuggflottan uppskattas nu till drygt 600 fartyg. Oseriösa rederier rundar därför säkerhetsbestämmelserna genom att segla under falsk flagg. Vissa fartyg har tidigare varit registrerade i länder med internationellt erkända register, men blivit av med sina registreringar när de satts under sanktioner eller på grund av bristande sjövärdighet.",
+      "url": "https://svt.se/nyheter/utrikes/experten-varnar-for-stor-oljeolycka-pa-ostersjon-bara-en-tidsfraga",
+      "domain": "svt.se",
+      "published": "2025-09-07T04:12:10Z"
     },
     {
       "title": "SVT: Ryska signaler har stört 123 000 flyg i Östersjöområdet på fyra månader",
@@ -28,20 +42,6 @@
       "url": "https://svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
       "domain": "svt.se",
       "published": "2025-09-06T09:57:19Z"
-    },
-    {
-      "title": "Trump anklagas för ”militär ockupation”",
-      "summary": "Nationalgardet stationerades i Washington D. C tillsammans med federala polismyndigheter för att bekämpa våldsbrottsligheten. Ordern har väckt starka reaktioner och demonstrationerna i huvudstaden har avlöst varandra.",
-      "url": "https://svt.se/nyheter/utrikes/trump-anklagas-for-militar-ockupation-stams",
-      "domain": "svt.se",
-      "published": "2025-09-06T14:06:26Z"
-    },
-    {
-      "title": "Israel tvångsevakuerar palestinier undan offensiv mot Gaza stad",
-      "summary": "Enligt Israel inför man en humanitär zon i området al - Mawasi i Khan Younis i södra Gaza. Invånarna i Gaza stad uppmanas nu att ta sig dit. Området har tidigare klassats som en humanitärt zon, men inget område på Gazaremsan har skonats från israeliska attacker under kriget under kriget.",
-      "url": "https://yle.fi/a/7-10083871?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-06T07:01:59Z"
     }
   ]
 }
