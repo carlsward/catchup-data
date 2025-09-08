@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-07T06:56:44+00:00",
-  "total_raw": 11,
+  "generated": "2025-09-08T07:08:02+00:00",
+  "total_raw": 16,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Venezuelas Maduro anklagar USA för att planera ett ”våldsamt regimskifte",
-      "summary": "Venezuelas president Nicolás Maduro säger att USA bör överge sina planer på ett \" våldsamt regimskifte \" i Venezuela. USA har placerat ut marinfartyg och tusentals amerikanska marinsoldater. President Donald Trump avfärdade Maduros påstående på fredag och sa att USA inte talar om regimskifte.",
-      "url": "https://yle.fi/a/7-10083872?origin=rss",
+      "title": "Frankrikes djupa ekonomiska kris kan få hela regeringen att falla",
+      "summary": "François Bayrou har kallat till förtroendeomröstning efter hård kritik mot hans sparpaket på cirka 44 miljarder euro. Sparpaket skulle bland annat innebära minskade stöd för pensionärer, arbetslösa, personer med funktionsnedsättning och fattiga. Nicolas Dupont - Aignan, en av den sittande mitten - konservativa regeringens ivrigaste motståndare, menar att premiärministern är en bricka i det politiska spelet.",
+      "url": "https://yle.fi/a/7-10083878?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-06T10:11:34Z"
+      "published": "2025-09-08T05:02:38Z"
     },
     {
-      "title": "Livet som biståndsarbetare i Tchad",
-      "summary": "Iriba är en stad i östra Tchad med närmare 48 000 invånare. Staden ligger mitt ute i öknen men är ett viktigt administrativt centrum för de biståndsorganisationer som är verksamma i området. Det finns både beväpnade banditer och rebeller i området och det har hänt att biståndsorganisationernas bilar har kapats.",
-      "url": "https://yle.fi/a/7-10082790?origin=rss",
+      "title": "Olja och högerpopulism",
+      "summary": "Norge har för närvarande en minoritetsregering ledd av Arbeiderpartiets Jonas Gahr Støre. Sedan Senterpartiet lämnade regeringen i vintras regerar socialdemokratiska Ap ensamt. En av valets stora och obesvarade frågor handlar om vem som ska styra Norge om de borgerliga partierna vinner.",
+      "url": "https://yle.fi/a/7-10083726?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-07T04:10:52Z"
+      "published": "2025-09-08T03:54:31Z"
     },
     {
-      "title": "Experten varnar för stor oljeolycka på Östersjön: ”Bara en tidsfråga",
-      "summary": "Den ryska skuggflottan uppskattas nu till drygt 600 fartyg. Oseriösa rederier rundar därför säkerhetsbestämmelserna genom att segla under falsk flagg. Vissa fartyg har tidigare varit registrerade i länder med internationellt erkända register, men blivit av med sina registreringar när de satts under sanktioner eller på grund av bristande sjövärdighet.",
-      "url": "https://svt.se/nyheter/utrikes/experten-varnar-for-stor-oljeolycka-pa-ostersjon-bara-en-tidsfraga",
+      "title": "Landets högsta domstol: Israel svälter palestinska fångar",
+      "summary": "Domstolen kräver att myndigheterna utökar fångarnas näringsintag och förbättrar kvaliteten på maten. Domstolen stöder två människorättsorganisationers påståenden om att regeringen medvetet begränsar fångarnas matportioner i den mån att de drabbas av undernäring och svälter. Tidigare i år dog en 17 - åring sannolikt av svält, enligt en israelisk obduktionsrapport som AP har sett.",
+      "url": "https://yle.fi/a/7-10083905?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-08T06:13:03Z"
+    },
+    {
+      "title": "Macrons nya kris",
+      "summary": "Deklaration av den generella politiken, debatt och omröstning kring denna deklaration. När sessionen börjar klockan 15 inleds med största sannolikhet även Frankrikes nästa regeringskris. François Bayrou, från mittenpartiet Demokratiska rörelsen, har med presidentens godkännande kallat till en förtroendeomröstning.",
+      "url": "https://svt.se/nyheter/utrikes/macrons-nya-kris-franska-oppositionen-har-fingret-pa-avtryckaren",
       "domain": "svt.se",
-      "published": "2025-09-07T04:12:10Z"
+      "published": "2025-09-08T07:01:03Z"
     },
     {
-      "title": "SVT: Ryska signaler har stört 123 000 flyg i Östersjöområdet på fyra månader",
-      "summary": "I april påverkades 27 procent av flygningarna i de aktuella luftrummen. I vissa regioner översteg andelen 42 procent. Problemen varierade från felaktiga positionsuppgifter till systemstörningar som kunde följa flyget även efter att de lämnat störningsområdet.",
-      "url": "https://yle.fi/a/7-10083874?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-06T09:51:39Z"
-    },
-    {
-      "title": "Massivt bråk om vaccin i USA",
-      "summary": "Robert F. Kennedy har en minst sagt arbetsam sommar bakom sig. Under de senaste månaderna har hälsoministern klubbat reform efter reform – och ofta mötts av skarp kritik.",
-      "url": "https://svt.se/nyheter/utrikes/massivt-brak-om-vaccin-i-usa-kraver-att-robert-f-kennedy-avgar",
+      "title": "Miljardärer flydde Norge",
+      "summary": "Norge är ett av få länder som har kvar förmögenhetsskatt. Sverige avskaffade förmögenhetsskatten 2007 under Reinfeldtregeringen. Det finns en kritik mot att Arbeiderpartiet höjde skatten efter att de kom till makten förra valet.",
+      "url": "https://svt.se/nyheter/utrikes/miljardarer-flydde-norge-formogenhetsskatten-ar-storsta-valfragan",
       "domain": "svt.se",
-      "published": "2025-09-06T09:57:19Z"
+      "published": "2025-09-07T12:12:23Z"
     }
   ]
 }

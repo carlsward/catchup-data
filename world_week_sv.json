@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-07T06:58:34+00:00",
-  "total_raw": 56,
-  "total_rank": 10,
+  "generated": "2025-09-08T07:09:56+00:00",
+  "total_raw": 57,
+  "total_rank": 12,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Macrons nya kris",
+      "summary": "Deklaration av den generella politiken, debatt och omröstning kring denna deklaration. När sessionen börjar klockan 15 inleds med största sannolikhet även Frankrikes nästa regeringskris. François Bayrou, från mittenpartiet Demokratiska rörelsen, har med presidentens godkännande kallat till en förtroendeomröstning.",
+      "url": "https://svt.se/nyheter/utrikes/macrons-nya-kris-franska-oppositionen-har-fingret-pa-avtryckaren",
+      "domain": "svt.se",
+      "published": "2025-09-08T07:01:03Z"
+    },
+    {
+      "title": "Frankrikes djupa ekonomiska kris kan få hela regeringen att falla",
+      "summary": "François Bayrou har kallat till förtroendeomröstning efter hård kritik mot hans sparpaket på cirka 44 miljarder euro. Sparpaket skulle bland annat innebära minskade stöd för pensionärer, arbetslösa, personer med funktionsnedsättning och fattiga. Nicolas Dupont - Aignan, en av den sittande mitten - konservativa regeringens ivrigaste motståndare, menar att premiärministern är en bricka i det politiska spelet.",
+      "url": "https://yle.fi/a/7-10083878?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-08T05:02:38Z"
+    },
     {
       "title": "Experten varnar för stor oljeolycka på Östersjön: ”Bara en tidsfråga",
       "summary": "Den ryska skuggflottan uppskattas nu till drygt 600 fartyg. Oseriösa rederier rundar därför säkerhetsbestämmelserna genom att segla under falsk flagg. Vissa fartyg har tidigare varit registrerade i länder med internationellt erkända register, men blivit av med sina registreringar när de satts under sanktioner eller på grund av bristande sjövärdighet.",
@@ -37,11 +51,11 @@
       "published": "2025-09-06T09:57:19Z"
     },
     {
-      "title": "Putins besök i Kina ses som en seger i Ryssland",
-      "summary": "Ryska medier beskriver landets president Vladimir Putin som den främsta gästen under veckans toppmöte i Kina. Ryska bedömare tror att besöket var en stor framgång för Ryssland och ett bakslag för \" det kollektiva västet \" Medierna jublar över att Rysslands \" multipolära världsordning \" är fullbordad och att USA: s dominans är avslutad. I Moskva menar man också att Rysslands position har stärkts tack vare att minst 20 nya samarbetsavtal skrevs under med Kina inom kärnenergi, jordbruk, utbildning och innovation.",
-      "url": "https://yle.fi/a/7-10083778?origin=rss",
+      "title": "Finland godkänner Palestinadeklarationen",
+      "summary": "Den så kallade New York - deklarationen bäddar för en fredlig lösning av Palestinafrågan och en tvåstatslösning. Syftet med deklarationen är att få ett slut på kriget i Gaza och stärka arbetet för en hållbar lösning på konflikten mellan Israel och Palestina. Deklarationen fördömer Hamas terrorattack mot Israel 7 oktober 2023, samtidigt som den fördömer Israels angrepp mot civila palestinier och civil infrastruktur i Gaza.",
+      "url": "https://yle.fi/a/7-10083820?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-05T02:30:12Z"
+      "published": "2025-09-05T09:06:18Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
@@ -51,18 +65,18 @@
       "published": "2025-09-05T01:26:28Z"
     },
     {
-      "title": "Analys: Ukrainas säkerhetsgarantier fick en knuff framåt",
-      "summary": "26 länder har nu åtagit sig att stödja Ukraina med garantier. Syftet med garantierna är att förhindra att Ryssland utnyttjar en vapenvila eller ett fredsavtal med Ukraina för att rusta upp för ett nytt angrepp mot landet. Många svåra avvägningar väntar de länder som förbundit sig vid att skydda Ukraina mot framtida rysk aggression.",
-      "url": "https://yle.fi/a/7-10083803?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-04T19:08:49Z"
-    },
-    {
       "title": "Sudan: Hundratusentals fast i dödsfälla",
       "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
       "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
       "domain": "svt.se",
       "published": "2025-09-04T18:52:21Z"
+    },
+    {
+      "title": "Ökat våld mot demonstranter i Serbien väcker oro för inbördeskrig",
+      "summary": "Serbiens president Aleksandar Vucic säger att Kroatien medvetet och illasinnat försöker skada landets image i världen. Han säger att även de som demonstrerar kan komma att alltmer svara med våld. Stora demonstrationer kommer att hållas i helgen i Novi Sad.",
+      "url": "https://www.svt.se/nyheter/utrikes/okat-vald-mot-demonstranter-i-serbien-vacker-oro-for-inbordeskrig",
+      "domain": "svt.se",
+      "published": "2025-09-04T10:56:38Z"
     },
     {
       "title": "Bergbana har spårat ur i Lissabon",
