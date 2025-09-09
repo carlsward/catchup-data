@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-08T07:08:02+00:00",
-  "total_raw": 16,
+  "generated": "2025-09-09T06:54:18+00:00",
+  "total_raw": 23,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Frankrikes djupa ekonomiska kris kan få hela regeringen att falla",
-      "summary": "François Bayrou har kallat till förtroendeomröstning efter hård kritik mot hans sparpaket på cirka 44 miljarder euro. Sparpaket skulle bland annat innebära minskade stöd för pensionärer, arbetslösa, personer med funktionsnedsättning och fattiga. Nicolas Dupont - Aignan, en av den sittande mitten - konservativa regeringens ivrigaste motståndare, menar att premiärministern är en bricka i det politiska spelet.",
-      "url": "https://yle.fi/a/7-10083878?origin=rss",
+      "title": "Analys: Frankrikes skuldkris fäller premiärministern",
+      "summary": "Efter en turbulent debatt i Nationalförsamlingen förlorade premiärminister Bayrou förtroendeomröstningen med klara siffror. Det var försöket att driva igenom ett sparpaket på mer än 40 miljarder euro som blev för mycket för det franska underhuset. Den allmänna opinionen är också kritisk till åtstramningarna, som bland annat skulle inverka på mängden helgdagar, sociala förmåner och statliga pensioner.",
+      "url": "https://yle.fi/a/7-10083983?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-08T05:02:38Z"
+      "published": "2025-09-08T19:05:12Z"
     },
     {
-      "title": "Olja och högerpopulism",
-      "summary": "Norge har för närvarande en minoritetsregering ledd av Arbeiderpartiets Jonas Gahr Støre. Sedan Senterpartiet lämnade regeringen i vintras regerar socialdemokratiska Ap ensamt. En av valets stora och obesvarade frågor handlar om vem som ska styra Norge om de borgerliga partierna vinner.",
-      "url": "https://yle.fi/a/7-10083726?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-08T03:54:31Z"
-    },
-    {
-      "title": "Landets högsta domstol: Israel svälter palestinska fångar",
-      "summary": "Domstolen kräver att myndigheterna utökar fångarnas näringsintag och förbättrar kvaliteten på maten. Domstolen stöder två människorättsorganisationers påståenden om att regeringen medvetet begränsar fångarnas matportioner i den mån att de drabbas av undernäring och svälter. Tidigare i år dog en 17 - åring sannolikt av svält, enligt en israelisk obduktionsrapport som AP har sett.",
-      "url": "https://yle.fi/a/7-10083905?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-08T06:13:03Z"
-    },
-    {
-      "title": "Macrons nya kris",
-      "summary": "Deklaration av den generella politiken, debatt och omröstning kring denna deklaration. När sessionen börjar klockan 15 inleds med största sannolikhet även Frankrikes nästa regeringskris. François Bayrou, från mittenpartiet Demokratiska rörelsen, har med presidentens godkännande kallat till en förtroendeomröstning.",
-      "url": "https://svt.se/nyheter/utrikes/macrons-nya-kris-franska-oppositionen-har-fingret-pa-avtryckaren",
+      "title": "Val i Norge",
+      "summary": "När 99 procent av rösterna är räknade är socialdemokratiska Arbeiderpartiet störst med 28, 1 procent. Mandatfördelningen mellan blocken är 89 – 80 i rödgrön favör. Vi gjorde det, \" Jonas Gahr Støre utropat sig som segrare och får regera i fyra år till.",
+      "url": "https://svt.se/nyheter/utrikes/val-i-norge-forvantas-bli-jamn-strid-mellan-blocken",
       "domain": "svt.se",
-      "published": "2025-09-08T07:01:03Z"
+      "published": "2025-09-08T16:25:39Z"
     },
     {
-      "title": "Miljardärer flydde Norge",
-      "summary": "Norge är ett av få länder som har kvar förmögenhetsskatt. Sverige avskaffade förmögenhetsskatten 2007 under Reinfeldtregeringen. Det finns en kritik mot att Arbeiderpartiet höjde skatten efter att de kom till makten förra valet.",
-      "url": "https://svt.se/nyheter/utrikes/miljardarer-flydde-norge-formogenhetsskatten-ar-storsta-valfragan",
+      "title": "Flera döda och närmare 100 skadade i Nepal efter att landet stänger ner sociala…",
+      "summary": "Regeringen blockerar 26 olika sociala medier, inklusive Facebook, Instagram, Snapchat, X och Youtube. Många av dem som demonstrerar tillhör den ålderskategori som brukar benämnas Gen Z. Situationen blev våldsam när arga demonstranter trängde sig igenom de taggtrådsförsedda polisavspärrningarna kring landets parlamentsbyggnad.",
+      "url": "https://yle.fi/a/7-10083955?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-08T12:59:01Z"
+    },
+    {
+      "title": "Suggestivt födelsedagsbrev från Trump till Epstein blev offentligt",
+      "summary": "Demokratiska tjänstemän vid representanthusets tillsynsutskott släppte ett explicit brev till finansmannen Jeffrey Epstein. Brevet, vars existens har diskuterats tidigare i offentligheten, ska vara undertecknat av USA: s president Donald Trump. Trump stämde The Wall Street Journal tidigare i år för att de skrivit om hans påstådda kopplingar till brevet.",
+      "url": "https://yle.fi/a/7-10083993?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-09T04:50:33Z"
+    },
+    {
+      "title": "Tiktok-fenomenet Simen Velle vill in i norska riksdagen",
+      "summary": "Val i Norge 2025 Fremskrittspartiet ser ut att bli näst störst med 20, 8 % av rösterna. Största parti, Arbeiderpartiet, med Gahr Støre, med 27 procent av rösterna, följt av invandringskritiska partiet. Partiledare Sylvi Listhaug pratar ofta om det svenska tillståndet.",
+      "url": "https://svt.se/nyheter/utrikes/tiktok-fenomenet-simen-velle-vill-in-i-norska-riksdagen",
       "domain": "svt.se",
-      "published": "2025-09-07T12:12:23Z"
+      "published": "2025-09-08T10:09:06Z"
     }
   ]
 }
