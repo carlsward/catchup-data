@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-09T06:56:07+00:00",
-  "total_raw": 56,
-  "total_rank": 12,
+  "generated": "2025-09-10T06:52:11+00:00",
+  "total_raw": 53,
+  "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Frankrike kan lamslås av massprotester mot presidenten",
+      "summary": "Hundratusentals fransmän förväntas delta i stora protester på onsdag. De kommer att omfatta blockader vid oljeraffinaderier och företaget Amazons lokaler. Macron delar ut hur mycket pengar som helst till kriget i Ukraina, men för oss på hemmaplan dras resurserna ned.",
+      "url": "https://yle.fi/a/7-10083959?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-10T06:11:10Z"
+    },
+    {
+      "title": "Klädtillverkare får betala för avfallet",
+      "summary": "EU - länderna har 30 månader på sig att göra hållbara kläder. Små företag får längre tid på sig, medan second hand - näringen undantas helt. Branschorganisationen för textil - och modeföretag, Teko, välkomnar att reglerna nu är på plats.",
+      "url": "https://svt.se/nyheter/utrikes/kladtillverkare-far-betala-for-avfallet",
+      "domain": "svt.se",
+      "published": "2025-09-09T23:17:43Z"
+    },
+    {
+      "title": "De tycker att Trump borde få fredspriset: ”Väldigt missförstådd",
+      "summary": "Andra som nominerat Trump är Azerbajdzjans premiärminister och Armeniens president. Trump säger sig ha löst ett krig i månaden sedan han blev president igen. Den amerikanska presidenten är värd fredspriset.",
+      "url": "https://svt.se/nyheter/utrikes/de-tycker-att-trump-borde-fa-fredspriset-valdigt-missforstadd",
+      "domain": "svt.se",
+      "published": "2025-09-09T20:55:17Z"
+    },
     {
       "title": "Analys: Norge valde trygghet men nu väntar armbrytning mellan olja och grön omst…",
       "summary": "Höstvalet ritade om den politiska kartan rejält i Norge. Den stora skrällen var att populistiska Fremskrittspartiet blev större än de andra borgerliga partierna tillsammans. Istället blev valet en katastrof för det moderata borgerliga partiet Høyre.",
@@ -16,39 +37,18 @@
       "published": "2025-09-09T06:46:05Z"
     },
     {
-      "title": "Korrespondenten: Därför lyckades norska regeringen göra comeback",
-      "summary": "Senterpartiet lämnade regeringssamarbetet till följd av oenighet om en EU - fråga. Oppositionen från höger Arbeiderpartiet fick 28, 8 procent av rösterna, en ökning med 1, 8 procentenheter från förra valet. Högerpopulistiska Fremskrittspartiet ökade med 12, 2 procentenheter och fick 23, 8 % av rösterna.",
-      "url": "https://svt.se/nyheter/utrikes/korrespondenten-darfor-lyckades-norska-regeringen-gora-comeback",
-      "domain": "svt.se",
-      "published": "2025-09-09T05:36:20Z"
+      "title": "Analys: Frankrikes skuldkris fäller premiärministern",
+      "summary": "Efter en turbulent debatt i Nationalförsamlingen förlorade premiärminister Bayrou förtroendeomröstningen med klara siffror. Det var försöket att driva igenom ett sparpaket på mer än 40 miljarder euro som blev för mycket för det franska underhuset. Den allmänna opinionen är också kritisk till åtstramningarna, som bland annat skulle inverka på mängden helgdagar, sociala förmåner och statliga pensioner.",
+      "url": "https://yle.fi/a/7-10083983?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-08T19:05:12Z"
     },
     {
       "title": "Val i Norge",
-      "summary": "När 99 procent av rösterna är räknade är socialdemokratiska Arbeiderpartiet störst med 28, 1 procent. Mandatfördelningen mellan blocken är 89 – 80 i rödgrön favör. Vi gjorde det, \" Jonas Gahr Støre utropat sig som segrare och får regera i fyra år till.",
+      "summary": "Norge gick till val för att avgöra hur platserna i stortinget skulle fördelas. När 99 procent av rösterna är räknade är socialdemokratiska Arbeiderpartiet störst med 28, 1 procent. Mandatfördelningen mellan blocken är 89 – 80 i rödgrön favör.",
       "url": "https://svt.se/nyheter/utrikes/val-i-norge-forvantas-bli-jamn-strid-mellan-blocken",
       "domain": "svt.se",
       "published": "2025-09-08T16:25:39Z"
-    },
-    {
-      "title": "Frankrikes djupa ekonomiska kris kan få hela regeringen att falla",
-      "summary": "François Bayrou har kallat till förtroendeomröstning efter hård kritik mot hans sparpaket på cirka 44 miljarder euro. Sparpaket skulle bland annat innebära minskade stöd för pensionärer, arbetslösa, personer med funktionsnedsättning och fattiga. Nicolas Dupont - Aignan, en av den sittande mitten - konservativa regeringens ivrigaste motståndare, menar att premiärministern är en bricka i det politiska spelet.",
-      "url": "https://yle.fi/a/7-10083878?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-08T05:02:38Z"
-    },
-    {
-      "title": "Svenska Yle på plats i Kiev: Bränder och söndersprängda hem efter nattens attack…",
-      "summary": "Hus i stadsdelen Svyatosjyno, Ukraina, träffades av en drönarattack. Minst två personer dödades när bostadshuset träffades. Släckningshelikoptrar flyger skytteltrafik till platsen för att bekämpa elden.",
-      "url": "https://yle.fi/a/7-10083890?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-07T14:21:08Z"
-    },
-    {
-      "title": "Experten varnar för stor oljeolycka på Östersjön: ”Bara en tidsfråga",
-      "summary": "Den ryska skuggflottan uppskattas nu till drygt 600 fartyg. Oseriösa rederier rundar därför säkerhetsbestämmelserna genom att segla under falsk flagg. Vissa fartyg har tidigare varit registrerade i länder med internationellt erkända register, men blivit av med sina registreringar när de satts under sanktioner eller på grund av bristande sjövärdighet.",
-      "url": "https://svt.se/nyheter/utrikes/experten-varnar-for-stor-oljeolycka-pa-ostersjon-bara-en-tidsfraga",
-      "domain": "svt.se",
-      "published": "2025-09-07T04:12:10Z"
     },
     {
       "title": "Trump skickar tio stridsflyg till Puerto Rico",
@@ -77,20 +77,6 @@
       "url": "https://www.svt.se/nyheter/utrikes/okat-vald-mot-demonstranter-i-serbien-vacker-oro-for-inbordeskrig",
       "domain": "svt.se",
       "published": "2025-09-04T10:56:38Z"
-    },
-    {
-      "title": "Bergbana har spårat ur i Lissabon",
-      "summary": "Olyckan inträffade mellan Restauradores och Príncipe Real. Bergbanan var på väg ner från utsiktsplatsen São Pedro de Alcântara när den plötsligt spårade ur och kraschade in i en byggnad. Vittnen berättar för lokala medier hur bergbanan skenade okontrollerat nerför den smala gränden.",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
-      "domain": "svt.se",
-      "published": "2025-09-03T18:14:03Z"
-    },
-    {
-      "title": "Xi, Kim och Putin möts för första gången",
-      "summary": "Militärparaden i Peking är den första i sitt slag på åtta år. Det markerar 80 - årsdagen av Japans kapitulation i andra världskriget. Xi Jinping uttryckte tacksamhet mot de länder som var allierade med Kina och konstaterade framåt att Kina är \" ostoppbart \".",
-      "url": "https://www.svt.se/nyheter/utrikes/xi-kim-och-putin-mots-for-forsta-gangen",
-      "domain": "svt.se",
-      "published": "2025-09-03T03:14:04Z"
     }
   ]
 }

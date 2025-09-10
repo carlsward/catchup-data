@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-09T06:57:01+00:00",
+  "generated": "2025-09-10T06:53:16+00:00",
   "total_raw": 56,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Frankrike kan lamslås av massprotester mot presidenten",
+      "summary": "Hundratusentals fransmän förväntas delta i stora protester på onsdag. De kommer att omfatta blockader vid oljeraffinaderier och företaget Amazons lokaler. Macron delar ut hur mycket pengar som helst till kriget i Ukraina, men för oss på hemmaplan dras resurserna ned.",
+      "url": "https://yle.fi/a/7-10083959?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-10T06:11:10Z"
+    },
     {
       "title": "Analys: Norge valde trygghet men nu väntar armbrytning mellan olja och grön omst…",
       "summary": "Höstvalet ritade om den politiska kartan rejält i Norge. Den stora skrällen var att populistiska Fremskrittspartiet blev större än de andra borgerliga partierna tillsammans. Istället blev valet en katastrof för det moderata borgerliga partiet Høyre.",
@@ -16,18 +23,11 @@
       "published": "2025-09-09T06:46:05Z"
     },
     {
-      "title": "Frankrikes djupa ekonomiska kris kan få hela regeringen att falla",
-      "summary": "François Bayrou har kallat till förtroendeomröstning efter hård kritik mot hans sparpaket på cirka 44 miljarder euro. Sparpaket skulle bland annat innebära minskade stöd för pensionärer, arbetslösa, personer med funktionsnedsättning och fattiga. Nicolas Dupont - Aignan, en av den sittande mitten - konservativa regeringens ivrigaste motståndare, menar att premiärministern är en bricka i det politiska spelet.",
-      "url": "https://yle.fi/a/7-10083878?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-08T05:02:38Z"
-    },
-    {
-      "title": "Experten varnar för stor oljeolycka på Östersjön: ”Bara en tidsfråga",
-      "summary": "Den ryska skuggflottan uppskattas nu till drygt 600 fartyg. Oseriösa rederier rundar därför säkerhetsbestämmelserna genom att segla under falsk flagg. Vissa fartyg har tidigare varit registrerade i länder med internationellt erkända register, men blivit av med sina registreringar när de satts under sanktioner eller på grund av bristande sjövärdighet.",
-      "url": "https://svt.se/nyheter/utrikes/experten-varnar-for-stor-oljeolycka-pa-ostersjon-bara-en-tidsfraga",
+      "title": "Val i Norge",
+      "summary": "Norge gick till val för att avgöra hur platserna i stortinget skulle fördelas. När 99 procent av rösterna är räknade är socialdemokratiska Arbeiderpartiet störst med 28, 1 procent. Mandatfördelningen mellan blocken är 89 – 80 i rödgrön favör.",
+      "url": "https://svt.se/nyheter/utrikes/val-i-norge-forvantas-bli-jamn-strid-mellan-blocken",
       "domain": "svt.se",
-      "published": "2025-09-07T04:12:10Z"
+      "published": "2025-09-08T16:25:39Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
