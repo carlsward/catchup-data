@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-10T06:53:16+00:00",
+  "generated": "2025-09-11T06:55:55+00:00",
   "total_raw": 56,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Mordet på Charlie Kirk är en symbol för USA:s brutala politiska verkligh…",
+      "summary": "Kirk var en av de mest framgångsrika amerikanska konservativa rösterna och en ideologisk frontfigur för den yngre generationens Maga - anhängare. Kirks anhängare menar att han verkligen försökte skapa dialog, ofta genom att bjuda in politiska motståndare till öppen debatt. Politiskt motiverade attacker mot politiker eller statligt anställda har ökat dramatiskt under de senaste åren i USA.",
+      "url": "https://yle.fi/a/7-10084175?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-11T05:38:18Z"
+    },
     {
       "title": "Frankrike kan lamslås av massprotester mot presidenten",
       "summary": "Hundratusentals fransmän förväntas delta i stora protester på onsdag. De kommer att omfatta blockader vid oljeraffinaderier och företaget Amazons lokaler. Macron delar ut hur mycket pengar som helst till kriget i Ukraina, men för oss på hemmaplan dras resurserna ned.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10083727?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-09T06:46:05Z"
-    },
-    {
-      "title": "Val i Norge",
-      "summary": "Norge gick till val för att avgöra hur platserna i stortinget skulle fördelas. När 99 procent av rösterna är räknade är socialdemokratiska Arbeiderpartiet störst med 28, 1 procent. Mandatfördelningen mellan blocken är 89 – 80 i rödgrön favör.",
-      "url": "https://svt.se/nyheter/utrikes/val-i-norge-forvantas-bli-jamn-strid-mellan-blocken",
-      "domain": "svt.se",
-      "published": "2025-09-08T16:25:39Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

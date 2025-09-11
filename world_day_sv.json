@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-10T06:50:31+00:00",
-  "total_raw": 20,
+  "generated": "2025-09-11T06:53:37+00:00",
+  "total_raw": 17,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Frankrike kan lamslås av massprotester mot presidenten",
-      "summary": "Hundratusentals fransmän förväntas delta i stora protester på onsdag. De kommer att omfatta blockader vid oljeraffinaderier och företaget Amazons lokaler. Macron delar ut hur mycket pengar som helst till kriget i Ukraina, men för oss på hemmaplan dras resurserna ned.",
-      "url": "https://yle.fi/a/7-10083959?origin=rss",
+      "title": "Expert: ”Vi är långt ifrån ett storkrig, men Nato måste markera tydligt",
+      "summary": "Drönare i Polen är bara ännu ett steg i den utvecklingen, säger Charly Salonius - Pasternak, vd för Nordic West Office och expert på global säkerhetspolitik. Han påpekar att det inte handlade om någon enstaka underrättelsedrönare utan om beväpnade drönare som kan orsaka massiva civila skador och förluster. Artikel 5 - diskussioner kommer att föras, och det är inte omöjligt att Polen i slutet av dem kräver ännu fler åtgärder från andra Natoallierade.",
+      "url": "https://yle.fi/a/7-10084099?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-10T06:11:10Z"
+      "published": "2025-09-10T13:29:35Z"
     },
     {
-      "title": "Det här vet vi nu om Israels attack i Qatar",
-      "summary": "Israel utförde ett precisionsanfall mot mål i Qatars huvudstad Doha. Enligt Hamas dödade Israel fem av dess medlemmar men Hamas förhandlingsdelegation, inklusive Khalil al - Hayya, överlevde. Både Qatar och Hamas har även uppgett att en qatarisk säkerhetstjänsteman dödades i attacken.",
-      "url": "https://yle.fi/a/7-10084086?origin=rss",
+      "title": "Analys: Mordet på Charlie Kirk är en symbol för USA:s brutala politiska verkligh…",
+      "summary": "Kirk var en av de mest framgångsrika amerikanska konservativa rösterna och en ideologisk frontfigur för den yngre generationens Maga - anhängare. Kirks anhängare menar att han verkligen försökte skapa dialog, ofta genom att bjuda in politiska motståndare till öppen debatt. Politiskt motiverade attacker mot politiker eller statligt anställda har ökat dramatiskt under de senaste åren i USA.",
+      "url": "https://yle.fi/a/7-10084175?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-10T05:52:51Z"
+      "published": "2025-09-11T05:38:18Z"
     },
     {
-      "title": "Europa försöker lära sig maktens språk på nytt: ”Vi måste bli mindre beroende av…",
-      "summary": "USA: s ändrade utrikespolitik ställer Europeiska unionen inför nya utmaningar. USA vill dra sig tillbaka från internationella konflikter och fokusera mer på landets egna intressen. EU har en lång tradition av samarbete och ömsesidigt beroende, och har haft en försiktig roll i konflikter.",
-      "url": "https://yle.fi/a/7-10083784?origin=rss",
+      "title": "EU:s Ursula von der Leyen: Europa står i full solidaritet med Polen efter rysk d…",
+      "summary": "Ursula von der Leyen fördömer kränkningarna av Polens luftrum. Hon säger att Europa kommer att investera i Europas försvarsförmåga och stöd till östra flankerna. Hon föreslår sanktioner mot extremistiska ministrar samt en partiell frysning av associationsavtalet mellan EU och Israel.",
+      "url": "https://yle.fi/a/7-10084035?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-10T02:30:12Z"
+      "published": "2025-09-10T08:34:44Z"
     },
     {
-      "title": "De tycker att Trump borde få fredspriset: ”Väldigt missförstådd",
-      "summary": "Andra som nominerat Trump är Azerbajdzjans premiärminister och Armeniens president. Trump säger sig ha löst ett krig i månaden sedan han blev president igen. Den amerikanska presidenten är värd fredspriset.",
-      "url": "https://svt.se/nyheter/utrikes/de-tycker-att-trump-borde-fa-fredspriset-valdigt-missforstadd",
+      "title": "Högerdebattören Charlie Kirk död",
+      "summary": "Charlie Kirk sköts under ett evenemang med högerprofil vid Utah Valley - universitetet. Han sköts av sitt säkerhetsteam och har sedan dess tagits bort från platsen. FBI har i ett tidigt skede gripit en misstänkt person.",
+      "url": "https://svt.se/nyheter/utrikes/hogeraktivisten-charlie-kirk-skjuten-under-debatt-i-utah",
       "domain": "svt.se",
-      "published": "2025-09-09T20:55:17Z"
+      "published": "2025-09-10T18:55:27Z"
     },
     {
-      "title": "Nepals premiärminister avgår efter dödliga protester",
-      "summary": "Hundratals demonstranter drabbade samman med kravallpolis efter att regeringens blockad av 26 sociala medie - plattformar väckt ilska. Bland demonstranterna fanns många unga personer och protesterna har därför kommit att kallas generation Z - protesterna. Politiker fördömer polisens våld Nu har premiärminister KP Sharma Oli och inrikesminister Ramesh Lekhak avgått och fördömt polisens våld.",
-      "url": "https://svt.se/nyheter/utrikes/nepals-premiarminister-avgar-efter-dodliga-protester",
+      "title": "Så har flyktingströmmarna till Europa minskats",
+      "summary": "År 2015 sökte 163 000 personer asyl i Sverige. Förra året var siffran 9 645 – den lägsta på tre decennier. Ökningen beror inte på att människor slutat fly, utan på att hindren för människor på flykt blir svårare.",
+      "url": "https://svt.se/nyheter/utrikes/sa-har-flyktingstrommarna-till-europa-minskats-fa-soker-asyl-i-sverige",
       "domain": "svt.se",
-      "published": "2025-09-09T09:24:04Z"
+      "published": "2025-09-11T01:35:42Z"
     }
   ]
 }
