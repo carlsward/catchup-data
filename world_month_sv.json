@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-12T06:51:04+00:00",
+  "generated": "2025-09-13T06:45:13+00:00",
   "total_raw": 57,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Här flyr Charlie Kirks misstänkte mördare från skoltaket",
-      "summary": "Utah guvernör Spencer Cox höll en pressträff med FBI - direktör Kash Patel under natten. De uppdaterade om det senaste i utredningen av mordet på Charlie Kirk och jakten på hans mördare. På videon syns den misstänkte personen fly från taket på en byggnad på Utah Valley University, mittemot scenen där Kirk satt.",
-      "url": "https://svt.se/nyheter/utrikes/har-flyr-charlie-kirks-misstankte-mordare-fran-skoltaket",
-      "domain": "svt.se",
-      "published": "2025-09-12T05:29:38Z"
+      "title": "Analys: AI eller inte AI, det är frågan",
+      "summary": "Svenska Yle använder artificiell intelligens ( AI ) i vissa arbetsmoment. AI - läsare hallucinerar, som AI - modeller gör, till exempel genom att hävda att det gör språket mer idiomatiskt att använda en viss preposition eller ett specifikt verb i ett givet sammanhang. Forskare har varnat för vilken inverkan AI - användning kan ha på våra hjärnor.",
+      "url": "https://yle.fi/a/7-10084282?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-13T04:17:13Z"
+    },
+    {
+      "title": "EU-parlamentarikern Eero Heinäluoma sågar EU:s avtal med Trump: Dyrt, orättvist…",
+      "summary": "EU: s tullavtal mellan USA och EU har tredubblats från knappt fem procent till 15 procent. Eero Heinäluoma säger att EU har vikt sig för trycket från Washington. EU - kommissionens ordförande Ursula von der Leyen säger att transatlantisk handel är avgörande för unionen.",
+      "url": "https://yle.fi/a/7-10084248?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-12T08:05:06Z"
     },
     {
       "title": "Brasiliens expresident Bolsonaro döms till 27 års fängelse",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10084191?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-11T19:42:04Z"
-    },
-    {
-      "title": "Expert: ”Vi är långt ifrån ett storkrig, men Nato måste markera tydligt",
-      "summary": "Drönare i Polen är bara ännu ett steg i den utvecklingen, säger Charly Salonius - Pasternak, vd för Nordic West Office och expert på global säkerhetspolitik. Han påpekar att det inte handlade om någon enstaka underrättelsedrönare utan om beväpnade drönare som kan orsaka massiva civila skador och förluster. Artikel 5 - diskussioner kommer att föras, och det är inte omöjligt att Polen i slutet av dem kräver ännu fler åtgärder från andra Natoallierade.",
-      "url": "https://yle.fi/a/7-10084099?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-10T13:29:35Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

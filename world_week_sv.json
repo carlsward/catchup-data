@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-12T06:50:09+00:00",
-  "total_raw": 44,
+  "generated": "2025-09-13T06:44:18+00:00",
+  "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Här flyr Charlie Kirks misstänkte mördare från skoltaket",
-      "summary": "Utah guvernör Spencer Cox höll en pressträff med FBI - direktör Kash Patel under natten. De uppdaterade om det senaste i utredningen av mordet på Charlie Kirk och jakten på hans mördare. På videon syns den misstänkte personen fly från taket på en byggnad på Utah Valley University, mittemot scenen där Kirk satt.",
-      "url": "https://svt.se/nyheter/utrikes/har-flyr-charlie-kirks-misstankte-mordare-fran-skoltaket",
-      "domain": "svt.se",
-      "published": "2025-09-12T05:29:38Z"
+      "title": "Analys: AI eller inte AI, det är frågan",
+      "summary": "Svenska Yle använder artificiell intelligens ( AI ) i vissa arbetsmoment. AI - läsare hallucinerar, som AI - modeller gör, till exempel genom att hävda att det gör språket mer idiomatiskt att använda en viss preposition eller ett specifikt verb i ett givet sammanhang. Forskare har varnat för vilken inverkan AI - användning kan ha på våra hjärnor.",
+      "url": "https://yle.fi/a/7-10084282?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-13T04:17:13Z"
     },
     {
-      "title": "Trump till Yle: Jag fördömer att de ryska drönarna var vid den polska gränsen",
-      "summary": "Donald Trump kommenterade de ryska drönarna i polskt luftrum för Yle på torsdag i samband med att han reste iväg till New York. Den amerikanska presidenten sa att incidenten kan ha varit ett misstag. Trump sa också att han inte är nöjd med situationen överlag, innan han skyndade iväg till helikoptern Marine One.",
-      "url": "https://yle.fi/a/7-10084249?origin=rss",
+      "title": "Drönarincidenten i Polen",
+      "summary": "Gerbera är den ryska versionen av den iranska Shahed - 136, säger experter. Drönaren kränktes också i litauiskt luftrum, säger experten. Gerbera har länge varit känd bland ryska krigsbloggare och i statliga medier.",
+      "url": "https://svt.se/nyheter/utrikes/dronarincidenten-i-polen-sparen-som-avslojar-ryssland",
+      "domain": "svt.se",
+      "published": "2025-09-13T03:55:47Z"
+    },
+    {
+      "title": "USA-expert: ”Riskerar leda till en ny våldsspiral",
+      "summary": "Charlie Kirk var en hög profil konservativ aktivist och beskrivs som en grundpelare i en konservativ våg bland unga i USA. När Kirk var 18 grundade han sin politiska organisation Turning Point med målet att sprida konservativa ideal på liberalt inriktade amerikanska högskolor. Kirk blev ett känt namn i hela USA när han började lägga upp filmade debatter på olika universitet.",
+      "url": "https://svt.se/nyheter/utrikes/usa-expert-riskerar-leda-till-en-ny-valdsspiral",
+      "domain": "svt.se",
+      "published": "2025-09-12T14:25:00Z"
+    },
+    {
+      "title": "EU-parlamentarikern Eero Heinäluoma sågar EU:s avtal med Trump: Dyrt, orättvist…",
+      "summary": "EU: s tullavtal mellan USA och EU har tredubblats från knappt fem procent till 15 procent. Eero Heinäluoma säger att EU har vikt sig för trycket från Washington. EU - kommissionens ordförande Ursula von der Leyen säger att transatlantisk handel är avgörande för unionen.",
+      "url": "https://yle.fi/a/7-10084248?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-12T02:14:29Z"
+      "published": "2025-09-12T08:05:06Z"
     },
     {
       "title": "Brasiliens expresident Bolsonaro döms till 27 års fängelse",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/har-ar-ryska-ambassadorens-falska-pastaenden-och-experternas-svar",
       "domain": "svt.se",
       "published": "2025-09-11T17:04:44Z"
-    },
-    {
-      "title": "Högerdebattören Charlie Kirk död",
-      "summary": "Den misstänkte är fortfarande på fri fot och verkar vara i universitetsåldern, säger FBI. FBI säger att det finns videomaterial som bekräftar att ett skott avfyrades från ett tak cirka 180 meter bort. Strax efter blir Kirk skjuten till döds, medan han svarar på en fråga om masskjutningar.",
-      "url": "https://svt.se/nyheter/utrikes/hogeraktivisten-charlie-kirk-skjuten-under-debatt-i-utah",
-      "domain": "svt.se",
-      "published": "2025-09-10T18:55:27Z"
-    },
-    {
-      "title": "Expert: ”Vi är långt ifrån ett storkrig, men Nato måste markera tydligt",
-      "summary": "Drönare i Polen är bara ännu ett steg i den utvecklingen, säger Charly Salonius - Pasternak, vd för Nordic West Office och expert på global säkerhetspolitik. Han påpekar att det inte handlade om någon enstaka underrättelsedrönare utan om beväpnade drönare som kan orsaka massiva civila skador och förluster. Artikel 5 - diskussioner kommer att föras, och det är inte omöjligt att Polen i slutet av dem kräver ännu fler åtgärder från andra Natoallierade.",
-      "url": "https://yle.fi/a/7-10084099?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-10T13:29:35Z"
     }
   ]
 }
