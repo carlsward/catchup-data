@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-13T06:45:13+00:00",
+  "generated": "2025-09-14T06:58:45+00:00",
   "total_raw": 57,
-  "total_rank": 6,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Yeongnam Eom överlevde Nordkoreas armé: ”Jag önskade att kriget skulle börja så…",
+      "summary": "Drygt 10 000 soldater från Nordkoreas folkarmé skickades till Ryssland för att strida. Soldater som tillfångatogs av ukrainska soldater sa att de inte ens visste att de skulle till fronten. Yeongnam Eom växte upp under 1980 - och 90 - talen i Hyesan, vid gränsen till Kina.",
+      "url": "https://yle.fi/a/7-10083922?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-14T03:31:16Z"
+    },
     {
       "title": "Analys: AI eller inte AI, det är frågan",
       "summary": "Svenska Yle använder artificiell intelligens ( AI ) i vissa arbetsmoment. AI - läsare hallucinerar, som AI - modeller gör, till exempel genom att hävda att det gör språket mer idiomatiskt att använda en viss preposition eller ett specifikt verb i ett givet sammanhang. Forskare har varnat för vilken inverkan AI - användning kan ha på våra hjärnor.",
