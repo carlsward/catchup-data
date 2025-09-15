@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-14T06:57:37+00:00",
+  "generated": "2025-09-15T07:10:24+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA:s utrikesminister Marco Rubio besöker Israel",
-      "summary": "Rubio uttryckte att USA: s stöd till Israel inte kommer att vackla. Detta trots att Israel genomförde en flygattack mot Hamasledare i Qatars huvudstad Doha på tisdagen. Qatar har haft en viktig roll tillsammans med Egypten och USA i att medla mellan Israel och Hamas i kriget i Gaza.",
-      "url": "https://yle.fi/a/7-10084352?origin=rss",
+      "title": "Över 100 000 propalestinska demonstranter stoppade cykellopp i Spanien",
+      "summary": "Över 100 000 propalestinska demonstranter deltog i söndagens protester mot att israeliska laget Israel Premier Tech tilläts delta i ett av de stora cykelloppen i världen, Spanien runt, eller Vuelta a España. Det tre veckor långa loppet har präglats av pro - israeliska protester. Demonstranterna kastade föremål mot polisen och polisen skingrade folkmassor med tårgas.",
+      "url": "https://yle.fi/a/7-10084370?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-14T06:39:11Z"
+      "published": "2025-09-15T04:21:56Z"
+    },
+    {
+      "title": "Putins ”bajsväska” –konspirationsteori eller säkerhetsfråga?",
+      "summary": "En bajsrelaterad konspirationsteori har blossat upp igen efter Vladimir Putins möte med USA: s president Donald Trump i Alaska. Den ryska presidenten sägs spara sin avföring vid internationella resor. Ämnet diskuterades när Putin och Kinas president Xi Jinping möttes under en militärparad i Peking.",
+      "url": "https://svt.se/nyheter/utrikes/putins-bajsvaska-konspirationsteori-eller-sakerhetsfraga",
+      "domain": "svt.se",
+      "published": "2025-09-15T01:15:51Z"
+    },
+    {
+      "title": "Propalestinska demonstranter stormade cykeltävling i Spanien",
+      "summary": "Över 100 000 personer deltog i söndagens protester, enligt spanska myndigheter. Två personer uppges ha gripits och 22 poliser skadades i tumultet. Arrangören uppgav på söndagskvällen att den sista etappen av Vueltans sista etapp avslutades tidigare än planerat.",
+      "url": "https://svt.se/nyheter/utrikes/propalestinska-demonstranter-stormade-vueltan-sista-etappen-installd",
+      "domain": "svt.se",
+      "published": "2025-09-14T21:57:20Z"
     },
     {
       "title": "Yeongnam Eom överlevde Nordkoreas armé: ”Jag önskade att kriget skulle börja så…",
@@ -44,25 +58,11 @@
       "published": "2025-09-12T14:25:00Z"
     },
     {
-      "title": "EU-parlamentarikern Eero Heinäluoma sågar EU:s avtal med Trump: Dyrt, orättvist…",
-      "summary": "EU: s tullavtal mellan USA och EU har tredubblats från knappt fem procent till 15 procent. Eero Heinäluoma säger att EU har vikt sig för trycket från Washington. EU - kommissionens ordförande Ursula von der Leyen säger att transatlantisk handel är avgörande för unionen.",
-      "url": "https://yle.fi/a/7-10084248?origin=rss",
+      "title": "Försvarsforskare: Det finns alltid orsak att vara vaksam då Ryssland övar",
+      "summary": "Ryssland och Belarus har inlett sin gemensamma stora militärövning Zapad. Övningen omfattar övningar i båda länderna samt i Östersjön och Barents hav. Överfurir Johan Huovinen säger att Ryssland ville se vilken typ av beredskap det polska luftförsvaret har tillsammans med Natos styrkor, de amerikanska styrkorna och övriga länders förband i Polen.",
+      "url": "https://yle.fi/a/7-10084274?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-12T08:05:06Z"
-    },
-    {
-      "title": "Brasiliens expresident Bolsonaro döms till 27 års fängelse",
-      "summary": "Fyra av fem domare i Brasiliens högsta domstol röstade för en fällande dom mot den tidigare presidenten Jair Bolsonaro. Han dömdes för att ha planerat en statskupp för att behålla makten efter att ha förlorat presidentvalet 2022 till vänsterns Luiz Inacio Lula da Silva. Bolsonaros advokater har redan meddelat att de kommer att överklaga domen.",
-      "url": "https://yle.fi/a/7-10084191?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-11T19:42:04Z"
-    },
-    {
-      "title": "Jair Bolsonaro döms till 27 års fängelse",
-      "summary": "Totalt fem domare röstar i åtalet mot Bolsonaro. Tidigare i veckan meddelade två av domarna i Högsta domstolen att de stöder en fällande dom. En tredje domare röstade för att frikänna Bolsonaros kuppförsök.",
-      "url": "https://svt.se/nyheter/utrikes/jair-bolsonaro-doms-for-kuppforsok-i-brasilien",
-      "domain": "svt.se",
-      "published": "2025-09-11T18:47:48Z"
+      "published": "2025-09-12T13:48:08Z"
     }
   ]
 }

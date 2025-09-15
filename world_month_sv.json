@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-14T06:58:45+00:00",
+  "generated": "2025-09-15T07:11:37+00:00",
   "total_raw": 57,
   "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Över 100 000 propalestinska demonstranter stoppade cykellopp i Spanien",
+      "summary": "Över 100 000 propalestinska demonstranter deltog i söndagens protester mot att israeliska laget Israel Premier Tech tilläts delta i ett av de stora cykelloppen i världen, Spanien runt, eller Vuelta a España. Det tre veckor långa loppet har präglats av pro - israeliska protester. Demonstranterna kastade föremål mot polisen och polisen skingrade folkmassor med tårgas.",
+      "url": "https://yle.fi/a/7-10084370?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-15T04:21:56Z"
+    },
     {
       "title": "Yeongnam Eom överlevde Nordkoreas armé: ”Jag önskade att kriget skulle börja så…",
       "summary": "Drygt 10 000 soldater från Nordkoreas folkarmé skickades till Ryssland för att strida. Soldater som tillfångatogs av ukrainska soldater sa att de inte ens visste att de skulle till fronten. Yeongnam Eom växte upp under 1980 - och 90 - talen i Hyesan, vid gränsen till Kina.",
@@ -23,18 +30,11 @@
       "published": "2025-09-13T04:17:13Z"
     },
     {
-      "title": "EU-parlamentarikern Eero Heinäluoma sågar EU:s avtal med Trump: Dyrt, orättvist…",
-      "summary": "EU: s tullavtal mellan USA och EU har tredubblats från knappt fem procent till 15 procent. Eero Heinäluoma säger att EU har vikt sig för trycket från Washington. EU - kommissionens ordförande Ursula von der Leyen säger att transatlantisk handel är avgörande för unionen.",
-      "url": "https://yle.fi/a/7-10084248?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-12T08:05:06Z"
-    },
-    {
-      "title": "Brasiliens expresident Bolsonaro döms till 27 års fängelse",
-      "summary": "Fyra av fem domare i Brasiliens högsta domstol röstade för en fällande dom mot den tidigare presidenten Jair Bolsonaro. Han dömdes för att ha planerat en statskupp för att behålla makten efter att ha förlorat presidentvalet 2022 till vänsterns Luiz Inacio Lula da Silva. Bolsonaros advokater har redan meddelat att de kommer att överklaga domen.",
-      "url": "https://yle.fi/a/7-10084191?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-11T19:42:04Z"
+      "title": "USA-expert: ”Riskerar leda till en ny våldsspiral",
+      "summary": "Charlie Kirk var en hög profil konservativ aktivist och beskrivs som en grundpelare i en konservativ våg bland unga i USA. När Kirk var 18 grundade han sin politiska organisation Turning Point med målet att sprida konservativa ideal på liberalt inriktade amerikanska högskolor. Kirk blev ett känt namn i hela USA när han började lägga upp filmade debatter på olika universitet.",
+      "url": "https://svt.se/nyheter/utrikes/usa-expert-riskerar-leda-till-en-ny-valdsspiral",
+      "domain": "svt.se",
+      "published": "2025-09-12T14:25:00Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

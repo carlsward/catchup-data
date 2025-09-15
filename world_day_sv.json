@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-14T06:56:18+00:00",
-  "total_raw": 12,
+  "generated": "2025-09-15T07:09:02+00:00",
+  "total_raw": 13,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Yeongnam Eom överlevde Nordkoreas armé: ”Jag önskade att kriget skulle börja så…",
-      "summary": "Drygt 10 000 soldater från Nordkoreas folkarmé skickades till Ryssland för att strida. Soldater som tillfångatogs av ukrainska soldater sa att de inte ens visste att de skulle till fronten. Yeongnam Eom växte upp under 1980 - och 90 - talen i Hyesan, vid gränsen till Kina.",
-      "url": "https://yle.fi/a/7-10083922?origin=rss",
+      "title": "Oklart om myndigheter ska få läsa privata meddelanden",
+      "summary": "Initiativet ingår i ett större lagpaket för att bekämpa spridning av material som visar sexuella övergrepp mot barn. Den kontroversiella lagstiftningen har lett till omfattande debatt och väckt oro på flera håll. Förespråkare menar att förändringen är nödvändig för att skydda barn, men kritiker ser det som en trojansk häst för massövervakning.",
+      "url": "https://yle.fi/a/7-10084357?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-14T03:31:16Z"
+      "published": "2025-09-14T14:24:21Z"
     },
     {
-      "title": "Nepal fick ny premiärminister efter blodiga protester",
-      "summary": "Nepals första kvinnliga regeringschef svor sin ämbetsed på fredag. Sushila Karki ska fungera som tillförordnad premiärminister fram till valet den 5 mars nästa år. Demonstrationerna utlöstes av att den nu avsatta regeringen ville förbjuda flera sociala medieplattformar.",
-      "url": "https://yle.fi/a/7-10084324?origin=rss",
+      "title": "Över 100 000 propalestinska demonstranter stoppade cykellopp i Spanien",
+      "summary": "Över 100 000 propalestinska demonstranter deltog i söndagens protester mot att israeliska laget Israel Premier Tech tilläts delta i ett av de stora cykelloppen i världen, Spanien runt, eller Vuelta a España. Det tre veckor långa loppet har präglats av pro - israeliska protester. Demonstranterna kastade föremål mot polisen och polisen skingrade folkmassor med tårgas.",
+      "url": "https://yle.fi/a/7-10084370?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-13T11:54:32Z"
+      "published": "2025-09-15T04:21:56Z"
     },
     {
-      "title": "Omfattande demonstrationer i London",
-      "summary": "Tommy Robinson, grundare av högerextrema English Defence League, samordnade lördagen en demonstration för yttrandefrihet och ett enat kungadöme. Enligt polisens uppskattning samlades mellan 110 000 och 150 0000 människor i centrala London. Robinson beskrivs ha använt sig av dödsskjutningen av den amerikanska högerdebattören Charlie Kirk för att kraftsamla till demonstrationen som hölls på lördag.",
-      "url": "https://svt.se/nyheter/utrikes/omfattande-hogerextrem-demonstration-i-london",
+      "title": "Säkerhetsexpert: Dataläckan i Sverige hade kunnat vara mycket värre",
+      "summary": "Uppgifterna kommer från företaget Miljödata som levererar HR - system till de flesta av Sveriges kommuner – alltså system med information om anställda. De läckta uppgifterna har nu publicerats på darknet, vilket innebär att många personer kan komma åt dem. En relativt ny hackargrupp som kallar sig för Datacarry har tagit på sig ansvaret både för cyberattacken och publiceringen.",
+      "url": "https://yle.fi/a/7-10084356?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-14T12:30:41Z"
+    },
+    {
+      "title": "Första kvinnliga premiärministern i Nepal framröstad",
+      "summary": "Medianåldern i landet är 25 år och det var främst unga som deltog i demonstrationerna till en början. Nepals premiärminister avgick efter demonstrationerna pågått i några dagar där minst 70 personer har dött. Nu har en ny premiärminister röstats fram – på gamingplattformen Discord.",
+      "url": "https://svt.se/nyheter/utrikes/forsta-kvinnliga-premiarministern-i-nepal-framrostad-pa-discord",
       "domain": "svt.se",
-      "published": "2025-09-13T12:30:40Z"
+      "published": "2025-09-14T18:12:04Z"
     },
     {
-      "title": "Trumps specialsändebud ser exakt ett hinder för fred i Ukraina: ”Månne min retur…",
-      "summary": "Den amerikanske presidenten Donald Trumps specialsändebud Keith Kellogg säger som sin president. Han trodde att det skulle vara lätt att få slut på kriget i Ukraina, men det har visat sig vara svårt. Han säger att ukrainarna och deras president Volodymyr Zelenskyj har gjort allt för att hitta en lösning.",
-      "url": "https://yle.fi/a/7-10084341?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-13T19:01:12Z"
-    },
-    {
-      "title": "Brittisk nätlag ska skydda unga från skadliga sajter",
-      "summary": "Från och med den 25: e juli måste alla brittiska internetanvändare som vill ta del av sajter vars innehåll kan vara skadligt för barn verifiera sin ålder. Det kan handla om material relaterat till porr, självmord, självskadebeteende och ätstörningar. Den brittiska regeringen har inga planer på att upphäva lagen, som välkomnas av många oroliga föräldrar.",
-      "url": "https://svt.se/nyheter/utrikes/brittisk-natlag-ska-skydda-unga-fran-skadliga-sajter-kritiseras-for-overdriven-censur",
+      "title": "Propalestinska demonstranter stormade cykeltävling i Spanien",
+      "summary": "Över 100 000 personer deltog i söndagens protester, enligt spanska myndigheter. Två personer uppges ha gripits och 22 poliser skadades i tumultet. Arrangören uppgav på söndagskvällen att den sista etappen av Vueltans sista etapp avslutades tidigare än planerat.",
+      "url": "https://svt.se/nyheter/utrikes/propalestinska-demonstranter-stormade-vueltan-sista-etappen-installd",
       "domain": "svt.se",
-      "published": "2025-09-13T11:08:55Z"
+      "published": "2025-09-14T21:57:20Z"
     }
   ]
 }
