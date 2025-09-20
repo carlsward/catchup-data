@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-19T06:55:14+00:00",
+  "generated": "2025-09-20T06:49:28+00:00",
   "total_raw": 39,
-  "total_rank": 6,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Talibanerna förbjuder böcker av kvinnor",
-      "summary": "Ett antal böcker har tagits bort som en del av ett bredare förbud som även omfattar undervisning om mänskliga rättigheter och sexuella trakasserier. Totalt 18 ämnen som universiteten inte längre får utbilda kring anses vara i strid med sharia - lagarna och ( det talibanska ) systemets principer. Sedan de extremreligiösa talibanerna återtog makten i landet har de infört allt strängare lagar och restriktioner.",
-      "url": "https://svt.se/nyheter/utrikes/talibanerna-forbjuder-bocker-av-kvinnor",
+      "title": "Tre döda efter amerikanskt angrepp mot ”narkotikafartyg”",
+      "summary": "USA: s president Donald Trump meddelade på plattformen Truth Social att USA utförde ytterligare en attack mot ett fartyg, som enligt honom användes för att smuggla narkotika. Attacken är den tredje av sitt slag under den här månaden. USA har placerat krigsfartyg i södra Karibien som ett led i Trumps försök att slå till mot drogkarteller.",
+      "url": "https://yle.fi/a/7-10084736?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-20T06:17:42Z"
+    },
+    {
+      "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
+      "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
+      "url": "https://yle.fi/a/7-10083311?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-20T03:37:10Z"
+    },
+    {
+      "title": "Sverige blir slagträ i Orbáns kamp om makten",
+      "summary": "Frida Ghitis: Attacker mot EU - och EU - kollegor från Viktor Orbán är inget nytt. Hon säger att attacken främst är avsedd för den inhemska publiken – de ungerska väljarna. Ghitis säger att Sverige är ett tacksamt mål eftersom det har ett begränsat inflytande jämfört med andra EU - länder.",
+      "url": "https://svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
       "domain": "svt.se",
-      "published": "2025-09-19T04:36:01Z"
+      "published": "2025-09-19T18:28:19Z"
     },
     {
       "title": "Unga anhängare till Charlie Kirk vill att USA ska enas som efter 9/11",
@@ -37,18 +51,18 @@
       "published": "2025-09-18T07:03:50Z"
     },
     {
-      "title": "EU:s utrikeschef: Sanktioner och handelsrestriktioner mot Israel",
-      "summary": "EU: s utrikeschef Kaja Kallas säger att unionen måste använda alla tillgängliga verktyg för att få till en förändring. Kallas presenterar ett brett paket av sanktioner riktade mot flera parter i den pågående konflikten. I nuläget har Israel rätt till tullfrihet eller lägre tullar på stora delar av sin export till EU.",
-      "url": "https://yle.fi/a/7-10084542?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-17T11:35:27Z"
+      "title": "Han skadades i Israels personssökarattack mot Hizbollah",
+      "summary": "Ali Ibrahim är helt blind och har genomgått 15 operationer. Han ångrar inte att han är med i Hizbollah, vars väpnade gren är terrorstämplad av EU. Hör om när Ali Ibrahim skadades i Israels personsökarattack.",
+      "url": "https://svt.se/nyheter/utrikes/han-skadades-i-israels-personssokarattack-mot-hizbollah",
+      "domain": "svt.se",
+      "published": "2025-09-17T18:49:48Z"
     },
     {
-      "title": "Stora protester väntas under Trumps statsbesök i Storbritannien",
-      "summary": "Keir Starmer är oense med Starmer om att erkänna Palestina. Trump har inte samsyn på planerna på att erkänna en palestinsk stat. Starmer säger att han hade diskuterat med USA: s president Donald Trump hur man kan öka försvarsstödet till Ukraina och öka trycket på Rysslands president Vladimir Putin att gå med på ett fredsavtal.",
-      "url": "https://svt.se/nyheter/utrikes/stora-protester-vantas-under-trumps-statsbesok-i-storbritannien",
+      "title": "Nya satellitbilder visar: Invasionen i Gaza stad",
+      "summary": "Nya satellitbilder från Gaza ger ledtrådar till hur det ser ut på marken. Israels offensiv i Gaza stad, som kallats ett försök att helt inta miljonstaden, inleddes i måndags kväll. Satellitbilder ger ledtrådar om hur den ser ut från satellitbilderna från Gaza, och hur den har förändrats under de senaste dagarna.",
+      "url": "https://svt.se/nyheter/utrikes/nya-satellitbilder-visar-invasionen-i-gaza-stad",
       "domain": "svt.se",
-      "published": "2025-09-17T07:37:42Z"
+      "published": "2025-09-17T16:31:00Z"
     }
   ]
 }

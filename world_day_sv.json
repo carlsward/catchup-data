@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-19T06:54:12+00:00",
-  "total_raw": 21,
+  "generated": "2025-09-20T06:48:20+00:00",
+  "total_raw": 12,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Oscar Winberg: Att stoppa Kimmel är ett politiskt val",
-      "summary": "Två bolag, Nexstar och Sinclair, som äger en rad tv - stationer och sänder ABC: s program, meddelade att de kommer att dra sig tillbaka efter Kimmels kommentarer. Bolagen anklagas nu för att ge efter för påtryckningar från Trump och hans anhängare för att kunna skydda sina vinster. Analytiker och kritiker påpekar att det, utöver kommentarer och saker som skett i själva programmet, också handlar om stora affärsuppgörelser i bakgrunden.",
-      "url": "https://yle.fi/a/7-10084594?origin=rss",
+      "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
+      "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
+      "url": "https://yle.fi/a/7-10083311?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-18T12:57:35Z"
+      "published": "2025-09-20T03:37:10Z"
     },
     {
-      "title": "Trump och Starmer diskuterar investeringar och tullar",
-      "summary": "USA: s president Donald Trump med fru Melania på statsbesök i Storbritannien. Premiärminister Keir Starmer välkomnar president Trump till Chequers. Trump har uttryckt frustration över Rysslands president Vladimir Putin, men har inte infriat hoten om att införa nya sanktioner mot Ryssland.",
-      "url": "https://yle.fi/a/7-10084603?origin=rss",
+      "title": "Ryssland förnekar kränkningen av estniskt luftrum",
+      "summary": "Tre ryska jaktplan kränkte Estlands luftrum i tolv minuter på fredagen, uppger Estlands utrikesministerium. Landet har begärt konsultationer enligt Natos artikel 4, säger premiärminister Kristen Michal. Artikel 4 innebär inte något krav på militär respons, utan är ett sätt att samla medlemsländerna för att diskutera ett säkerhetshot.",
+      "url": "https://yle.fi/a/7-10084723?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-18T11:13:27Z"
+      "published": "2025-09-19T14:47:37Z"
     },
     {
-      "title": "Politiska samtal under Donald Trumps sista dag i London",
-      "summary": "Till skillnad från ett toppmöte innebär ett statsbesök inga formella beslut. Däremot skrev Starmer och Trump ett stort techavtal på en pressträff inför företagsledare och journalister. Där presenterades ett omfattande teknologipakt värt många miljarder pund.",
-      "url": "https://svt.se/nyheter/utrikes/politiska-samtal-under-donald-trumps-sista-dag-i-london",
+      "title": "EU trappar upp sanktionerna mot Ryssland",
+      "summary": "Målet är att ytterligare försvaga den ryska krigsekonomin och kväsa finansieringen av Rysslands anfallskrig. EU har också sänkt pristaket för rysk råolja till 47, 6 dollar per fat. För att stoppa kringgåendet av de befintliga sanktionerna föreslår kommissionen att 118 fartyg i den ryska skuggflottan ska svartlistas.",
+      "url": "https://yle.fi/a/7-10084714?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-19T12:55:13Z"
+    },
+    {
+      "title": "Sverige blir slagträ i Orbáns kamp om makten",
+      "summary": "Frida Ghitis: Attacker mot EU - och EU - kollegor från Viktor Orbán är inget nytt. Hon säger att attacken främst är avsedd för den inhemska publiken – de ungerska väljarna. Ghitis säger att Sverige är ett tacksamt mål eftersom det har ett begränsat inflytande jämfört med andra EU - länder.",
+      "url": "https://svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
       "domain": "svt.se",
-      "published": "2025-09-18T07:03:50Z"
+      "published": "2025-09-19T18:28:19Z"
     },
     {
-      "title": "Unga anhängare till Charlie Kirk vill att USA ska enas som efter 9/11",
-      "summary": "Solen gassar över en lång rad av blommor, ballonger och skyltar utanför Turning Point USA: s högkvarter i Arizonas huvudstad. Trots att temperaturen ligger på omkring 40 grader verkar det inte beröra det stora antalet människor som flockas här för att minnas den konservativa politiska aktivisten Charlie Kirk. Kirk var djupt respekterad och en ideologisk frontfigur, särskilt bland den unga högern.",
-      "url": "https://yle.fi/a/7-10084465?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-19T02:30:16Z"
-    },
-    {
-      "title": "Skämtet som stoppade programmet",
-      "summary": "I somras stoppades Stephen Colberts program på grund av nedstängning av finansiella skäl, enligt tv - bolaget CBS. Kritiker menar att det snarare har att göra med politik och censur. Under en sändning i måndags antydde programledaren att Charlie Kirks misstänkta mördare Tyler Robinson skulle kunna vara en Trumpsupporter.",
-      "url": "https://svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
+      "title": "Estland: Tre ryska stridsplan kränkte luftrum",
+      "summary": "Estlands utrikesminister säger att Ryssland redan kränkt estniskt luftrum fyra gånger i år. Estland har också beslutat att begära samråd enligt Natos artikel 4 efter kränkningen. Maria Malmer Stenergard kallar intrånget för \" brutal \" och EU: s utrikesminister Kaja Kallas kallar det för en \" extremt farlig provokation \".",
+      "url": "https://svt.se/nyheter/utrikes/estland-tre-ryska-stridsplan-krankte-luftrum",
       "domain": "svt.se",
-      "published": "2025-09-18T21:04:37Z"
+      "published": "2025-09-19T14:10:09Z"
     }
   ]
 }

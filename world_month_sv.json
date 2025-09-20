@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-19T06:56:16+00:00",
+  "generated": "2025-09-20T06:50:31+00:00",
   "total_raw": 56,
-  "total_rank": 6,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
+      "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
+      "url": "https://yle.fi/a/7-10083311?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-20T03:37:10Z"
+    },
     {
       "title": "Unga anhängare till Charlie Kirk vill att USA ska enas som efter 9/11",
       "summary": "Solen gassar över en lång rad av blommor, ballonger och skyltar utanför Turning Point USA: s högkvarter i Arizonas huvudstad. Trots att temperaturen ligger på omkring 40 grader verkar det inte beröra det stora antalet människor som flockas här för att minnas den konservativa politiska aktivisten Charlie Kirk. Kirk var djupt respekterad och en ideologisk frontfigur, särskilt bland den unga högern.",
@@ -23,11 +30,11 @@
       "published": "2025-09-18T12:57:35Z"
     },
     {
-      "title": "Stora protester väntas under Trumps statsbesök i Storbritannien",
-      "summary": "Keir Starmer är oense med Starmer om att erkänna Palestina. Trump har inte samsyn på planerna på att erkänna en palestinsk stat. Starmer säger att han hade diskuterat med USA: s president Donald Trump hur man kan öka försvarsstödet till Ukraina och öka trycket på Rysslands president Vladimir Putin att gå med på ett fredsavtal.",
-      "url": "https://svt.se/nyheter/utrikes/stora-protester-vantas-under-trumps-statsbesok-i-storbritannien",
+      "title": "Han skadades i Israels personssökarattack mot Hizbollah",
+      "summary": "Ali Ibrahim är helt blind och har genomgått 15 operationer. Han ångrar inte att han är med i Hizbollah, vars väpnade gren är terrorstämplad av EU. Hör om när Ali Ibrahim skadades i Israels personsökarattack.",
+      "url": "https://svt.se/nyheter/utrikes/han-skadades-i-israels-personssokarattack-mot-hizbollah",
       "domain": "svt.se",
-      "published": "2025-09-17T07:37:42Z"
+      "published": "2025-09-17T18:49:48Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
