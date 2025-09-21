@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-20T06:48:20+00:00",
-  "total_raw": 12,
+  "generated": "2025-09-21T07:09:10+00:00",
+  "total_raw": 13,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
-      "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
-      "url": "https://yle.fi/a/7-10083311?origin=rss",
+      "title": "De här fem sakerna hotar Indiens och Kinas nyfunna bromance",
+      "summary": "Relationerna mellan de två kärnvapennationerna är inte nödvändigtvis så hållbara som man vill ge sken av. Kina och Indien delar en 3 488 kilometer lång gräns via Tibet. Båda nationerna har satsat stora pengar på att bygga upp vägar och militärbaser i de här trakterna.",
+      "url": "https://yle.fi/a/7-10084263?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-20T03:37:10Z"
+      "published": "2025-09-21T03:46:37Z"
     },
     {
-      "title": "Ryssland förnekar kränkningen av estniskt luftrum",
-      "summary": "Tre ryska jaktplan kränkte Estlands luftrum i tolv minuter på fredagen, uppger Estlands utrikesministerium. Landet har begärt konsultationer enligt Natos artikel 4, säger premiärminister Kristen Michal. Artikel 4 innebär inte något krav på militär respons, utan är ett sätt att samla medlemsländerna för att diskutera ett säkerhetshot.",
-      "url": "https://yle.fi/a/7-10084723?origin=rss",
+      "title": "Rysslands egen Eurovision hölls på lördagskvällen",
+      "summary": "Ryssland stod på lördag kväll värd för den internationella sångtävlingen Intervision Song Contest. Tävlingen presenteras som Rysslands svar på den europeiska musikinstitutionens Eurovision Song Contest, från Ryssland har portats de senaste fyra åren på grund av landets anfallskrig mot Ukraina. Ukraina ser projektet som ett instrument för Ryssland att sprida sin fientliga propaganda.",
+      "url": "https://yle.fi/a/7-10084742?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-19T14:47:37Z"
+      "published": "2025-09-20T14:50:17Z"
     },
     {
-      "title": "EU trappar upp sanktionerna mot Ryssland",
-      "summary": "Målet är att ytterligare försvaga den ryska krigsekonomin och kväsa finansieringen av Rysslands anfallskrig. EU har också sänkt pristaket för rysk råolja till 47, 6 dollar per fat. För att stoppa kringgåendet av de befintliga sanktionerna föreslår kommissionen att 118 fartyg i den ryska skuggflottan ska svartlistas.",
-      "url": "https://yle.fi/a/7-10084714?origin=rss",
+      "title": "Cyberattack stör flygtrafiken i Europa",
+      "summary": "Flera europeiska flygplatser har drabbats av störningar, efter en cyberattack under natten mot lördagen. Det är oklart vem som utförde attacken. Åtminstone Bryssels, Berlins och Londons flygplatser påverkas.",
+      "url": "https://yle.fi/a/7-10084740?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-19T12:55:13Z"
+      "published": "2025-09-20T07:57:31Z"
     },
     {
-      "title": "Sverige blir slagträ i Orbáns kamp om makten",
-      "summary": "Frida Ghitis: Attacker mot EU - och EU - kollegor från Viktor Orbán är inget nytt. Hon säger att attacken främst är avsedd för den inhemska publiken – de ungerska väljarna. Ghitis säger att Sverige är ett tacksamt mål eftersom det har ett begränsat inflytande jämfört med andra EU - länder.",
-      "url": "https://svt.se/nyheter/utrikes/sverige-blir-slagtra-i-orbans-kamp-om-makten",
+      "title": "Satellitbilder visar hur palestinska byar försvinner på Västbanken",
+      "summary": "Minst 979 palestinier och 35 israeler har dödats på Västbanken sedan den 7 oktober attacken 2023. En betydande del av fallen handlar om konflikten kring de israeliska bosättningarna som strider mot internationell rätt, enligt FN. Byarna utan tak ska ha tvingats lämna sina hem efter ett israeliskt myndighetsbeslut om saknade tillstånd.",
+      "url": "https://svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
       "domain": "svt.se",
-      "published": "2025-09-19T18:28:19Z"
+      "published": "2025-09-21T04:11:54Z"
     },
     {
-      "title": "Estland: Tre ryska stridsplan kränkte luftrum",
-      "summary": "Estlands utrikesminister säger att Ryssland redan kränkt estniskt luftrum fyra gånger i år. Estland har också beslutat att begära samråd enligt Natos artikel 4 efter kränkningen. Maria Malmer Stenergard kallar intrånget för \" brutal \" och EU: s utrikesminister Kaja Kallas kallar det för en \" extremt farlig provokation \".",
-      "url": "https://svt.se/nyheter/utrikes/estland-tre-ryska-stridsplan-krankte-luftrum",
+      "title": "Cyberattack mot europeiska flygplatser",
+      "summary": "Efter cyberattacken natten mot lördag måste all incheckning och boarding nu ske manuellt. Omkring 15 av deras avgångar från London, Berlin och Bryssel påverkas under dagen. Collins Aerospace meddelar att det arbetar på att lösa problemet och att det enda som påverkas är den digitala incheckningen och bagagehanteringen, och att den går att genomföra manuellt.",
+      "url": "https://svt.se/nyheter/utrikes/cyberattack-mot-europeiska-flygplatser-storningar-i-flygtrafiken",
       "domain": "svt.se",
-      "published": "2025-09-19T14:10:09Z"
+      "published": "2025-09-20T07:58:30Z"
     }
   ]
 }

@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-20T06:50:31+00:00",
-  "total_raw": 56,
+  "generated": "2025-09-21T07:11:38+00:00",
+  "total_raw": 57,
   "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "De här fem sakerna hotar Indiens och Kinas nyfunna bromance",
+      "summary": "Relationerna mellan de två kärnvapennationerna är inte nödvändigtvis så hållbara som man vill ge sken av. Kina och Indien delar en 3 488 kilometer lång gräns via Tibet. Båda nationerna har satsat stora pengar på att bygga upp vägar och militärbaser i de här trakterna.",
+      "url": "https://yle.fi/a/7-10084263?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-21T03:46:37Z"
+    },
     {
       "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
       "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
@@ -23,18 +30,11 @@
       "published": "2025-09-19T02:30:16Z"
     },
     {
-      "title": "Oscar Winberg: Att stoppa Kimmel är ett politiskt val",
-      "summary": "Två bolag, Nexstar och Sinclair, som äger en rad tv - stationer och sänder ABC: s program, meddelade att de kommer att dra sig tillbaka efter Kimmels kommentarer. Bolagen anklagas nu för att ge efter för påtryckningar från Trump och hans anhängare för att kunna skydda sina vinster. Analytiker och kritiker påpekar att det, utöver kommentarer och saker som skett i själva programmet, också handlar om stora affärsuppgörelser i bakgrunden.",
-      "url": "https://yle.fi/a/7-10084594?origin=rss",
+      "title": "Trump om Putin: ”Han svek mig verkligen",
+      "summary": "USA: s president Donald Trump och Storbritanniens premiärminister Keir Starmer har hållit överläggningar. De diskuterade handelsrelationerna och krigen i Ukraina och Gaza. Trump är den första världsledaren någonsin som har gjort två statsbesök i Storbritannien.",
+      "url": "https://yle.fi/a/7-10084617?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-18T12:57:35Z"
-    },
-    {
-      "title": "Han skadades i Israels personssökarattack mot Hizbollah",
-      "summary": "Ali Ibrahim är helt blind och har genomgått 15 operationer. Han ångrar inte att han är med i Hizbollah, vars väpnade gren är terrorstämplad av EU. Hör om när Ali Ibrahim skadades i Israels personsökarattack.",
-      "url": "https://svt.se/nyheter/utrikes/han-skadades-i-israels-personssokarattack-mot-hizbollah",
-      "domain": "svt.se",
-      "published": "2025-09-17T18:49:48Z"
+      "published": "2025-09-18T13:36:29Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

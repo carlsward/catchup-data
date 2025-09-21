@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-20T06:49:28+00:00",
-  "total_raw": 39,
+  "generated": "2025-09-21T07:10:26+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tre döda efter amerikanskt angrepp mot ”narkotikafartyg”",
-      "summary": "USA: s president Donald Trump meddelade på plattformen Truth Social att USA utförde ytterligare en attack mot ett fartyg, som enligt honom användes för att smuggla narkotika. Attacken är den tredje av sitt slag under den här månaden. USA har placerat krigsfartyg i södra Karibien som ett led i Trumps försök att slå till mot drogkarteller.",
-      "url": "https://yle.fi/a/7-10084736?origin=rss",
+      "title": "Satellitbilder visar hur palestinska byar försvinner på Västbanken",
+      "summary": "Minst 979 palestinier och 35 israeler har dödats på Västbanken sedan den 7 oktober attacken 2023. En betydande del av fallen handlar om konflikten kring de israeliska bosättningarna som strider mot internationell rätt, enligt FN. Byarna utan tak ska ha tvingats lämna sina hem efter ett israeliskt myndighetsbeslut om saknade tillstånd.",
+      "url": "https://svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
+      "domain": "svt.se",
+      "published": "2025-09-21T04:11:54Z"
+    },
+    {
+      "title": "De här fem sakerna hotar Indiens och Kinas nyfunna bromance",
+      "summary": "Relationerna mellan de två kärnvapennationerna är inte nödvändigtvis så hållbara som man vill ge sken av. Kina och Indien delar en 3 488 kilometer lång gräns via Tibet. Båda nationerna har satsat stora pengar på att bygga upp vägar och militärbaser i de här trakterna.",
+      "url": "https://yle.fi/a/7-10084263?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-20T06:17:42Z"
+      "published": "2025-09-21T03:46:37Z"
+    },
+    {
+      "title": "Cyberattack mot europeiska flygplatser",
+      "summary": "Efter cyberattacken natten mot lördag måste all incheckning och boarding nu ske manuellt. Omkring 15 av deras avgångar från London, Berlin och Bryssel påverkas under dagen. Collins Aerospace meddelar att det arbetar på att lösa problemet och att det enda som påverkas är den digitala incheckningen och bagagehanteringen, och att den går att genomföra manuellt.",
+      "url": "https://svt.se/nyheter/utrikes/cyberattack-mot-europeiska-flygplatser-storningar-i-flygtrafiken",
+      "domain": "svt.se",
+      "published": "2025-09-20T07:58:30Z"
     },
     {
       "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
@@ -37,32 +51,18 @@
       "published": "2025-09-19T02:30:16Z"
     },
     {
-      "title": "Oscar Winberg: Att stoppa Kimmel är ett politiskt val",
-      "summary": "Två bolag, Nexstar och Sinclair, som äger en rad tv - stationer och sänder ABC: s program, meddelade att de kommer att dra sig tillbaka efter Kimmels kommentarer. Bolagen anklagas nu för att ge efter för påtryckningar från Trump och hans anhängare för att kunna skydda sina vinster. Analytiker och kritiker påpekar att det, utöver kommentarer och saker som skett i själva programmet, också handlar om stora affärsuppgörelser i bakgrunden.",
-      "url": "https://yle.fi/a/7-10084594?origin=rss",
+      "title": "Skämtet som stoppade programmet",
+      "summary": "Federal Communications Commission ( FCC ) är den självständiga myndigheten i USA som reglerar all tv - och radiokommunikation i landet. Myndighetens chef Brendan Carr har talat offentligt om ämnet och öppet kritiserat Jimmy Kimmel för det han sagt. Donald Trump hyllar Carr, och uppger att tv - kanaler som är \" anti - Trump \" bör få sina tillstånd indragna.",
+      "url": "https://svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
+      "domain": "svt.se",
+      "published": "2025-09-18T21:04:37Z"
+    },
+    {
+      "title": "Trump om Putin: ”Han svek mig verkligen",
+      "summary": "USA: s president Donald Trump och Storbritanniens premiärminister Keir Starmer har hållit överläggningar. De diskuterade handelsrelationerna och krigen i Ukraina och Gaza. Trump är den första världsledaren någonsin som har gjort två statsbesök i Storbritannien.",
+      "url": "https://yle.fi/a/7-10084617?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-18T12:57:35Z"
-    },
-    {
-      "title": "Politiska samtal under Donald Trumps sista dag i London",
-      "summary": "Till skillnad från ett toppmöte innebär ett statsbesök inga formella beslut. Däremot skrev Starmer och Trump ett stort techavtal på en pressträff inför företagsledare och journalister. Där presenterades ett omfattande teknologipakt värt många miljarder pund.",
-      "url": "https://svt.se/nyheter/utrikes/politiska-samtal-under-donald-trumps-sista-dag-i-london",
-      "domain": "svt.se",
-      "published": "2025-09-18T07:03:50Z"
-    },
-    {
-      "title": "Han skadades i Israels personssökarattack mot Hizbollah",
-      "summary": "Ali Ibrahim är helt blind och har genomgått 15 operationer. Han ångrar inte att han är med i Hizbollah, vars väpnade gren är terrorstämplad av EU. Hör om när Ali Ibrahim skadades i Israels personsökarattack.",
-      "url": "https://svt.se/nyheter/utrikes/han-skadades-i-israels-personssokarattack-mot-hizbollah",
-      "domain": "svt.se",
-      "published": "2025-09-17T18:49:48Z"
-    },
-    {
-      "title": "Nya satellitbilder visar: Invasionen i Gaza stad",
-      "summary": "Nya satellitbilder från Gaza ger ledtrådar till hur det ser ut på marken. Israels offensiv i Gaza stad, som kallats ett försök att helt inta miljonstaden, inleddes i måndags kväll. Satellitbilder ger ledtrådar om hur den ser ut från satellitbilderna från Gaza, och hur den har förändrats under de senaste dagarna.",
-      "url": "https://svt.se/nyheter/utrikes/nya-satellitbilder-visar-invasionen-i-gaza-stad",
-      "domain": "svt.se",
-      "published": "2025-09-17T16:31:00Z"
+      "published": "2025-09-18T13:36:29Z"
     }
   ]
 }
