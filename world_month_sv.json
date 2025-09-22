@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-21T07:11:38+00:00",
+  "generated": "2025-09-22T07:12:27+00:00",
   "total_raw": 57,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "De här fem sakerna hotar Indiens och Kinas nyfunna bromance",
-      "summary": "Relationerna mellan de två kärnvapennationerna är inte nödvändigtvis så hållbara som man vill ge sken av. Kina och Indien delar en 3 488 kilometer lång gräns via Tibet. Båda nationerna har satsat stora pengar på att bygga upp vägar och militärbaser i de här trakterna.",
-      "url": "https://yle.fi/a/7-10084263?origin=rss",
+      "title": "Ödesvecka för Palestina då världsledare möts i New York",
+      "summary": "Den åttionde generalförsamlingen i FN: s historia har också uppmärksammat organisationens 80 - årsjubileum. Generalförsamlingen UNGA80 inleds i ett världsläge som är sällsynt spänt på många olika fronter. På måndagen inleds serien av toppmöten som ordnas i samband med UNGA - veckan med ett möte om Palestina, Israel och en tvåstatslösning som vägen mot fred i regionen.",
+      "url": "https://yle.fi/a/7-10084769?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-21T03:46:37Z"
+      "published": "2025-09-22T02:15:16Z"
+    },
+    {
+      "title": "Storbritannien och Portugal erkänner formellt Palestina som suverän stat",
+      "summary": "Storbritannien och de andra samväldesstaterna har gett sitt formella erkännande åt Palestina. Senare under kvällen anslöt sig Portugal också till skaran. Hoppet för en tvåstatslösning tynar bort, säger Storbritanniens premiärminister.",
+      "url": "https://yle.fi/a/7-10084764?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-21T13:34:03Z"
     },
     {
       "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
@@ -23,18 +30,18 @@
       "published": "2025-09-20T03:37:10Z"
     },
     {
-      "title": "Unga anhängare till Charlie Kirk vill att USA ska enas som efter 9/11",
-      "summary": "Solen gassar över en lång rad av blommor, ballonger och skyltar utanför Turning Point USA: s högkvarter i Arizonas huvudstad. Trots att temperaturen ligger på omkring 40 grader verkar det inte beröra det stora antalet människor som flockas här för att minnas den konservativa politiska aktivisten Charlie Kirk. Kirk var djupt respekterad och en ideologisk frontfigur, särskilt bland den unga högern.",
-      "url": "https://yle.fi/a/7-10084465?origin=rss",
+      "title": "EU trappar upp sanktionerna mot Ryssland",
+      "summary": "Målet är att ytterligare försvaga den ryska krigsekonomin och kväsa finansieringen av Rysslands anfallskrig. EU har också sänkt pristaket för rysk råolja till 47, 6 dollar per fat. För att stoppa kringgåendet av de befintliga sanktionerna föreslår kommissionen att 118 fartyg i den ryska skuggflottan ska svartlistas.",
+      "url": "https://yle.fi/a/7-10084714?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-19T02:30:16Z"
+      "published": "2025-09-19T12:55:13Z"
     },
     {
-      "title": "Trump om Putin: ”Han svek mig verkligen",
-      "summary": "USA: s president Donald Trump och Storbritanniens premiärminister Keir Starmer har hållit överläggningar. De diskuterade handelsrelationerna och krigen i Ukraina och Gaza. Trump är den första världsledaren någonsin som har gjort två statsbesök i Storbritannien.",
-      "url": "https://yle.fi/a/7-10084617?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-18T13:36:29Z"
+      "title": "Skämtet som stoppade programmet",
+      "summary": "Federal Communications Commission ( FCC ) är den självständiga myndigheten i USA som reglerar all tv - och radiokommunikation i landet. Myndighetens chef Brendan Carr har talat offentligt om ämnet och öppet kritiserat Jimmy Kimmel för det han sagt. Donald Trump hyllar Carr, och uppger att tv - kanaler som är \" anti - Trump \" bör få sina tillstånd indragna.",
+      "url": "https://svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
+      "domain": "svt.se",
+      "published": "2025-09-18T21:04:37Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

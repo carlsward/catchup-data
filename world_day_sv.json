@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-21T07:09:10+00:00",
-  "total_raw": 13,
+  "generated": "2025-09-22T07:09:38+00:00",
+  "total_raw": 11,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "De här fem sakerna hotar Indiens och Kinas nyfunna bromance",
-      "summary": "Relationerna mellan de två kärnvapennationerna är inte nödvändigtvis så hållbara som man vill ge sken av. Kina och Indien delar en 3 488 kilometer lång gräns via Tibet. Båda nationerna har satsat stora pengar på att bygga upp vägar och militärbaser i de här trakterna.",
-      "url": "https://yle.fi/a/7-10084263?origin=rss",
+      "title": "Storbritannien och Portugal erkänner formellt Palestina som suverän stat",
+      "summary": "Storbritannien och de andra samväldesstaterna har gett sitt formella erkännande åt Palestina. Senare under kvällen anslöt sig Portugal också till skaran. Hoppet för en tvåstatslösning tynar bort, säger Storbritanniens premiärminister.",
+      "url": "https://yle.fi/a/7-10084764?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-21T03:46:37Z"
+      "published": "2025-09-21T13:34:03Z"
     },
     {
-      "title": "Rysslands egen Eurovision hölls på lördagskvällen",
-      "summary": "Ryssland stod på lördag kväll värd för den internationella sångtävlingen Intervision Song Contest. Tävlingen presenteras som Rysslands svar på den europeiska musikinstitutionens Eurovision Song Contest, från Ryssland har portats de senaste fyra åren på grund av landets anfallskrig mot Ukraina. Ukraina ser projektet som ett instrument för Ryssland att sprida sin fientliga propaganda.",
-      "url": "https://yle.fi/a/7-10084742?origin=rss",
+      "title": "Säkerhetsexpert: Europa har resurser att vida överträffa Ryssland militärt, men…",
+      "summary": "Europas svaghet och oenighet är ett återkommande tema i den amerikanska säkerhetspolitiska diskussionen. Att Europa i decennier har åkt snålskjuts på USA: s bekostnad är lättare sagt än gjort. Nigel Gould - Davies, säkerhetspolitisk expert vid det ansedda forskningsinstitutet Internationella institutet för strategiska studier ( IISS ) i London, nämner de frysta ryska tillgångarna på omkring 200 miljarder euro som finns på en bank i Belgien.",
+      "url": "https://yle.fi/a/7-10084768?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-20T14:50:17Z"
+      "published": "2025-09-21T10:41:49Z"
     },
     {
-      "title": "Cyberattack stör flygtrafiken i Europa",
-      "summary": "Flera europeiska flygplatser har drabbats av störningar, efter en cyberattack under natten mot lördagen. Det är oklart vem som utförde attacken. Åtminstone Bryssels, Berlins och Londons flygplatser påverkas.",
-      "url": "https://yle.fi/a/7-10084740?origin=rss",
+      "title": "Efter protesterna: Står Frankrike inför ett politiskt sammanbrott?",
+      "summary": "Sébastien Lecornu står inför en närmast omöjlig uppgift att ena ett splittrat parlament och undvika ytterligare politisk turbulens. I brännpunkten för diskussionerna är frågan om hur Frankrikes stora budgetunderskott ska balanseras. Socialisterna har gjort det klart att de inte kommer att kompromissa och har lagt fram ett alternativt budgetförslag med färre nedskärningar och skattehöjningar för de mest välbärgade.",
+      "url": "https://yle.fi/a/7-10084732?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-20T07:57:31Z"
+      "published": "2025-09-21T08:01:31Z"
     },
     {
-      "title": "Satellitbilder visar hur palestinska byar försvinner på Västbanken",
-      "summary": "Minst 979 palestinier och 35 israeler har dödats på Västbanken sedan den 7 oktober attacken 2023. En betydande del av fallen handlar om konflikten kring de israeliska bosättningarna som strider mot internationell rätt, enligt FN. Byarna utan tak ska ha tvingats lämna sina hem efter ett israeliskt myndighetsbeslut om saknade tillstånd.",
-      "url": "https://svt.se/nyheter/utrikes/satellitbilder-visar-hur-palestinska-byar-forsvinner-pa-vastbanken",
+      "title": "Storbritannien, Kanada och Australien erkänner Palestina",
+      "summary": "Storbritannien erkänner formellt Palestina. Krig mellan Israel och Hamas Starmer säger att palestinierna förtjänar att leva i fred. Australiens premiärminister Anthony Albanese betonar att Hamas inte kommer att tillåtas att ha någon roll i Palestina.",
+      "url": "https://svt.se/nyheter/utrikes/storbritannien-kanada-och-australien-erkanner-palestina",
       "domain": "svt.se",
-      "published": "2025-09-21T04:11:54Z"
+      "published": "2025-09-21T14:56:56Z"
     },
     {
-      "title": "Cyberattack mot europeiska flygplatser",
-      "summary": "Efter cyberattacken natten mot lördag måste all incheckning och boarding nu ske manuellt. Omkring 15 av deras avgångar från London, Berlin och Bryssel påverkas under dagen. Collins Aerospace meddelar att det arbetar på att lösa problemet och att det enda som påverkas är den digitala incheckningen och bagagehanteringen, och att den går att genomföra manuellt.",
-      "url": "https://svt.se/nyheter/utrikes/cyberattack-mot-europeiska-flygplatser-storningar-i-flygtrafiken",
+      "title": "Wallström: ”Har varit undfallande och fegt",
+      "summary": "Sverige är ett av de länder i världen som går allra längst i att införa sanktioner mot våldsamma bosättare, säger Margot Wallström. Hon pekar på att regeringen borde återuppta stödet till FN - organet Unrwa och att Sverige inte tar emot skadade barn från Gaza. Vi måste på ett principfast sätt fortsätta stå upp för det här, säger Benjamin Dousa om en tvåstatslösning och riktar samtidigt en känga mot den tidigare S - ministern: – Margot Wallström lyckades med konststycket att både bli hatad av Israel och rätt många arabländer.",
+      "url": "https://svt.se/nyheter/utrikes/wallstrom-har-varit-undfallande-och-fegt",
       "domain": "svt.se",
-      "published": "2025-09-20T07:58:30Z"
+      "published": "2025-09-21T21:14:36Z"
     }
   ]
 }
