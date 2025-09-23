@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-22T07:11:08+00:00",
-  "total_raw": 40,
-  "total_rank": 10,
+  "generated": "2025-09-23T06:52:40+00:00",
+  "total_raw": 39,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kim Jong-un är öppen för samtal med USA",
-      "summary": "Kim träffade USA: s president Donald Trump tre gånger under sin första presidentperiod. Nordkorea gick inte med på att avveckla sitt kärnvapenprogram i utbyte mot hävda sanktioner. Sydkoreas nya liberala regering har uppmanat Donald Trump att ta en ledande roll i en ny dialog med Kim Jong - un, sex år efter det tidigare försöket misslyckades.",
-      "url": "https://yle.fi/a/7-10084785?origin=rss",
+      "title": "USA:s regering kopplar användande av paracetamol till autism",
+      "summary": "Tidigare har Robert F Kennedy Jr hävdat att faktorer som vaccin, miljöfaktorer och användandet av receptfria läkemedel med paracetamol kan kopplas till en ökning av autismdiagnoser i landet. Hans utspel har mött kritik från forskare som pekat på att ökningen av diagnoser till stor del kan förklaras av större medvetenhet och ändrad attityd. På måndagen presenterade han med president Donald Trump hälsomyndighetens slutsatser hittills, där både Trump och Kennedy Jr hävdade att de visar att det finns ett samband mellan användning av acetaminofen under graviditet och autism hos barn.",
+      "url": "https://svt.se/nyheter/utrikes/usas-regering-kopplar-anvandande-av-paracetamol-till-autism",
+      "domain": "svt.se",
+      "published": "2025-09-23T05:35:05Z"
+    },
+    {
+      "title": "Världscupen i diplomati kör igång i New York",
+      "summary": "Temat för årets generalförsamling UNGA80 är: Bättre tillsammans: 80 år och mer för fred, utveckling och mänskliga rättigheter. Årets upplaga kommer samtidigt som kriget i Gaza pågått i två år, Rysslands krig mot Ukraina i över tre år, klimatproblemen utmanas av nedskärningar och donationströtthet. Trots utmaningarna är mer än 140 världsledare, politiker och delegationschefer på plats i New York för det som ibland kallas världscupen i diplomati.",
+      "url": "https://yle.fi/a/7-10084782?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-22T06:05:03Z"
+      "published": "2025-09-23T01:49:11Z"
+    },
+    {
+      "title": "Aktivisten Alaa Abdel Fattah benådas",
+      "summary": "Alaa Abdel Fattah har tillbringat en stor del av sin tid i häktet. Arabiska våren 2021 dömdes han till ytterligare fem års fängelse för att ha spridit falska nyheter. Egyptiska myndigheter vägrade dock att släppa honom eftersom man inte räknade häktningstiden som en del av straffet.",
+      "url": "https://svt.se/nyheter/utrikes/aktivisten-alaa-abdel-fattah-benadas",
+      "domain": "svt.se",
+      "published": "2025-09-22T12:40:19Z"
     },
     {
       "title": "Ödesvecka för Palestina då världsledare möts i New York",
@@ -37,46 +51,18 @@
       "published": "2025-09-21T04:11:54Z"
     },
     {
-      "title": "Cyberattack mot europeiska flygplatser",
-      "summary": "Efter cyberattacken natten mot lördag måste all incheckning och boarding nu ske manuellt. Omkring 15 av deras avgångar från London, Berlin och Bryssel påverkas under dagen. Collins Aerospace meddelar att det arbetar på att lösa problemet och att det enda som påverkas är den digitala incheckningen och bagagehanteringen, och att den går att genomföra manuellt.",
-      "url": "https://svt.se/nyheter/utrikes/cyberattack-mot-europeiska-flygplatser-storningar-i-flygtrafiken",
-      "domain": "svt.se",
-      "published": "2025-09-20T07:58:30Z"
-    },
-    {
-      "title": "Allt hårdare påtryckningar på journalisterna i Hongkong",
-      "summary": "Journalister ifrågasätter inte längre något av det som våra ledare säger eller gör, säger pensionerad lärare Maria Leung. Lagar används som påtryckningsmedel för de flesta massmedieföretag i Hongkong. Selina Cheng, ordförande för Hongkongs journalistförbund, säger att journalister måste ta skeden i vacker hand för att undvika att bli uppsagda.",
-      "url": "https://yle.fi/a/7-10083311?origin=rss",
+      "title": "Stubb till The Guardian: Säkerhetsgarantier innebär att man är villig att gå ut…",
+      "summary": "Ryssland har inget att säga till om i fråga om ett självständigt lands egna beslut, säger Alexander Stubb. Enligt Stubb är det oväsentligt om Ryssland godkänner säkerhetsgarantierna eller inte. Han säger att säkerhetsgarantier för Ukraina inte kan träda i kraft förrän det har nått en överenskommelse med Ryssland.",
+      "url": "https://yle.fi/a/7-10084752?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-20T03:37:10Z"
+      "published": "2025-09-20T17:45:07Z"
     },
     {
-      "title": "Estland: Tre ryska stridsplan kränkte luftrum",
-      "summary": "De ryska MiG - 31 - planen ska ha stannat i landets luftrum i tolv minuter. Estlands utrikesminister Margus Tsakhna sade att Ryssland redan kränkt estniskt luftrum fyra gånger i år. Natorådet kommer att sammanträda i början av nästa vecka med anledning av kränkningen.",
-      "url": "https://svt.se/nyheter/utrikes/estland-tre-ryska-stridsplan-krankte-luftrum",
+      "title": "Israelisk reservist strider i Gaza",
+      "summary": "Jag känner väldigt lite empati, nu har det börjat förändras, säger reservisten. Han säger att han inte har sett Israel begå krigsförbrytelser, men att han upplevt gråzoner i kriget som handlar om att soldater kan skjuta mot obeväpnade civila om de misstänker dem för att vara spioner eller ha onda avsikter. Tekniskt sett är han inte beväpnad, men jag vet inte om han spionerar eller jobbar åt Hamas, säger han.",
+      "url": "https://svt.se/nyheter/utrikes/israelisk-reservist-strider-i-gaza-protesterar-nu-mot-kriget",
       "domain": "svt.se",
-      "published": "2025-09-19T14:10:09Z"
-    },
-    {
-      "title": "EU trappar upp sanktionerna mot Ryssland",
-      "summary": "Målet är att ytterligare försvaga den ryska krigsekonomin och kväsa finansieringen av Rysslands anfallskrig. EU har också sänkt pristaket för rysk råolja till 47, 6 dollar per fat. För att stoppa kringgåendet av de befintliga sanktionerna föreslår kommissionen att 118 fartyg i den ryska skuggflottan ska svartlistas.",
-      "url": "https://yle.fi/a/7-10084714?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-19T12:55:13Z"
-    },
-    {
-      "title": "Skämtet som stoppade programmet",
-      "summary": "Federal Communications Commission ( FCC ) är den självständiga myndigheten i USA som reglerar all tv - och radiokommunikation i landet. Myndighetens chef Brendan Carr har talat offentligt om ämnet och öppet kritiserat Jimmy Kimmel för det han sagt. Donald Trump hyllar Carr, och uppger att tv - kanaler som är \" anti - Trump \" bör få sina tillstånd indragna.",
-      "url": "https://svt.se/nyheter/utrikes/skamtet-som-stoppade-programmet-sa-paverkas-talkshows-av-politiken",
-      "domain": "svt.se",
-      "published": "2025-09-18T21:04:37Z"
-    },
-    {
-      "title": "Kraftig jordbävning i Ryssland",
-      "summary": "Kamtjatka - regionens guvernör säger att jordbävningens styrka uppskattas till magnituden 7, 2. USA tar bort tsunamivarningen, samtidigt som Ryssland utfärdar en varning för tsunami. En jordbävning med magnitud 6, 3 har också rapporterats i Papua Baratprovinsen, enligt det tyska forskningscentret GFZ.",
-      "url": "https://svt.se/nyheter/utrikes/kraftig-jordbavning-i-ryssland-tsnuamivarning-utfardad",
-      "domain": "svt.se",
-      "published": "2025-09-18T19:23:18Z"
+      "published": "2025-09-20T11:25:38Z"
     }
   ]
 }
