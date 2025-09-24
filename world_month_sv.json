@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-23T06:53:52+00:00",
-  "total_raw": 56,
+  "generated": "2025-09-24T06:54:12+00:00",
+  "total_raw": 55,
   "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Gazaflotta uppges ha attackerats elva gånger",
+      "summary": "Global Sumud Flotilla säger att elva fartyg i Gazaflottan har attackerats på internationellt vatten. Organisationen har publicerat videor på Instagram där man ser explosioner ute på havet. I måndags uppgav Israel att det inte tillåter flottan att bryta sjöblockaden vid Gaza.",
+      "url": "https://yle.fi/a/7-10084935?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-24T02:56:37Z"
+    },
     {
       "title": "Världscupen i diplomati kör igång i New York",
       "summary": "Temat för årets generalförsamling UNGA80 är: Bättre tillsammans: 80 år och mer för fred, utveckling och mänskliga rättigheter. Årets upplaga kommer samtidigt som kriget i Gaza pågått i två år, Rysslands krig mot Ukraina i över tre år, klimatproblemen utmanas av nedskärningar och donationströtthet. Trots utmaningarna är mer än 140 världsledare, politiker och delegationschefer på plats i New York för det som ibland kallas världscupen i diplomati.",
@@ -16,25 +23,18 @@
       "published": "2025-09-23T01:49:11Z"
     },
     {
-      "title": "Ödesvecka för Palestina då världsledare möts i New York",
-      "summary": "Den åttionde generalförsamlingen i FN: s historia har också uppmärksammat organisationens 80 - årsjubileum. Generalförsamlingen UNGA80 inleds i ett världsläge som är sällsynt spänt på många olika fronter. På måndagen inleds serien av toppmöten som ordnas i samband med UNGA - veckan med ett möte om Palestina, Israel och en tvåstatslösning som vägen mot fred i regionen.",
-      "url": "https://yle.fi/a/7-10084769?origin=rss",
+      "title": "Stora protester i Ungern mot regeringspropaganda",
+      "summary": "Tusentals människor samlades på Hjältarnas torg i Budapest i helgen för att protestera mot regeringens omfattande propagandakampanjer. Regeringen har i allt ökande omfattning lanserat landsomfattande kampanjer kring olika politiska frågor. De här kampanjerna har bedrivits via stora plakat på byggnader, längs motorvägar och andra offentliga platser i samhället, men också på sociala medier och videokanalen Youtube.",
+      "url": "https://yle.fi/a/7-10084828?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-22T02:15:16Z"
+      "published": "2025-09-22T14:39:50Z"
     },
     {
-      "title": "Storbritannien och Portugal erkänner formellt Palestina som suverän stat",
-      "summary": "Storbritannien och de andra samväldesstaterna har gett sitt formella erkännande åt Palestina. Senare under kvällen anslöt sig Portugal också till skaran. Hoppet för en tvåstatslösning tynar bort, säger Storbritanniens premiärminister.",
-      "url": "https://yle.fi/a/7-10084764?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-21T13:34:03Z"
-    },
-    {
-      "title": "Stubb till The Guardian: Säkerhetsgarantier innebär att man är villig att gå ut…",
-      "summary": "Ryssland har inget att säga till om i fråga om ett självständigt lands egna beslut, säger Alexander Stubb. Enligt Stubb är det oväsentligt om Ryssland godkänner säkerhetsgarantierna eller inte. Han säger att säkerhetsgarantier för Ukraina inte kan träda i kraft förrän det har nått en överenskommelse med Ryssland.",
-      "url": "https://yle.fi/a/7-10084752?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-20T17:45:07Z"
+      "title": "Wallström: ”Har varit undfallande och fegt",
+      "summary": "Sverige är ett av de länder i världen som går allra längst i att införa sanktioner mot våldsamma bosättare, säger Margot Wallström. Hon pekar på att regeringen borde återuppta stödet till FN - organet Unrwa och att Sverige inte tar emot skadade barn från Gaza. Vi måste på ett principfast sätt fortsätta stå upp för det här, säger Benjamin Dousa om en tvåstatslösning och riktar samtidigt en känga mot den tidigare S - ministern: – Margot Wallström lyckades med konststycket att både bli hatad av Israel och rätt många arabländer.",
+      "url": "https://svt.se/nyheter/utrikes/wallstrom-har-varit-undfallande-och-fegt",
+      "domain": "svt.se",
+      "published": "2025-09-21T21:14:36Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
