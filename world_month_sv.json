@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-24T06:54:12+00:00",
-  "total_raw": 55,
+  "generated": "2025-09-25T06:57:21+00:00",
+  "total_raw": 56,
   "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Gazaflotta uppges ha attackerats elva gånger",
-      "summary": "Global Sumud Flotilla säger att elva fartyg i Gazaflottan har attackerats på internationellt vatten. Organisationen har publicerat videor på Instagram där man ser explosioner ute på havet. I måndags uppgav Israel att det inte tillåter flottan att bryta sjöblockaden vid Gaza.",
-      "url": "https://yle.fi/a/7-10084935?origin=rss",
+      "title": "Nya drönare över danska flygplatser på Jylland",
+      "summary": "Luftrummet över Ålborgs flygplats är åter öppet, och drönarna verkar i skrivande stund ha lämnat luftrummet kring Ålborg. Köpenhamnspolisen samarbetar med säkerhetspolisen PET, men det är ännu oklart var drönarna tog vägen. Det finns inget som tyder på att det är den här typen av drönare som befann sig i vare sig Ålborg eller Köpenhamn Polisen har också gått ut med en vädjan och uppmaning till medborgare som flyger med drönare som hobby att vara extra uppmärksamma och följa reglerna på grund av det känsliga läget just nu.",
+      "url": "https://yle.fi/a/7-10085016?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-24T02:56:37Z"
+      "published": "2025-09-25T02:24:01Z"
+    },
+    {
+      "title": "Trump önskar ”lycka till” i Ukrainautspel",
+      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
+      "url": "https://yle.fi/a/7-10084994?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-24T14:46:00Z"
     },
     {
       "title": "Världscupen i diplomati kör igång i New York",
@@ -23,18 +30,11 @@
       "published": "2025-09-23T01:49:11Z"
     },
     {
-      "title": "Stora protester i Ungern mot regeringspropaganda",
-      "summary": "Tusentals människor samlades på Hjältarnas torg i Budapest i helgen för att protestera mot regeringens omfattande propagandakampanjer. Regeringen har i allt ökande omfattning lanserat landsomfattande kampanjer kring olika politiska frågor. De här kampanjerna har bedrivits via stora plakat på byggnader, längs motorvägar och andra offentliga platser i samhället, men också på sociala medier och videokanalen Youtube.",
-      "url": "https://yle.fi/a/7-10084828?origin=rss",
+      "title": "Kapabel aktör” bakom drönarna vid flygplats i Köpenhamn",
+      "summary": "Danska och norska myndigheter utreder nu samband mellan händelserna i Köpenhamn och Oslo. Enligt dansk polis kan drönarna inte utgöra en fara för människor, men att det handlar om en kapabel aktör. Ukrainas president skrev på plattformen X att Ryssland låg bakom drönarna i Danmark.",
+      "url": "https://yle.fi/a/7-10084849?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-22T14:39:50Z"
-    },
-    {
-      "title": "Wallström: ”Har varit undfallande och fegt",
-      "summary": "Sverige är ett av de länder i världen som går allra längst i att införa sanktioner mot våldsamma bosättare, säger Margot Wallström. Hon pekar på att regeringen borde återuppta stödet till FN - organet Unrwa och att Sverige inte tar emot skadade barn från Gaza. Vi måste på ett principfast sätt fortsätta stå upp för det här, säger Benjamin Dousa om en tvåstatslösning och riktar samtidigt en känga mot den tidigare S - ministern: – Margot Wallström lyckades med konststycket att både bli hatad av Israel och rätt många arabländer.",
-      "url": "https://svt.se/nyheter/utrikes/wallstrom-har-varit-undfallande-och-fegt",
-      "domain": "svt.se",
-      "published": "2025-09-21T21:14:36Z"
+      "published": "2025-09-22T20:35:35Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

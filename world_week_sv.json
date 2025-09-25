@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-24T06:53:05+00:00",
-  "total_raw": 38,
+  "generated": "2025-09-25T06:56:15+00:00",
+  "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Gazaflotta uppges ha attackerats elva gånger",
-      "summary": "Global Sumud Flotilla säger att elva fartyg i Gazaflottan har attackerats på internationellt vatten. Organisationen har publicerat videor på Instagram där man ser explosioner ute på havet. I måndags uppgav Israel att det inte tillåter flottan att bryta sjöblockaden vid Gaza.",
-      "url": "https://yle.fi/a/7-10084935?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-24T02:56:37Z"
+      "title": "Kina sätter mål för minskningar av utsläpp för första gången",
+      "summary": "Kina står ensamt för nästan en tredjedel av världens utsläpp av växthusgaser. Utsläppen orsakas främst av förbränning av fossila bränslen som olja, kol och gas. Minst 30 procent av Kinas energi ska komma från icke - fossila källor år 2035.",
+      "url": "https://svt.se/nyheter/utrikes/kina-satter-mal-for-minskningar-av-utslapp-for-forsta-gangen",
+      "domain": "svt.se",
+      "published": "2025-09-25T02:54:13Z"
     },
     {
-      "title": "Flera döda i supertyfon",
-      "summary": "Ragasa orsakade förödelse i Taiwan när den med full kraft drog in över landet natten till onsdag. I östra Taiwan fick ihärdigt regn en fördämd sjö att svämma över, och starka strömmar av lerigt vatten och stenar förstörde en bro. I norra Filippinerna dödades minst tre personer och fem saknades i översvämningar och jordskred.",
-      "url": "https://svt.se/nyheter/utrikes/flera-doda-i-supertyfon-i-taiwan",
+      "title": "Nya drönare över danska flygplatser på Jylland",
+      "summary": "Luftrummet över Ålborgs flygplats är åter öppet, och drönarna verkar i skrivande stund ha lämnat luftrummet kring Ålborg. Köpenhamnspolisen samarbetar med säkerhetspolisen PET, men det är ännu oklart var drönarna tog vägen. Det finns inget som tyder på att det är den här typen av drönare som befann sig i vare sig Ålborg eller Köpenhamn Polisen har också gått ut med en vädjan och uppmaning till medborgare som flyger med drönare som hobby att vara extra uppmärksamma och följa reglerna på grund av det känsliga läget just nu.",
+      "url": "https://yle.fi/a/7-10085016?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-25T02:24:01Z"
+    },
+    {
+      "title": "Dansk polis: Drönare vid flera flygplatser under natten",
+      "summary": "Den sista drönaren siktades strax före klockan 01. 00. Under natten pågick en omfattande polisinsats.",
+      "url": "https://svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
       "domain": "svt.se",
-      "published": "2025-09-24T00:58:10Z"
+      "published": "2025-09-24T21:04:48Z"
+    },
+    {
+      "title": "Trump önskar ”lycka till” i Ukrainautspel",
+      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
+      "url": "https://yle.fi/a/7-10084994?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-24T14:46:00Z"
     },
     {
       "title": "USA:s regering kopplar användande av paracetamol till autism",
@@ -37,32 +51,18 @@
       "published": "2025-09-23T01:49:11Z"
     },
     {
-      "title": "Stora protester i Ungern mot regeringspropaganda",
-      "summary": "Tusentals människor samlades på Hjältarnas torg i Budapest i helgen för att protestera mot regeringens omfattande propagandakampanjer. Regeringen har i allt ökande omfattning lanserat landsomfattande kampanjer kring olika politiska frågor. De här kampanjerna har bedrivits via stora plakat på byggnader, längs motorvägar och andra offentliga platser i samhället, men också på sociala medier och videokanalen Youtube.",
-      "url": "https://yle.fi/a/7-10084828?origin=rss",
+      "title": "Kapabel aktör” bakom drönarna vid flygplats i Köpenhamn",
+      "summary": "Danska och norska myndigheter utreder nu samband mellan händelserna i Köpenhamn och Oslo. Enligt dansk polis kan drönarna inte utgöra en fara för människor, men att det handlar om en kapabel aktör. Ukrainas president skrev på plattformen X att Ryssland låg bakom drönarna i Danmark.",
+      "url": "https://yle.fi/a/7-10084849?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-22T14:39:50Z"
+      "published": "2025-09-22T20:35:35Z"
     },
     {
-      "title": "Rädda barnen om kritiska läget i Gaza: ”Många barn säger att de vill dö",
-      "summary": "Hälften av invånarna beräknas ha tvingats på flykt sedan slutet av augusti. Många har varken pengar eller bränsle till transport – eller tvekar kring om de ska fly igen. Många säger att de vill dö, de vill inte leva längre, säger Rädda barnen regionchef Ahmad Alhendawi.",
-      "url": "https://svt.se/nyheter/utrikes/radda-barnen-om-kritiska-laget-i-gaza-manga-barn-sager-att-de-vill-do",
+      "title": "Jimmy Kimmel tillbaka i rutan",
+      "summary": "Disney säger att det har haft samtal med Jimmy Kimmel under de senaste dagarna. Den amerikanska federala byrån för kommunikation har hotat att dra in ABC: s sändningstillstånd. Det ledde till att kanalen stoppade pratshowen på obestämd tid.",
+      "url": "https://svt.se/nyheter/utrikes/jimmy-kimmel-live-atervander-till-disney",
       "domain": "svt.se",
-      "published": "2025-09-22T08:03:44Z"
-    },
-    {
-      "title": "Wallström: ”Har varit undfallande och fegt",
-      "summary": "Sverige är ett av de länder i världen som går allra längst i att införa sanktioner mot våldsamma bosättare, säger Margot Wallström. Hon pekar på att regeringen borde återuppta stödet till FN - organet Unrwa och att Sverige inte tar emot skadade barn från Gaza. Vi måste på ett principfast sätt fortsätta stå upp för det här, säger Benjamin Dousa om en tvåstatslösning och riktar samtidigt en känga mot den tidigare S - ministern: – Margot Wallström lyckades med konststycket att både bli hatad av Israel och rätt många arabländer.",
-      "url": "https://svt.se/nyheter/utrikes/wallstrom-har-varit-undfallande-och-fegt",
-      "domain": "svt.se",
-      "published": "2025-09-21T21:14:36Z"
-    },
-    {
-      "title": "Minnesstund för Charlie Kirk",
-      "summary": "Charlie Kirk, 18 år, grundade Turning point USA. Hans fru Erika Kirk säger att hon förlåter mördaren. Men till skillnad från Charlie Kirks fru pratar inte om förlåtelse, utan säger att mördaren ska få det hårdaste straffet.",
-      "url": "https://svt.se/nyheter/utrikes/minnesstund-for-charlie-kirk-svt-liverapporterar",
-      "domain": "svt.se",
-      "published": "2025-09-21T17:53:13Z"
+      "published": "2025-09-22T19:45:03Z"
     }
   ]
 }

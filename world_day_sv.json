@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-24T06:51:55+00:00",
+  "generated": "2025-09-25T06:55:06+00:00",
   "total_raw": 16,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Donald Trump till FN:s generalförsamling: Europa är på väg mot helvetet",
-      "summary": "USA: s president talade inför FN: s generalförsamling i New York. Han räknade upp upplevda framsteg från hans administration på områden som ekonomi, jobbtillväxt, global konfliktlösning och migration. Trump kritiserade FN för att ge honom en trasig teleprompter och en trasig rulltrappa, som gick sönder då Trump och hans fru Melania använde den.",
-      "url": "https://yle.fi/a/7-10084919?origin=rss",
+      "title": "Trump önskar ”lycka till” i Ukrainautspel",
+      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
+      "url": "https://yle.fi/a/7-10084994?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-23T13:52:01Z"
+      "published": "2025-09-24T14:46:00Z"
     },
     {
-      "title": "Danmarks statsminister: Ryssland kan ligga bakom drönaraktiviteten",
-      "summary": "Danmarks statsminister Mette Frederiksen kommenterade drönaraktiviteten vid Köpenhamns flygplats under natten mellan måndag och tisdag. Det vi såg igår kväll är det allvarligaste angreppet mot dansk kritisk infrastruktur hittills, säger hon. Hon tillägger att händelsen är en del av den senaste tidens utveckling med drönarattacker, kränkningar av luftrum och hackerattacker mot europeiska flygplatser.",
-      "url": "https://yle.fi/a/7-10084885?origin=rss",
+      "title": "Jimmy Kimmels comeback hyllas som en seger för yttrandefriheten i USA",
+      "summary": "Underhållningsprogrammet Jimmy Kimmel Live! återvände i natt finsk tid i amerikansk tv. Smärtan i Disneyplånboken banade väg för Kimmels återkomst, säger Oscar Winberg.",
+      "url": "https://yle.fi/a/7-10084959?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-23T09:53:03Z"
+      "published": "2025-09-24T16:58:56Z"
     },
     {
-      "title": "Mark Rutte: ”Redo att försvara varenda tum av Natos territorium",
-      "summary": "Nordatlantiska rådet sammanträder för att diskutera hur Nato ska agera efter ryska flygplan kränkt Natoländernas luftrum flera gånger. Under fredagen kränkte tre ryska militärflygplan Estlands luftrum. Estland och Polen begärde överläggningar enligt Natos artikel 4 som länder kan åberopa om de anser att deras säkerhet är hotad.",
-      "url": "https://svt.se/nyheter/utrikes/mark-rutte-haller-presskonferens-om-de-ryska-krankningarna",
+      "title": "President Stubb talade inför FN:s generalförsamling",
+      "summary": "Finland är ett litet land och verktygslåda består främst av värderingar och intressen, makt är en lyx för de större spelarna. Ett mindre lands makt beror på dess förmåga att samarbeta med andra och skicklig diplomati ger åtminstone relativt relativt inflytande, sade Stubb. Stubb påpekade att maktbalansen i den nya världsordningen är på väg att förskjutas söderut och österut och där har många blivit viktiga aktörer när den nya världen formas.",
+      "url": "https://yle.fi/a/7-10085008?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-24T17:45:12Z"
+    },
+    {
+      "title": "Dansk polis: Drönare vid flera flygplatser under natten",
+      "summary": "Den sista drönaren siktades strax före klockan 01. 00. Under natten pågick en omfattande polisinsats.",
+      "url": "https://svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
       "domain": "svt.se",
-      "published": "2025-09-23T10:37:59Z"
+      "published": "2025-09-24T21:04:48Z"
     },
     {
-      "title": "Nato är berett att använda alla medel för att försvara sig mot intrång och hot",
-      "summary": "Natos generalsekreterare Mark Rutte fördömde de ryska intrången i de olika Natoländernas luftrum den senaste tiden. Rutte kallade det ryska agerandet för antingen avsiktligt eller \" uppenbart inkompetent \" Hans kommentarer kom efter ett möte tidigare under förmiddagen med alliansen. Nato gav ut ett skriftligt uttalande där det stod att Ryssland bär hela ansvaret för dessa handlingar, som är eskalerande, riskerar felbedömningar och utsätter liv för fara.",
-      "url": "https://yle.fi/a/7-10084902?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-23T12:32:51Z"
-    },
-    {
-      "title": "Detta vet vi om drönarna vid Kastrup flygplats",
-      "summary": "Tre drönare observerades på Kastrups flygplats den 22 september. En stor polisinsats inleddes och flygplatsen stängdes. Drönarna var i området fyra timmar innan de försvann.",
-      "url": "https://svt.se/nyheter/utrikes/detta-vet-vi-om-dronarna-vid-kastrup-flygplats",
+      "title": "Kina sätter mål för minskningar av utsläpp för första gången",
+      "summary": "Kina står ensamt för nästan en tredjedel av världens utsläpp av växthusgaser. Utsläppen orsakas främst av förbränning av fossila bränslen som olja, kol och gas. Minst 30 procent av Kinas energi ska komma från icke - fossila källor år 2035.",
+      "url": "https://svt.se/nyheter/utrikes/kina-satter-mal-for-minskningar-av-utslapp-for-forsta-gangen",
       "domain": "svt.se",
-      "published": "2025-09-23T14:53:17Z"
+      "published": "2025-09-25T02:54:13Z"
     }
   ]
 }
