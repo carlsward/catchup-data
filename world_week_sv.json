@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-25T06:56:15+00:00",
-  "total_raw": 39,
-  "total_rank": 8,
+  "generated": "2025-09-26T06:54:00+00:00",
+  "total_raw": 40,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kina sätter mål för minskningar av utsläpp för första gången",
-      "summary": "Kina står ensamt för nästan en tredjedel av världens utsläpp av växthusgaser. Utsläppen orsakas främst av förbränning av fossila bränslen som olja, kol och gas. Minst 30 procent av Kinas energi ska komma från icke - fossila källor år 2035.",
-      "url": "https://svt.se/nyheter/utrikes/kina-satter-mal-for-minskningar-av-utslapp-for-forsta-gangen",
+      "title": "Maria Malmer Stenergard (M) till FN: Var som Pippi",
+      "summary": "Malmer Stenergard säger att Pippi Långstrumpans orädda sätt att ta sig an livet bör inspirera medlemsländerna. Utrikesministern befäste än en gång Sveriges ståndpunkt i att försvara Ukrainas suveränitet i kriget mot Ryssland. Hon har tidigare sagt att detta kan skapa ett momentum för förändring.",
+      "url": "https://svt.se/nyheter/utrikes/maria-malmer-stenergard-mtill-fn-var-som-pippi",
       "domain": "svt.se",
-      "published": "2025-09-25T02:54:13Z"
+      "published": "2025-09-26T04:11:33Z"
     },
     {
-      "title": "Nya drönare över danska flygplatser på Jylland",
-      "summary": "Luftrummet över Ålborgs flygplats är åter öppet, och drönarna verkar i skrivande stund ha lämnat luftrummet kring Ålborg. Köpenhamnspolisen samarbetar med säkerhetspolisen PET, men det är ännu oklart var drönarna tog vägen. Det finns inget som tyder på att det är den här typen av drönare som befann sig i vare sig Ålborg eller Köpenhamn Polisen har också gått ut med en vädjan och uppmaning till medborgare som flyger med drönare som hobby att vara extra uppmärksamma och följa reglerna på grund av det känsliga läget just nu.",
-      "url": "https://yle.fi/a/7-10085016?origin=rss",
+      "title": "Danmarks Mette Frederiksen om drönarintrången: ”Det här är bara början",
+      "summary": "Danmarks statsminister Mette Frederiksen kallar de senaste dagarnas drönarintrång för \" hybridkrig på dansk mark \" Hon säger att myndigheterna nu har höjt beredskapsnivån. Danmark är inte i krig i traditionell mening, men hybridkrigföring är \" en svår dimension \" eftersom en dold fiendes mål är att skapa osäkerhet och förvirring. I samma intervju pekar statsministern ut Ryssland som det primära hotet mot Europa.",
+      "url": "https://yle.fi/a/7-10085092?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-25T02:24:01Z"
+      "published": "2025-09-26T03:04:49Z"
+    },
+    {
+      "title": "Kina hjälper Ryssland att utveckla nya drönare",
+      "summary": "Enligt dokument har ett kinesiskt företag haft tätt samröre med två ryska vapentillverkare. EMZ Kupol uppges ha utvecklat en ny typ av drönare, Garpiya - 3, i Kina med hjälp av lokala experter. Den ryska mellanhanden, vapentillverkaren TSK Vektor som är belagd med amerikanska och europeiska sanktioner, har också levererat attack - och övervakningsdrönare tillverkade av det kinesiska företaget Sichuan AEE.",
+      "url": "https://yle.fi/a/7-10085046?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-25T09:49:00Z"
+    },
+    {
+      "title": "Sarkozy döms till fem års fängelse",
+      "summary": "Det är första gången sedan andra världskriget som en fransk statschef döms till att avtjäna fängelsestraff. Sarkozy frias på tre andra åtalspunkter: passiv korruption, förskingring av libyska offentliga medel och olaglig finansiering av valkampanj. Domstolen kunde inte påvisa att pengarna faktiskt använts i Sarkozys kampanj.",
+      "url": "https://svt.se/nyheter/utrikes/sarkozy-doms-tog-emot-pengar-fran-gaddafi",
+      "domain": "svt.se",
+      "published": "2025-09-25T09:00:09Z"
     },
     {
       "title": "Dansk polis: Drönare vid flera flygplatser under natten",
-      "summary": "Den sista drönaren siktades strax före klockan 01. 00. Under natten pågick en omfattande polisinsats.",
+      "summary": "Flera anländande flyg fick dirigeras om vid Ålborgs flygplats. Danska regeringen kommer att ta fram lagförslag som ger ökade möjligheter att skjuta ner drönare. Polisen gör allt de kan för att ta reda på vem som ligger bakom drönarflygningarna.",
       "url": "https://svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
       "domain": "svt.se",
       "published": "2025-09-24T21:04:48Z"
@@ -35,34 +49,6 @@
       "url": "https://yle.fi/a/7-10084994?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-24T14:46:00Z"
-    },
-    {
-      "title": "USA:s regering kopplar användande av paracetamol till autism",
-      "summary": "Tidigare har Robert F Kennedy Jr hävdat att faktorer som vaccin, miljöfaktorer och användandet av receptfria läkemedel med paracetamol kan kopplas till en ökning av autismdiagnoser i landet. Hans utspel har mött kritik från forskare som pekat på att ökningen av diagnoser till stor del kan förklaras av större medvetenhet och ändrad attityd. På måndagen presenterade han med president Donald Trump hälsomyndighetens slutsatser hittills, där både Trump och Kennedy Jr hävdade att de visar att det finns ett samband mellan användning av acetaminofen under graviditet och autism hos barn.",
-      "url": "https://svt.se/nyheter/utrikes/usas-regering-kopplar-anvandande-av-paracetamol-till-autism",
-      "domain": "svt.se",
-      "published": "2025-09-23T05:35:05Z"
-    },
-    {
-      "title": "Världscupen i diplomati kör igång i New York",
-      "summary": "Temat för årets generalförsamling UNGA80 är: Bättre tillsammans: 80 år och mer för fred, utveckling och mänskliga rättigheter. Årets upplaga kommer samtidigt som kriget i Gaza pågått i två år, Rysslands krig mot Ukraina i över tre år, klimatproblemen utmanas av nedskärningar och donationströtthet. Trots utmaningarna är mer än 140 världsledare, politiker och delegationschefer på plats i New York för det som ibland kallas världscupen i diplomati.",
-      "url": "https://yle.fi/a/7-10084782?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-23T01:49:11Z"
-    },
-    {
-      "title": "Kapabel aktör” bakom drönarna vid flygplats i Köpenhamn",
-      "summary": "Danska och norska myndigheter utreder nu samband mellan händelserna i Köpenhamn och Oslo. Enligt dansk polis kan drönarna inte utgöra en fara för människor, men att det handlar om en kapabel aktör. Ukrainas president skrev på plattformen X att Ryssland låg bakom drönarna i Danmark.",
-      "url": "https://yle.fi/a/7-10084849?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-22T20:35:35Z"
-    },
-    {
-      "title": "Jimmy Kimmel tillbaka i rutan",
-      "summary": "Disney säger att det har haft samtal med Jimmy Kimmel under de senaste dagarna. Den amerikanska federala byrån för kommunikation har hotat att dra in ABC: s sändningstillstånd. Det ledde till att kanalen stoppade pratshowen på obestämd tid.",
-      "url": "https://svt.se/nyheter/utrikes/jimmy-kimmel-live-atervander-till-disney",
-      "domain": "svt.se",
-      "published": "2025-09-22T19:45:03Z"
     }
   ]
 }

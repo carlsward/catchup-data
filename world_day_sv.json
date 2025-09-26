@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-25T06:55:06+00:00",
-  "total_raw": 16,
+  "generated": "2025-09-26T06:53:04+00:00",
+  "total_raw": 25,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump önskar ”lycka till” i Ukrainautspel",
-      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
-      "url": "https://yle.fi/a/7-10084994?origin=rss",
+      "title": "Kina hjälper Ryssland att utveckla nya drönare",
+      "summary": "Enligt dokument har ett kinesiskt företag haft tätt samröre med två ryska vapentillverkare. EMZ Kupol uppges ha utvecklat en ny typ av drönare, Garpiya - 3, i Kina med hjälp av lokala experter. Den ryska mellanhanden, vapentillverkaren TSK Vektor som är belagd med amerikanska och europeiska sanktioner, har också levererat attack - och övervakningsdrönare tillverkade av det kinesiska företaget Sichuan AEE.",
+      "url": "https://yle.fi/a/7-10085046?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-24T14:46:00Z"
+      "published": "2025-09-25T09:49:00Z"
     },
     {
-      "title": "Jimmy Kimmels comeback hyllas som en seger för yttrandefriheten i USA",
-      "summary": "Underhållningsprogrammet Jimmy Kimmel Live! återvände i natt finsk tid i amerikansk tv. Smärtan i Disneyplånboken banade väg för Kimmels återkomst, säger Oscar Winberg.",
-      "url": "https://yle.fi/a/7-10084959?origin=rss",
+      "title": "Danmark överväger nästa steg efter drönarintrången",
+      "summary": "Danmark har ännu inte tagit ställning till om man ska aktivera Natos artikel 4 som samlar medlemsländerna för konsultation. Under natten till torsdag iakttogs drönare i luften ovanför flygplatsen i Ålborg och flera mindre flygplatser i södra Danmark. Störningarna av flygtrafiken började på måndag kväll vid flygplatserna i Köpenhamn och Oslo.",
+      "url": "https://yle.fi/a/7-10085033?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-24T16:58:56Z"
+      "published": "2025-09-25T08:38:41Z"
     },
     {
-      "title": "President Stubb talade inför FN:s generalförsamling",
-      "summary": "Finland är ett litet land och verktygslåda består främst av värderingar och intressen, makt är en lyx för de större spelarna. Ett mindre lands makt beror på dess förmåga att samarbeta med andra och skicklig diplomati ger åtminstone relativt relativt inflytande, sade Stubb. Stubb påpekade att maktbalansen i den nya världsordningen är på väg att förskjutas söderut och österut och där har många blivit viktiga aktörer när den nya världen formas.",
-      "url": "https://yle.fi/a/7-10085008?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-24T17:45:12Z"
-    },
-    {
-      "title": "Dansk polis: Drönare vid flera flygplatser under natten",
-      "summary": "Den sista drönaren siktades strax före klockan 01. 00. Under natten pågick en omfattande polisinsats.",
-      "url": "https://svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
+      "title": "Sarkozy döms till fem års fängelse",
+      "summary": "Det är första gången sedan andra världskriget som en fransk statschef döms till att avtjäna fängelsestraff. Sarkozy frias på tre andra åtalspunkter: passiv korruption, förskingring av libyska offentliga medel och olaglig finansiering av valkampanj. Domstolen kunde inte påvisa att pengarna faktiskt använts i Sarkozys kampanj.",
+      "url": "https://svt.se/nyheter/utrikes/sarkozy-doms-tog-emot-pengar-fran-gaddafi",
       "domain": "svt.se",
-      "published": "2025-09-24T21:04:48Z"
+      "published": "2025-09-25T09:00:09Z"
     },
     {
-      "title": "Kina sätter mål för minskningar av utsläpp för första gången",
-      "summary": "Kina står ensamt för nästan en tredjedel av världens utsläpp av växthusgaser. Utsläppen orsakas främst av förbränning av fossila bränslen som olja, kol och gas. Minst 30 procent av Kinas energi ska komma från icke - fossila källor år 2035.",
-      "url": "https://svt.se/nyheter/utrikes/kina-satter-mal-for-minskningar-av-utslapp-for-forsta-gangen",
+      "title": "Rutte: Nato och Danmark tar drönarsituationen på största allvar",
+      "summary": "Natos generalsekreterare Mark Rutte har talat med Danmarks statsminister Mette Frederiksen om de drönare som utlöste nedstängningar av flygplatser i Danmark. Enligt Rutte tas situationen på största allvar. Det finns inga bevis som kopplar drönarverksamhet till den senaste tidens drönarattacker i Danmark, säger Rutte.",
+      "url": "https://yle.fi/a/7-10085072?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-25T13:00:04Z"
+    },
+    {
+      "title": "Vita huset anklagar vänstern efter skott mot ICE",
+      "summary": "En av de skadade var mexikansk medborgare, enligt Mexikos utrikesdepartement. Skytten, som hade placerat sig på ett tak med ett vapen, tog sitt liv efter dådet. I amerikanska medier identifieras han som en 29 - årig Texasbo som enligt familjen inte hade några \" starka känslor \" gällande ICE eller politik i allmänhet.",
+      "url": "https://svt.se/nyheter/utrikes/vita-huset-anklagar-vanstern-efter-skott-mot-ice",
       "domain": "svt.se",
-      "published": "2025-09-25T02:54:13Z"
+      "published": "2025-09-25T07:33:18Z"
     }
   ]
 }

@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-25T06:57:21+00:00",
-  "total_raw": 56,
-  "total_rank": 7,
+  "generated": "2025-09-26T06:54:59+00:00",
+  "total_raw": 57,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Nya drönare över danska flygplatser på Jylland",
-      "summary": "Luftrummet över Ålborgs flygplats är åter öppet, och drönarna verkar i skrivande stund ha lämnat luftrummet kring Ålborg. Köpenhamnspolisen samarbetar med säkerhetspolisen PET, men det är ännu oklart var drönarna tog vägen. Det finns inget som tyder på att det är den här typen av drönare som befann sig i vare sig Ålborg eller Köpenhamn Polisen har också gått ut med en vädjan och uppmaning till medborgare som flyger med drönare som hobby att vara extra uppmärksamma och följa reglerna på grund av det känsliga läget just nu.",
-      "url": "https://yle.fi/a/7-10085016?origin=rss",
+      "title": "Danmarks Mette Frederiksen om drönarintrången: ”Det här är bara början",
+      "summary": "Danmarks statsminister Mette Frederiksen kallar de senaste dagarnas drönarintrång för \" hybridkrig på dansk mark \" Hon säger att myndigheterna nu har höjt beredskapsnivån. Danmark är inte i krig i traditionell mening, men hybridkrigföring är \" en svår dimension \" eftersom en dold fiendes mål är att skapa osäkerhet och förvirring. I samma intervju pekar statsministern ut Ryssland som det primära hotet mot Europa.",
+      "url": "https://yle.fi/a/7-10085092?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-25T02:24:01Z"
+      "published": "2025-09-26T03:04:49Z"
+    },
+    {
+      "title": "Kina hjälper Ryssland att utveckla nya drönare",
+      "summary": "Enligt dokument har ett kinesiskt företag haft tätt samröre med två ryska vapentillverkare. EMZ Kupol uppges ha utvecklat en ny typ av drönare, Garpiya - 3, i Kina med hjälp av lokala experter. Den ryska mellanhanden, vapentillverkaren TSK Vektor som är belagd med amerikanska och europeiska sanktioner, har också levererat attack - och övervakningsdrönare tillverkade av det kinesiska företaget Sichuan AEE.",
+      "url": "https://yle.fi/a/7-10085046?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-25T09:49:00Z"
     },
     {
       "title": "Trump önskar ”lycka till” i Ukrainautspel",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10084994?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-24T14:46:00Z"
-    },
-    {
-      "title": "Världscupen i diplomati kör igång i New York",
-      "summary": "Temat för årets generalförsamling UNGA80 är: Bättre tillsammans: 80 år och mer för fred, utveckling och mänskliga rättigheter. Årets upplaga kommer samtidigt som kriget i Gaza pågått i två år, Rysslands krig mot Ukraina i över tre år, klimatproblemen utmanas av nedskärningar och donationströtthet. Trots utmaningarna är mer än 140 världsledare, politiker och delegationschefer på plats i New York för det som ibland kallas världscupen i diplomati.",
-      "url": "https://yle.fi/a/7-10084782?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-23T01:49:11Z"
-    },
-    {
-      "title": "Kapabel aktör” bakom drönarna vid flygplats i Köpenhamn",
-      "summary": "Danska och norska myndigheter utreder nu samband mellan händelserna i Köpenhamn och Oslo. Enligt dansk polis kan drönarna inte utgöra en fara för människor, men att det handlar om en kapabel aktör. Ukrainas president skrev på plattformen X att Ryssland låg bakom drönarna i Danmark.",
-      "url": "https://yle.fi/a/7-10084849?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-22T20:35:35Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
