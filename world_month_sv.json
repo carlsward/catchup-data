@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-26T06:54:59+00:00",
+  "generated": "2025-09-27T06:50:27+00:00",
   "total_raw": 57,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Danmarks Mette Frederiksen om drönarintrången: ”Det här är bara början",
-      "summary": "Danmarks statsminister Mette Frederiksen kallar de senaste dagarnas drönarintrång för \" hybridkrig på dansk mark \" Hon säger att myndigheterna nu har höjt beredskapsnivån. Danmark är inte i krig i traditionell mening, men hybridkrigföring är \" en svår dimension \" eftersom en dold fiendes mål är att skapa osäkerhet och förvirring. I samma intervju pekar statsministern ut Ryssland som det primära hotet mot Europa.",
-      "url": "https://yle.fi/a/7-10085092?origin=rss",
+      "title": "Europa återinför sanktioner mot Iran efter misslyckade kärntekniksamtal",
+      "summary": "Iran har enligt en del europeiska stormakter inte mött vissa krav på att begränsa sin kärnkraftsutveckling. Detta innebär att Iran återigen drabbas av en del sanktioner. Bland annat kommer man att frysa iranska tillgångar utomlands, kräva stopp för vapenaffärer med landet och bestraffa all utveckling av Irans ballistiska missilprogram.",
+      "url": "https://yle.fi/a/7-10085053?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-26T03:04:49Z"
+      "published": "2025-09-27T04:12:04Z"
+    },
+    {
+      "title": "Sårade soldater i Ukraina tvingas vänta i dagar på evakuering: ”Vi släpar de ska…",
+      "summary": "Den snabba utvecklingen av olika former av drönare har förändrat förhållandena vid fronten i Ukraina. De fjärrstyrda vapensystemen har blivit så effektiva att de tvingat fram stora taktiska förändringar. Sjukhusläkaren Volodymyr Lapta vid militärsjukhuset i Charkiv säger att drönarna har lett till att skadorna blivit svårare.",
+      "url": "https://yle.fi/a/7-10084807?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-26T08:00:21Z"
     },
     {
       "title": "Kina hjälper Ryssland att utveckla nya drönare",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10085046?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-25T09:49:00Z"
-    },
-    {
-      "title": "Trump önskar ”lycka till” i Ukrainautspel",
-      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
-      "url": "https://yle.fi/a/7-10084994?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-24T14:46:00Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",

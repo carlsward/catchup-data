@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-26T06:54:00+00:00",
+  "generated": "2025-09-27T06:49:26+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Maria Malmer Stenergard (M) till FN: Var som Pippi",
-      "summary": "Malmer Stenergard säger att Pippi Långstrumpans orädda sätt att ta sig an livet bör inspirera medlemsländerna. Utrikesministern befäste än en gång Sveriges ståndpunkt i att försvara Ukrainas suveränitet i kriget mot Ryssland. Hon har tidigare sagt att detta kan skapa ett momentum för förändring.",
-      "url": "https://svt.se/nyheter/utrikes/maria-malmer-stenergard-mtill-fn-var-som-pippi",
+      "title": "Källor: USA planerar för att angripa narkotikamål i Venezuela",
+      "summary": "Minst 17 personer har dödats i tre amerikanska attacker mot båtar från Venezuela i september. Båtarna påstås ha transporterat narkotikasmugglare och droger och ska enligt Trump - administrationen ha varit på väg mot USA. Administrationen har dock inte presenterat några bevis för att det transporterats droger på båtarna.",
+      "url": "https://svt.se/nyheter/utrikes/kallor-usa-planerar-for-att-angripa-narkotikamal-i-venezuela",
       "domain": "svt.se",
-      "published": "2025-09-26T04:11:33Z"
+      "published": "2025-09-27T05:52:19Z"
     },
     {
-      "title": "Danmarks Mette Frederiksen om drönarintrången: ”Det här är bara början",
-      "summary": "Danmarks statsminister Mette Frederiksen kallar de senaste dagarnas drönarintrång för \" hybridkrig på dansk mark \" Hon säger att myndigheterna nu har höjt beredskapsnivån. Danmark är inte i krig i traditionell mening, men hybridkrigföring är \" en svår dimension \" eftersom en dold fiendes mål är att skapa osäkerhet och förvirring. I samma intervju pekar statsministern ut Ryssland som det primära hotet mot Europa.",
-      "url": "https://yle.fi/a/7-10085092?origin=rss",
+      "title": "Europa återinför sanktioner mot Iran efter misslyckade kärntekniksamtal",
+      "summary": "Iran har enligt en del europeiska stormakter inte mött vissa krav på att begränsa sin kärnkraftsutveckling. Detta innebär att Iran återigen drabbas av en del sanktioner. Bland annat kommer man att frysa iranska tillgångar utomlands, kräva stopp för vapenaffärer med landet och bestraffa all utveckling av Irans ballistiska missilprogram.",
+      "url": "https://yle.fi/a/7-10085053?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-26T03:04:49Z"
+      "published": "2025-09-27T04:12:04Z"
+    },
+    {
+      "title": "Svenska turister i båtolycka i Norge",
+      "summary": "Sex personer har räddats, men den sjunde saknas. Enligt norska medier handlar det om en flicka i tioårsåldern. Sökandet görs både från land och från havet.",
+      "url": "https://svt.se/nyheter/utrikes/svenska-turister-i-batolycka-i-norge-en-saknas",
+      "domain": "svt.se",
+      "published": "2025-09-26T17:50:14Z"
+    },
+    {
+      "title": "Sårade soldater i Ukraina tvingas vänta i dagar på evakuering: ”Vi släpar de ska…",
+      "summary": "Den snabba utvecklingen av olika former av drönare har förändrat förhållandena vid fronten i Ukraina. De fjärrstyrda vapensystemen har blivit så effektiva att de tvingat fram stora taktiska förändringar. Sjukhusläkaren Volodymyr Lapta vid militärsjukhuset i Charkiv säger att drönarna har lett till att skadorna blivit svårare.",
+      "url": "https://yle.fi/a/7-10084807?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-26T08:00:21Z"
+    },
+    {
+      "title": "Jonson om danska uppgifterna: ”Tyder på en kvalificerad aktör",
+      "summary": "Drönare över Danmark och Norge Polisen beskriver det senaste dygnet som lugnt. Oro för ett växande säkerhetshot i regionen. Statsministern säger att Ryssland har trängt in i Polens, Estlands och Rumäniens luftrum.",
+      "url": "https://svt.se/nyheter/utrikes/jonson-om-danska-uppgifterna-tyder-pa-en-kvalificerad-aktor",
+      "domain": "svt.se",
+      "published": "2025-09-25T19:12:13Z"
     },
     {
       "title": "Kina hjälper Ryssland att utveckla nya drönare",
@@ -28,27 +49,6 @@
       "url": "https://yle.fi/a/7-10085046?origin=rss",
       "domain": "yle.fi",
       "published": "2025-09-25T09:49:00Z"
-    },
-    {
-      "title": "Sarkozy döms till fem års fängelse",
-      "summary": "Det är första gången sedan andra världskriget som en fransk statschef döms till att avtjäna fängelsestraff. Sarkozy frias på tre andra åtalspunkter: passiv korruption, förskingring av libyska offentliga medel och olaglig finansiering av valkampanj. Domstolen kunde inte påvisa att pengarna faktiskt använts i Sarkozys kampanj.",
-      "url": "https://svt.se/nyheter/utrikes/sarkozy-doms-tog-emot-pengar-fran-gaddafi",
-      "domain": "svt.se",
-      "published": "2025-09-25T09:00:09Z"
-    },
-    {
-      "title": "Dansk polis: Drönare vid flera flygplatser under natten",
-      "summary": "Flera anländande flyg fick dirigeras om vid Ålborgs flygplats. Danska regeringen kommer att ta fram lagförslag som ger ökade möjligheter att skjuta ner drönare. Polisen gör allt de kan för att ta reda på vem som ligger bakom drönarflygningarna.",
-      "url": "https://svt.se/nyheter/utrikes/dronare-stanger-luftrum-over-aalborgs-flygplats",
-      "domain": "svt.se",
-      "published": "2025-09-24T21:04:48Z"
-    },
-    {
-      "title": "Trump önskar ”lycka till” i Ukrainautspel",
-      "summary": "På tisdagen skrev USA: s president Donald Trump på Truth Social att Ukraina kan vinna tillbaka alla de områden som Ryssland nu ockuperar. Tidigare har Trump sagt att Ukraina måste vara inställt på att göra territoriella eftergifter om det ska kunna bli fred. Det har spekulerats vilt i vad det kan ha varit som fick Trump att ändra åsikt.",
-      "url": "https://yle.fi/a/7-10084994?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-24T14:46:00Z"
     }
   ]
 }

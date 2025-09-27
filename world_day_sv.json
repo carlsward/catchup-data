@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-26T06:53:04+00:00",
-  "total_raw": 25,
+  "generated": "2025-09-27T06:48:27+00:00",
+  "total_raw": 19,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kina hjälper Ryssland att utveckla nya drönare",
-      "summary": "Enligt dokument har ett kinesiskt företag haft tätt samröre med två ryska vapentillverkare. EMZ Kupol uppges ha utvecklat en ny typ av drönare, Garpiya - 3, i Kina med hjälp av lokala experter. Den ryska mellanhanden, vapentillverkaren TSK Vektor som är belagd med amerikanska och europeiska sanktioner, har också levererat attack - och övervakningsdrönare tillverkade av det kinesiska företaget Sichuan AEE.",
-      "url": "https://yle.fi/a/7-10085046?origin=rss",
+      "title": "Europa återinför sanktioner mot Iran efter misslyckade kärntekniksamtal",
+      "summary": "Iran har enligt en del europeiska stormakter inte mött vissa krav på att begränsa sin kärnkraftsutveckling. Detta innebär att Iran återigen drabbas av en del sanktioner. Bland annat kommer man att frysa iranska tillgångar utomlands, kräva stopp för vapenaffärer med landet och bestraffa all utveckling av Irans ballistiska missilprogram.",
+      "url": "https://yle.fi/a/7-10085053?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-25T09:49:00Z"
+      "published": "2025-09-27T04:12:04Z"
     },
     {
-      "title": "Danmark överväger nästa steg efter drönarintrången",
-      "summary": "Danmark har ännu inte tagit ställning till om man ska aktivera Natos artikel 4 som samlar medlemsländerna för konsultation. Under natten till torsdag iakttogs drönare i luften ovanför flygplatsen i Ålborg och flera mindre flygplatser i södra Danmark. Störningarna av flygtrafiken började på måndag kväll vid flygplatserna i Köpenhamn och Oslo.",
-      "url": "https://yle.fi/a/7-10085033?origin=rss",
+      "title": "Sårade soldater i Ukraina tvingas vänta i dagar på evakuering: ”Vi släpar de ska…",
+      "summary": "Den snabba utvecklingen av olika former av drönare har förändrat förhållandena vid fronten i Ukraina. De fjärrstyrda vapensystemen har blivit så effektiva att de tvingat fram stora taktiska förändringar. Sjukhusläkaren Volodymyr Lapta vid militärsjukhuset i Charkiv säger att drönarna har lett till att skadorna blivit svårare.",
+      "url": "https://yle.fi/a/7-10084807?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-25T08:38:41Z"
+      "published": "2025-09-26T08:00:21Z"
     },
     {
-      "title": "Sarkozy döms till fem års fängelse",
-      "summary": "Det är första gången sedan andra världskriget som en fransk statschef döms till att avtjäna fängelsestraff. Sarkozy frias på tre andra åtalspunkter: passiv korruption, förskingring av libyska offentliga medel och olaglig finansiering av valkampanj. Domstolen kunde inte påvisa att pengarna faktiskt använts i Sarkozys kampanj.",
-      "url": "https://svt.se/nyheter/utrikes/sarkozy-doms-tog-emot-pengar-fran-gaddafi",
+      "title": "Trump meddelade om en tull på 100 procent på läkemedel",
+      "summary": "Tullar på importerade märkesläkemedel, 25 procent tullar på tunga lastbilar och 50 procent på köksskåp. Trumps tullbeslut är inriktat på ett brett spektrum av importerade varor. Aktiekurserna för läkemedelsföretag i Asien och Europa föll på fredagen.",
+      "url": "https://yle.fi/a/7-10085113?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-26T09:14:10Z"
+    },
+    {
+      "title": "Svenska turister i båtolycka i Norge",
+      "summary": "Sex personer har räddats, men den sjunde saknas. Enligt norska medier handlar det om en flicka i tioårsåldern. Sökandet görs både från land och från havet.",
+      "url": "https://svt.se/nyheter/utrikes/svenska-turister-i-batolycka-i-norge-en-saknas",
       "domain": "svt.se",
-      "published": "2025-09-25T09:00:09Z"
+      "published": "2025-09-26T17:50:14Z"
     },
     {
-      "title": "Rutte: Nato och Danmark tar drönarsituationen på största allvar",
-      "summary": "Natos generalsekreterare Mark Rutte har talat med Danmarks statsminister Mette Frederiksen om de drönare som utlöste nedstängningar av flygplatser i Danmark. Enligt Rutte tas situationen på största allvar. Det finns inga bevis som kopplar drönarverksamhet till den senaste tidens drönarattacker i Danmark, säger Rutte.",
-      "url": "https://yle.fi/a/7-10085072?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-25T13:00:04Z"
-    },
-    {
-      "title": "Vita huset anklagar vänstern efter skott mot ICE",
-      "summary": "En av de skadade var mexikansk medborgare, enligt Mexikos utrikesdepartement. Skytten, som hade placerat sig på ett tak med ett vapen, tog sitt liv efter dådet. I amerikanska medier identifieras han som en 29 - årig Texasbo som enligt familjen inte hade några \" starka känslor \" gällande ICE eller politik i allmänhet.",
-      "url": "https://svt.se/nyheter/utrikes/vita-huset-anklagar-vanstern-efter-skott-mot-ice",
+      "title": "Protester i FN när Netanyahu höll tal: ”Israel blir allt mer isolerade",
+      "summary": "Israeliska delegater reste sig från sina platser och lämnade lokalen i New York på fredag. Människor applåderade och visslade, samtidigt som en röst i en högtalare upprepade gånger ropade: \" Ordning i salen! och bad församlingen att sätta sig ner.",
+      "url": "https://svt.se/nyheter/utrikes/protester-i-fn-nar-netanyahu-holl-tal-israel-blir-allt-mer-isolerade",
       "domain": "svt.se",
-      "published": "2025-09-25T07:33:18Z"
+      "published": "2025-09-26T17:46:08Z"
     }
   ]
 }
