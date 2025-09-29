@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-28T07:11:13+00:00",
+  "generated": "2025-09-29T06:57:10+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Seger för EU-vänliga PAS i parlamentsvalet i Moldavien",
+      "summary": "När 99, 5 % av rösterna räknats hade PAS fått 50, 2 procent av rösterna, enligt preliminära resultat från landets valkommission. Oppositionsblocket PEB ( Patriotiska blocket ), som bland annat förespråkar närmare band med Ryssland, kom andra med 24, 26 procent. Förra veckan greps 74 personer i Moldavien, anklagade för att ha uppviglat till upplopp och på andra sätt förberett sig för att påverka eller kullkasta valresultatet.",
+      "url": "https://yle.fi/a/7-10085217?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-29T03:42:53Z"
+    },
+    {
+      "title": "Ryssland använder allt brutalare metoder för att värva soldater",
+      "summary": "Ryssland förlorar omkring 30 000 soldater varje månad i stupade och sårade i kriget i Ukraina, enligt västerländska källor. För att fylla på armén måste landet hela tiden rekrytera nya soldater – men allt färre vill ta värvning. Grigorij Sverdlin, som leder en rysk frivilligorganisation som heter Idite lesom – ( Försvinn ) Organisationen verkar utomlands och ger råd till ryssar som vill undvika militärtjänst och anfallskrig i Ukraina.",
+      "url": "https://yle.fi/a/7-10084045?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-29T03:15:17Z"
+    },
     {
       "title": "Han dömdes för gängkriminalitet: ”Folk skrek efter vårt kokain”, säger svenska e…",
       "summary": "52 - åringen säger att han hade en underordnad roll som kurir för kokain. Svenska Yle känner till hans identitet men vill vara anonym. Rikssvenskar ökar mest i våra fängelser Just nu sitter 3 532 i fängelse i Finland.",
@@ -37,32 +51,11 @@
       "published": "2025-09-27T04:12:04Z"
     },
     {
-      "title": "Svenska turister i båtolycka i Lofoten i Norge",
-      "summary": "Sex personer har räddats, men den sjunde saknas. Enligt norska medier handlar det om en flicka i tolvårsåldern. Räddningsinsatsen har avslutats och att de nu letar efter en \" förmodat omkommen person \" Bilder från platsen visar att styrhytten på båten saknas.",
-      "url": "https://svt.se/nyheter/utrikes/svenska-turister-i-batolycka-i-norge-en-saknas",
-      "domain": "svt.se",
-      "published": "2025-09-26T17:50:14Z"
-    },
-    {
-      "title": "Sårade soldater i Ukraina tvingas vänta i dagar på evakuering: ”Vi släpar de ska…",
-      "summary": "Den snabba utvecklingen av olika former av drönare har förändrat förhållandena vid fronten i Ukraina. De fjärrstyrda vapensystemen har blivit så effektiva att de tvingat fram stora taktiska förändringar. Sjukhusläkaren Volodymyr Lapta vid militärsjukhuset i Charkiv säger att drönarna har lett till att skadorna blivit svårare.",
-      "url": "https://yle.fi/a/7-10084807?origin=rss",
+      "title": "Elektroniska id-kort ska skärpa kontrollen av immigranter i Storbritannien",
+      "summary": "Det digitala id - kortet kommer att bli obligatoriskt för alla som arbetar i Storbritannien. Det handlar om regeringens försök att ta itu med illegal migration och minska hotet från det populistiska partiet Reform UK. Mer än hälften av britterna – 57 procent – stöder ett nationellt identitetskortssystem, enligt Ipsos opinionsundersökning i juli.",
+      "url": "https://yle.fi/a/7-10085156?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-26T08:00:21Z"
-    },
-    {
-      "title": "Fortfarande oklart vem som ligger bakom drönarintrången i Danmark",
-      "summary": "Drönare verksamhet har förekommit vid flera av försvarets områden. Säkerhetstjänsten PET: s chef, Finn Borch, säger att man fortfarande inte vet vem som ligger bakom incidenterna. Borch tillägger att risken för ryskt spionage är hög, liksom för sabotage.",
-      "url": "https://yle.fi/a/7-10085088?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-25T18:37:26Z"
-    },
-    {
-      "title": "USA:s högsta generaler sammankallade till plötsligt möte",
-      "summary": "Kallelsen gäller officerare med brigadgenerals grad och högre samt deras motsvarigheter i flottan. Det är krigsminister Pete Hegseth som sammankallat mötet. En del försvarskällor har påpekat riskerna med att samla så många militära ledare på en och samma plats.",
-      "url": "https://yle.fi/a/7-10085086?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-25T18:11:25Z"
+      "published": "2025-09-26T14:36:52Z"
     }
   ]
 }
