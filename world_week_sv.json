@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-29T06:57:10+00:00",
+  "generated": "2025-09-30T06:52:34+00:00",
   "total_raw": 40,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Seger för EU-vänliga PAS i parlamentsvalet i Moldavien",
-      "summary": "När 99, 5 % av rösterna räknats hade PAS fått 50, 2 procent av rösterna, enligt preliminära resultat från landets valkommission. Oppositionsblocket PEB ( Patriotiska blocket ), som bland annat förespråkar närmare band med Ryssland, kom andra med 24, 26 procent. Förra veckan greps 74 personer i Moldavien, anklagade för att ha uppviglat till upplopp och på andra sätt förberett sig för att påverka eller kullkasta valresultatet.",
-      "url": "https://yle.fi/a/7-10085217?origin=rss",
+      "title": "Mellanösternforskaren Susanne Dahlgren förklarar varför Trumps och Netanyahus Ga…",
+      "summary": "Israels premiärminister Benjamin Netanyahu säger att Israel stöder USA: s president Donald Trumps nya fredsplan för Gaza. Susanne Dahlgren, chef för Finlands Mellanösterinstitut, tror att Hamas kommer att acceptera planen. Dahlgren säger att det är därför Israel nu har gått med på fredsplanen.",
+      "url": "https://yle.fi/a/7-10085300?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-29T03:42:53Z"
+      "published": "2025-09-30T06:41:10Z"
+    },
+    {
+      "title": "30 september: Nattens nyheter",
+      "summary": "Israel går med på att stödja Vita husets fredsplan för Gaza. Men det är osannolikt att terrorstämplade Hamas kommer att acceptera fredsplanen. JAS Gripen kan levereras till Ukraina Ukraina.",
+      "url": "https://svt.se/nyheter/utrikes/30-september-nattens-nyheter-ym58c4",
+      "domain": "svt.se",
+      "published": "2025-09-30T03:21:59Z"
+    },
+    {
+      "title": "Israel har godkänt Trumps fredsplan för Gaza",
+      "summary": "Efter flera dagars återkommande utspel från Vita huset om att ett fredsavtal i Gaza kan vara nära förestående kom ett besked på måndag. Vita huset presenterade sin plan på 20 punkter bara minuter innan Israels premiärminister Benjamin Netanyahu klev fram till podiet tillsammans med Donald Trump och meddelade att Israel sagt ja. Avtalet omfattar hur humanitär nödhjälp ska släppas in till den krigshärjade landremsan, men också hur Hamas ska styras framåt.",
+      "url": "https://svt.se/nyheter/utrikes/trump-israel-har-godkant-fredsplan-for-gaza",
+      "domain": "svt.se",
+      "published": "2025-09-29T20:36:00Z"
     },
     {
       "title": "Ryssland använder allt brutalare metoder för att värva soldater",
@@ -37,25 +51,18 @@
       "published": "2025-09-28T04:01:50Z"
     },
     {
-      "title": "Ryskt stridsfartyg avslöjat nära danskt vatten",
-      "summary": "Aleksandr Shabalin är ett landstigningsfartyg som transporterar upp till 340 soldater och tio stridsvagnar. Den danska rikspolischefen bekräftade att fartyget ingår i den stora drönarutredningen efter drönarincidenterna. Fartyget hör till Rysslands Östersjöflotta och är utrustat med raketramper, luftvärnskanoner och automatkanoner.",
-      "url": "https://svt.se/nyheter/utrikes/ryskt-stridsfartyg-avslojat-nara-danskt-vatten-utreds-i-samband-med-dronarkaoset",
-      "domain": "svt.se",
-      "published": "2025-09-27T18:33:08Z"
+      "title": "Trump sänder in trupper mot ”inhemska terrorister” i Oregon",
+      "summary": "President Donald Trump vill skicka trupper till Portland, Oregon, för att hantera vad han kallar \" inhemska terrorister \" Det här betyder en eskalering i Trumps insatser mot det han beskriver som våldsam och radikal vänsteraktivism i flera amerikanska städer. Trump och hans anhängare säger att insatserna är nödvändiga för att återställa lag och ordning och skydda viktiga federala byggnader och myndigheter. Protester mot Trumps agerande riskerar att eskalera våldet och skapa ytterligare spänningar mellan myndigheter och lokalbefolkning.",
+      "url": "https://yle.fi/a/7-10085184?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-27T16:46:28Z"
     },
     {
-      "title": "Europa återinför sanktioner mot Iran efter misslyckade kärntekniksamtal",
-      "summary": "Iran har enligt en del europeiska stormakter inte mött vissa krav på att begränsa sin kärnkraftsutveckling. Detta innebär att Iran återigen drabbas av en del sanktioner. Bland annat kommer man att frysa iranska tillgångar utomlands, kräva stopp för vapenaffärer med landet och bestraffa all utveckling av Irans ballistiska missilprogram.",
-      "url": "https://yle.fi/a/7-10085053?origin=rss",
+      "title": "Valet i Moldavien kan påverka hela Europa",
+      "summary": "Moldavien har varit i skarven mellan öst och väst med det styrande partiet och president Maia Sandu. Mot dem står det proryska Patriotiska blocket och en rad populistiska missnöjespartier, som lockar väljare med löften om stabilitet, lägre priser och kritik mot västliga värderingar. Forskaren Amy Eaglestone vid Leidens universitet i Nederländerna menar att valet är avgörande för Moldaviens framtid.",
+      "url": "https://yle.fi/a/7-10085160?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-27T04:12:04Z"
-    },
-    {
-      "title": "Elektroniska id-kort ska skärpa kontrollen av immigranter i Storbritannien",
-      "summary": "Det digitala id - kortet kommer att bli obligatoriskt för alla som arbetar i Storbritannien. Det handlar om regeringens försök att ta itu med illegal migration och minska hotet från det populistiska partiet Reform UK. Mer än hälften av britterna – 57 procent – stöder ett nationellt identitetskortssystem, enligt Ipsos opinionsundersökning i juli.",
-      "url": "https://yle.fi/a/7-10085156?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-26T14:36:52Z"
+      "published": "2025-09-27T08:00:17Z"
     }
   ]
 }

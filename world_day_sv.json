@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-29T06:56:03+00:00",
-  "total_raw": 17,
+  "generated": "2025-09-30T06:51:14+00:00",
+  "total_raw": 12,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland använder allt brutalare metoder för att värva soldater",
-      "summary": "Ryssland förlorar omkring 30 000 soldater varje månad i stupade och sårade i kriget i Ukraina, enligt västerländska källor. För att fylla på armén måste landet hela tiden rekrytera nya soldater – men allt färre vill ta värvning. Grigorij Sverdlin, som leder en rysk frivilligorganisation som heter Idite lesom – ( Försvinn ) Organisationen verkar utomlands och ger råd till ryssar som vill undvika militärtjänst och anfallskrig i Ukraina.",
-      "url": "https://yle.fi/a/7-10084045?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-29T03:15:17Z"
-    },
-    {
-      "title": "Fick hjärntumör av preventivmedel",
-      "summary": "En grupp kvinnor i USA stämmer läkemedelsföretaget Pfizer och hävdar att det finns en koppling mellan att de använt företagets preventivmedel Depo - Provera och att kvinnorna har utvecklat hjärntumörer. En domstol i Pensacola i delstaten Florida inleder behandlingen av fallet på måndag. Det amerikanska läkemedelsföretaget har de facto sedan 1980 - talet haft \" betydande vetenskapliga bevis \" för att de kan orsaka meningeom, tumörer som har sitt ursprung i hjärnhinnorna.",
-      "url": "https://yle.fi/a/7-10085210?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-28T16:11:32Z"
-    },
-    {
-      "title": "Svårt att undvika mikroplaster i köket",
-      "summary": "Studierna visar att det inte är lätt att undvika mikroplaster i köket. Det finns fler plastpartiklar i gulan än i vitan, enligt en studie gjord i Kina. Det gäller också annan mat än ris: om man tvättar fisk och kyckling före tillagning minskar mängden mikroplast.",
-      "url": "https://yle.fi/a/7-10084839?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-28T08:00:23Z"
-    },
-    {
-      "title": "EU-vänliga partiet leder i Moldaviens parlamentsval",
-      "summary": "Med cirka 99 procent av rösterna räknade har Partiet handling och solidaritet ( PAS ) hittills fått 49, 99 % av rösterna, medan den ryssvänliga oppositionen, Patriotic Electoral Bloc, ligger på 24, 28 procent. En av oppositionens främsta ledare, Igor Dodon, utropade seger innan resultaten började komma in och har uppmanat till protester utanför parlamentet. PAS ser nu ut att vara på väg att säkra en majoritet av platserna i parlamentet, vilket är långt bättre än partiet på förhand hade vågat räkna med.",
-      "url": "https://svt.se/nyheter/utrikes/eu-vanliga-partiet-leder-i-moldaviens-parlamentsval",
+      "title": "Israel har godkänt Trumps fredsplan för Gaza",
+      "summary": "Efter flera dagars återkommande utspel från Vita huset om att ett fredsavtal i Gaza kan vara nära förestående kom ett besked på måndag. Vita huset presenterade sin plan på 20 punkter bara minuter innan Israels premiärminister Benjamin Netanyahu klev fram till podiet tillsammans med Donald Trump och meddelade att Israel sagt ja. Avtalet omfattar hur humanitär nödhjälp ska släppas in till den krigshärjade landremsan, men också hur Hamas ska styras framåt.",
+      "url": "https://svt.se/nyheter/utrikes/trump-israel-har-godkant-fredsplan-for-gaza",
       "domain": "svt.se",
-      "published": "2025-09-28T21:55:38Z"
+      "published": "2025-09-29T20:36:00Z"
     },
     {
-      "title": "Omfattande attack mot Ukraina",
-      "summary": "Ryssland genomförde vad som beskrivs som en \" massiv attack \" mot landet, säger Ukrainas president. Rysslands försvarsdepartement bekräftade attacken under söndagen, och hävdar att militära mål har träffats. Polen skickade upp stridsflyg i sitt luftrum och satte sina markbaserade luftsystem i högsta beredskap under nattens attacker mot grannlandet.",
-      "url": "https://svt.se/nyheter/utrikes/omfattande-attack-mot-ukraina-over-500-ryska-dronare-anvandes",
+      "title": "Finland slår larm om ryska gps-störningar som drabbat över 120 000 flyg",
+      "summary": "Mellan januari och april i år påverkades över 122 000 flygningar i Östersjöområdet av ryska signaler. Störningar har förekommit i luftrummet över Polen, Baltikum, Finland och Sverige. De har påverkat flyg från 365 olika bolag registrerade i 45 länder.",
+      "url": "https://yle.fi/a/7-10085081?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-29T08:00:18Z"
+    },
+    {
+      "title": "USA presenterar 21-punktsplan för Gaza",
+      "summary": "Kopian av 21 - punktsplanen har bekräftats av två källor till den israeliska tidningen. Det förväntas finjusteras under kommande möten med Israel och Hamas. I punkt åtta står det att bistånd i Gaza ska distribueras utan inblandning från Hamas eller Israel.",
+      "url": "https://svt.se/nyheter/utrikes/usa-presenterar-21-punktsplan-for-gaza-innehall-lackt",
       "domain": "svt.se",
-      "published": "2025-09-28T11:58:14Z"
+      "published": "2025-09-29T12:06:10Z"
+    },
+    {
+      "title": "Mellanösternforskaren Susanne Dahlgren förklarar varför Trumps och Netanyahus Ga…",
+      "summary": "Israels premiärminister Benjamin Netanyahu säger att Israel stöder USA: s president Donald Trumps nya fredsplan för Gaza. Susanne Dahlgren, chef för Finlands Mellanösterinstitut, tror att Hamas kommer att acceptera planen. Dahlgren säger att det är därför Israel nu har gått med på fredsplanen.",
+      "url": "https://yle.fi/a/7-10085300?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-30T06:41:10Z"
+    },
+    {
+      "title": "Trump: Ett fredsavtal för Gaza är nära",
+      "summary": "USA: s president Donald Trump och Israels premiärminister Benjamin Netanyahu diskuterade fredsplanen i 21 punkter som USA har lagt fram och tidigare delat med en grupp arabstater. Enligt israeliska medier lägger den amerikanska planen grunden för en tvåstatslösning. Den slår fast att Hamas ska släppa alla kvarvarande i gisslan inom två dygn.",
+      "url": "https://yle.fi/a/7-10085285?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-29T17:26:17Z"
     }
   ]
 }
