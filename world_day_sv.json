@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-09-30T06:51:14+00:00",
-  "total_raw": 12,
+  "generated": "2025-10-01T07:12:55+00:00",
+  "total_raw": 28,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Israel har godkänt Trumps fredsplan för Gaza",
-      "summary": "Efter flera dagars återkommande utspel från Vita huset om att ett fredsavtal i Gaza kan vara nära förestående kom ett besked på måndag. Vita huset presenterade sin plan på 20 punkter bara minuter innan Israels premiärminister Benjamin Netanyahu klev fram till podiet tillsammans med Donald Trump och meddelade att Israel sagt ja. Avtalet omfattar hur humanitär nödhjälp ska släppas in till den krigshärjade landremsan, men också hur Hamas ska styras framåt.",
-      "url": "https://svt.se/nyheter/utrikes/trump-israel-har-godkant-fredsplan-for-gaza",
+      "title": "Stoltenberg i ny bok: Nato var nära kollaps",
+      "summary": "USA: s nya president Donald Trump hade hotat ett amerikanskt utträde ur Nato om inte medlemsländerna höjde sina försvarsanslag. Den dåvarande generalsekreteraren Jens Stoltenberg berättar i sin nya bok om hur den hätska stämningen tilltog ju längre toppmötet varade. Trump riktade hård kritik mot de Natoländer som inte uppfyllde tvåprocentsmålet och anklagade dem för att snylta på USA.",
+      "url": "https://yle.fi/a/7-10085317?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-30T08:41:56Z"
+    },
+    {
+      "title": "Natosamarbetet öppnar nya möjligheter för teknikbolag",
+      "summary": "Inom en månad samlades 3 800 deltagare från över 20 länder. Syftet med övningen var att undersöka hur autonoma farkoster kan samarbeta med militären. För många mindre företag innebär övningen en chans att testa sina idéer i samarbete med militära experter från de medverkande länderna.",
+      "url": "https://yle.fi/a/7-10085345?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-30T16:42:36Z"
+    },
+    {
+      "title": "USA:s armé ska bli macho igen: ”Slut på politisk korrekthet och woke-kultur",
+      "summary": "Pete Hegseth och president Donald Trump kallade hundratals generaler och amiraler från USA: s militärbaser till ett möte vid marinkårens bas i Quantico i Virginia. Ingen visste vad mötet skulle handla om förrän Heggseth på tisdagen talade inför militärledarna. Tiden för politisk korrekthet och överdrivet känslig ledarstil, som går ut på att inte såra någons känslor, är över här och nu, \" sade han.",
+      "url": "https://yle.fi/a/7-10085362?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-09-30T15:25:27Z"
+    },
+    {
+      "title": "Kan en 81-årig dollarmiljardär ta över amerikansk media?",
+      "summary": "Larry Ellison är rik, excentrisk och en pionjär, säger Sophia Sinclair som är techreporter på SvD Näringsliv. Han äger redan Paramount, som kontrollerar CBS och CNN. Han håller – med stöd av pappa Larrys plånbok – på att köpa Warner Bros, dit CNN hör till.",
+      "url": "https://svt.se/nyheter/utrikes/kan-en-81-arig-dollarmiljardar-ta-over-amerikansk-media",
       "domain": "svt.se",
-      "published": "2025-09-29T20:36:00Z"
+      "published": "2025-09-30T18:06:51Z"
     },
     {
-      "title": "Finland slår larm om ryska gps-störningar som drabbat över 120 000 flyg",
-      "summary": "Mellan januari och april i år påverkades över 122 000 flygningar i Östersjöområdet av ryska signaler. Störningar har förekommit i luftrummet över Polen, Baltikum, Finland och Sverige. De har påverkat flyg från 365 olika bolag registrerade i 45 länder.",
-      "url": "https://yle.fi/a/7-10085081?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-29T08:00:18Z"
-    },
-    {
-      "title": "USA presenterar 21-punktsplan för Gaza",
-      "summary": "Kopian av 21 - punktsplanen har bekräftats av två källor till den israeliska tidningen. Det förväntas finjusteras under kommande möten med Israel och Hamas. I punkt åtta står det att bistånd i Gaza ska distribueras utan inblandning från Hamas eller Israel.",
-      "url": "https://svt.se/nyheter/utrikes/usa-presenterar-21-punktsplan-for-gaza-innehall-lackt",
+      "title": "USA:s fredsplan om Gaza får brett stöd från Europa och arabvärlden",
+      "summary": "USA: s 20 - punktslista för att avsluta kriget i Gaza godkändes av Israel på måndagen. Den andra parten i kriget, terrorgruppen Hamas, säger på måndagen att man ska utvärdera planen. Positiva reaktioner i Europa Bland europeiska ledare är reaktionerna positiva.",
+      "url": "https://svt.se/nyheter/utrikes/usas-fredsplan-om-gaza-far-brett-stod-fran-europa-och-arabvarlden",
       "domain": "svt.se",
-      "published": "2025-09-29T12:06:10Z"
-    },
-    {
-      "title": "Mellanösternforskaren Susanne Dahlgren förklarar varför Trumps och Netanyahus Ga…",
-      "summary": "Israels premiärminister Benjamin Netanyahu säger att Israel stöder USA: s president Donald Trumps nya fredsplan för Gaza. Susanne Dahlgren, chef för Finlands Mellanösterinstitut, tror att Hamas kommer att acceptera planen. Dahlgren säger att det är därför Israel nu har gått med på fredsplanen.",
-      "url": "https://yle.fi/a/7-10085300?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-30T06:41:10Z"
-    },
-    {
-      "title": "Trump: Ett fredsavtal för Gaza är nära",
-      "summary": "USA: s president Donald Trump och Israels premiärminister Benjamin Netanyahu diskuterade fredsplanen i 21 punkter som USA har lagt fram och tidigare delat med en grupp arabstater. Enligt israeliska medier lägger den amerikanska planen grunden för en tvåstatslösning. Den slår fast att Hamas ska släppa alla kvarvarande i gisslan inom två dygn.",
-      "url": "https://yle.fi/a/7-10085285?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-29T17:26:17Z"
+      "published": "2025-09-30T10:35:52Z"
     }
   ]
 }
