@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-01T07:14:04+00:00",
+  "generated": "2025-10-02T06:51:16+00:00",
   "total_raw": 39,
-  "total_rank": 7,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA stänger ner",
-      "summary": "Omkring 750. 000 statligt anställda kommer att behöva permitteras i ett första steg av åtgärder. Nedstängningen kommer efter ett sista ryck under natten för att nå en överenskommelse.",
-      "url": "https://svt.se/nyheter/utrikes/usa-stanger-ner-ingen-overenskommelse-om-statsbudget",
+      "title": "Gazakonvojen bordad",
+      "summary": "Gazaflottiljen är betydligt större än tidigare försök att bryta Israels blockad av Gaza genom att frakta nödhjälp via havet. Ett 40 - tal fartyg med nästan 500 aktivister från många olika länder deltar. Israel menar att blockaden mot Gaza följer internationell rätt och att fartygen stoppas för att de närmar sig en krigszon.",
+      "url": "https://svt.se/nyheter/utrikes/gazakonvojen-bordad-greta-thunberg-ford-till-israel",
       "domain": "svt.se",
-      "published": "2025-10-01T04:02:14Z"
+      "published": "2025-10-02T05:32:33Z"
     },
     {
-      "title": "Efter drönarhotet: Massiva säkerhetspådrag då europeiska ledare samlas i Köpenha…",
-      "summary": "Myndigheterna misstänker att främmande makt ligger bakom drönarobservationerna. Danmark har infört ett nationellt förbud mot civila drönare och mobiliserat all tillgänglig polis. Finland skickar en militär avdelning till Danmark för att hjälpa till att trygga luftrummet under veckans möten.",
-      "url": "https://yle.fi/a/7-10085310?origin=rss",
+      "title": "Israel då Gazafartyg bordats: Greta och hennes vänner är i säkerhet",
+      "summary": "Omkring 500 aktivister finns ombord på de nu aktuella båtarna. Vid halvfemtiden på torsdag morgon uppgav organisationen på X att 13 av fartygen bordades. Det har sedan dess kommit uppgifter från flottiljen om flera fartyg som stoppats med vattenkanoner av israelisk militär.",
+      "url": "https://yle.fi/a/7-10085462?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-01T02:30:16Z"
+      "published": "2025-10-02T03:07:09Z"
+    },
+    {
+      "title": "Ryssland trappade upp sin drönarterror",
+      "summary": "Sting är en liten men kraftfull drönare som kallas Sting. Dess huvuduppgift är att förstöra fiendedrönare, den typ av attack drönare som används i de ryska attackerna mot Ukraina. Ukrainska drönarexperten Alex Roslin representerar Wild Hornets, det icke - vinstdrivande företaget bakom sting.",
+      "url": "https://yle.fi/a/7-10085384?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-01T09:27:46Z"
+    },
+    {
+      "title": "Stort EU-möte i Köpenhamn",
+      "summary": "Danmarks statsminister har uttalat att Ryssland bedriver ett hybridkrig mot Europa. Sverige och Norge hade skickat polisresurser på dansk begäran, antidrönarsystem var upprättade och soldater från flera olika europeiska länder fanns på plats för att ytterligare öka säkerheten. EU har möjlighet att stötta genom att erbjuda billiga lån och tillåta medlemsländerna att ha budgetunderskott för att ha råd med försvarssatsningar.",
+      "url": "https://svt.se/nyheter/utrikes/stort-eu-mote-i-kopenhamn-men-huvudpersonerna-saknas",
+      "domain": "svt.se",
+      "published": "2025-10-01T08:53:44Z"
     },
     {
       "title": "Kan en 81-årig dollarmiljardär ta över amerikansk media?",
@@ -30,32 +44,11 @@
       "published": "2025-09-30T18:06:51Z"
     },
     {
-      "title": "Stoltenberg i ny bok: Nato var nära kollaps",
-      "summary": "USA: s nya president Donald Trump hade hotat ett amerikanskt utträde ur Nato om inte medlemsländerna höjde sina försvarsanslag. Den dåvarande generalsekreteraren Jens Stoltenberg berättar i sin nya bok om hur den hätska stämningen tilltog ju längre toppmötet varade. Trump riktade hård kritik mot de Natoländer som inte uppfyllde tvåprocentsmålet och anklagade dem för att snylta på USA.",
-      "url": "https://yle.fi/a/7-10085317?origin=rss",
+      "title": "Natosamarbetet öppnar nya möjligheter för teknikbolag",
+      "summary": "Inom en månad samlades 3 800 deltagare från över 20 länder. Syftet med övningen var att undersöka hur autonoma farkoster och den allra senaste tekniken kan samverka med militära styrkor. Det handlar om att stärka skyddet av kritisk infrastruktur, upptäcka och neutralisera minor samt förbättra övervakningen av havsområden.",
+      "url": "https://yle.fi/a/7-10085345?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-09-30T08:41:56Z"
-    },
-    {
-      "title": "Israel har godkänt Trumps fredsplan för Gaza",
-      "summary": "Efter flera dagars återkommande utspel från Vita huset om att ett fredsavtal i Gaza kan vara nära förestående kom ett besked på måndag. Vita huset presenterade sin plan på 20 punkter bara minuter innan Israels premiärminister Benjamin Netanyahu klev fram till podiet tillsammans med Donald Trump och meddelade att Israel sagt ja. Avtalet omfattar hur humanitär nödhjälp ska släppas in till den krigshärjade landremsan, men också hur Hamas ska styras framåt.",
-      "url": "https://svt.se/nyheter/utrikes/trump-israel-har-godkant-fredsplan-for-gaza",
-      "domain": "svt.se",
-      "published": "2025-09-29T20:36:00Z"
-    },
-    {
-      "title": "Ryssland använder allt brutalare metoder för att värva soldater",
-      "summary": "Ryssland förlorar omkring 30 000 soldater varje månad i stupade och sårade i kriget i Ukraina, enligt västerländska källor. För att fylla på armén måste landet hela tiden rekrytera nya soldater – men allt färre vill ta värvning. Grigorij Sverdlin, som leder en rysk frivilligorganisation som heter Idite lesom – ( Försvinn ) Organisationen verkar utomlands och ger råd till ryssar som vill undvika militärtjänst och anfallskrig i Ukraina.",
-      "url": "https://yle.fi/a/7-10084045?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-29T03:15:17Z"
-    },
-    {
-      "title": "Trump tänker delta i mötet med USA:s högsta generaler",
-      "summary": "USA: s krigsminister Pete Hegseth har sammankallat landets högsta generaler till ett möte i Virginia på tisdag. Mötet kommer att samla flera hundra, eventuellt flera tusen, amerikanska militärer på marinkårsbasen Quantico i delstaten Virginia. President Donald Trump i en telefonintervju till NBC News: \" Det blir ett riktigt trevligt möte där vi talar om hur bra det går militärt.",
-      "url": "https://yle.fi/a/7-10085214?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-28T19:02:20Z"
+      "published": "2025-09-30T16:42:36Z"
     }
   ]
 }
