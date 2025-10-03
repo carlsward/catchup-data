@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-02T06:52:16+00:00",
-  "total_raw": 56,
-  "total_rank": 6,
+  "generated": "2025-10-03T06:51:46+00:00",
+  "total_raw": 54,
+  "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Israel då Gazafartyg bordats: Greta och hennes vänner är i säkerhet",
-      "summary": "Omkring 500 aktivister finns ombord på de nu aktuella båtarna. Vid halvfemtiden på torsdag morgon uppgav organisationen på X att 13 av fartygen bordades. Det har sedan dess kommit uppgifter från flottiljen om flera fartyg som stoppats med vattenkanoner av israelisk militär.",
-      "url": "https://yle.fi/a/7-10085462?origin=rss",
+      "title": "De försvunna norska soldaterna är hittade",
+      "summary": "Tio soldater försvann under en övning i norska Finnmark. Polis, räddningstjänst, militären och Röda korset deltog i sökningen. Senare visade det sig att det egentligen var nio soldater man letade efter och fem av dem hittades under kvällen.",
+      "url": "https://yle.fi/a/7-10085537?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-02T03:07:09Z"
+      "published": "2025-10-03T03:41:29Z"
+    },
+    {
+      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
+      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
+      "url": "https://yle.fi/a/7-10085491?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-02T12:12:30Z"
     },
     {
       "title": "Ryssland trappade upp sin drönarterror",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10085384?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-01T09:27:46Z"
-    },
-    {
-      "title": "Natosamarbetet öppnar nya möjligheter för teknikbolag",
-      "summary": "Inom en månad samlades 3 800 deltagare från över 20 länder. Syftet med övningen var att undersöka hur autonoma farkoster och den allra senaste tekniken kan samverka med militära styrkor. Det handlar om att stärka skyddet av kritisk infrastruktur, upptäcka och neutralisera minor samt förbättra övervakningen av havsområden.",
-      "url": "https://yle.fi/a/7-10085345?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-30T16:42:36Z"
     },
     {
       "title": "Presidentfruar skickar brev om fred",
@@ -42,13 +42,6 @@
       "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
       "domain": "svt.se",
       "published": "2025-09-04T18:52:21Z"
-    },
-    {
-      "title": "Bergbana har spårat ur i Lissabon",
-      "summary": "Olyckan inträffade mellan Restauradores och Príncipe Real. Bergbanan var på väg ner från utsiktsplatsen São Pedro de Alcântara när den plötsligt spårade ur och kraschade in i en byggnad. Vittnen berättar för lokala medier hur bergbanan skenade okontrollerat nerför den smala gränden.",
-      "url": "https://www.svt.se/nyheter/utrikes/tre-doda-nar-bergsbana-sparade-ur-i-portugal",
-      "domain": "svt.se",
-      "published": "2025-09-03T18:14:03Z"
     }
   ]
 }

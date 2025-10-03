@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-02T06:51:16+00:00",
-  "total_raw": 39,
+  "generated": "2025-10-03T06:50:58+00:00",
+  "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Ingen dom efter kabelbrottet i Östersjön",
+      "summary": "Det blir ingen dom mot de män som åtalades för det uppmärksammade kabelsabotaget i Östersjön förra året. Detta då Helsingfors tingsrätt anser att de saknar jurisdiktion, rapporterar Svenska Yle. Så arbetar vi med nyheter för att stå för saklighet och opartiskhet.",
+      "url": "https://svt.se/nyheter/utrikes/ingen-dom-efter-kabelbrottet-i-ostersjon-finsk-domstol-saknar-befogenhet",
+      "domain": "svt.se",
+      "published": "2025-10-03T06:37:37Z"
+    },
+    {
+      "title": "De försvunna norska soldaterna är hittade",
+      "summary": "Tio soldater försvann under en övning i norska Finnmark. Polis, räddningstjänst, militären och Röda korset deltog i sökningen. Senare visade det sig att det egentligen var nio soldater man letade efter och fem av dem hittades under kvällen.",
+      "url": "https://yle.fi/a/7-10085537?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-03T03:41:29Z"
+    },
+    {
+      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
+      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
+      "url": "https://yle.fi/a/7-10085491?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-02T12:12:30Z"
+    },
+    {
       "title": "Gazakonvojen bordad",
-      "summary": "Gazaflottiljen är betydligt större än tidigare försök att bryta Israels blockad av Gaza genom att frakta nödhjälp via havet. Ett 40 - tal fartyg med nästan 500 aktivister från många olika länder deltar. Israel menar att blockaden mot Gaza följer internationell rätt och att fartygen stoppas för att de närmar sig en krigszon.",
+      "summary": "Gazaflottiljen är betydligt större än tidigare försök att bryta Israels blockad av Gaza genom att frakta nödhjälp via havet. Ett 40 - tal fartyg med nästan 500 aktivister från många olika länder har deltagit. Under eftermiddagen uppgav Israel att alla utom ett fartyg hade bordats.",
       "url": "https://svt.se/nyheter/utrikes/gazakonvojen-bordad-greta-thunberg-ford-till-israel",
       "domain": "svt.se",
       "published": "2025-10-02T05:32:33Z"
-    },
-    {
-      "title": "Israel då Gazafartyg bordats: Greta och hennes vänner är i säkerhet",
-      "summary": "Omkring 500 aktivister finns ombord på de nu aktuella båtarna. Vid halvfemtiden på torsdag morgon uppgav organisationen på X att 13 av fartygen bordades. Det har sedan dess kommit uppgifter från flottiljen om flera fartyg som stoppats med vattenkanoner av israelisk militär.",
-      "url": "https://yle.fi/a/7-10085462?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-02T03:07:09Z"
     },
     {
       "title": "Ryssland trappade upp sin drönarterror",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/stort-eu-mote-i-kopenhamn-men-huvudpersonerna-saknas",
       "domain": "svt.se",
       "published": "2025-10-01T08:53:44Z"
-    },
-    {
-      "title": "Kan en 81-årig dollarmiljardär ta över amerikansk media?",
-      "summary": "Larry Ellison är rik, excentrisk och en pionjär, säger Sophia Sinclair som är techreporter på SvD Näringsliv. Han äger redan Paramount, som kontrollerar CBS och CNN. Han håller – med stöd av pappa Larrys plånbok – på att köpa Warner Bros, dit CNN hör till.",
-      "url": "https://svt.se/nyheter/utrikes/kan-en-81-arig-dollarmiljardar-ta-over-amerikansk-media",
-      "domain": "svt.se",
-      "published": "2025-09-30T18:06:51Z"
-    },
-    {
-      "title": "Natosamarbetet öppnar nya möjligheter för teknikbolag",
-      "summary": "Inom en månad samlades 3 800 deltagare från över 20 länder. Syftet med övningen var att undersöka hur autonoma farkoster och den allra senaste tekniken kan samverka med militära styrkor. Det handlar om att stärka skyddet av kritisk infrastruktur, upptäcka och neutralisera minor samt förbättra övervakningen av havsområden.",
-      "url": "https://yle.fi/a/7-10085345?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-09-30T16:42:36Z"
     }
   ]
 }

@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-02T06:50:17+00:00",
-  "total_raw": 19,
+  "generated": "2025-10-03T06:50:06+00:00",
+  "total_raw": 18,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland trappade upp sin drönarterror",
-      "summary": "Sting är en liten men kraftfull drönare som kallas Sting. Dess huvuduppgift är att förstöra fiendedrönare, den typ av attack drönare som används i de ryska attackerna mot Ukraina. Ukrainska drönarexperten Alex Roslin representerar Wild Hornets, det icke - vinstdrivande företaget bakom sting.",
-      "url": "https://yle.fi/a/7-10085384?origin=rss",
+      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
+      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
+      "url": "https://yle.fi/a/7-10085491?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-01T09:27:46Z"
+      "published": "2025-10-02T12:12:30Z"
     },
     {
-      "title": "Israel då Gazafartyg bordats: Greta och hennes vänner är i säkerhet",
-      "summary": "Omkring 500 aktivister finns ombord på de nu aktuella båtarna. Vid halvfemtiden på torsdag morgon uppgav organisationen på X att 13 av fartygen bordades. Det har sedan dess kommit uppgifter från flottiljen om flera fartyg som stoppats med vattenkanoner av israelisk militär.",
-      "url": "https://yle.fi/a/7-10085462?origin=rss",
+      "title": "Israel: Hela Gazakonvojen har nu stoppats",
+      "summary": "Ingen av de över 40 båtar som deltog i Global Sumud Flotilla har lyckats ta sig förbi sjöblockaden. En båt som befinner sig utanför området som omfattas av blockaden har stoppats. Fem av sex finländska aktivister har gripits, enligt Yle Uutiset.",
+      "url": "https://yle.fi/a/7-10085524?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-02T03:07:09Z"
+      "published": "2025-10-02T15:06:28Z"
     },
     {
-      "title": "Stort EU-möte i Köpenhamn",
-      "summary": "Danmarks statsminister har uttalat att Ryssland bedriver ett hybridkrig mot Europa. Sverige och Norge hade skickat polisresurser på dansk begäran, antidrönarsystem var upprättade och soldater från flera olika europeiska länder fanns på plats för att ytterligare öka säkerheten. EU har möjlighet att stötta genom att erbjuda billiga lån och tillåta medlemsländerna att ha budgetunderskott för att ha råd med försvarssatsningar.",
-      "url": "https://svt.se/nyheter/utrikes/stort-eu-mote-i-kopenhamn-men-huvudpersonerna-saknas",
+      "title": "Ett allt mer aggressivt Ryssland i Barents hav",
+      "summary": "I takt med att Ryssland blir allt mer aggressivt i regionen har spänningarna ökat markant, säger Thomas Nilsen, norsk journalist bosatt i Kirkenes. Den ökade ryska aktiviteten tog fart efter att Ryssland inledde sitt fullskaliga krig mot Ukraina. Sedan Donald Trump blev president har den amerikanska närvaron ökat kraftigt, säger Nilsen.",
+      "url": "https://yle.fi/a/7-10085439?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-02T15:20:17Z"
+    },
+    {
+      "title": "Lena Andersson om kriget i Ukraina: Västländerna är stridslystna",
+      "summary": "Lena Andersson är en framstående svensk författare och krönikör. Hon är känd för sin skarpa samhällsanalys, filosofiska djup och ett språkbruk med starkt sanningskrav. Hon skriver regelbundet i Svenska Dagbladet och utforskar ofta frågor kring frihet, moral och samhällsstruktur.",
+      "url": "https://svt.se/nyheter/utrikes/lena-andersson-om-kriget-i-ukraina-vastlanderna-ar-stridslystna",
       "domain": "svt.se",
-      "published": "2025-10-01T08:53:44Z"
+      "published": "2025-10-02T15:30:28Z"
     },
     {
-      "title": "Tyska regeringen kritiseras för att bromsa utbyggnaden av förnybar energi",
-      "summary": "Ekonomiminister Katherina Reiche arbetar för energikoncernen Eon. Kritiker har stämplat henne som en lobbyist för energibolagen och deras gasintressen. Hon vill också se över utbyggnaden av den havsbaserade vindkraften.",
-      "url": "https://yle.fi/a/7-10085111?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-02T01:55:34Z"
-    },
-    {
-      "title": "Vårdtiden för ukrainska patienter i Sverige har fördubblats",
-      "summary": "Jevhen Kovalenko hade 25 operationer i Ukraina på grund av resistenta bakterier. Läkarna säger att den första behandlingen med antibiotika misslyckades och de fick börja om igen. Han är tacksam för att han slapp amputera benet och räknar med att kunna gå igen i framtiden.",
-      "url": "https://svt.se/nyheter/utrikes/vardtiden-for-ukrainska-patienter-i-sverige-har-fordubblats-allt-svarare-skador",
+      "title": "Flera döda och skadade efter våldsdåd vid synagoga i Manchester",
+      "summary": "Två personer dödades och ytterligare fyra fördes till sjukhus med allvarliga skador. Händelsen utreds som ett misstänkt terrordåd. Tre personer har gripits efter händelsen i Crumpsall utanför Manchester.",
+      "url": "https://svt.se/nyheter/utrikes/misstankt-knivattack-vid-synagoga-i-manchester",
       "domain": "svt.se",
-      "published": "2025-10-01T19:21:25Z"
+      "published": "2025-10-02T09:30:17Z"
     }
   ]
 }
