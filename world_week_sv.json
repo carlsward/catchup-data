@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-03T06:50:58+00:00",
-  "total_raw": 40,
+  "generated": "2025-10-04T06:46:29+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
+      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i början av september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
+      "url": "https://yle.fi/a/7-10085521?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-04T04:54:28Z"
+    },
+    {
+      "title": "Hamas svar på Trumps fredsplan: Släpper gisslan",
+      "summary": "Ett möte mellan Israels premiärminister Netanyahu och USA: s president Donald Trump mynnade ut i en fredsplan för Gaza. Planen har beskrivits som en nästan total kapitulation av Hamas. Medlarlandet Egypten hoppas på en \" positiv utveckling \" efter Hamas svar och landets utrikesdepartement vill att alla parter bidrar till att genomföra planen.",
+      "url": "https://svt.se/nyheter/utrikes/hamas-svar-pa-trumps-fredsplan-slapper-alla-gisslan",
+      "domain": "svt.se",
+      "published": "2025-10-03T22:01:18Z"
+    },
+    {
+      "title": "Dansk analys: Rysslands hybridkrig mot väst trappas upp om Nato inte reagerar",
+      "summary": "Enligt danska försvarets underrättelsetjänst är Ryssland för närvarande engagerat i ett hybridkrig mot Nato och mot västvärlden. Thomas Ahrenkiel, chef för Forsvarets Efterretningstjeneste ( FE ), på en pressträff i Köpenhamn på fredag. Enligt FE: s färska hotanalys av situationen har Ryssland sedan 2023 stått bakom ett antal sabotageaktioner mot mål i Europa.",
+      "url": "https://yle.fi/a/7-10085546?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-03T09:11:26Z"
+    },
+    {
       "title": "Ingen dom efter kabelbrottet i Östersjön",
-      "summary": "Det blir ingen dom mot de män som åtalades för det uppmärksammade kabelsabotaget i Östersjön förra året. Detta då Helsingfors tingsrätt anser att de saknar jurisdiktion, rapporterar Svenska Yle. Så arbetar vi med nyheter för att stå för saklighet och opartiskhet.",
+      "summary": "Kapten och två styrmän åtalades tidigare i år för grovt sabotage och grovt störande av post - och teletrafik. Männen misstänks ha släpat sitt ankare på botten med flit, och förstört en stor strömförsörjningskabel mellan Finland och Estland. Även om det skedde utanför Finlands territorialvatten väcktes åtal då åklagaren menade att kabelbrottet påverkat landet på ett direkt sätt.",
       "url": "https://svt.se/nyheter/utrikes/ingen-dom-efter-kabelbrottet-i-ostersjon-finsk-domstol-saknar-befogenhet",
       "domain": "svt.se",
       "published": "2025-10-03T06:37:37Z"
-    },
-    {
-      "title": "De försvunna norska soldaterna är hittade",
-      "summary": "Tio soldater försvann under en övning i norska Finnmark. Polis, räddningstjänst, militären och Röda korset deltog i sökningen. Senare visade det sig att det egentligen var nio soldater man letade efter och fem av dem hittades under kvällen.",
-      "url": "https://yle.fi/a/7-10085537?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-03T03:41:29Z"
     },
     {
       "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/gazakonvojen-bordad-greta-thunberg-ford-till-israel",
       "domain": "svt.se",
       "published": "2025-10-02T05:32:33Z"
-    },
-    {
-      "title": "Ryssland trappade upp sin drönarterror",
-      "summary": "Sting är en liten men kraftfull drönare som kallas Sting. Dess huvuduppgift är att förstöra fiendedrönare, den typ av attack drönare som används i de ryska attackerna mot Ukraina. Ukrainska drönarexperten Alex Roslin representerar Wild Hornets, det icke - vinstdrivande företaget bakom sting.",
-      "url": "https://yle.fi/a/7-10085384?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-01T09:27:46Z"
-    },
-    {
-      "title": "Stort EU-möte i Köpenhamn",
-      "summary": "Danmarks statsminister har uttalat att Ryssland bedriver ett hybridkrig mot Europa. Sverige och Norge hade skickat polisresurser på dansk begäran, antidrönarsystem var upprättade och soldater från flera olika europeiska länder fanns på plats för att ytterligare öka säkerheten. EU har möjlighet att stötta genom att erbjuda billiga lån och tillåta medlemsländerna att ha budgetunderskott för att ha råd med försvarssatsningar.",
-      "url": "https://svt.se/nyheter/utrikes/stort-eu-mote-i-kopenhamn-men-huvudpersonerna-saknas",
-      "domain": "svt.se",
-      "published": "2025-10-01T08:53:44Z"
     }
   ]
 }

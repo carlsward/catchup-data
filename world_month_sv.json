@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-03T06:51:46+00:00",
-  "total_raw": 54,
-  "total_rank": 5,
+  "generated": "2025-10-04T06:47:10+00:00",
+  "total_raw": 47,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "De försvunna norska soldaterna är hittade",
-      "summary": "Tio soldater försvann under en övning i norska Finnmark. Polis, räddningstjänst, militären och Röda korset deltog i sökningen. Senare visade det sig att det egentligen var nio soldater man letade efter och fem av dem hittades under kvällen.",
-      "url": "https://yle.fi/a/7-10085537?origin=rss",
+      "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
+      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i början av september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
+      "url": "https://yle.fi/a/7-10085521?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-03T03:41:29Z"
+      "published": "2025-10-04T04:54:28Z"
+    },
+    {
+      "title": "Dansk analys: Rysslands hybridkrig mot väst trappas upp om Nato inte reagerar",
+      "summary": "Enligt danska försvarets underrättelsetjänst är Ryssland för närvarande engagerat i ett hybridkrig mot Nato och mot västvärlden. Thomas Ahrenkiel, chef för Forsvarets Efterretningstjeneste ( FE ), på en pressträff i Köpenhamn på fredag. Enligt FE: s färska hotanalys av situationen har Ryssland sedan 2023 stått bakom ett antal sabotageaktioner mot mål i Europa.",
+      "url": "https://yle.fi/a/7-10085546?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-03T09:11:26Z"
     },
     {
       "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
@@ -23,25 +30,11 @@
       "published": "2025-10-02T12:12:30Z"
     },
     {
-      "title": "Ryssland trappade upp sin drönarterror",
-      "summary": "Sting är en liten men kraftfull drönare som kallas Sting. Dess huvuduppgift är att förstöra fiendedrönare, den typ av attack drönare som används i de ryska attackerna mot Ukraina. Ukrainska drönarexperten Alex Roslin representerar Wild Hornets, det icke - vinstdrivande företaget bakom sting.",
-      "url": "https://yle.fi/a/7-10085384?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-01T09:27:46Z"
-    },
-    {
       "title": "Presidentfruar skickar brev om fred",
       "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
       "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
       "domain": "svt.se",
       "published": "2025-09-05T01:26:28Z"
-    },
-    {
-      "title": "Sudan: Hundratusentals fast i dödsfälla",
-      "summary": "Den humanitära krisen i Sudan har redan kallats världens största. En konflikt som sedan april 2023 har förvandlat ett land till ett slagfält mellan armén och Rapid support forces ( RSF ) Civilbefolkningen som försöker lämna al - Fashir fastnar i RSF: s vägspärrar och utsätts för övergrepp, inklusive sexuella övergrepp, rapporterar Reuters. Omkring 25 miljoner människor uppges lida av akut hunger och många tvingas nu att överleva på djurfoder.",
-      "url": "https://www.svt.se/nyheter/utrikes/sudan-hundratusentals-fast-i-dodsfalla",
-      "domain": "svt.se",
-      "published": "2025-09-04T18:52:21Z"
     }
   ]
 }

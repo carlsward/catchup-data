@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-03T06:50:06+00:00",
-  "total_raw": 18,
+  "generated": "2025-10-04T06:45:33+00:00",
+  "total_raw": 19,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
-      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
-      "url": "https://yle.fi/a/7-10085491?origin=rss",
+      "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
+      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i början av september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
+      "url": "https://yle.fi/a/7-10085521?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-02T12:12:30Z"
+      "published": "2025-10-04T04:54:28Z"
     },
     {
-      "title": "Israel: Hela Gazakonvojen har nu stoppats",
-      "summary": "Ingen av de över 40 båtar som deltog i Global Sumud Flotilla har lyckats ta sig förbi sjöblockaden. En båt som befinner sig utanför området som omfattas av blockaden har stoppats. Fem av sex finländska aktivister har gripits, enligt Yle Uutiset.",
-      "url": "https://yle.fi/a/7-10085524?origin=rss",
+      "title": "Avgörande valdag i Tjeckien",
+      "summary": "ANO, lett av f. d. premiärminister Andrej Babiš, går mot seger med cirka 30 procent av rösterna.",
+      "url": "https://yle.fi/a/7-10085587?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-02T15:06:28Z"
+      "published": "2025-10-04T06:18:00Z"
     },
     {
-      "title": "Ett allt mer aggressivt Ryssland i Barents hav",
-      "summary": "I takt med att Ryssland blir allt mer aggressivt i regionen har spänningarna ökat markant, säger Thomas Nilsen, norsk journalist bosatt i Kirkenes. Den ökade ryska aktiviteten tog fart efter att Ryssland inledde sitt fullskaliga krig mot Ukraina. Sedan Donald Trump blev president har den amerikanska närvaron ökat kraftigt, säger Nilsen.",
-      "url": "https://yle.fi/a/7-10085439?origin=rss",
+      "title": "Dansk analys: Rysslands hybridkrig mot väst trappas upp om Nato inte reagerar",
+      "summary": "Enligt danska försvarets underrättelsetjänst är Ryssland för närvarande engagerat i ett hybridkrig mot Nato och mot västvärlden. Thomas Ahrenkiel, chef för Forsvarets Efterretningstjeneste ( FE ), på en pressträff i Köpenhamn på fredag. Enligt FE: s färska hotanalys av situationen har Ryssland sedan 2023 stått bakom ett antal sabotageaktioner mot mål i Europa.",
+      "url": "https://yle.fi/a/7-10085546?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-02T15:20:17Z"
+      "published": "2025-10-03T09:11:26Z"
     },
     {
-      "title": "Lena Andersson om kriget i Ukraina: Västländerna är stridslystna",
-      "summary": "Lena Andersson är en framstående svensk författare och krönikör. Hon är känd för sin skarpa samhällsanalys, filosofiska djup och ett språkbruk med starkt sanningskrav. Hon skriver regelbundet i Svenska Dagbladet och utforskar ofta frågor kring frihet, moral och samhällsstruktur.",
-      "url": "https://svt.se/nyheter/utrikes/lena-andersson-om-kriget-i-ukraina-vastlanderna-ar-stridslystna",
+      "title": "Hamas svar på Trumps fredsplan: Släpper gisslan",
+      "summary": "Ett möte mellan Israels premiärminister Netanyahu och USA: s president Donald Trump mynnade ut i en fredsplan för Gaza. Planen har beskrivits som en nästan total kapitulation av Hamas. Medlarlandet Egypten hoppas på en \" positiv utveckling \" efter Hamas svar och landets utrikesdepartement vill att alla parter bidrar till att genomföra planen.",
+      "url": "https://svt.se/nyheter/utrikes/hamas-svar-pa-trumps-fredsplan-slapper-alla-gisslan",
       "domain": "svt.se",
-      "published": "2025-10-02T15:30:28Z"
+      "published": "2025-10-03T22:01:18Z"
     },
     {
-      "title": "Flera döda och skadade efter våldsdåd vid synagoga i Manchester",
-      "summary": "Två personer dödades och ytterligare fyra fördes till sjukhus med allvarliga skador. Händelsen utreds som ett misstänkt terrordåd. Tre personer har gripits efter händelsen i Crumpsall utanför Manchester.",
-      "url": "https://svt.se/nyheter/utrikes/misstankt-knivattack-vid-synagoga-i-manchester",
+      "title": "Stormen Amy: En död på Irland",
+      "summary": "Amy kan bli den största och mest förödande stormen på 25 år. Varningar om regn, vind och jordskred har utfärdats i olika grader i hela landet söder om Narvik. I Hardanger i västra Norge, vindbyar på 31, 7 mph uppmättes och vid 04: tiden hade flera rapporter om skador på grund av vinden kommit in.",
+      "url": "https://svt.se/nyheter/utrikes/garage-flog-ivag-nar-amy-drar-fram-i-norge",
       "domain": "svt.se",
-      "published": "2025-10-02T09:30:17Z"
+      "published": "2025-10-04T03:33:56Z"
     }
   ]
 }
