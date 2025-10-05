@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-04T06:47:10+00:00",
-  "total_raw": 47,
+  "generated": "2025-10-05T07:11:58+00:00",
+  "total_raw": 44,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Ytterhögern utnyttjar tyskarnas DDR-nostalgi: ”Man väljer att glömma omständighe…",
+      "summary": "Östtysklands tidigare invånare säger att allt inte var dåligt i Östtyskland, DDR var en självklarhet för dem som en gång i tiden såg tv - nyheterna i DDR. En av dem som upplevde DDR är Renate Mäding, Christel Wende, Martina Sperling och Ilona Seidel. De säger att det fanns en hel del som var fel i DDR men samtidigt måste man också minnas det som var bra.",
+      "url": "https://yle.fi/a/7-10083926?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-05T04:26:08Z"
+    },
+    {
       "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
-      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i början av september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
+      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
       "url": "https://yle.fi/a/7-10085521?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-04T04:54:28Z"
@@ -23,18 +30,11 @@
       "published": "2025-10-03T09:11:26Z"
     },
     {
-      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
-      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
-      "url": "https://yle.fi/a/7-10085491?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-02T12:12:30Z"
-    },
-    {
-      "title": "Presidentfruar skickar brev om fred",
-      "summary": "Under sommaren har första damerna Melania Trump, Olena Zelenska och Emine Erdogan skickat brev till Vladimir Putin. I breven har man uppmanat till fred i världen, Gaza och Ukraina samt lyft barnens situation i krig. En traditionell kvinnoroll som presidentfruarna intagit i sommar har funnits i över 100 år, säger Birgitta Niklasson, statsvetare vid Göteborgs universitet, och Susanna Erlandsson, historiker vid Uppsala universitet.",
-      "url": "https://www.svt.se/nyheter/utrikes/presidentfruar-skickar-brev-om-fred-likt-1950-tal",
+      "title": "Experten: Osannolikt att drönare startade från skuggflottans fartyg",
+      "summary": "Flera incidenter med drönare ska ha skett på flera platser de följande dagarna. Danska polisen har uppgett att flera utländska fartyg ingår i utredningen. Ett av fartygen som dansk polis utreder ingår i Rysslands Östersjöflotta.",
+      "url": "https://svt.se/nyheter/utrikes/experten-osannolikt-att-dronare-startade-fran-skuggflottans-fartyg",
       "domain": "svt.se",
-      "published": "2025-09-05T01:26:28Z"
+      "published": "2025-10-02T20:42:15Z"
     }
   ]
 }

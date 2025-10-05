@@ -2,22 +2,36 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-04T06:46:29+00:00",
-  "total_raw": 39,
-  "total_rank": 6,
+  "generated": "2025-10-05T07:11:15+00:00",
+  "total_raw": 40,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Efter al-Assads fall",
+      "summary": "Val som nu hålls i Syrien ska inte avgöras av folket via valsedlar, utan av lokala kommittéer. Totalt 140 ledamöter till den nya lagstiftande församlingen utses. Övriga 70 nomineras direkt av Ahmed al - Sharaa.",
+      "url": "https://svt.se/nyheter/utrikes/efter-al-assads-fall-syrien-haller-parlamentsval",
+      "domain": "svt.se",
+      "published": "2025-10-05T05:23:35Z"
+    },
+    {
+      "title": "Ytterhögern utnyttjar tyskarnas DDR-nostalgi: ”Man väljer att glömma omständighe…",
+      "summary": "Östtysklands tidigare invånare säger att allt inte var dåligt i Östtyskland, DDR var en självklarhet för dem som en gång i tiden såg tv - nyheterna i DDR. En av dem som upplevde DDR är Renate Mäding, Christel Wende, Martina Sperling och Ilona Seidel. De säger att det fanns en hel del som var fel i DDR men samtidigt måste man också minnas det som var bra.",
+      "url": "https://yle.fi/a/7-10083926?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-05T04:26:08Z"
+    },
+    {
       "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
-      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i början av september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
+      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
       "url": "https://yle.fi/a/7-10085521?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-04T04:54:28Z"
     },
     {
       "title": "Hamas svar på Trumps fredsplan: Släpper gisslan",
-      "summary": "Ett möte mellan Israels premiärminister Netanyahu och USA: s president Donald Trump mynnade ut i en fredsplan för Gaza. Planen har beskrivits som en nästan total kapitulation av Hamas. Medlarlandet Egypten hoppas på en \" positiv utveckling \" efter Hamas svar och landets utrikesdepartement vill att alla parter bidrar till att genomföra planen.",
+      "summary": "Ett möte mellan Israel och Hamas resulterade i en fredsplan för Gaza. Planen har beskrivits som en total kapitulation av Hamas. Medlarlandet Egypten hoppas på en \" positiv utveckling \" efter Hamas svar.",
       "url": "https://svt.se/nyheter/utrikes/hamas-svar-pa-trumps-fredsplan-slapper-alla-gisslan",
       "domain": "svt.se",
       "published": "2025-10-03T22:01:18Z"
@@ -37,18 +51,18 @@
       "published": "2025-10-03T06:37:37Z"
     },
     {
-      "title": "USA kan ge Ukraina nya underrättelseuppgifter och långdistansvapen",
-      "summary": "USA: s president Donald Trump har godkänt att en ny typ av underrättelseuppgifter förmedlas till Ukraina, rapporterar Wall Street Journal ( WSJ ) Informationen ska enligt WSJ kunna underlätta med att planera och genomföra ukrainska attacker med långdistansrobotar mot energiinfrastruktur i Ryssland. Det här kan få en betydande påverkan på krigets utveckling, tror Joakim Paasikivi, senior geopolitisk rådgivare på Mannheimer Swartling och tidigare militär strateg på svenska Försvarshögskolan.",
-      "url": "https://yle.fi/a/7-10085491?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-02T12:12:30Z"
+      "title": "Experten: Osannolikt att drönare startade från skuggflottans fartyg",
+      "summary": "Flera incidenter med drönare ska ha skett på flera platser de följande dagarna. Danska polisen har uppgett att flera utländska fartyg ingår i utredningen. Ett av fartygen som dansk polis utreder ingår i Rysslands Östersjöflotta.",
+      "url": "https://svt.se/nyheter/utrikes/experten-osannolikt-att-dronare-startade-fran-skuggflottans-fartyg",
+      "domain": "svt.se",
+      "published": "2025-10-02T20:42:15Z"
     },
     {
-      "title": "Gazakonvojen bordad",
-      "summary": "Gazaflottiljen är betydligt större än tidigare försök att bryta Israels blockad av Gaza genom att frakta nödhjälp via havet. Ett 40 - tal fartyg med nästan 500 aktivister från många olika länder har deltagit. Under eftermiddagen uppgav Israel att alla utom ett fartyg hade bordats.",
-      "url": "https://svt.se/nyheter/utrikes/gazakonvojen-bordad-greta-thunberg-ford-till-israel",
+      "title": "Norska soldater återfunna efter sökinsats",
+      "summary": "Soldaterna skulle ha kommit tillbaka efter en övning klockan 7 på torsdag morgon, men hade ännu inte hörts av. Polis, räddningstjänst, militären och Röda Korset deltog i sökningen. Vid 19.",
+      "url": "https://svt.se/nyheter/utrikes/stor-sokinsats-tio-norska-soldater-forsvunna",
       "domain": "svt.se",
-      "published": "2025-10-02T05:32:33Z"
+      "published": "2025-10-02T17:41:49Z"
     }
   ]
 }
