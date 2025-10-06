@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-05T07:11:58+00:00",
-  "total_raw": 44,
+  "generated": "2025-10-06T06:55:51+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Viktigt läge i fredsprocessen",
+      "summary": "På måndagen förväntas förhandlingarna via medlare börja i Kairo. USA: s sändebud i Mellanöstern, Steve Witkoff, och Trumps svärson Jared Kushner reser till Egypten för att träffa delegationer från både Israel och Hamas. Den andra fasen av förhandlingarna, som bland annat gäller Hamas avväpning, lär bli komplicerad.",
+      "url": "https://svt.se/nyheter/utrikes/viktigt-lage-i-fredsprocessen-fortfarande-valdigt-skakigt",
+      "domain": "svt.se",
+      "published": "2025-10-06T04:09:24Z"
+    },
     {
       "title": "Ytterhögern utnyttjar tyskarnas DDR-nostalgi: ”Man väljer att glömma omständighe…",
       "summary": "Östtysklands tidigare invånare säger att allt inte var dåligt i Östtyskland, DDR var en självklarhet för dem som en gång i tiden såg tv - nyheterna i DDR. En av dem som upplevde DDR är Renate Mäding, Christel Wende, Martina Sperling och Ilona Seidel. De säger att det fanns en hel del som var fel i DDR men samtidigt måste man också minnas det som var bra.",
@@ -23,18 +30,11 @@
       "published": "2025-10-04T04:54:28Z"
     },
     {
-      "title": "Dansk analys: Rysslands hybridkrig mot väst trappas upp om Nato inte reagerar",
-      "summary": "Enligt danska försvarets underrättelsetjänst är Ryssland för närvarande engagerat i ett hybridkrig mot Nato och mot västvärlden. Thomas Ahrenkiel, chef för Forsvarets Efterretningstjeneste ( FE ), på en pressträff i Köpenhamn på fredag. Enligt FE: s färska hotanalys av situationen har Ryssland sedan 2023 stått bakom ett antal sabotageaktioner mot mål i Europa.",
-      "url": "https://yle.fi/a/7-10085546?origin=rss",
+      "title": "Sean Combs döms till drygt fyra års fängelse",
+      "summary": "Den amerikanska hiphopartisten Sean Combs döms till 50 månaders fängelse, eller lite över fyra år, för två prostitutionsrelaterade brott. Juryn i rättegången fällde Combs redan i juli, men straffet meddelades först på fredagen. Fallen han döms för handlar om att han transporterat personer över delstatsgränsen i samband med prostitution.",
+      "url": "https://yle.fi/a/7-10085578?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-03T09:11:26Z"
-    },
-    {
-      "title": "Experten: Osannolikt att drönare startade från skuggflottans fartyg",
-      "summary": "Flera incidenter med drönare ska ha skett på flera platser de följande dagarna. Danska polisen har uppgett att flera utländska fartyg ingår i utredningen. Ett av fartygen som dansk polis utreder ingår i Rysslands Östersjöflotta.",
-      "url": "https://svt.se/nyheter/utrikes/experten-osannolikt-att-dronare-startade-fran-skuggflottans-fartyg",
-      "domain": "svt.se",
-      "published": "2025-10-02T20:42:15Z"
+      "published": "2025-10-03T21:00:29Z"
     }
   ]
 }

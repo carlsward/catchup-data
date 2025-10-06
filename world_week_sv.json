@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-05T07:11:15+00:00",
-  "total_raw": 40,
+  "generated": "2025-10-06T06:55:12+00:00",
+  "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Viktigt läge i fredsprocessen",
+      "summary": "På måndagen förväntas förhandlingarna via medlare börja i Kairo. USA: s sändebud i Mellanöstern, Steve Witkoff, och Trumps svärson Jared Kushner reser till Egypten för att träffa delegationer från både Israel och Hamas. Den andra fasen av förhandlingarna, som bland annat gäller Hamas avväpning, lär bli komplicerad.",
+      "url": "https://svt.se/nyheter/utrikes/viktigt-lage-i-fredsprocessen-fortfarande-valdigt-skakigt",
+      "domain": "svt.se",
+      "published": "2025-10-06T04:09:24Z"
+    },
+    {
+      "title": "Gripna finländska aktivister i Israel vittnar om dålig behandling",
+      "summary": "Aktivister greps när israeliska kommandostyrkor stoppade den civila biståndskonvojen Global Sumud Flotilla. Enligt uppgift håller de inte med utrikesministeriets konsulära chef Jussi Tanner eller hans uttalanden om de arresterade aktivisterna. Rörelsen uttrycker sin oro för de gripna finländarnas situation i Negevöknen i södra Israel.",
+      "url": "https://yle.fi/a/7-10085640?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-06T03:03:32Z"
+    },
     {
       "title": "Efter al-Assads fall",
       "summary": "Val som nu hålls i Syrien ska inte avgöras av folket via valsedlar, utan av lokala kommittéer. Totalt 140 ledamöter till den nya lagstiftande församlingen utses. Övriga 70 nomineras direkt av Ahmed al - Sharaa.",
@@ -23,6 +37,13 @@
       "published": "2025-10-05T04:26:08Z"
     },
     {
+      "title": "Babis parti störst i Tjeckien",
+      "summary": "Sittande premiärminister Petr Fialas mittenhöger - allians Tillsammans ( Spolu ) samlar runt 23 procent. Alliansen tappar därmed flera mandat i parlamentet och ser ut att få nöja sig med runt 50 jämfört med nuvarande 71. Troliga koalitionspartners är i så fall ytterhögerpartiet SPD, som får närmare 8 procent av rösterna och därmed 15 mandat.",
+      "url": "https://svt.se/nyheter/utrikes/babis-leder-i-tjeckien-en-tredjedel-raknat",
+      "domain": "svt.se",
+      "published": "2025-10-04T16:05:05Z"
+    },
+    {
       "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
       "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
       "url": "https://yle.fi/a/7-10085521?origin=rss",
@@ -30,39 +51,18 @@
       "published": "2025-10-04T04:54:28Z"
     },
     {
-      "title": "Hamas svar på Trumps fredsplan: Släpper gisslan",
-      "summary": "Ett möte mellan Israel och Hamas resulterade i en fredsplan för Gaza. Planen har beskrivits som en total kapitulation av Hamas. Medlarlandet Egypten hoppas på en \" positiv utveckling \" efter Hamas svar.",
-      "url": "https://svt.se/nyheter/utrikes/hamas-svar-pa-trumps-fredsplan-slapper-alla-gisslan",
-      "domain": "svt.se",
-      "published": "2025-10-03T22:01:18Z"
-    },
-    {
-      "title": "Dansk analys: Rysslands hybridkrig mot väst trappas upp om Nato inte reagerar",
-      "summary": "Enligt danska försvarets underrättelsetjänst är Ryssland för närvarande engagerat i ett hybridkrig mot Nato och mot västvärlden. Thomas Ahrenkiel, chef för Forsvarets Efterretningstjeneste ( FE ), på en pressträff i Köpenhamn på fredag. Enligt FE: s färska hotanalys av situationen har Ryssland sedan 2023 stått bakom ett antal sabotageaktioner mot mål i Europa.",
-      "url": "https://yle.fi/a/7-10085546?origin=rss",
+      "title": "Sean Combs döms till drygt fyra års fängelse",
+      "summary": "Den amerikanska hiphopartisten Sean Combs döms till 50 månaders fängelse, eller lite över fyra år, för två prostitutionsrelaterade brott. Juryn i rättegången fällde Combs redan i juli, men straffet meddelades först på fredagen. Fallen han döms för handlar om att han transporterat personer över delstatsgränsen i samband med prostitution.",
+      "url": "https://yle.fi/a/7-10085578?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-03T09:11:26Z"
+      "published": "2025-10-03T21:00:29Z"
     },
     {
-      "title": "Ingen dom efter kabelbrottet i Östersjön",
-      "summary": "Kapten och två styrmän åtalades tidigare i år för grovt sabotage och grovt störande av post - och teletrafik. Männen misstänks ha släpat sitt ankare på botten med flit, och förstört en stor strömförsörjningskabel mellan Finland och Estland. Även om det skedde utanför Finlands territorialvatten väcktes åtal då åklagaren menade att kabelbrottet påverkat landet på ett direkt sätt.",
-      "url": "https://svt.se/nyheter/utrikes/ingen-dom-efter-kabelbrottet-i-ostersjon-finsk-domstol-saknar-befogenhet",
-      "domain": "svt.se",
-      "published": "2025-10-03T06:37:37Z"
-    },
-    {
-      "title": "Experten: Osannolikt att drönare startade från skuggflottans fartyg",
-      "summary": "Flera incidenter med drönare ska ha skett på flera platser de följande dagarna. Danska polisen har uppgett att flera utländska fartyg ingår i utredningen. Ett av fartygen som dansk polis utreder ingår i Rysslands Östersjöflotta.",
-      "url": "https://svt.se/nyheter/utrikes/experten-osannolikt-att-dronare-startade-fran-skuggflottans-fartyg",
-      "domain": "svt.se",
-      "published": "2025-10-02T20:42:15Z"
-    },
-    {
-      "title": "Norska soldater återfunna efter sökinsats",
-      "summary": "Soldaterna skulle ha kommit tillbaka efter en övning klockan 7 på torsdag morgon, men hade ännu inte hörts av. Polis, räddningstjänst, militären och Röda Korset deltog i sökningen. Vid 19.",
-      "url": "https://svt.se/nyheter/utrikes/stor-sokinsats-tio-norska-soldater-forsvunna",
-      "domain": "svt.se",
-      "published": "2025-10-02T17:41:49Z"
+      "title": "Hamas lovar släppa alla i gisslan",
+      "summary": "Hamas lovar att frige alla som organisationen fortfarande håller som gisslan, döda och levande, enligt villkoren i den amerikanska presidenten Donald Trumps fredsplan. En källa med insyn i förhandlingarna uppger för nyhetsbyrån Reuters att de qatariska medlarna tagit emot Hamas svar på Trumps svar på hans plan för Gaza. Hamas uppger i sitt svar att man godtar en del av Trumps fredsplanen för Gaza, inklusive att släppa gisslan och ge över administrationen av Gazaremsan.",
+      "url": "https://yle.fi/a/7-10085592?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-03T20:26:01Z"
     }
   ]
 }
