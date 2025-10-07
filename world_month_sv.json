@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-06T06:55:51+00:00",
-  "total_raw": 39,
+  "generated": "2025-10-07T06:53:04+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Viktigt läge i fredsprocessen",
-      "summary": "På måndagen förväntas förhandlingarna via medlare börja i Kairo. USA: s sändebud i Mellanöstern, Steve Witkoff, och Trumps svärson Jared Kushner reser till Egypten för att träffa delegationer från både Israel och Hamas. Den andra fasen av förhandlingarna, som bland annat gäller Hamas avväpning, lär bli komplicerad.",
-      "url": "https://svt.se/nyheter/utrikes/viktigt-lage-i-fredsprocessen-fortfarande-valdigt-skakigt",
-      "domain": "svt.se",
-      "published": "2025-10-06T04:09:24Z"
+      "title": "Hamas har försvagats rejält men rekryterar fortfarande nya soldater, säger forsk…",
+      "summary": "Terrorforskaren Magnus Ranstorp säger att Hamas har lidit stora förluster. Han säger att trots en intensiv offensiv har Hamas lyckats försvara många av sina ställningar i Gaza. Hamas hade den 7 oktober 2023 ungefär 35 000 man inom de olika brigderna.",
+      "url": "https://yle.fi/a/7-10085700?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-07T02:06:22Z"
+    },
+    {
+      "title": "Nobelpriset i medicin går till tre forskare som upptäckte hur immunförsvaret hål…",
+      "summary": "Nobelpristagarna upptäckte hur immunförsvaret undgår att löpa amok och förstöra kroppen. Immunförsvaret hålls under kontroll genom så kallad perifer immuntolerans. Cellerna som sköter det här jobbet kallas de regulatoriska T - cellerna eller Tregs.",
+      "url": "https://yle.fi/a/7-10085625?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-06T09:47:04Z"
     },
     {
       "title": "Ytterhögern utnyttjar tyskarnas DDR-nostalgi: ”Man väljer att glömma omständighe…",
@@ -23,18 +30,11 @@
       "published": "2025-10-05T04:26:08Z"
     },
     {
-      "title": "Kommer Europa att slå till mot handeln med Israel? Trumps fredsförslag kan förha…",
-      "summary": "Ursula von der Leyen hotade att dra in bilateralt stöd och delar av handeln med Israel. EU: s oförmåga att gemensamt agera som \" smärtsam \", sade hon i september. Ett EU - beslut om handelsrelationen hänger fortfarande i luften.",
-      "url": "https://yle.fi/a/7-10085521?origin=rss",
+      "title": "Kursändring i Tjeckien efter högerpopulistisk valseger",
+      "summary": "Andrej Babiš och ANO vinner tjeckiskt parlamentsval med 34, 6 % av rösterna. Resultatet innebär ett bakslag för den sittande premiärministern Petr Fiala och hans pro - europeiska regeringskoalition som styrt landet sedan 2021. En högerpopulistisk valseger förväntas leda till ett mer kritiskt förhållande till EU och ett svalare stöd till Ukraina, vilket oroar många både i Prag och i Bryssel.",
+      "url": "https://yle.fi/a/7-10085616?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-04T04:54:28Z"
-    },
-    {
-      "title": "Sean Combs döms till drygt fyra års fängelse",
-      "summary": "Den amerikanska hiphopartisten Sean Combs döms till 50 månaders fängelse, eller lite över fyra år, för två prostitutionsrelaterade brott. Juryn i rättegången fällde Combs redan i juli, men straffet meddelades först på fredagen. Fallen han döms för handlar om att han transporterat personer över delstatsgränsen i samband med prostitution.",
-      "url": "https://yle.fi/a/7-10085578?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-03T21:00:29Z"
+      "published": "2025-10-04T16:26:21Z"
     }
   ]
 }
