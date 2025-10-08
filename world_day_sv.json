@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-07T06:51:01+00:00",
+  "generated": "2025-10-08T06:50:54+00:00",
   "total_raw": 16,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Nobelpriset i medicin går till tre forskare som upptäckte hur immunförsvaret hål…",
-      "summary": "Nobelpristagarna upptäckte hur immunförsvaret undgår att löpa amok och förstöra kroppen. Immunförsvaret hålls under kontroll genom så kallad perifer immuntolerans. Cellerna som sköter det här jobbet kallas de regulatoriska T - cellerna eller Tregs.",
-      "url": "https://yle.fi/a/7-10085625?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-06T09:47:04Z"
-    },
-    {
-      "title": "Hamas har försvagats rejält men rekryterar fortfarande nya soldater, säger forsk…",
-      "summary": "Terrorforskaren Magnus Ranstorp säger att Hamas har lidit stora förluster. Han säger att trots en intensiv offensiv har Hamas lyckats försvara många av sina ställningar i Gaza. Hamas hade den 7 oktober 2023 ungefär 35 000 man inom de olika brigderna.",
-      "url": "https://yle.fi/a/7-10085700?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T02:06:22Z"
-    },
-    {
-      "title": "Sjörättsexpert besviken med utslaget i Eagle S-rättegång: ”Kablar kan fortsätta…",
-      "summary": "Tre befäl från oljetankern Eagle S kommer att dömas i fredags. Helsingfors tingsrätt fann att Finland saknar jurisdiktion, alltså befogenhet, att döma i fallet. Rätten ansåg också att händelsen var en olycka.",
-      "url": "https://yle.fi/a/7-10085665?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-06T13:18:20Z"
-    },
-    {
-      "title": "ICC dömer milischef för brott mot mänskligheten",
-      "summary": "Ali Muhammad Ali Abd al - Rahman, känd under sitt krigsalias Ali Kushayb, befanns skyldig till mord, våldtäkt och tortyr i den sudanesiska milisens angrepp på civila i Darfurprovinsen i Sudan. Han sade sig vara oskyldig till alla 31 åtalspunkter som rörde både brott mot mänskligheten och krigsbrott. Domare Joanna Korner läste upp de fällande domarna som slutligen rörde 27 fall, slutligen.",
-      "url": "https://svt.se/nyheter/utrikes/icc-domer-milischef-for-brott-mot-manskligheten",
+      "title": "Stor press på båda sidor",
+      "summary": "I veckan inleddes nya fredssamtal om Gazakriget i Egypten. På plats finns företrädare för Hamas, Israel och USA. De 20 punkterna för fred presenterades av Donald Trump förra veckan, och Israel stöttar planen.",
+      "url": "https://svt.se/nyheter/utrikes/stor-press-pa-bada-sidor-det-beskrivs-som-ljuspunkten-i-fredssamtalen",
       "domain": "svt.se",
-      "published": "2025-10-06T17:26:30Z"
+      "published": "2025-10-07T22:02:20Z"
     },
     {
-      "title": "Mobilförbud i skolan",
-      "summary": "I Sverige införs förbud mot mobiler under hela skoldagen från 1 juli nästa år. Samma sak sker i många andra länder, t. ex.",
-      "url": "https://svt.se/nyheter/utrikes/mobilforbud-i-skolan-sa-gick-det-mindre-beroende",
+      "title": "Grunden för all digital teknik”: Nobelpriset i fysik går till forskare i kvantme…",
+      "summary": "Priset går till John Clarke, Michel H. Devoret och John M. Martinis.",
+      "url": "https://yle.fi/a/7-10085739?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-07T09:52:47Z"
+    },
+    {
+      "title": "Får sojakorv heta korv? Köttnamn på vegoprodukter kan förbjudas",
+      "summary": "Om förslaget går igenom får ord som bacon och biff inte längre användas för växtbaserad mat. Också ord som schnitzel, korv och burgare ska bara få användas för produkter som innehåller kött. För fem år sedan förkastades ett liknande förslag av Europaparlamentet.",
+      "url": "https://yle.fi/a/7-10085442?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-07T08:15:17Z"
+    },
+    {
+      "title": "Generation Z gör uppror i flera länder",
+      "summary": "Minst tre personer har skjutits ihjäl och hundratals har gripits efter protester i olika marockanska städer. Protesterna är det senaste nationella upproret bland Generation Z. Medlemmarna i den här generationen brukar definieras som personer födda mellan 1995 och 2012.",
+      "url": "https://yle.fi/a/7-10085659?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-07T11:28:08Z"
+    },
+    {
+      "title": "Chatta med SVT:s Mellanösternkommentator Samir Abu Eid",
+      "summary": "Mellanöstern kommentator Samir Abu Eid Alexander svarade på frågor om vapenvila. Han frågade: Kommer man att diskutera de illegala bosättningarna i freden också eller gäller det bara Gaza? Och om vapenvilan håller och en tvåstatslösning börjar diskuteras måste förstås också dessa frågor avhandlas.",
+      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-mellanosternkommentator-samir-abu-eid",
       "domain": "svt.se",
-      "published": "2025-10-06T18:17:01Z"
+      "published": "2025-10-07T08:12:00Z"
     }
   ]
 }
