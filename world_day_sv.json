@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-08T06:50:54+00:00",
-  "total_raw": 16,
+  "generated": "2025-10-09T06:52:59+00:00",
+  "total_raw": 28,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Stor press på båda sidor",
-      "summary": "I veckan inleddes nya fredssamtal om Gazakriget i Egypten. På plats finns företrädare för Hamas, Israel och USA. De 20 punkterna för fred presenterades av Donald Trump förra veckan, och Israel stöttar planen.",
-      "url": "https://svt.se/nyheter/utrikes/stor-press-pa-bada-sidor-det-beskrivs-som-ljuspunkten-i-fredssamtalen",
+      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
+      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
+      "url": "https://yle.fi/a/7-10085488?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-08T08:05:17Z"
+    },
+    {
+      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
+      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels president Benjamin Netanyahu i Vita huset den 29 september. Under hela det två år långa kriget har de flesta diplomatiska försök gått i stöpet.",
+      "url": "https://yle.fi/a/7-10085889?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-09T04:50:17Z"
+    },
+    {
+      "title": "Tvättsvampar i molekylstorlek”: Trio får Nobelpriset i kemi för utveckling av me…",
+      "summary": "Årets Nobelpris i kemi går till Susumu Kitagawa, Kyoto University, Richard Robson vid Melbourne university och Omar M. Yaghi vid University of California för deras arbete med utveckling av metallorganiska ramverk. Pristagarna har skapat molekylära byggnadsverk med stora hålrum, där gaser och andra kemiska ämnen kan flyta in och ut.",
+      "url": "https://yle.fi/a/7-10085832?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-08T09:53:58Z"
+    },
+    {
+      "title": "Unrwas chef om USA:s fredsplan: ”Känner hopp för folket i Gaza",
+      "summary": "Philippe Lazzarini är chef för Unrwa, FN: s hjälporganisation för palestinska flyktingar. Han tror att det skulle kunna vara avgörande för att få till en långvarig vapenvila i Gaza. Han har över trettio års erfarenhet av humanitärt bistånd och internationell samordning i konflikt - och postkonfliktområden.",
+      "url": "https://svt.se/nyheter/utrikes/unrwas-chef-om-usas-fredsplan-kanner-hopp-for-folket-i-gaza",
       "domain": "svt.se",
-      "published": "2025-10-07T22:02:20Z"
+      "published": "2025-10-08T08:47:11Z"
     },
     {
-      "title": "Grunden för all digital teknik”: Nobelpriset i fysik går till forskare i kvantme…",
-      "summary": "Priset går till John Clarke, Michel H. Devoret och John M. Martinis.",
-      "url": "https://yle.fi/a/7-10085739?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T09:52:47Z"
-    },
-    {
-      "title": "Får sojakorv heta korv? Köttnamn på vegoprodukter kan förbjudas",
-      "summary": "Om förslaget går igenom får ord som bacon och biff inte längre användas för växtbaserad mat. Också ord som schnitzel, korv och burgare ska bara få användas för produkter som innehåller kött. För fem år sedan förkastades ett liknande förslag av Europaparlamentet.",
-      "url": "https://yle.fi/a/7-10085442?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T08:15:17Z"
-    },
-    {
-      "title": "Generation Z gör uppror i flera länder",
-      "summary": "Minst tre personer har skjutits ihjäl och hundratals har gripits efter protester i olika marockanska städer. Protesterna är det senaste nationella upproret bland Generation Z. Medlemmarna i den här generationen brukar definieras som personer födda mellan 1995 och 2012.",
-      "url": "https://yle.fi/a/7-10085659?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T11:28:08Z"
-    },
-    {
-      "title": "Chatta med SVT:s Mellanösternkommentator Samir Abu Eid",
-      "summary": "Mellanöstern kommentator Samir Abu Eid Alexander svarade på frågor om vapenvila. Han frågade: Kommer man att diskutera de illegala bosättningarna i freden också eller gäller det bara Gaza? Och om vapenvilan håller och en tvåstatslösning börjar diskuteras måste förstås också dessa frågor avhandlas.",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-mellanosternkommentator-samir-abu-eid",
+      "title": "EU drar Sverige inför domstol för klimatmiss",
+      "summary": "För två år sedan beslutade EU att alla medlemsländer måste påskynda utbyggnaden av förnybar energi för att klimatmålen skulle kunna nås till 2030. Det nya direktivet trädde i kraft i november 2023 och den svenska regeringen skulle ha fört över reglerna till nationell lagstiftning den 1 juli i fjol. Sverige har inte sett till att reglerna blivit lag och inte heller meddelat EU hur planen för den processen ser ut.",
+      "url": "https://svt.se/nyheter/utrikes/eu-drar-sverige-till-domstol-v5y6pz",
       "domain": "svt.se",
-      "published": "2025-10-07T08:12:00Z"
+      "published": "2025-10-08T10:45:02Z"
     }
   ]
 }

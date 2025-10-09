@@ -2,39 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-08T06:52:51+00:00",
+  "generated": "2025-10-09T06:54:31+00:00",
   "total_raw": 40,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Stor press på båda sidor",
-      "summary": "I veckan inleddes nya fredssamtal om Gazakriget i Egypten. På plats finns företrädare för Hamas, Israel och USA. De 20 punkterna för fred presenterades av Donald Trump förra veckan, och Israel stöttar planen.",
-      "url": "https://svt.se/nyheter/utrikes/stor-press-pa-bada-sidor-det-beskrivs-som-ljuspunkten-i-fredssamtalen",
-      "domain": "svt.se",
-      "published": "2025-10-07T22:02:20Z"
+      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
+      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels president Benjamin Netanyahu i Vita huset den 29 september. Under hela det två år långa kriget har de flesta diplomatiska försök gått i stöpet.",
+      "url": "https://yle.fi/a/7-10085889?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-09T04:50:17Z"
     },
     {
-      "title": "Grunden för all digital teknik”: Nobelpriset i fysik går till forskare i kvantme…",
-      "summary": "Priset går till John Clarke, Michel H. Devoret och John M. Martinis.",
-      "url": "https://yle.fi/a/7-10085739?origin=rss",
+      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
+      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
+      "url": "https://yle.fi/a/7-10085488?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-07T09:52:47Z"
+      "published": "2025-10-08T08:05:17Z"
     },
     {
-      "title": "Nobelpriset i medicin går till tre forskare som upptäckte hur immunförsvaret hål…",
-      "summary": "Nobelpristagarna upptäckte hur immunförsvaret undgår att löpa amok och förstöra kroppen. Immunförsvaret hålls under kontroll genom så kallad perifer immuntolerans. Cellerna som sköter det här jobbet kallas de regulatoriska T - cellerna eller Tregs.",
-      "url": "https://yle.fi/a/7-10085625?origin=rss",
+      "title": "Generation Z gör uppror i flera länder",
+      "summary": "Minst tre personer har skjutits ihjäl och hundratals har gripits efter protester i olika marockanska städer. Protesterna är det senaste nationella upproret bland Generation Z. Medlemmarna i den här generationen brukar definieras som personer födda mellan 1995 och 2012.",
+      "url": "https://yle.fi/a/7-10085659?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-06T09:47:04Z"
-    },
-    {
-      "title": "Trumpisten Babiš tog grepp om makten i Tjeckien",
-      "summary": "Den tidigare premiärministern och miljardären Andrej Babiš vann helgens parlamentsval. ANO - rörelsen fick ett stöd på närmare 35 procent och tog ett fast grepp om makten i Tjeckien för de kommande fyra åren. Mycket avgörs av de kommande veckornas svåra regeringsförhandlingar.",
-      "url": "https://yle.fi/a/7-10085628?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-05T18:27:47Z"
+      "published": "2025-10-07T11:28:08Z"
     }
   ]
 }

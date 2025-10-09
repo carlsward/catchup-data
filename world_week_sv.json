@@ -2,67 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-08T06:52:10+00:00",
+  "generated": "2025-10-09T06:54:00+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Priset på guld är rekordhögt just nu",
-      "summary": "Under det här året har priset på guld stigit med 50 procent. I februari var priset kring 2 900 dollar per troy - uns. Priset påverkas av federala nedskärningar i USA, eventuella räntesänkningar av den amerikanska centralbanken Fed och det turbulenta politiska läget i Frankrike.",
-      "url": "https://yle.fi/a/7-10085815?origin=rss",
+      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
+      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels president Benjamin Netanyahu i Vita huset den 29 september. Under hela det två år långa kriget har de flesta diplomatiska försök gått i stöpet.",
+      "url": "https://yle.fi/a/7-10085889?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-08T04:40:12Z"
+      "published": "2025-10-09T04:50:17Z"
     },
     {
-      "title": "Stor press på båda sidor",
-      "summary": "I veckan inleddes nya fredssamtal om Gazakriget i Egypten. På plats finns företrädare för Hamas, Israel och USA. De 20 punkterna för fred presenterades av Donald Trump förra veckan, och Israel stöttar planen.",
-      "url": "https://svt.se/nyheter/utrikes/stor-press-pa-bada-sidor-det-beskrivs-som-ljuspunkten-i-fredssamtalen",
+      "title": "Israel och Hamas når överenskommelse om fred",
+      "summary": "Medlare bekräftar att alla villkor för första fasen av vapenvilan i Gaza har uppfyllts. Överenskommelsen omfattar ett slut på kriget, frigivning av 48 israeliska gisslan – varav 20 tros vara vid liv – samt 2 000 palestinska fångar, och tillträde för humanitär hjälp. Hamas säger att man har uppmanat USA: s Donald Trump och garantistaterna att säkerställa att avtalet genomförs fullt ut.",
+      "url": "https://svt.se/nyheter/utrikes/israel-och-hamas-nar-overenskommelse-om-fred",
       "domain": "svt.se",
-      "published": "2025-10-07T22:02:20Z"
+      "published": "2025-10-09T00:21:09Z"
     },
     {
-      "title": "Grunden för all digital teknik”: Nobelpriset i fysik går till forskare i kvantme…",
-      "summary": "Priset går till John Clarke, Michel H. Devoret och John M. Martinis.",
-      "url": "https://yle.fi/a/7-10085739?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T09:52:47Z"
-    },
-    {
-      "title": "Chatta med SVT:s Mellanösternkommentator Samir Abu Eid",
-      "summary": "Mellanöstern kommentator Samir Abu Eid Alexander svarade på frågor om vapenvila. Han frågade: Kommer man att diskutera de illegala bosättningarna i freden också eller gäller det bara Gaza? Och om vapenvilan håller och en tvåstatslösning börjar diskuteras måste förstås också dessa frågor avhandlas.",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-mellanosternkommentator-samir-abu-eid",
+      "title": "Unrwas chef om USA:s fredsplan: ”Känner hopp för folket i Gaza",
+      "summary": "Philippe Lazzarini är chef för Unrwa, FN: s hjälporganisation för palestinska flyktingar. Han tror att det skulle kunna vara avgörande för att få till en långvarig vapenvila i Gaza. Han har över trettio års erfarenhet av humanitärt bistånd och internationell samordning i konflikt - och postkonfliktområden.",
+      "url": "https://svt.se/nyheter/utrikes/unrwas-chef-om-usas-fredsplan-kanner-hopp-for-folket-i-gaza",
       "domain": "svt.se",
-      "published": "2025-10-07T08:12:00Z"
+      "published": "2025-10-08T08:47:11Z"
     },
     {
-      "title": "ICC dömer milischef för brott mot mänskligheten",
-      "summary": "Ali Muhammad Ali Abd al - Rahman, känd under sitt krigsalias Ali Kushayb, befanns skyldig till mord, våldtäkt och tortyr i den sudanesiska milisens angrepp på civila i Darfurprovinsen i Sudan. Han sade sig vara oskyldig till alla 31 åtalspunkter som rörde både brott mot mänskligheten och krigsbrott. Domare Joanna Korner läste upp de fällande domarna som slutligen rörde 27 fall, slutligen.",
-      "url": "https://svt.se/nyheter/utrikes/icc-domer-milischef-for-brott-mot-manskligheten",
-      "domain": "svt.se",
-      "published": "2025-10-06T17:26:30Z"
-    },
-    {
-      "title": "Nobelpriset i medicin går till tre forskare som upptäckte hur immunförsvaret hål…",
-      "summary": "Nobelpristagarna upptäckte hur immunförsvaret undgår att löpa amok och förstöra kroppen. Immunförsvaret hålls under kontroll genom så kallad perifer immuntolerans. Cellerna som sköter det här jobbet kallas de regulatoriska T - cellerna eller Tregs.",
-      "url": "https://yle.fi/a/7-10085625?origin=rss",
+      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
+      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
+      "url": "https://yle.fi/a/7-10085488?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-06T09:47:04Z"
+      "published": "2025-10-08T08:05:17Z"
     },
     {
-      "title": "Macron presenterade en ny regering för Frankrike",
-      "summary": "Ministrarna presenterades på söndagskvällen, nästan en månad efter att Lecornu svors in. Roland Lescure tar över ekonomi - och finansministerposten. Han efterträder den tidigare finansministern Bruno Le Maire, som lämnade försvarsministerposten ledig när han blev premiärminister i september.",
-      "url": "https://yle.fi/a/7-10085639?origin=rss",
+      "title": "Fördrivna Gazabor och anhöriga till gisslan upplever smärtsam årsdag",
+      "summary": "Det har gått exakt två år sedan Israel inledde sin offensiv mot Gaza. Offensiven var ett svar på Hamas attack mot södra Israel den 7 oktober 2023. Palestinierna hoppas att de senaste Gazasamtalen faktiskt resulterar i ett eldupphör och ett slut på kriget.",
+      "url": "https://yle.fi/a/7-10085749?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-05T19:26:47Z"
+      "published": "2025-10-07T12:25:01Z"
     },
     {
-      "title": "Trumpisten Babiš tog grepp om makten i Tjeckien",
-      "summary": "Den tidigare premiärministern och miljardären Andrej Babiš vann helgens parlamentsval. ANO - rörelsen fick ett stöd på närmare 35 procent och tog ett fast grepp om makten i Tjeckien för de kommande fyra åren. Mycket avgörs av de kommande veckornas svåra regeringsförhandlingar.",
-      "url": "https://yle.fi/a/7-10085628?origin=rss",
+      "title": "Generation Z gör uppror i flera länder",
+      "summary": "Minst tre personer har skjutits ihjäl och hundratals har gripits efter protester i olika marockanska städer. Protesterna är det senaste nationella upproret bland Generation Z. Medlemmarna i den här generationen brukar definieras som personer födda mellan 1995 och 2012.",
+      "url": "https://yle.fi/a/7-10085659?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-05T18:27:47Z"
+      "published": "2025-10-07T11:28:08Z"
     }
   ]
 }
