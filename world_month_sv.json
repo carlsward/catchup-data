@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-09T06:54:31+00:00",
+  "generated": "2025-10-10T06:54:31+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Vad är fred och vem är värd Nobels fredspris?",
+      "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
+      "url": "https://yle.fi/a/7-10085337?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-10T02:31:16Z"
+    },
+    {
       "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
-      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels president Benjamin Netanyahu i Vita huset den 29 september. Under hela det två år långa kriget har de flesta diplomatiska försök gått i stöpet.",
+      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels premiärminister Benjamin Netanyahu i Vita huset den 29 september. Det möttes med skepsis bland experter och bedömare men Trump var fortsatt optimistisk.",
       "url": "https://yle.fi/a/7-10085889?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-09T04:50:17Z"
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10085488?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-08T08:05:17Z"
-    },
-    {
-      "title": "Generation Z gör uppror i flera länder",
-      "summary": "Minst tre personer har skjutits ihjäl och hundratals har gripits efter protester i olika marockanska städer. Protesterna är det senaste nationella upproret bland Generation Z. Medlemmarna i den här generationen brukar definieras som personer födda mellan 1995 och 2012.",
-      "url": "https://yle.fi/a/7-10085659?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-07T11:28:08Z"
     }
   ]
 }

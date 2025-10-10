@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-09T06:52:59+00:00",
-  "total_raw": 28,
+  "generated": "2025-10-10T06:53:01+00:00",
+  "total_raw": 21,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
-      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
-      "url": "https://yle.fi/a/7-10085488?origin=rss",
+      "title": "Vad är fred och vem är värd Nobels fredspris?",
+      "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
+      "url": "https://yle.fi/a/7-10085337?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-08T08:05:17Z"
+      "published": "2025-10-10T02:31:16Z"
     },
     {
-      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
-      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels president Benjamin Netanyahu i Vita huset den 29 september. Under hela det två år långa kriget har de flesta diplomatiska försök gått i stöpet.",
-      "url": "https://yle.fi/a/7-10085889?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-09T04:50:17Z"
-    },
-    {
-      "title": "Tvättsvampar i molekylstorlek”: Trio får Nobelpriset i kemi för utveckling av me…",
-      "summary": "Årets Nobelpris i kemi går till Susumu Kitagawa, Kyoto University, Richard Robson vid Melbourne university och Omar M. Yaghi vid University of California för deras arbete med utveckling av metallorganiska ramverk. Pristagarna har skapat molekylära byggnadsverk med stora hålrum, där gaser och andra kemiska ämnen kan flyta in och ut.",
-      "url": "https://yle.fi/a/7-10085832?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-08T09:53:58Z"
-    },
-    {
-      "title": "Unrwas chef om USA:s fredsplan: ”Känner hopp för folket i Gaza",
-      "summary": "Philippe Lazzarini är chef för Unrwa, FN: s hjälporganisation för palestinska flyktingar. Han tror att det skulle kunna vara avgörande för att få till en långvarig vapenvila i Gaza. Han har över trettio års erfarenhet av humanitärt bistånd och internationell samordning i konflikt - och postkonfliktområden.",
-      "url": "https://svt.se/nyheter/utrikes/unrwas-chef-om-usas-fredsplan-kanner-hopp-for-folket-i-gaza",
+      "title": "Efter avtal om ”första fasen”",
+      "summary": "Avtalet innebär att alla 48 israeliska gisslan, varav 20 tros vara vid liv, ska frisläppas och att attackerna i Gaza ska upphöra. Gaza Den innebär även att palestinska fångar ska släppas ur israeliska fängelser och att nödhjälp ska föras in i Gaza. Det är stort, det är historiskt, säger Mellanösternanalytikern Alexander Atarodi.",
+      "url": "https://svt.se/nyheter/utrikes/efter-avtal-om-forsta-fasen-har-ar-fallgroparna-framat",
       "domain": "svt.se",
-      "published": "2025-10-08T08:47:11Z"
+      "published": "2025-10-09T13:38:29Z"
     },
     {
-      "title": "EU drar Sverige inför domstol för klimatmiss",
-      "summary": "För två år sedan beslutade EU att alla medlemsländer måste påskynda utbyggnaden av förnybar energi för att klimatmålen skulle kunna nås till 2030. Det nya direktivet trädde i kraft i november 2023 och den svenska regeringen skulle ha fört över reglerna till nationell lagstiftning den 1 juli i fjol. Sverige har inte sett till att reglerna blivit lag och inte heller meddelat EU hur planen för den processen ser ut.",
-      "url": "https://svt.se/nyheter/utrikes/eu-drar-sverige-till-domstol-v5y6pz",
+      "title": "Analytiker: Israel och Hamas behövde yttre tryck för att nå resultat i Gaza",
+      "summary": "Israel och Hamas har kommit överens om den första fasen i en fredsplan för Gaza. Planen har utarbetats av USA. Det finns en hel del osäkerhetsfaktorer, och den första kan se då den israeliska regeringen ska godkänna vilka palestinska fångar som ska friges.",
+      "url": "https://yle.fi/a/7-10085927?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-09T13:47:20Z"
+    },
+    {
+      "title": "President Stubb hoppas att isbrytaraffären ska öppna för fler affärer med USA",
+      "summary": "På torsdag träffade Finlands president Alexander Stubb och statsminister Petteri Orpo USA: s president Donald Trump i Vita huset. Efter mötet konstaterade statsministern att det har talats om att sälja isbrytare till USA länge. Att ro i hamn projektet har tagit hela 50 år.",
+      "url": "https://yle.fi/a/7-10085936?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-09T18:41:53Z"
+    },
+    {
+      "title": "Unrwas känga till Benjamin Dousa (M): Han lyssnade på Israel",
+      "summary": "Benjamin Dousa besökte Israel och Palestina den 16 - 18 december 2024. Dagen efter, den 19 december, beslutade svenska regeringen att avsluta kärnstödet till Unrwa. Unrwas chef Philippe Lazzarini säger att det här tyder på att Dousa har gått Israels regering till mötes.",
+      "url": "https://svt.se/nyheter/utrikes/unrwas-kanga-till-benjamin-dousa-m-han-lyssnade-pa-israel-och-gjorde-vad-de-sa",
       "domain": "svt.se",
-      "published": "2025-10-08T10:45:02Z"
+      "published": "2025-10-09T17:06:02Z"
     }
   ]
 }
