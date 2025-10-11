@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-10T06:53:59+00:00",
+  "generated": "2025-10-11T06:49:16+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Här hyllar ”Jake Paul” SVT",
+      "summary": "Open AI lanserade videogeneratorn Sora kunde plötsligt skapa filmer med nästan fotorealistiskt resultat. Experter varnar för att en \" tsunami av desinformation \" är att vänta, och lyfter risker för ökad misstro. Den största risken är att vi suddar ut gränsen mellan verklighet och AI, säger Sveriges radios Evelina Galli.",
+      "url": "https://svt.se/nyheter/utrikes/har-hyllar-jake-paul-svt-skrammande-likt-med-sora-2",
+      "domain": "svt.se",
+      "published": "2025-10-11T04:04:35Z"
+    },
+    {
+      "title": "Ryssland sprängde jättedammen",
+      "summary": "Kachovkareservoaren hade en yta på 2 000 kvadratkilometer. Det är dubbelt så mycket som sjön Päijänne. Sprängningen ledde till katastrofala översvämningar och väldiga miljöskador då över 18 kubikkilometer vatten forsade genom den förstörda dammen.",
+      "url": "https://yle.fi/a/7-10085401?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-11T03:31:16Z"
+    },
+    {
+      "title": "Maria Corina Machado tilldelas Nobels fredspris 2025",
+      "summary": "Svenska fredsunionens Karin Wall Härdfeldt ser priset som ett viktigt ställningstagande för demokrati i en tid som präglas av demokratisk tillbakagång och auktoritära tendenser på många håll i världen. Förhoppningsvis kan det här priset stärka den demokratiska rörelsen i Venezuela, men det kan också ses som ett stöd till dem som runtom i världen, ibland med livet som insats eller med en stor hotbild mot sig, står upp för demokrati och mänskliga rättigheter, säger hon. Det är ännu oklart om María Corina Machado kommer att kunna vara med vid fredsprisceremonin i Norge i december.",
+      "url": "https://svt.se/nyheter/utrikes/1100-nobels-fredspris-2025-tillkannages",
+      "domain": "svt.se",
+      "published": "2025-10-10T08:32:18Z"
+    },
     {
       "title": "Vad är fred och vem är värd Nobels fredspris?",
       "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
@@ -16,18 +37,11 @@
       "published": "2025-10-10T02:31:16Z"
     },
     {
-      "title": "Israel har godkänt första fasen",
-      "summary": "250 livstidsdömda och 1 700 fängslade palestinier kommer nu att friges från israeliska fängelser. Vapenvilan kommer att börja gälla inom 24 timmar. Israel drar tillbaka trupper från Gaza stad och Khan Yunis.",
-      "url": "https://svt.se/nyheter/utrikes/israel-har-godkant-forsta-fasen-nu-vantar-vapenvila",
-      "domain": "svt.se",
-      "published": "2025-10-09T22:25:20Z"
-    },
-    {
-      "title": "Efter avtal om ”första fasen”",
-      "summary": "Avtalet innebär att alla 48 israeliska gisslan, varav 20 tros vara vid liv, ska frisläppas och att attackerna i Gaza ska upphöra. Gaza Den innebär även att palestinska fångar ska släppas ur israeliska fängelser och att nödhjälp ska föras in i Gaza. Det är stort, det är historiskt, säger Mellanösternanalytikern Alexander Atarodi.",
-      "url": "https://svt.se/nyheter/utrikes/efter-avtal-om-forsta-fasen-har-ar-fallgroparna-framat",
-      "domain": "svt.se",
-      "published": "2025-10-09T13:38:29Z"
+      "title": "Analytiker: Israel och Hamas behövde yttre tryck för att nå resultat i Gaza",
+      "summary": "Israel och Hamas har kommit överens om den första fasen i en fredsplan för Gaza. Planen har utarbetats av USA. Det finns en hel del osäkerhetsfaktorer, och den första kan se då den israeliska regeringen ska godkänna vilka palestinska fångar som ska friges.",
+      "url": "https://yle.fi/a/7-10085927?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-09T13:47:20Z"
     },
     {
       "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10085889?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-09T04:50:17Z"
-    },
-    {
-      "title": "Segrar eller avtal",
-      "summary": "IEP: s senaste globala fredsindex, baserat på intern säkerhet, konfliktnivå och militarisering, fortsätter den globala freden att sjunka. Det råder ingen samsyn i FN: s säkerhetsråd när det gäller hur man ska hantera de rådande konflikterna, säger Peter Wallensteen. Ett exempel på en konflikt som sannolikt kommer att behöva involvera aktörer som FN och USA för att kunna lösas är konflikten i Ukraina.",
-      "url": "https://svt.se/nyheter/utrikes/segrar-eller-avtal-hur-blir-det-egentligen-fred",
-      "domain": "svt.se",
-      "published": "2025-10-08T19:39:27Z"
-    },
-    {
-      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
-      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
-      "url": "https://yle.fi/a/7-10085488?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-08T08:05:17Z"
     }
   ]
 }

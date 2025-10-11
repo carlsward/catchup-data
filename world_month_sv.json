@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-10T06:54:31+00:00",
+  "generated": "2025-10-11T06:49:48+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Ryssland sprängde jättedammen",
+      "summary": "Kachovkareservoaren hade en yta på 2 000 kvadratkilometer. Det är dubbelt så mycket som sjön Päijänne. Sprängningen ledde till katastrofala översvämningar och väldiga miljöskador då över 18 kubikkilometer vatten forsade genom den förstörda dammen.",
+      "url": "https://yle.fi/a/7-10085401?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-11T03:31:16Z"
+    },
     {
       "title": "Vad är fred och vem är värd Nobels fredspris?",
       "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10085889?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-09T04:50:17Z"
-    },
-    {
-      "title": "Allvarlig bensinkris i Ryssland efter ukrainska drönarattacker",
-      "summary": "Minst 14 av Rysslands 38 oljeraffinaderier har utsatts för attacker under de senaste månaderna. Brist på bensin har registrerats i minst 21 ryska regioner, från fjärran öster till södra Ryssland. Små bensinstationer har drabbats hårdast, då de är beroende av inköp på råvarubörsen där priserna har stigit med över 50 procent sedan vintern.",
-      "url": "https://yle.fi/a/7-10085488?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-08T08:05:17Z"
     }
   ]
 }
