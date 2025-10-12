@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-11T06:49:16+00:00",
-  "total_raw": 40,
-  "total_rank": 6,
+  "generated": "2025-10-12T06:56:56+00:00",
+  "total_raw": 38,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Här hyllar ”Jake Paul” SVT",
-      "summary": "Open AI lanserade videogeneratorn Sora kunde plötsligt skapa filmer med nästan fotorealistiskt resultat. Experter varnar för att en \" tsunami av desinformation \" är att vänta, och lyfter risker för ökad misstro. Den största risken är att vi suddar ut gränsen mellan verklighet och AI, säger Sveriges radios Evelina Galli.",
-      "url": "https://svt.se/nyheter/utrikes/har-hyllar-jake-paul-svt-skrammande-likt-med-sora-2",
+      "title": "Fem döda i trafikolycka i Norge",
+      "summary": "Alla fem omkomna har förts till sjukhus med okänt skadeläge, enligt lokaltidningen iTromsö. Enligt polisen inträffade olyckan på en del av vägen med hastighetsbegränsning på 80 kilometer i timmen. Bilarna, som enligt tidningen fick stora skador i framdelarna, har bärgats och polisen har kunnat prata med vittnen som befann sig på olycksplatsen.",
+      "url": "https://svt.se/nyheter/utrikes/fem-doda-i-trafikolycka-i-norge",
       "domain": "svt.se",
-      "published": "2025-10-11T04:04:35Z"
+      "published": "2025-10-12T04:07:21Z"
+    },
+    {
+      "title": "Analys: Därför är Frankrike ett paradis i ständig kris",
+      "summary": "Frankrikes premiärminister Sébastien Lecornu avgick på måndagen innan hans regering kunde sväras in. Men bakom det politiska spelet döljer sig en politisk kris som många bedömare ser som den djupaste under den femte republikens snart sjuttioåriga historia. Förtroendet för president Emmanuel Macron är på bottennivå och missnöjet smittar av sig på de regeringar han försökt få på plats.",
+      "url": "https://yle.fi/a/7-10085841?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-12T04:06:39Z"
+    },
+    {
+      "title": "Gen Z skakar regeringar på flera kontinenter",
+      "summary": "Gen Z - aktivisterna har en otrolig förmåga att snabbt skapa transnationella nätverk. De följer en rad liknande skeenden som började i Bangladesh och som sedan spred sig till Nepal, Indonesien och Kenya. Demonstrationerna har fått sitt namn för att det är just Generation Z, folk födda mellan 1997 och 2010, som initierar dem.",
+      "url": "https://svt.se/nyheter/utrikes/gen-z-skakar-regeringar-pa-flera-kontinenter",
+      "domain": "svt.se",
+      "published": "2025-10-11T10:08:35Z"
     },
     {
       "title": "Ryssland sprängde jättedammen",
@@ -23,32 +37,32 @@
       "published": "2025-10-11T03:31:16Z"
     },
     {
-      "title": "Maria Corina Machado tilldelas Nobels fredspris 2025",
-      "summary": "Svenska fredsunionens Karin Wall Härdfeldt ser priset som ett viktigt ställningstagande för demokrati i en tid som präglas av demokratisk tillbakagång och auktoritära tendenser på många håll i världen. Förhoppningsvis kan det här priset stärka den demokratiska rörelsen i Venezuela, men det kan också ses som ett stöd till dem som runtom i världen, ibland med livet som insats eller med en stor hotbild mot sig, står upp för demokrati och mänskliga rättigheter, säger hon. Det är ännu oklart om María Corina Machado kommer att kunna vara med vid fredsprisceremonin i Norge i december.",
-      "url": "https://svt.se/nyheter/utrikes/1100-nobels-fredspris-2025-tillkannages",
+      "title": "Unicefs talesperson: ”Vi har en enorm uppgift framför oss",
+      "summary": "IDF meddelar att en vapenvila hade inletts kl. 11. 00.",
+      "url": "https://svt.se/nyheter/utrikes/unicefs-talesperson-vi-har-en-enorm-uppgift-framfor-oss",
       "domain": "svt.se",
-      "published": "2025-10-10T08:32:18Z"
+      "published": "2025-10-10T15:52:33Z"
     },
     {
-      "title": "Vad är fred och vem är värd Nobels fredspris?",
-      "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
-      "url": "https://yle.fi/a/7-10085337?origin=rss",
+      "title": "Nobels fredspris till María Corina Machado för kampen för demokrati i Venezuela",
+      "summary": "Norska Nobelkommittén har beslutat att Nobels fredspris 2025 ska gå till den venezuelanska oppositionspolitikern María Corina Machado. Hon får priset för sitt \" outtröttliga arbete med att främja demokratiska rättigheter för Venezuelas folk och för sin kamp för en fredlig övergång från diktatur till demokrati. Under det senaste året har María Machado tvingats leva gömd.",
+      "url": "https://yle.fi/a/7-10085967?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-10T02:31:16Z"
+      "published": "2025-10-10T07:54:28Z"
     },
     {
-      "title": "Analytiker: Israel och Hamas behövde yttre tryck för att nå resultat i Gaza",
-      "summary": "Israel och Hamas har kommit överens om den första fasen i en fredsplan för Gaza. Planen har utarbetats av USA. Det finns en hel del osäkerhetsfaktorer, och den första kan se då den israeliska regeringen ska godkänna vilka palestinska fångar som ska friges.",
-      "url": "https://yle.fi/a/7-10085927?origin=rss",
+      "title": "President Stubb hoppas att isbrytaraffären ska öppna för fler affärer med USA",
+      "summary": "På torsdag träffade Finlands president Alexander Stubb och statsminister Petteri Orpo USA: s president Donald Trump i Vita huset. Efter mötet konstaterade statsministern att det har talats om att sälja isbrytare till USA länge. Att ro i hamn projektet har tagit hela 50 år.",
+      "url": "https://yle.fi/a/7-10085936?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-09T13:47:20Z"
+      "published": "2025-10-09T18:41:53Z"
     },
     {
-      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
-      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels premiärminister Benjamin Netanyahu i Vita huset den 29 september. Det möttes med skepsis bland experter och bedömare men Trump var fortsatt optimistisk.",
-      "url": "https://yle.fi/a/7-10085889?origin=rss",
+      "title": "IAEA: Arbetet med att koppla kärnkraftverket i Zaporizjzja till elnätet har inle…",
+      "summary": "Arbetet har nu inletts vid Dniprovska och Ferosplavna - 1, säger Rafael Grossi. Det kommer att ta tid innan kraftverket igen har annan el än den som fås från reservgeneratorer. För bara några dagar sedan hördes artillerield i närheten av Zaporizjja.",
+      "url": "https://yle.fi/a/7-10085949?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-09T04:50:17Z"
+      "published": "2025-10-09T16:22:31Z"
     }
   ]
 }

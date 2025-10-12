@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-11T06:49:48+00:00",
-  "total_raw": 40,
-  "total_rank": 3,
+  "generated": "2025-10-12T06:57:37+00:00",
+  "total_raw": 38,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Därför är Frankrike ett paradis i ständig kris",
+      "summary": "Frankrikes premiärminister Sébastien Lecornu avgick på måndagen innan hans regering kunde sväras in. Men bakom det politiska spelet döljer sig en politisk kris som många bedömare ser som den djupaste under den femte republikens snart sjuttioåriga historia. Förtroendet för president Emmanuel Macron är på bottennivå och missnöjet smittar av sig på de regeringar han försökt få på plats.",
+      "url": "https://yle.fi/a/7-10085841?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-12T04:06:39Z"
+    },
     {
       "title": "Ryssland sprängde jättedammen",
       "summary": "Kachovkareservoaren hade en yta på 2 000 kvadratkilometer. Det är dubbelt så mycket som sjön Päijänne. Sprängningen ledde till katastrofala översvämningar och väldiga miljöskador då över 18 kubikkilometer vatten forsade genom den förstörda dammen.",
@@ -16,18 +23,18 @@
       "published": "2025-10-11T03:31:16Z"
     },
     {
-      "title": "Vad är fred och vem är värd Nobels fredspris?",
-      "summary": "Nobels fredspris är ofta omtvistat. Valet av pristagare beror på vad den norska Nobelkommittén anser uppfylla Alfreds Nobels krav. I Alfred Nobels testamente från 1895 är valet av lämplig pristagare formulerat så här: \" Den som har verkat mest eller best för folkens förbrödrande och afskaffande eller minskning af stående arméer samt bildande och spridande af fredskongresser \" Andra nominerade är Internationella brottmålsdomstolen, försvarsalliansen Nato, den fängslade Hongkongaktivisten Chow Hang - tung och den kanadensiska människorättsadvokaten Irwin Cotler.",
-      "url": "https://yle.fi/a/7-10085337?origin=rss",
+      "title": "Nobels fredspris till María Corina Machado för kampen för demokrati i Venezuela",
+      "summary": "Norska Nobelkommittén har beslutat att Nobels fredspris 2025 ska gå till den venezuelanska oppositionspolitikern María Corina Machado. Hon får priset för sitt \" outtröttliga arbete med att främja demokratiska rättigheter för Venezuelas folk och för sin kamp för en fredlig övergång från diktatur till demokrati. Under det senaste året har María Machado tvingats leva gömd.",
+      "url": "https://yle.fi/a/7-10085967?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-10T02:31:16Z"
+      "published": "2025-10-10T07:54:28Z"
     },
     {
-      "title": "Analys: Fredsplanen för Gaza är Trumps största diplomatiska seger",
-      "summary": "Det fanns bara ett godkänt resultat för Trump i fråga om kriget i Gaza. Han presenterade sin fredsplan i samband med ett möte med Israels premiärminister Benjamin Netanyahu i Vita huset den 29 september. Det möttes med skepsis bland experter och bedömare men Trump var fortsatt optimistisk.",
-      "url": "https://yle.fi/a/7-10085889?origin=rss",
+      "title": "President Stubb hoppas att isbrytaraffären ska öppna för fler affärer med USA",
+      "summary": "På torsdag träffade Finlands president Alexander Stubb och statsminister Petteri Orpo USA: s president Donald Trump i Vita huset. Efter mötet konstaterade statsministern att det har talats om att sälja isbrytare till USA länge. Att ro i hamn projektet har tagit hela 50 år.",
+      "url": "https://yle.fi/a/7-10085936?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-09T04:50:17Z"
+      "published": "2025-10-09T18:41:53Z"
     }
   ]
 }
