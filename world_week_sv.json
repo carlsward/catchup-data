@@ -2,18 +2,25 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-12T06:56:56+00:00",
+  "generated": "2025-10-13T07:11:41+00:00",
   "total_raw": 38,
-  "total_rank": 8,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Fem döda i trafikolycka i Norge",
-      "summary": "Alla fem omkomna har förts till sjukhus med okänt skadeläge, enligt lokaltidningen iTromsö. Enligt polisen inträffade olyckan på en del av vägen med hastighetsbegränsning på 80 kilometer i timmen. Bilarna, som enligt tidningen fick stora skador i framdelarna, har bärgats och polisen har kunnat prata med vittnen som befann sig på olycksplatsen.",
-      "url": "https://svt.se/nyheter/utrikes/fem-doda-i-trafikolycka-i-norge",
+      "title": "Eagle S blev vändpunkten",
+      "summary": "Det finns planer för en ny kabel, Estlink 3, den tredje mellan Finland och Estland. Kabeln kommer att sänkas ned i sedimenten på havsbottnen med hjälp av en tiotals ton tung plog som dras av ett fartyg. Med den nya kabeln blir överföringskapaciteten så stor att den motsvarar Estlands toppeffekt en kall vinterdag.",
+      "url": "https://yle.fi/a/7-10085868?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-13T02:30:17Z"
+    },
+    {
+      "title": "Madagaskars president efter ”Gen Z”-protesterna: Kuppförsök pågår",
+      "summary": "Demonstrationer har letts av en rörelse med en dödskalle i stråhatt som symbol. Vid flera tillfällen har det uppstått våldsamma sammandrabbningar med polisen i och enligt FN har minst 22 personer dödats och 100 skadats i samband med protesterna i Madagaskar. Militär och polis har tidigare hindrat demonstranterna från att inta det symboliska 13 maj - torget i huvudstaden Antananarivo, men under lördagen fick de inte bara fri lejd – de kunde även marschera in tillsammans med flera militärer.",
+      "url": "https://svt.se/nyheter/utrikes/madagaskars-president-efter-gen-z-protesterna-kuppforsok-pagar",
       "domain": "svt.se",
-      "published": "2025-10-12T04:07:21Z"
+      "published": "2025-10-12T08:42:18Z"
     },
     {
       "title": "Analys: Därför är Frankrike ett paradis i ständig kris",
@@ -37,32 +44,18 @@
       "published": "2025-10-11T03:31:16Z"
     },
     {
-      "title": "Unicefs talesperson: ”Vi har en enorm uppgift framför oss",
-      "summary": "IDF meddelar att en vapenvila hade inletts kl. 11. 00.",
-      "url": "https://svt.se/nyheter/utrikes/unicefs-talesperson-vi-har-en-enorm-uppgift-framfor-oss",
-      "domain": "svt.se",
-      "published": "2025-10-10T15:52:33Z"
+      "title": "Prins William i tårar på video om psykisk hälsa",
+      "summary": "Prins William och Rhian Mannings har samlat 20 organisationer som arbetar med att förebygga självmord i ett nytt nationellt brittiskt nätverk. De 20 organisationerna bidrar också med en miljon pund ur sin stiftelse, Royal Foundation of the Prince and Princess of Wales. Den tionde oktober är det världsdagen för psykisk hälsa.",
+      "url": "https://yle.fi/a/7-10085991?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-10T13:10:56Z"
     },
     {
-      "title": "Nobels fredspris till María Corina Machado för kampen för demokrati i Venezuela",
-      "summary": "Norska Nobelkommittén har beslutat att Nobels fredspris 2025 ska gå till den venezuelanska oppositionspolitikern María Corina Machado. Hon får priset för sitt \" outtröttliga arbete med att främja demokratiska rättigheter för Venezuelas folk och för sin kamp för en fredlig övergång från diktatur till demokrati. Under det senaste året har María Machado tvingats leva gömd.",
-      "url": "https://yle.fi/a/7-10085967?origin=rss",
+      "title": "Gazaborna kan äntligen få mera nödhjälp",
+      "summary": "Israel och Hamas har kommit överens om den första fasen i en fredsplan för Gaza som USA har lagt fram. Hjälporganisationer är redo Ett eldupphör gör situationen tryggare för hjälparbetare. Många hjälporganisationer har varit tvungna att avbryta eller minska sin närvaro i Gaza på grund av Israels attacker.",
+      "url": "https://yle.fi/a/7-10085952?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-10T07:54:28Z"
-    },
-    {
-      "title": "President Stubb hoppas att isbrytaraffären ska öppna för fler affärer med USA",
-      "summary": "På torsdag träffade Finlands president Alexander Stubb och statsminister Petteri Orpo USA: s president Donald Trump i Vita huset. Efter mötet konstaterade statsministern att det har talats om att sälja isbrytare till USA länge. Att ro i hamn projektet har tagit hela 50 år.",
-      "url": "https://yle.fi/a/7-10085936?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-09T18:41:53Z"
-    },
-    {
-      "title": "IAEA: Arbetet med att koppla kärnkraftverket i Zaporizjzja till elnätet har inle…",
-      "summary": "Arbetet har nu inletts vid Dniprovska och Ferosplavna - 1, säger Rafael Grossi. Det kommer att ta tid innan kraftverket igen har annan el än den som fås från reservgeneratorer. För bara några dagar sedan hördes artillerield i närheten av Zaporizjja.",
-      "url": "https://yle.fi/a/7-10085949?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-09T16:22:31Z"
+      "published": "2025-10-10T08:00:17Z"
     }
   ]
 }
