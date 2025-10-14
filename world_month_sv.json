@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-13T07:12:21+00:00",
-  "total_raw": 38,
+  "generated": "2025-10-14T06:55:18+00:00",
+  "total_raw": 36,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Eagle S blev vändpunkten",
-      "summary": "Det finns planer för en ny kabel, Estlink 3, den tredje mellan Finland och Estland. Kabeln kommer att sänkas ned i sedimenten på havsbottnen med hjälp av en tiotals ton tung plog som dras av ett fartyg. Med den nya kabeln blir överföringskapaciteten så stor att den motsvarar Estlands toppeffekt en kall vinterdag.",
-      "url": "https://yle.fi/a/7-10085868?origin=rss",
+      "title": "Nobelprisvinnaren María Corina Machado om maktskifte i Venezuela: ”Maduros regim…",
+      "summary": "Nicolás Maduros dagar som Venezuelas president är räknade, säger vinnaren av Nobels fredspris María Corina Machado i en ny intervju med nyhetsbyrån AFP. Machado säger att hon fortfarande är chockad efter Nobelvinsten: – Det var en av de största överraskningarna i mitt liv, och jag måste erkänna att även i dag, tre dagar senare, bearbetar jag det fortfarande. Hon hoppas kunna utnyttja sin seger – i kombination med växande påtryckningar från USA – för att störta en regering som har varit vid makten i mer än 25 år, först under Hugo Chávez och sedan Nicol",
+      "url": "https://yle.fi/a/7-10086129?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-13T02:30:17Z"
+      "published": "2025-10-14T04:56:56Z"
+    },
+    {
+      "title": "En majoritet av fransmännen vill se Macron avgå",
+      "summary": "En majoritet av fransmännen vill att president Emmanuel Macron avgår före valet 2027. Många höjer nu sina röster för att han ska avsättas eller avgå. En nära vän till presidenten Sébastien Lecornu kommer att försöka genomdriva det tuffa uppdraget att hitta en budget för 2026.",
+      "url": "https://yle.fi/a/7-10085971?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-13T12:18:21Z"
     },
     {
       "title": "Analys: Därför är Frankrike ett paradis i ständig kris",
@@ -23,18 +30,11 @@
       "published": "2025-10-12T04:06:39Z"
     },
     {
-      "title": "Ryssland sprängde jättedammen",
-      "summary": "Kachovkareservoaren hade en yta på 2 000 kvadratkilometer. Det är dubbelt så mycket som sjön Päijänne. Sprängningen ledde till katastrofala översvämningar och väldiga miljöskador då över 18 kubikkilometer vatten forsade genom den förstörda dammen.",
-      "url": "https://yle.fi/a/7-10085401?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-11T03:31:16Z"
-    },
-    {
-      "title": "Prins William i tårar på video om psykisk hälsa",
-      "summary": "Prins William och Rhian Mannings har samlat 20 organisationer som arbetar med att förebygga självmord i ett nytt nationellt brittiskt nätverk. De 20 organisationerna bidrar också med en miljon pund ur sin stiftelse, Royal Foundation of the Prince and Princess of Wales. Den tionde oktober är det världsdagen för psykisk hälsa.",
-      "url": "https://yle.fi/a/7-10085991?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-10T13:10:56Z"
+      "title": "Journalist insläppt i Gaza efter två år: ”Rafah jämnat med marken",
+      "summary": "Emiliano Bos från den schweiziska tv - kanalen RSI besökte Gaza som inbäddad journalist tillsammans med den kritiserade stiftelsen Gaza Humanitarian Foundation. Före kriget levde mer än 200 000 palestinier i Rafah, i dag är det en spökstad i ruiner. På de platser som Israel lämnat har beväpnade Hamasstyrkor börjat synas på gatorna igen.",
+      "url": "https://svt.se/nyheter/utrikes/journalist-inslappt-i-gaza-efter-tva-ar-rafah-jamnat-med-marken",
+      "domain": "svt.se",
+      "published": "2025-10-11T21:16:32Z"
     }
   ]
 }
