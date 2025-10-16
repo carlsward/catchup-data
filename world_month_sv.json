@@ -2,39 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-15T06:58:42+00:00",
-  "total_raw": 38,
+  "generated": "2025-10-16T06:56:53+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Här räddar drönare liv vid fronten i Ukraina",
-      "summary": "De fiberoptiska drönarna har förändrat slagfältet. De kan flyga mycket långt, att köra är inte ett alternativ, säger Soldaten. Provisioner levereras med drönare Det fjärde kompaniets befälspost är gömd i en övergiven villa i norra Charkivregionen.",
-      "url": "https://yle.fi/a/7-10085982?origin=rss",
+      "title": "Hamas kan inte hitta döda gisslan",
+      "summary": "Hamas återbördade kvarlevorna till ytterligare två döda ur gisslan onsdag. Israel har bekräftat deras identitet. Enligt terrororganisationen behövs mer tid och specialutrustning för att lokalisera och överlämna de resterande kropparna.",
+      "url": "https://yle.fi/a/7-10086276?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-15T02:38:02Z"
+      "published": "2025-10-16T06:50:54Z"
     },
     {
-      "title": "Stubb talade varmt för Finlands kvantteknik och 6G",
-      "summary": "Finlands kvantteknik är särskilt starkt inom kvantberäkning. Det finländska företaget IQM fick i höstas 275 miljoner euro i en finansieringsrunda och har sålt kvantdatorer till flera kunder. Kvantdatorer är fortfarande främst i forskningsstadiet, men förväntas i framtiden kunna lösa optimeringsfall som dagens superdatorer inte klarar av.",
-      "url": "https://yle.fi/a/7-10086074?origin=rss",
+      "title": "Många vill fylla makttomrummet i Gaza",
+      "summary": "Striderna i Gaza har upphört, men ytterligare sammandrabbningar kan fortfarande uppstå i den lilla enklaven som ligger ödelagd efter två år av israeliska attacker. Israel har det senaste året försökt stödja vissa miliser som är knutna till klaner för att kanske skapa lydmiliser inne i strategiska områden. Mellanösternexperten Aron Lund säger att det är mycket oklart exakt vad som kommer att hända i Gaza.",
+      "url": "https://yle.fi/a/7-10086145?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-14T07:55:02Z"
+      "published": "2025-10-15T07:01:02Z"
     },
     {
-      "title": "En majoritet av fransmännen vill se Macron avgå",
-      "summary": "En majoritet av fransmännen vill att president Emmanuel Macron avgår före valet 2027. Många höjer nu sina röster för att han ska avsättas eller avgå. En nära vän till presidenten Sébastien Lecornu kommer att försöka genomdriva det tuffa uppdraget att hitta en budget för 2026.",
-      "url": "https://yle.fi/a/7-10085971?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-13T12:18:21Z"
-    },
-    {
-      "title": "Smältande glaciärer i Italien avslöjar kvarlevor från första världskriget",
-      "summary": "Under de senaste tjugo åren har allt fler kroppar återfunnits. Bara på den italienska sidan uppges 25 000 unga fjälljägarsoldater ha dött. 18 000 anmäldes saknade åren 1915 till 1918.",
-      "url": "https://svt.se/nyheter/utrikes/smaltande-glaciarer-i-italien-avslojar-kvarlevor-fran-forsta-varldskriget",
+      "title": "Första fasen av avtalet mellan Israel och Hamas klar",
+      "summary": "De sista 20 levande israeliska gisslan fick återvända hem från Gaza. Drygt 1 900 palestinska fångar som suttit frihetsberövade i Israel frigavs också. Hamas har uteslutit alla diskussioner om vapnen och sagt att man är redo att överlämna dem till en palestinsk stat i framtiden.",
+      "url": "https://svt.se/nyheter/utrikes/forsta-fasen-av-avtalet-mellan-israel-och-hamas-klar-fragetecken-kvarstar-framat",
       "domain": "svt.se",
-      "published": "2025-10-12T11:58:32Z"
+      "published": "2025-10-14T07:54:45Z"
+    },
+    {
+      "title": "Giftlarm i norra Thailand",
+      "summary": "Barn som badade i floden Kok fick utslag tidigare i år. Mätningar visade snabbt förhöjda halter av tungmetaller och arsenik. De ansvariga för att floden förgiftas tros vara gruvdrift på andra sidan gränsen, i Myanmar.",
+      "url": "https://svt.se/nyheter/utrikes/giftlarm-i-norra-thailand-brytning-av-sallsynta-jordartsmetaller-forgiftar-floden",
+      "domain": "svt.se",
+      "published": "2025-10-13T18:07:18Z"
     }
   ]
 }
