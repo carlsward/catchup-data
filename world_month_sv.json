@@ -2,39 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-16T06:56:53+00:00",
+  "generated": "2025-10-17T06:56:47+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Hamas kan inte hitta döda gisslan",
-      "summary": "Hamas återbördade kvarlevorna till ytterligare två döda ur gisslan onsdag. Israel har bekräftat deras identitet. Enligt terrororganisationen behövs mer tid och specialutrustning för att lokalisera och överlämna de resterande kropparna.",
-      "url": "https://yle.fi/a/7-10086276?origin=rss",
+      "title": "Ny amerikansk attack mot ”drogbåt”",
+      "summary": "USA attackerade igen på torsdag en båt i Karibien. En serie liknande attacker har gjorts sedan september. Den senaste attacken gjordes i tisdags.",
+      "url": "https://yle.fi/a/7-10086343?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-16T06:50:54Z"
+      "published": "2025-10-17T04:51:41Z"
     },
     {
-      "title": "Många vill fylla makttomrummet i Gaza",
-      "summary": "Striderna i Gaza har upphört, men ytterligare sammandrabbningar kan fortfarande uppstå i den lilla enklaven som ligger ödelagd efter två år av israeliska attacker. Israel har det senaste året försökt stödja vissa miliser som är knutna till klaner för att kanske skapa lydmiliser inne i strategiska områden. Mellanösternexperten Aron Lund säger att det är mycket oklart exakt vad som kommer att hända i Gaza.",
-      "url": "https://yle.fi/a/7-10086145?origin=rss",
+      "title": "Europas nya försvarsplan: Stärka EU:s östra flank och bygga heltäckande drönar-…",
+      "summary": "Målet är att på fem år bygga ett starkare, mer samordnat och snabbt reagerande europeiskt försvar. Kommissionen betonar att de åtgärder som medlemsländerna vidtar under det kommande årtiondet kommer att forma Europas säkerhet för en lång tid framöver. Fokus ligger på att snabbt kunna svara på kriser, skydda östflanken och öka stödet till Ukraina.",
+      "url": "https://yle.fi/a/7-10086304?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-15T07:01:02Z"
+      "published": "2025-10-16T11:38:28Z"
     },
     {
-      "title": "Första fasen av avtalet mellan Israel och Hamas klar",
-      "summary": "De sista 20 levande israeliska gisslan fick återvända hem från Gaza. Drygt 1 900 palestinska fångar som suttit frihetsberövade i Israel frigavs också. Hamas har uteslutit alla diskussioner om vapnen och sagt att man är redo att överlämna dem till en palestinsk stat i framtiden.",
-      "url": "https://svt.se/nyheter/utrikes/forsta-fasen-av-avtalet-mellan-israel-och-hamas-klar-fragetecken-kvarstar-framat",
-      "domain": "svt.se",
-      "published": "2025-10-14T07:54:45Z"
+      "title": "Greta Thunberg berättar för Aftonbladet om hur hon misshandlades och hånades i i…",
+      "summary": "Greta Thunberg berättar om de fem dygnen hon tillbringade i israeliskt fängelse efter att Israel stoppade den civila biståndsflottiljen Global Sumud Flotilla. Thunberg och hundratals andra aktivister, bland dem finländare, fängslades av Israel för att sedan deporteras. Aktivisterna har vittnat om våldsam behandling i det ökända Ketziotfängelset.",
+      "url": "https://yle.fi/a/7-10086226?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-15T12:37:47Z"
     },
     {
-      "title": "Giftlarm i norra Thailand",
-      "summary": "Barn som badade i floden Kok fick utslag tidigare i år. Mätningar visade snabbt förhöjda halter av tungmetaller och arsenik. De ansvariga för att floden förgiftas tros vara gruvdrift på andra sidan gränsen, i Myanmar.",
-      "url": "https://svt.se/nyheter/utrikes/giftlarm-i-norra-thailand-brytning-av-sallsynta-jordartsmetaller-forgiftar-floden",
+      "title": "Madagaskars president har flytt landet",
+      "summary": "Demonstratorer har kretsat kring korruption och ilska över strömavbrott och vattenbrist. President Andry Rajoelina rapporterades ha flytt Madagaskar på måndag. På tisdagen meddelade ledaren för det militära förbandet att de upplöst konstitutionen och tagit makten i landet.",
+      "url": "https://svt.se/nyheter/utrikes/madagaskars-president-har-flytt-landet-militaren-har-tagit-makten",
       "domain": "svt.se",
-      "published": "2025-10-13T18:07:18Z"
+      "published": "2025-10-14T16:00:30Z"
     }
   ]
 }

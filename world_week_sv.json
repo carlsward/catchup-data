@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-16T06:56:18+00:00",
+  "generated": "2025-10-17T06:56:09+00:00",
   "total_raw": 40,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Hamas kan inte hitta döda gisslan",
-      "summary": "Hamas återbördade kvarlevorna till ytterligare två döda ur gisslan onsdag. Israel har bekräftat deras identitet. Enligt terrororganisationen behövs mer tid och specialutrustning för att lokalisera och överlämna de resterande kropparna.",
-      "url": "https://yle.fi/a/7-10086276?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-16T06:50:54Z"
+      "title": "Trumps tidigare säkerhetsrådgivare John Bolton åtalas",
+      "summary": "John Bolton var säkerhetsrådgivare i ett och ett halvt år under Donald Trumps förra mandatperiod. Bolton är nu den tredje högprofilerade politiska fienden till Trump som åtalas på mindre än en månad, skriver CNN. Han säger att Trump vill skrämma motståndare till tystnad: \" Jag ser fram emot att kämpa för att försvara mina lagliga handlingar och avslöja hans maktmissbruk \" Förundersökningen inleddes 2022 efter att Boltons mejlkonton hackades av Iran.",
+      "url": "https://svt.se/nyheter/utrikes/trumps-tidigare-sakerhetsradgivare-john-bolton-atalas",
+      "domain": "svt.se",
+      "published": "2025-10-17T06:47:10Z"
     },
     {
-      "title": "Nicolás Maduro fördömer grönt ljus för CIA-operationer i Venezuela",
-      "summary": "Totalt fem attacker till havs bekräftades av USA: s president Donald Trump, som regelbundet publicerar varje drönarattack på sina sociala medier. Konflikten eskalerade ytterligare när Trump sent på onsdagskvällen bekräftade att CIA hade gett grönt ljus för underrättelsetjänsten CIA att utföra markoperationer inne i Venezuela. CNN: s Tigran Feiler säger att det kan finnas fler länder som dras in i denna konflikt på olika sätt.",
-      "url": "https://svt.se/nyheter/utrikes/nicolas-maduro-fordomer-gront-ljus-for-cia-operationer",
+      "title": "Ny amerikansk attack mot ”drogbåt”",
+      "summary": "USA attackerade igen på torsdag en båt i Karibien. En serie liknande attacker har gjorts sedan september. Den senaste attacken gjordes i tisdags.",
+      "url": "https://yle.fi/a/7-10086343?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-17T04:51:41Z"
+    },
+    {
+      "title": "Europas nya försvarsplan: Stärka EU:s östra flank och bygga heltäckande drönar-…",
+      "summary": "Målet är att på fem år bygga ett starkare, mer samordnat och snabbt reagerande europeiskt försvar. Kommissionen betonar att de åtgärder som medlemsländerna vidtar under det kommande årtiondet kommer att forma Europas säkerhet för en lång tid framöver. Fokus ligger på att snabbt kunna svara på kriser, skydda östflanken och öka stödet till Ukraina.",
+      "url": "https://yle.fi/a/7-10086304?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-16T11:38:28Z"
+    },
+    {
+      "title": "Ukrainas ambassadör Svitlana Zalishchuk: Tomahawk-robotar skulle ändra läget vid…",
+      "summary": "Ukrainas ambassadör i Sverige säger att mycket har hänt i relationen mellan USA och Ukraina under året. Hon säger att Trump kommer att ta upp frågan om Tomahawk, amerikanska kryssningsrobotar. Hon pekar på Putins försök att trötta ut Ukraina och få landets allierade att svikta när det gäller det militära stödet.",
+      "url": "https://svt.se/nyheter/utrikes/ukrainas-ambassador-svitlana-zalishchuk-tomahawk-robotar-skulle-andra-laget-vid-fronten",
       "domain": "svt.se",
-      "published": "2025-10-16T02:59:46Z"
+      "published": "2025-10-16T06:48:40Z"
     },
     {
       "title": "Donald Trump ger grönt ljus för CIA-operationer inne i Venezuela",
@@ -30,11 +44,11 @@
       "published": "2025-10-15T20:31:25Z"
     },
     {
-      "title": "Många vill fylla makttomrummet i Gaza",
-      "summary": "Striderna i Gaza har upphört, men ytterligare sammandrabbningar kan fortfarande uppstå i den lilla enklaven som ligger ödelagd efter två år av israeliska attacker. Israel har det senaste året försökt stödja vissa miliser som är knutna till klaner för att kanske skapa lydmiliser inne i strategiska områden. Mellanösternexperten Aron Lund säger att det är mycket oklart exakt vad som kommer att hända i Gaza.",
-      "url": "https://yle.fi/a/7-10086145?origin=rss",
+      "title": "Greta Thunberg berättar för Aftonbladet om hur hon misshandlades och hånades i i…",
+      "summary": "Greta Thunberg berättar om de fem dygnen hon tillbringade i israeliskt fängelse efter att Israel stoppade den civila biståndsflottiljen Global Sumud Flotilla. Thunberg och hundratals andra aktivister, bland dem finländare, fängslades av Israel för att sedan deporteras. Aktivisterna har vittnat om våldsam behandling i det ökända Ketziotfängelset.",
+      "url": "https://yle.fi/a/7-10086226?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-15T07:01:02Z"
+      "published": "2025-10-15T12:37:47Z"
     },
     {
       "title": "Madagaskars president har flytt landet",
@@ -44,18 +58,11 @@
       "published": "2025-10-14T16:00:30Z"
     },
     {
-      "title": "Första fasen av avtalet mellan Israel och Hamas klar",
-      "summary": "De sista 20 levande israeliska gisslan fick återvända hem från Gaza. Drygt 1 900 palestinska fångar som suttit frihetsberövade i Israel frigavs också. Hamas har uteslutit alla diskussioner om vapnen och sagt att man är redo att överlämna dem till en palestinsk stat i framtiden.",
-      "url": "https://svt.se/nyheter/utrikes/forsta-fasen-av-avtalet-mellan-israel-och-hamas-klar-fragetecken-kvarstar-framat",
+      "title": "Stora protester i Belgien",
+      "summary": "Tusentals samlades i Bryssel för att protestera mot regeringens nedskärningar. Polisen uppger att det rörde sig om 80 000 demonstranter, men arrangören säger att över 150 000 deltog. Det var Belgiens tre största fackföreningar som anordnade demonstrationen och utlyste samtidigt en nationell strejk.",
+      "url": "https://svt.se/nyheter/utrikes/stora-protester-i-belgien-flygplatser-i-bryssel-helt-stangda",
       "domain": "svt.se",
-      "published": "2025-10-14T07:54:45Z"
-    },
-    {
-      "title": "Giftlarm i norra Thailand",
-      "summary": "Barn som badade i floden Kok fick utslag tidigare i år. Mätningar visade snabbt förhöjda halter av tungmetaller och arsenik. De ansvariga för att floden förgiftas tros vara gruvdrift på andra sidan gränsen, i Myanmar.",
-      "url": "https://svt.se/nyheter/utrikes/giftlarm-i-norra-thailand-brytning-av-sallsynta-jordartsmetaller-forgiftar-floden",
-      "domain": "svt.se",
-      "published": "2025-10-13T18:07:18Z"
+      "published": "2025-10-14T13:57:40Z"
     }
   ]
 }
