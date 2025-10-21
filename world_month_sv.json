@@ -2,39 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-20T07:28:15+00:00",
-  "total_raw": 40,
-  "total_rank": 4,
+  "generated": "2025-10-21T07:00:35+00:00",
+  "total_raw": 39,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "20 år av vänsterstyre är över i Bolivia",
-      "summary": "Rodrigo Paz valseger betyder slutet på nästan 20 år av vänsterstyre i Bolivia. Det regerande socialistpartiet MAS förlorade stort i valets första omgång – som hölls mot bakgrunden av landets värsta ekonomiska kris på årtionden. Bolivias tidigare stora inkomster från gasexporten har rasat, inflationen är den högsta på 40 år och det råder bränslebrist i landet.",
-      "url": "https://yle.fi/a/7-10086442?origin=rss",
+      "title": "Sanae Takaichi blir Japans första kvinnliga premiärminister",
+      "summary": "Takaichi blir Japans femte premiärminister på lika många år. Hon har tidigare fungerat som minister i flera regeringar. LDP har styrt Japan så gott som oavbrutet sedan 1955.",
+      "url": "https://yle.fi/a/7-10086506?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-20T02:36:56Z"
+      "published": "2025-10-21T04:33:03Z"
+    },
+    {
+      "title": "USA:s dödliga attacker mot Venezuela möter hård kritik",
+      "summary": "Erkännandet kommer efter USA: s militär har genomfört dödliga attacker mot påstådda narkotikasmugglingsbåtar i Karibien. Amerikanska styrkor har förstört minst fem båtar sedan början av september och dödat 27 personer. Enligt amerikansk lag kan presidenter godkänna hemliga åtgärder om det slås fast att dessa operationer är nödvändiga för att stödja identifierbara utrikespolitiska mål.",
+      "url": "https://yle.fi/a/7-10086452?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-20T13:39:12Z"
     },
     {
       "title": "Oväntad följd av budgetbråket: USA:s björnar kan bli orädda sopdykare",
-      "summary": "SHENANDOAH De varma solstrålarna letar sig in mellan trädens löv som blir gulare för varje dag som går. Luften blir kyligare ju högre upp vi kör längs den slingrande vägen Skyline Drive genom nationalparken Shenandoah i delstaten Virginia. Vi gör som så många amerikaner: besöker en av USA:s 63 federala nationalparker.",
+      "summary": "Nedstängningen innebär att delar av statsapparatens verksamhet pausas på grund av att kongressen inte har enats om en budget. Många anställda i Shenandoah har permitterats och volontärverksamheten har lagts på is. Omkring 750 000 federalt anställda amerikaner förväntas bli permitterade under nedstängningen, som nu är inne på vecka tre och ännu inte verkar närma sig ett slut.",
       "url": "https://yle.fi/a/7-10085775?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-19T06:15:16Z"
-    },
-    {
-      "title": "Så gick det till: Sent samtal avgjorde isbrytardeal",
-      "summary": "Det här har varit en lång process, i själva verket har det tagit 50 år, sa president Alexander Stubb om isbrytaravtalet vid presskonferensen efter besöket i Vita huset förra veckan. Han konstaterade att det första utspelet om en isbrytaraffär en gång i tiden gjordes av president Urho Kekkonen. Så hur blev den efterlängtade dealen av?",
-      "url": "https://yle.fi/a/7-10086419?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-18T19:27:54Z"
-    },
-    {
-      "title": "Finländska Europaparlamentariker: Därför godkändes inte Finlands krav om en östl…",
-      "summary": "BRYSSEL EU ska bygga upp ett gemensamt försvar mot drönarhot, men någon särskild skyddszon för östra medlemsländerna blir det inte. Trots Finlands påtryckningar har kommissionen valt en modell som omfattar hela unionen. Målet är att systemet ska vara fullt operativt före utgången av 2027.",
-      "url": "https://yle.fi/a/7-10086371?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-17T12:19:04Z"
     }
   ]
 }
