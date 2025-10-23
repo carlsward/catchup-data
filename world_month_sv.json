@@ -2,32 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-22T07:12:34+00:00",
+  "generated": "2025-10-23T06:58:11+00:00",
   "total_raw": 38,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Våldsam demonstration utanför asylboende i Dublin",
-      "summary": "Sex personer greps i samband med en våldsam protest utanför ett asylboende i Dublin. Demonstranterna utsattes för \" ihållande våld \", säger polischefen Justin Kelly. De kastade tegelstenar, glasflaskor och fyrverkeripjäser mot poliserna, sade Kelly.",
-      "url": "https://yle.fi/a/7-10086594?origin=rss",
+      "title": "Trots löften låter Trump riva Vita husets hela östra flygel",
+      "summary": "Två högt uppsatta tjänstemän inom Trumpadministrationen bekräftar för New York Times att hela östra flygeln rivs. President Donald Trump låter bygga en balsal på drygt 8 360 kvadratmeter ( 90 000 kvadratfot ) för att kunna ta emot ett större antal gäster. Det ska ske på ett värdigare sätt än vad Vita huset, enligt Trump, hittills har gett möjlighet till hittills.",
+      "url": "https://yle.fi/a/7-10086670?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-22T04:05:43Z"
+      "published": "2025-10-23T04:34:14Z"
     },
     {
-      "title": "Sociolog i Moskva: ”De flesta ryssar upplever att Europa är i krig med oss",
-      "summary": "Denis Volkov: De flesta ryssar håller med om att Europa är i krig med oss. Han säger att Kreml har sagt att västerländska vapenleveranser till Ukraina är detsamma som att aktivt delta i kriget. Volkov förklarar stabiliteten i opinionen med en effektiv statlig styrning och ingen särskild.",
-      "url": "https://yle.fi/a/7-10086094?origin=rss",
+      "title": "För tio år sedan öppnades Tyskland för flyktingar",
+      "summary": "Varje dag kommer tiotusentals flyktingar till Tyskland. Från gränsen mot Österrike slussas de vidare runt om i landet, också till Neumarkt. En av de som tycker att Tyskland har förändrats sedan ankomsten 2015 är syriern Maher Almaani med familj.",
+      "url": "https://yle.fi/a/7-10083924?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-21T08:48:24Z"
+      "published": "2025-10-22T08:04:14Z"
     },
     {
-      "title": "Finlands Bank: Rysslands tillväxt bromsar in snabbare än förutsett",
-      "summary": "Rysslands ekonomiska tillväxt för år 2025 kommer att vara högst en procent, enligt en ny prognos från Finlands Banks forskningsinstitut för tillväxtmarknader. Ekonomisk tillväxt har upprätthållits av krigsekonomin, eftersom den har ökat efterfrågan på varor och tjänster som ryska företag producerar för fronten. Ryssland kommer nu att tvingas skärpa beskattningen, skära ner på utgifter och låna av inhemska affärsbanker.",
-      "url": "https://yle.fi/a/7-10086462?origin=rss",
+      "title": "Arresteringsorder och luftrumsförbud gör Putins resa till Budapest besvärlig",
+      "summary": "Inget datum för mötet i Budapest finns. Kremls talesperson Dmitrij Peskov sa nyligen att det sannolikt blir av inom två veckor. Ungern ser till att Putins besök kan ordnas Ungerns premiärminister Viktor Orbán upprätthåller varmare relationer med Ryssland än andra EU - länder.",
+      "url": "https://yle.fi/a/7-10086567?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-20T13:43:39Z"
+      "published": "2025-10-21T13:19:14Z"
+    },
+    {
+      "title": "Smyckesexperten om stölden på Louvren: ”Otroligt sorgligt",
+      "summary": "Åtta juveler stals på sju minuter på söndag på Louvren. Bland dem fanns Napoleons smycken som beskrivs som ovärderliga. Det är otroligt sorgligt ur ett kulturhistoriskt perspektiv, säger Carolina Tüür, gemmolog och smyckesexpert i SVT: s Aktuellt.",
+      "url": "https://svt.se/nyheter/utrikes/smyckesexperten-om-stolden-pa-louvren-otroligt-sorgligt",
+      "domain": "svt.se",
+      "published": "2025-10-20T20:15:55Z"
     }
   ]
 }
