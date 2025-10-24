@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-23T06:58:11+00:00",
-  "total_raw": 38,
+  "generated": "2025-10-24T06:54:55+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trots löften låter Trump riva Vita husets hela östra flygel",
-      "summary": "Två högt uppsatta tjänstemän inom Trumpadministrationen bekräftar för New York Times att hela östra flygeln rivs. President Donald Trump låter bygga en balsal på drygt 8 360 kvadratmeter ( 90 000 kvadratfot ) för att kunna ta emot ett större antal gäster. Det ska ske på ett värdigare sätt än vad Vita huset, enligt Trump, hittills har gett möjlighet till hittills.",
-      "url": "https://yle.fi/a/7-10086670?origin=rss",
+      "title": "Jättelån till Ukraina stoppas",
+      "summary": "EU: s ordförande Ursula von der Leyen säger att man fortfarande arbetar för att lösgöra tillgångar till förmån för Ukraina. Belgien kräver bindande garantier från övriga medlemsländer för att täcka eventuella juridiska och ekonomiska risker. Statsminister Petteri Orpo betonar att den juridiska grunden för utnyttjandet av de ryska tillgångarna måste vara hållbar.",
+      "url": "https://yle.fi/a/7-10086741?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-23T04:34:14Z"
+      "published": "2025-10-24T01:49:12Z"
+    },
+    {
+      "title": "Ukrainas militär lockar med festivaler och splitterny teknik",
+      "summary": "Armékåren Chartija strider som en del av det ukrainska nationalgardet. Brigaden har arrangerat en två dagar lång musikfestival i Kiev i september. Ukrainas kändaste artister uppträdde på scenen i sportpalatset i stadens centrum.",
+      "url": "https://yle.fi/a/7-10086543?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-23T08:00:32Z"
     },
     {
       "title": "För tio år sedan öppnades Tyskland för flyktingar",
@@ -23,18 +30,11 @@
       "published": "2025-10-22T08:04:14Z"
     },
     {
-      "title": "Arresteringsorder och luftrumsförbud gör Putins resa till Budapest besvärlig",
-      "summary": "Inget datum för mötet i Budapest finns. Kremls talesperson Dmitrij Peskov sa nyligen att det sannolikt blir av inom två veckor. Ungern ser till att Putins besök kan ordnas Ungerns premiärminister Viktor Orbán upprätthåller varmare relationer med Ryssland än andra EU - länder.",
-      "url": "https://yle.fi/a/7-10086567?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-21T13:19:14Z"
-    },
-    {
-      "title": "Smyckesexperten om stölden på Louvren: ”Otroligt sorgligt",
-      "summary": "Åtta juveler stals på sju minuter på söndag på Louvren. Bland dem fanns Napoleons smycken som beskrivs som ovärderliga. Det är otroligt sorgligt ur ett kulturhistoriskt perspektiv, säger Carolina Tüür, gemmolog och smyckesexpert i SVT: s Aktuellt.",
-      "url": "https://svt.se/nyheter/utrikes/smyckesexperten-om-stolden-pa-louvren-otroligt-sorgligt",
+      "title": "Massavhopp från Novo Nordisks styrelse",
+      "summary": "Novo Nordisk ordförande Lars Rebien Sørensen säger att styrelsen behöver \" färska ögon och ny energi \" Styrelsen har föreslagit en förnyelse med fokus på nya kompetenser, säger styrelseordförande Helge Lund. Svenska Helena Saxon, som tidigare under dagen meddelade sin avgång från svenska läkemedelsbolaget Sobi, föreslås som ny ordförande. Dagens besked får aktien att tappa ytterligare 1, 5 procent.",
+      "url": "https://svt.se/nyheter/utrikes/massavhopp-fran-novo-nordisks-styrelse",
       "domain": "svt.se",
-      "published": "2025-10-20T20:15:55Z"
+      "published": "2025-10-21T14:31:24Z"
     }
   ]
 }
