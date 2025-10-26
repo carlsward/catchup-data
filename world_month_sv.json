@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-25T06:56:22+00:00",
+  "generated": "2025-10-26T07:13:33+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Fransk polis dna-testar hundbajs för att komma åt lata ägare",
+      "summary": "I Béziers råder det sedan två år stränga kommunala föreskrifter för att bekämpa det ökande problemet med övergivet hundbajs på gatorna. Hundägarna måste registrera sina hundar på stadshuset, vilket är kostnadsfritt. Där får de ett hund - id kopplat till hundens dna.",
+      "url": "https://yle.fi/a/7-10085515?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-26T05:12:32Z"
+    },
     {
       "title": "De flydde slavarbete, svält och offentliga avrättningar i Nordkorea",
       "summary": "Omkring 34 000 nordkoreaner har flytt till Sydkorea sedan det sydkoreanska återföreningsministeriet började räkna avhoppen år 1998. Sharon Jang och Songmi Han flydde runt år 2010. Då var siffran som störst med upp mot 3 000 avhoppare per år.",
@@ -23,18 +30,11 @@
       "published": "2025-10-24T15:05:32Z"
     },
     {
-      "title": "Ukrainas militär lockar med festivaler och splitterny teknik",
-      "summary": "Armékåren Chartija strider som en del av det ukrainska nationalgardet. Brigaden har arrangerat en två dagar lång musikfestival i Kiev i september. Ukrainas kändaste artister uppträdde på scenen i sportpalatset i stadens centrum.",
-      "url": "https://yle.fi/a/7-10086543?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-23T08:00:32Z"
-    },
-    {
-      "title": "Ryska soldater påstås ha skjutit ihjäl civila i Ukraina",
-      "summary": "En ukrainsk volontär publicerade ett drönarklipp som visar tre livlösa kroppar vid stadens järnväg. Han säger att han fick klippet av en ukrainsk brigad som befinner sig i Pokrovsk och att ryska soldater dödade de civila. Det kan inte utifrån videoklippet avgöras hur länge kropparna legat där.",
-      "url": "https://svt.se/nyheter/utrikes/ryska-soldater-pastas-ha-skjutit-ihjal-civila-i-ukraina",
+      "title": "Israeliska bosättare attackerade palestinier",
+      "summary": "En amerikansk journalist filmades slagen mot både kvinnan och mot Robin. Kvinnan blev allvarligt skadad och vårdas på sjukhus. Jag har klarat mig relativt bra med tanke på hur våldsam den här bosättaren var, säger \" Robin \" Han tillhör en internationell propalestinsk organisation och vill av säkerhetsskäl vara anonym.",
+      "url": "https://svt.se/nyheter/utrikes/israeliska-bosattare-attackerade-palestinier-svensk-aktivist-skadad",
       "domain": "svt.se",
-      "published": "2025-10-22T18:38:38Z"
+      "published": "2025-10-23T18:15:45Z"
     }
   ]
 }
