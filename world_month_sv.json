@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-26T07:13:33+00:00",
+  "generated": "2025-10-27T07:20:20+00:00",
   "total_raw": 39,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Strömmingskvoterna kan sjunka drastiskt: ”En katastrof för fiskenäringen",
+      "summary": "Kommissionen vill minska den nuvarande kvoten med 62 procent från nuvarande 66 400 ton. I Finland, där strömming utgör grunden för fiskenäringen, skulle den föreslagna minskningen få stora konsekvenser för fiskeriföretagen och sysselsättningen inom sektorn. Både regeringen och riksdagens jord - och skogsbruksutskott och miljöutskott anser att förslaget är alltför hårt och riskerar att slå ut den finländska fiskerinäringen.",
+      "url": "https://yle.fi/a/7-10086781?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-27T06:33:49Z"
+    },
     {
       "title": "Fransk polis dna-testar hundbajs för att komma åt lata ägare",
       "summary": "I Béziers råder det sedan två år stränga kommunala föreskrifter för att bekämpa det ökande problemet med övergivet hundbajs på gatorna. Hundägarna måste registrera sina hundar på stadshuset, vilket är kostnadsfritt. Där får de ett hund - id kopplat till hundens dna.",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10086460?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-25T04:16:19Z"
-    },
-    {
-      "title": "Expert: Därför är Belgiens oro över Ukrainalånet befogad",
-      "summary": "Belgiens motstånd mot EU: s planer på att använda frysta ryska tillgångar som säkerheter för ett rekordstort återuppbyggnadslån till Ukraina kom som en kalldusch för unionens ledare vid gårdagens toppmöte. Premiärminister Bart De Wever varnar för hårda motåtgärder från Moskva om EU börjar använda tillgångar som ligger frysta hos det belgiska finansinstitutet Euroclear. Analytiker säger att arrangemanget i praktiken innebär att de ryska tillgångarna utnyttjas.",
-      "url": "https://yle.fi/a/7-10086806?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-24T15:05:32Z"
-    },
-    {
-      "title": "Israeliska bosättare attackerade palestinier",
-      "summary": "En amerikansk journalist filmades slagen mot både kvinnan och mot Robin. Kvinnan blev allvarligt skadad och vårdas på sjukhus. Jag har klarat mig relativt bra med tanke på hur våldsam den här bosättaren var, säger \" Robin \" Han tillhör en internationell propalestinsk organisation och vill av säkerhetsskäl vara anonym.",
-      "url": "https://svt.se/nyheter/utrikes/israeliska-bosattare-attackerade-palestinier-svensk-aktivist-skadad",
-      "domain": "svt.se",
-      "published": "2025-10-23T18:15:45Z"
     }
   ]
 }
