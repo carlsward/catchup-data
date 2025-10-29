@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-28T06:58:40+00:00",
-  "total_raw": 37,
-  "total_rank": 7,
+  "generated": "2025-10-29T07:17:15+00:00",
+  "total_raw": 38,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "28 oktober: Nattens nyheter",
-      "summary": "Ryska drönarattacker kan utgöra brott mot mänskligheten Smugglare dyker ner och fäster narkotikapaket utanpå skrovet till fartyg – för att på så vis smuggla det från ett land till ett annat. USA: s militär flyger rakt in i stormen Melissas öga på den intensiva orkan som nu hotar flera delar av Karibien. Minst 16 personer har dött och 32 har skadats när en buss störtat nedför en sluttning runt 300 meter i Bolivia.",
-      "url": "https://svt.se/nyheter/utrikes/28-oktober-nattens-nyheter-5zh9zr",
-      "domain": "svt.se",
-      "published": "2025-10-28T04:08:04Z"
+      "title": "Parlamentsvalet i Nederländerna en nagelbitare: ”Ingen vill samarbeta med högerp…",
+      "summary": "Geert Wilders Frihetsparti, PVV, vann valet 2023 med 42, 9 % av rösterna i valkretsen. Enligt opinionsundersökningar kan PVV ta 26 av de 150 mandaten i underhuset. Alliansen mellan vänsterliberala och arbetarpartiet, GroenLinks - PvdA, samt mittenpartiet D66 och Kristdemokraterna kan få mellan 20 och 23 mandat var.",
+      "url": "https://yle.fi/a/7-10086911?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-29T03:30:16Z"
     },
     {
-      "title": "Litauens utrikesminister till Svenska Yle: Nato ”ska kunna reagera på minuter” p…",
-      "summary": "Den litauiska utrikesministern Kęstutis Budrys säger att Ryssland testar alliansens enighet. Litauen gick med i Nato 2004 tillsammans med Estland, Lettland, Bulgarien, Rumänien, Slovakien och Slovenien. Landet är det enda Natolandet vid sidan av grannlandet Polen som upplever en potentiell fara från två håll.",
-      "url": "https://yle.fi/a/7-10086720?origin=rss",
+      "title": "Pakistan: Misslyckade förhandlingar om varaktig vapenvila",
+      "summary": "Efter strider i gränsområden kom länderna tidigare i oktober överens om en vapenvila. Länderna har även kommit överens om att hålla uppföljningsmöten för att säkerställa att vapenvilan bibehålls. Efter fyra dagars förhandlingar i Istanbul i Turkiet uppger Pakistans informationsminister Attaullah Tarar på X att parterna \" misslyckades med att nå en fungerande lösning \" Det är oklart hur den afghanska talibanregimen ser på utgången av förhandlingarna i Istanbul.",
+      "url": "https://svt.se/nyheter/utrikes/pakistan-misslyckade-forhandlingar",
+      "domain": "svt.se",
+      "published": "2025-10-29T01:30:26Z"
+    },
+    {
+      "title": "Nokia-aktien rusar efter Nvidias miljardinvestering: ”Vi måste se nätverk på ett…",
+      "summary": "Nokia Abp: s styrelse har fattat beslut om en riktad aktieemission som innebär att det amerikanska teknologiföretaget Nvidia investerar en miljard dollar ( cirka 860 miljoner euro ) i Nokia - aktier. Enligt ett pressmeddelande från Nokia innebär investeringen en bekräftelse av ett strategiskt partnerskap mellan de två företagen. En investering på under en miljard euro ökade Nokias marknadsvärde med bortåt fem miljarder när investerare ville få sin del av samarbetet mellan Nvidias amerikanska och finländska företag kring 6G - nätverk.",
+      "url": "https://yle.fi/a/7-10087040?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-28T03:30:16Z"
+      "published": "2025-10-28T16:00:57Z"
+    },
+    {
+      "title": "Orkanen Melissa slår hårt mot Karibien",
+      "summary": "Melissa är den kraftfullaste orkanen som drabbat Jamaica på 174 år. Stormen nedgraderades senare till en kategori 4 - orkan. 530 000 hushåll uppges vara utan el i Kingston, Jamaica.",
+      "url": "https://svt.se/nyheter/utrikes/orkanen-melissa-slar-hart-mot-karibien",
+      "domain": "svt.se",
+      "published": "2025-10-28T11:12:04Z"
     },
     {
       "title": "Experten om kriget i Sudan: Enorm fara för civila",
@@ -35,27 +49,6 @@
       "url": "https://yle.fi/a/7-10086940?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-27T14:49:05Z"
-    },
-    {
-      "title": "Ständiga attacker mot Ukrainas elförsörjning",
-      "summary": "Ryssland har bombat Ukrainas städer sedan den fullskaliga invasionen inleddes i februari 2022. Ukraina har i allt större utsträckning börjat slå tillbaka, mot rysk oljeindustri. Yaroslav Yachni och hans fru Marina Yachna talar om situationen i Tjernihiv, en av de ukrainska städer vars elförsörjning är konstant attackerad.",
-      "url": "https://svt.se/nyheter/utrikes/standiga-attacker-mot-ukrainas-elforsorjning-nu-vaxer-oron-infor-vintern",
-      "domain": "svt.se",
-      "published": "2025-10-26T22:22:30Z"
-    },
-    {
-      "title": "Fransk polis dna-testar hundbajs för att komma åt lata ägare",
-      "summary": "I Béziers råder det sedan två år stränga kommunala föreskrifter för att bekämpa det ökande problemet med övergivet hundbajs på gatorna. Hundägarna måste registrera sina hundar på stadshuset, vilket är kostnadsfritt. Där får de ett hund - id kopplat till hundens dna.",
-      "url": "https://yle.fi/a/7-10085515?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-26T05:12:32Z"
-    },
-    {
-      "title": "Vilnius flygplats stängd igen på grund av ballonger",
-      "summary": "Ballongerna kommer från Belarus. Det är redan fjärde gången den här månaden som ballongerna stör Litauens flygtrafik. I går kväll stängdes flygplatserna i Vilnius och Kaunas efter att tiotals väderballonger observerades via radar.",
-      "url": "https://yle.fi/a/7-10086850?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-25T19:44:38Z"
     }
   ]
 }
