@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-29T07:17:15+00:00",
-  "total_raw": 38,
+  "generated": "2025-10-30T07:13:36+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Mötet med Xi var en ”stor succé” enligt Trump",
+      "summary": "USA: s president Donald Trump och Kinas president Xi Jinping möttes på en flygbas i Busan, Sydkorea. Mötet pågick i en timme och 40 minuter. Efter mötet skakade de båda ledarna hand och log mot varandra utanför möteslokalen.",
+      "url": "https://yle.fi/a/7-10087127?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-30T03:07:52Z"
+    },
+    {
+      "title": "Trump efter mötet med Xi: Fantastiskt",
+      "summary": "USA: s president beskriver Xi som en \" framstående och respekterad ledare \" Mötet ägde rum i Busan, Sydkorea, under en timme och 40 minuter. Trump hävdar att de kom fram till en lösning utan att ge ytterligare detaljer. Xi berömde Donald Trumps fredsinsatser, men sade att de två ledarna inte alltid delar samma syn på saker.",
+      "url": "https://svt.se/nyheter/utrikes/faordig-forsta-halsning-mellan-trump-och-xi",
+      "domain": "svt.se",
+      "published": "2025-10-30T02:52:44Z"
+    },
+    {
+      "title": "USA:s hårda linje mot Putin: Fler åtgärder kan vänta mot Ryssland",
+      "summary": "Matthew Whitaker är USA: s ambassadör vid Nato sedan våren 2025. Han är jurist i grunden och har haft en gedigen karriär som republikansk politiker och tjänsteman. Han blev nationellt känd när han tillfälligt tog över som justitieminister efter Jeff Sessions under Donald Trumps presidentperiod.",
+      "url": "https://svt.se/nyheter/utrikes/usas-harda-linje-mot-putin-fler-atgarder-kan-vanta-mot-ryssland",
+      "domain": "svt.se",
+      "published": "2025-10-29T16:33:01Z"
+    },
     {
       "title": "Parlamentsvalet i Nederländerna en nagelbitare: ”Ingen vill samarbeta med högerp…",
       "summary": "Geert Wilders Frihetsparti, PVV, vann valet 2023 med 42, 9 % av rösterna i valkretsen. Enligt opinionsundersökningar kan PVV ta 26 av de 150 mandaten i underhuset. Alliansen mellan vänsterliberala och arbetarpartiet, GroenLinks - PvdA, samt mittenpartiet D66 och Kristdemokraterna kan få mellan 20 och 23 mandat var.",
@@ -16,11 +37,11 @@
       "published": "2025-10-29T03:30:16Z"
     },
     {
-      "title": "Pakistan: Misslyckade förhandlingar om varaktig vapenvila",
-      "summary": "Efter strider i gränsområden kom länderna tidigare i oktober överens om en vapenvila. Länderna har även kommit överens om att hålla uppföljningsmöten för att säkerställa att vapenvilan bibehålls. Efter fyra dagars förhandlingar i Istanbul i Turkiet uppger Pakistans informationsminister Attaullah Tarar på X att parterna \" misslyckades med att nå en fungerande lösning \" Det är oklart hur den afghanska talibanregimen ser på utgången av förhandlingarna i Istanbul.",
-      "url": "https://svt.se/nyheter/utrikes/pakistan-misslyckade-forhandlingar",
-      "domain": "svt.se",
-      "published": "2025-10-29T01:30:26Z"
+      "title": "Zelenskyj och Stubb talade i telefon: ”Jag informerade Alex om nuläget",
+      "summary": "Republikanska president Alexander Stubb har talat i telefon med Ukrainas president Volodymyr Zelenskyj. Ukrainska medier rapporterade på tisdagen att Ukraina har använt den ukrainsktillverkade roboten Flamingo i anfall mot Ryssland. Hela 90 – 95 procent av Ukrainas långdistansanfall sker nu med inhemska vapen, säger Zelenskijj.",
+      "url": "https://yle.fi/a/7-10087048?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-10-28T19:39:53Z"
     },
     {
       "title": "Nokia-aktien rusar efter Nvidias miljardinvestering: ”Vi måste se nätverk på ett…",
@@ -28,27 +49,6 @@
       "url": "https://yle.fi/a/7-10087040?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-28T16:00:57Z"
-    },
-    {
-      "title": "Orkanen Melissa slår hårt mot Karibien",
-      "summary": "Melissa är den kraftfullaste orkanen som drabbat Jamaica på 174 år. Stormen nedgraderades senare till en kategori 4 - orkan. 530 000 hushåll uppges vara utan el i Kingston, Jamaica.",
-      "url": "https://svt.se/nyheter/utrikes/orkanen-melissa-slar-hart-mot-karibien",
-      "domain": "svt.se",
-      "published": "2025-10-28T11:12:04Z"
-    },
-    {
-      "title": "Experten om kriget i Sudan: Enorm fara för civila",
-      "summary": "I helgen hävdade paramilitära RSF att de trängt ut armén från ett viktigt högkvarter och hävdade kontroll över staden El - Fasher. Militären har inte bekräftat det. Om uppgifterna stämmer, hela västra Sudan kontrolleras nu av RSF.",
-      "url": "https://svt.se/nyheter/utrikes/experten-om-kriget-i-sudan-enorm-fara-for-civila-kan-bli-ny-massaker",
-      "domain": "svt.se",
-      "published": "2025-10-27T20:25:53Z"
-    },
-    {
-      "title": "Baltiska företag tankar ryska fartyg i hemlighet",
-      "summary": "Litauen, Lettland och Estland har företag som hjälper till att driva den ryska så kallade skuggflottan i gång. Rysslands skuggflotta består av gamla, oförsäkrade tankfartyg med okänt ägande. Ryssland kan på det här sättet kringgå västerländska sanktioner genom att sälja rysk olja och petroleumprodukter globalt och hålla den ryska krigsekonomin flytande.",
-      "url": "https://yle.fi/a/7-10086940?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-27T14:49:05Z"
     }
   ]
 }
