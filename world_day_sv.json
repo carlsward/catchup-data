@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-10-30T07:12:39+00:00",
-  "total_raw": 27,
+  "generated": "2025-10-31T07:12:05+00:00",
+  "total_raw": 23,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Nederländska valet olidligt spännande",
-      "summary": "Om partiet slutligen får 26 mandat är det 17 fler än i parlamentsvalet 2023, där partiet kom på sjätte plats. För Geert Wilders är 26 mandat en enorm förlust. Partiet skulle förlora 11 av sina 37 mandat.",
-      "url": "https://yle.fi/a/7-10087125?origin=rss",
+      "title": "Kinas monopol på handeln med sällsynta jordartsmetaller viktig fråga för Trump",
+      "summary": "USA: s president Donald Trump har nått en överenskommelse med Kinas ledare Xi Jinping om handel med sällsynta jordartsmetaller. I gengäld ska Trump sänka en del tullar mot Kina. Alexis von Sydow, analytiker vid Utrikespolitiska institutet i Sverige, konstaterar att informationen är knapphändig men att Trump har låtit sig intervjuas om en del frågor.",
+      "url": "https://yle.fi/a/7-10087148?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-29T20:33:52Z"
+      "published": "2025-10-30T15:13:56Z"
     },
     {
-      "title": "Nytt fredsutkast för Ukraina cirkulerar",
-      "summary": "Ett utkast till fredsplan för att få ett slut på kriget i Ukraina håller på att utarbetas. Enligt Yles uppgifter diskuterades fredsfrågan inom koalitionen förra veckan. Enligt RFE har Finland tagit initiativ till att cirkulera dokumentet.",
-      "url": "https://yle.fi/a/7-10087105?origin=rss",
+      "title": "Ukraina behöver sina medborgare”",
+      "summary": "Miljontals ukrainare befinner sig fortfarande på flykt i Europa som en direkt följd av Rysslands fullskaliga anfallskrig. Genom massflyktsdirektivet har de rätt till kollektivt skydd i EU som tryggar grundläggande skydd samt rätt till arbete och studier. Från och med 2027 upphör det kollektiva skyddet, och ansvaret för ukrainarnas uppehälle övergår till de enskilda medlemsstaterna.",
+      "url": "https://yle.fi/a/7-10086980?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-29T15:45:17Z"
+      "published": "2025-10-30T16:31:13Z"
     },
     {
-      "title": "Mötet med Xi var en ”stor succé” enligt Trump",
-      "summary": "USA: s president Donald Trump och Kinas president Xi Jinping möttes på en flygbas i Busan, Sydkorea. Mötet pågick i en timme och 40 minuter. Efter mötet skakade de båda ledarna hand och log mot varandra utanför möteslokalen.",
-      "url": "https://yle.fi/a/7-10087127?origin=rss",
+      "title": "För jämnt för att utse vinnare i nederländska parlamentsvalet",
+      "summary": "Det är så jämnt mellan högerpopulistiska PVV och mittenparti D66 att det har varit omöjligt att utse en segrare. Båda partierna ligger nu på 26 mandat i det nederländska parlamentets underhus. Det kan ta flera dagar innan det slutgiltiga resultatet är klart, eftersom det tar tid att räkna poströster.",
+      "url": "https://yle.fi/a/7-10086914?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-30T03:07:52Z"
+      "published": "2025-10-30T14:45:01Z"
     },
     {
-      "title": "Nederländerna går till val igen",
-      "summary": "Det är tredje på bara fyra år i ett land där storpartierna tappat mark och ständigt nya rörelser virvlar upp – och sedan försvinner igen. Hårdare politiskt klimat Höstens korta valrörelse har präglats av ett allt hårdare politiskt klimat. PVV ökade kraftigt under de allra sista dagarna inför valet 2023.",
-      "url": "https://svt.se/nyheter/utrikes/nazism-och-terror-nar-nederlanderna-rostar-igen",
+      "title": "Här iscensätter Hamas upptäckten av gisslans kropp",
+      "summary": "En drönarfilm visar hur Hamas iscensätter upptäckten av en gisslans kropp, säger en talesman till Israels premiärminister Netanyahu. Israel säger att Hamas vet var alla kropparna finns och förhalar processen. Röda korset deltar i sökinsatsen som en.",
+      "url": "https://svt.se/nyheter/utrikes/har-iscensatter-hamas-upptackten-av-gisslans-kropp",
       "domain": "svt.se",
-      "published": "2025-10-29T07:47:25Z"
+      "published": "2025-10-30T17:26:13Z"
     },
     {
-      "title": "USA:s hårda linje mot Putin: Fler åtgärder kan vänta mot Ryssland",
-      "summary": "Matthew Whitaker är USA: s ambassadör vid Nato sedan våren 2025. Han är jurist i grunden och har haft en gedigen karriär som republikansk politiker och tjänsteman. Han blev nationellt känd när han tillfälligt tog över som justitieminister efter Jeff Sessions under Donald Trumps presidentperiod.",
-      "url": "https://svt.se/nyheter/utrikes/usas-harda-linje-mot-putin-fler-atgarder-kan-vanta-mot-ryssland",
+      "title": "Brittiska kungahuset: Andrew förlorar prinstitel",
+      "summary": "Prins Andrew avsade sig titeln som hertig av York för två veckor sedan. Han kommer nu att kallas Andrew Mountbatten Windsor. Prins Andrew har inte haft några invändningar mot kung Charles beslut att ta bort hans titlar.",
+      "url": "https://svt.se/nyheter/utrikes/process-inledd-prins-andrews-titlar-ska-nu-avskaffas",
       "domain": "svt.se",
-      "published": "2025-10-29T16:33:01Z"
+      "published": "2025-10-30T19:08:42Z"
     }
   ]
 }
