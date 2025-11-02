@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-01T07:14:36+00:00",
+  "generated": "2025-11-02T07:17:15+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Massknivhuggning på tåg i Storbritannien: ”Blod överallt",
+      "summary": "10 personer har förts till sjukhus efter en knivattack på ett tåg i Storbritannien. Nio av dem ska ha fått livshotande skador. Tåget gick från Doncaster i nordost till Londons King ' s Cross Station.",
+      "url": "https://yle.fi/a/7-10087307?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-02T03:47:53Z"
+    },
     {
       "title": "Miljonstaden Charkiv skyddar sig mot Rysslands bomber genom att bygga under jord…",
       "summary": "Miljonstaden Charkiv ligger bara ett trettiotal kilometer från gränsen till Ryssland. I början av Rysslands anfallskrig slog invånarna tillbaka ryska styrkor från stadens utkanter. Nu har staden tvingats anpassa sig till kriget när livet ovanför marknivån har blivit för farligt.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10087215?origin=rss",
       "domain": "yle.fi",
       "published": "2025-10-31T18:11:10Z"
-    },
-    {
-      "title": "Kinas monopol på handeln med sällsynta jordartsmetaller viktig fråga för Trump",
-      "summary": "USA: s president Donald Trump har nått en överenskommelse med Kinas ledare Xi Jinping. Kina har gått med på att hålla en ett år lång paus i sina exportkontroller av sällsynta jordartsmetaller. Trump kommer att sänka en del tullar mot Kina, men han har inte preciserat vad det innebär.",
-      "url": "https://yle.fi/a/7-10087148?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-30T15:13:56Z"
     }
   ]
 }

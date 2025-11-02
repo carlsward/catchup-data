@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-01T07:13:12+00:00",
-  "total_raw": 20,
+  "generated": "2025-11-02T07:15:55+00:00",
+  "total_raw": 29,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Andrew blev av med sin prinstitel",
-      "summary": "Kung Charles har meddelat att han har inlett en formell process för att ta bort titlar, hederstitlar och utmärkelser från prins Andrew. Andrew gav frivilligt upp sin titel hertig av York tidigare denna månad, men fram till torsdagen använde han fortfarande sin prinstitel. Hädanefter är han enbart Andrew Mountbatten Windsor.",
-      "url": "https://yle.fi/a/7-10087215?origin=rss",
+      "title": "Unga gatumusikanter väckte ryska regimens vrede",
+      "summary": "Gatumusiker har dragit ryska myndigheters vrede över sig genom att framföra musik av förbjudna ryska artister. Det här var det femte straffet på kort tid som myndigheterna delat ut till henne. Under de närmaste två veckorna är hon än en gång frihetsberövad och hålls i ett särskilt avsett häkte.",
+      "url": "https://yle.fi/a/7-10087180?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-31T18:11:10Z"
+      "published": "2025-11-01T09:23:05Z"
     },
     {
-      "title": "Miljonstaden Charkiv skyddar sig mot Rysslands bomber genom att bygga under jord…",
-      "summary": "Miljonstaden Charkiv ligger bara ett trettiotal kilometer från gränsen till Ryssland. I början av Rysslands anfallskrig slog invånarna tillbaka ryska styrkor från stadens utkanter. Nu har staden tvingats anpassa sig till kriget när livet ovanför marknivån har blivit för farligt.",
-      "url": "https://yle.fi/a/7-10086985?origin=rss",
+      "title": "Bulgarien söker undantag från USA:s nya oljesanktioner",
+      "summary": "Bulgariens regering undersöker möjligheten att få undantag från de nya amerikanska sanktionerna mot ryska oljebolag. I Bulgariens fall handlar det om den Lukoilägda raffinaderianläggningen i Burgas. Regeringen i Sofia befarar att sanktionerna kan leda till att anläggningen tvingas stänga, vilket i sin tur skulle utlösa omfattande bränslebrist och utlösa folkliga protester.",
+      "url": "https://yle.fi/a/7-10087300?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-01T05:03:34Z"
+      "published": "2025-11-01T15:31:12Z"
     },
     {
-      "title": "Ryska ekonomin krisar men inget rubbar Putins stöd för kriget",
-      "summary": "Alexandra Prokopenko är forskare i rysk ekonomisk politik. Hon lämnade sin roll som Rysslands centralbank efter invasionen av Ukraina 2022. Hon varnar för att dra förhastade slutsatser om det ekonomiska läget.",
-      "url": "https://yle.fi/a/7-10086464?origin=rss",
+      "title": "Risto E.J. Penttilä: Alexander Stubb kunde spela en roll i förhållandet mellan U…",
+      "summary": "Risto E. J. Penttilä säger att USA börjar behandla allierade och gamla vänner bättre.",
+      "url": "https://yle.fi/a/7-10087292?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-10-31T09:01:03Z"
+      "published": "2025-11-01T12:50:52Z"
     },
     {
-      "title": "Varningen efter juvelkuppen: Kan komma fler liknande stölder",
-      "summary": "Flera personer har gripits efter kuppen på Louvren i Paris den 19 oktober. Men ännu har inga smycken återfunnits. På torsdag skedde ytterligare en kupp i Frankrike, den här gången i Lyon där beväpnade personer utklädda till poliser sprängde sig in i ett laboratorium specialiserat på bearbetning av ädelmetaller.",
-      "url": "https://svt.se/nyheter/utrikes/varningen-efter-juvelkuppen-kan-komma-fler-liknande-stolder",
+      "title": "Ett år av studentprotester i Serbien",
+      "summary": "Lördagen markerar årsdagen av olyckan i Novi Sad. 16 personer miste livet, däribland ett sexårigt barn. Händelsen blev startskottet för den studentledda och långlivade proteströrelsen.",
+      "url": "https://svt.se/nyheter/utrikes/ett-ar-av-studentprotester-i-serbien-tiotusentals-samlas-i-novi-sad",
       "domain": "svt.se",
-      "published": "2025-10-31T14:16:19Z"
+      "published": "2025-11-01T11:59:59Z"
     },
     {
-      "title": "Minst 700 uppges döda efter oroligheter i Tanzania",
-      "summary": "Tanzanias invånare gick till president - och parlamentsval på onsdag. Säkerhetsstyrkorna uppges ha attackerat flera vallokaler och polis svarade med skarp beskjutning. Minst 700 människor beräknas ha dödats under oroligheterna.",
-      "url": "https://svt.se/nyheter/utrikes/minst-700-uppges-doda-efter-oroligheter-i-tanzania-ud-avrader-fran-resor",
+      "title": "Zaira: Pappa var fiskare",
+      "summary": "Alejandro Carranza från den colombianska hamnstaden Santa Marta såg sin familj. Han är en av personerna som dödats i USA: s attacker av påstådda knarkbåtar i Karibien. De säger att han var knarksmugglare men det var inte så, säger hans dotter Zaira.",
+      "url": "https://svt.se/nyheter/utrikes/zaira-pappa-var-fiskare-bombades-av-usa",
       "domain": "svt.se",
-      "published": "2025-10-31T15:41:50Z"
+      "published": "2025-11-01T10:22:51Z"
     }
   ]
 }

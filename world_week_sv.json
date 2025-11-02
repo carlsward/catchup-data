@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-01T07:14:06+00:00",
+  "generated": "2025-11-02T07:16:47+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Massknivhuggning på tåg i Storbritannien: ”Blod överallt",
+      "summary": "10 personer har förts till sjukhus efter en knivattack på ett tåg i Storbritannien. Nio av dem ska ha fått livshotande skador. Tåget gick från Doncaster i nordost till Londons King ' s Cross Station.",
+      "url": "https://yle.fi/a/7-10087307?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-02T03:47:53Z"
+    },
+    {
+      "title": "23 döda i explosion i butik i Mexiko",
+      "summary": "Explosionen tros ha skett i en bil utanför butikens entré. Bilder från platsen visar brandskador på såväl fasaden som parkerade bilar. Lördagens planerade festligheter i samband med stadens firande av Día de los muertos ställdes in på grund av händelsen.",
+      "url": "https://svt.se/nyheter/utrikes/23-doda-i-explosion-i-butik-i-mexiko",
+      "domain": "svt.se",
+      "published": "2025-11-02T03:42:32Z"
+    },
+    {
+      "title": "Ett år av studentprotester i Serbien",
+      "summary": "Lördagen markerar årsdagen av olyckan i Novi Sad. 16 personer miste livet, däribland ett sexårigt barn. Händelsen blev startskottet för den studentledda och långlivade proteströrelsen.",
+      "url": "https://svt.se/nyheter/utrikes/ett-ar-av-studentprotester-i-serbien-tiotusentals-samlas-i-novi-sad",
+      "domain": "svt.se",
+      "published": "2025-11-01T11:59:59Z"
+    },
+    {
       "title": "Miljonstaden Charkiv skyddar sig mot Rysslands bomber genom att bygga under jord…",
       "summary": "Miljonstaden Charkiv ligger bara ett trettiotal kilometer från gränsen till Ryssland. I början av Rysslands anfallskrig slog invånarna tillbaka ryska styrkor från stadens utkanter. Nu har staden tvingats anpassa sig till kriget när livet ovanför marknivån har blivit för farligt.",
       "url": "https://yle.fi/a/7-10086985?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-01T05:03:34Z"
-    },
-    {
-      "title": "Trinidad och Tobagos militär i beredskapsläge",
-      "summary": "All militär personal har kallats tillbaka till respektive bas och alla former av permission är just nu begränsade. Önskemålet har hamnat mitt i det allt mer spända tonläget mellan USA och Venezuela. De senaste veckorna har USA genomfört ett antal angrepp mot så kallade knarkbåtar, främst utanför Venezuelas kust.",
-      "url": "https://svt.se/nyheter/utrikes/trinidad-och-tobagos-militar-i-beredskapslage",
-      "domain": "svt.se",
-      "published": "2025-11-01T01:38:10Z"
     },
     {
       "title": "Andrew blev av med sin prinstitel",
@@ -30,25 +44,11 @@
       "published": "2025-10-31T18:11:10Z"
     },
     {
-      "title": "Varningen efter juvelkuppen: Kan komma fler liknande stölder",
-      "summary": "Flera personer har gripits efter kuppen på Louvren i Paris den 19 oktober. Men ännu har inga smycken återfunnits. På torsdag skedde ytterligare en kupp i Frankrike, den här gången i Lyon där beväpnade personer utklädda till poliser sprängde sig in i ett laboratorium specialiserat på bearbetning av ädelmetaller.",
-      "url": "https://svt.se/nyheter/utrikes/varningen-efter-juvelkuppen-kan-komma-fler-liknande-stolder",
+      "title": "Våldsamma oroligheter i Tanzania",
+      "summary": "Våldsamma protester bröt ut i samband med att Tanzanias invånare gick till president - och parlamentsval i onsdags. Kritiker har beskrivit valet som en kröning av sittande presidenten Samia Suluhu Hassan. Detta då landets två största oppositionsledare hindrats från att delta, den ena fängslad och den andra diskvalificerad.",
+      "url": "https://svt.se/nyheter/utrikes/minst-700-uppges-doda-efter-oroligheter-i-tanzania-ud-avrader-fran-resor",
       "domain": "svt.se",
-      "published": "2025-10-31T14:16:19Z"
-    },
-    {
-      "title": "Röda Korset: ”Massiv förödelse i spåren av Melissa",
-      "summary": "Röda korset har nödhjälpsinsatser på Jamaica, Kuba, Haiti, Dominikanska republiken och Bahamas. Det är fortsatt svårt med uppkopplingen vilket har försvårat för organisationen att få uppdateringar från fältarbetarna. 75 procent av Jamaica är fortfarande utan elektricitet.",
-      "url": "https://svt.se/nyheter/utrikes/roda-korset-massiv-forodelse-i-sparen-av-melissa",
-      "domain": "svt.se",
-      "published": "2025-10-30T20:24:20Z"
-    },
-    {
-      "title": "Kinas monopol på handeln med sällsynta jordartsmetaller viktig fråga för Trump",
-      "summary": "USA: s president Donald Trump har nått en överenskommelse med Kinas ledare Xi Jinping. Kina har gått med på att hålla en ett år lång paus i sina exportkontroller av sällsynta jordartsmetaller. Trump kommer att sänka en del tullar mot Kina, men han har inte preciserat vad det innebär.",
-      "url": "https://yle.fi/a/7-10087148?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-30T15:13:56Z"
+      "published": "2025-10-31T15:41:50Z"
     }
   ]
 }
