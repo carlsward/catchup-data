@@ -2,32 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-02T07:17:15+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-03T07:19:02+00:00",
+  "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Massknivhuggning på tåg i Storbritannien: ”Blod överallt",
-      "summary": "10 personer har förts till sjukhus efter en knivattack på ett tåg i Storbritannien. Nio av dem ska ha fått livshotande skador. Tåget gick från Doncaster i nordost till Londons King ' s Cross Station.",
+      "title": "Surrogatagenturer ger falska löften till finländska par",
+      "summary": "Surrogatagenturer fungerar som mellanhand och hjälper finländare att hitta surrogatmammor utomlands samt att skriva kontrakt. Surrogatarrangemang är inte tillåtna i Finland. Ju mer man betalar, desto mer service och olika former av specialistvård ingår i priset.",
+      "url": "https://yle.fi/a/7-10086472?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-03T04:10:18Z"
+    },
+    {
+      "title": "Tåganställd svårt skadad i massknivhuggning på brittiskt tåg: ”Räddade många män…",
+      "summary": "Tio personer fördes till sjukhus efter en knivattack på ett tåg i Storbritannien på lördagskvällen. Endast ett av offren uppges ha livshotande skador. Tåget var på väg från Doncaster i nordöstra England till King ' s Cross i London.",
       "url": "https://yle.fi/a/7-10087307?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-02T03:47:53Z"
     },
     {
-      "title": "Miljonstaden Charkiv skyddar sig mot Rysslands bomber genom att bygga under jord…",
-      "summary": "Miljonstaden Charkiv ligger bara ett trettiotal kilometer från gränsen till Ryssland. I början av Rysslands anfallskrig slog invånarna tillbaka ryska styrkor från stadens utkanter. Nu har staden tvingats anpassa sig till kriget när livet ovanför marknivån har blivit för farligt.",
-      "url": "https://yle.fi/a/7-10086985?origin=rss",
+      "title": "Risto E.J. Penttilä: Alexander Stubb kunde spela en roll i förhållandet mellan U…",
+      "summary": "Risto E. J. Penttilä säger att USA börjar behandla allierade och gamla vänner bättre.",
+      "url": "https://yle.fi/a/7-10087292?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-01T05:03:34Z"
-    },
-    {
-      "title": "Andrew blev av med sin prinstitel",
-      "summary": "Kung Charles har meddelat att han har inlett en formell process för att ta bort titlar, hederstitlar och utmärkelser från prins Andrew. Andrew gav frivilligt upp sin titel hertig av York tidigare denna månad, men fram till torsdagen använde han fortfarande sin prinstitel. Hädanefter är han enbart Andrew Mountbatten Windsor.",
-      "url": "https://yle.fi/a/7-10087215?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-10-31T18:11:10Z"
+      "published": "2025-11-01T12:50:52Z"
     }
   ]
 }
