@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-03T07:17:28+00:00",
-  "total_raw": 20,
+  "generated": "2025-11-04T07:11:50+00:00",
+  "total_raw": 15,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Surrogatagenturer ger falska löften till finländska par",
-      "summary": "Surrogatagenturer fungerar som mellanhand och hjälper finländare att hitta surrogatmammor utomlands samt att skriva kontrakt. Surrogatarrangemang är inte tillåtna i Finland. Ju mer man betalar, desto mer service och olika former av specialistvård ingår i priset.",
-      "url": "https://yle.fi/a/7-10086472?origin=rss",
+      "title": "Svenska staden Boden håller andan när ännu ett megaprojekt i den gröna omställni…",
+      "summary": "Småstaden Boden har tagit stora lån för att stödja Stegra med bostäder och infrastruktur. För två veckor sedan avslöjade Financial Times att Stegra hotas av konkurs. Företaget har delvis samma ägare som konkursdrabbade Northvolt och en liknande finansieringsstruktur, som bygger på lån med framtida försäljning som säkerhet.",
+      "url": "https://yle.fi/a/7-10087150?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-03T04:10:18Z"
+      "published": "2025-11-03T09:00:16Z"
     },
     {
-      "title": "Eldupphöret mellan Israel och Hizbollah hänger på en allt skörare tråd",
-      "summary": "Israel Katz hotar i ett inlägg på plattformen X att Hizbollah leker med elden. Libanons president Joseph Aoun har varnat för att en avväpning måste ske långsamt för att undvika inbördeskrig. Enligt en FN - rapport som publicerades tidigare i oktober har Israel utfört minst 500 luftanfall mot Libanon under det senaste året.",
-      "url": "https://yle.fi/a/7-10087316?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-02T13:54:25Z"
-    },
-    {
-      "title": "Kreml: Inget möte mellan Trump och Putin behövs",
-      "summary": "Ukraina genomförde en drönarattack mot den viktiga ryska Svartahavshamnen Tuapse, belägen i Krasnodarregionen. En oljetanker och infrastruktur vid en stor oljeterminal sattes i brand och skadades enligt lokala myndigheter. Det ryska försvarsministeriet uppger att 32 ukrainska drönare sköts ner över ryskt territorium, Krimhalvön samt Svarta och Azovska haven.",
-      "url": "https://yle.fi/a/7-10087310?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-02T07:21:50Z"
-    },
-    {
-      "title": "Bilder visar blåa hundar vid Tjernobyl",
-      "summary": "Bild av blå hundar i Tjernobyl dök först upp på nätet den 13 oktober. Clean Futures Fund har uppdaterat sin teori om en \" kemikalie \" Ämnet tros komma från en gammal portabel toalett som fanns på samma plats som hundarna, säger en veterinärmedicinsk chef för Dogs of Chernobyl programmet. Det var den 13: e oktober som en ideell organisation först publicerade bilder på fyndet på TV.",
-      "url": "https://svt.se/nyheter/utrikes/bilder-visar-blaa-hundar-vid-tjernobyl-det-har-vet-vi",
+      "title": "Sveriges klimatprojekt utomlands",
+      "summary": "Sverige kan köpa utsläppskrediter där utsläppsminskningarna sker utanför Sveriges gränser. Riksrevisionen har tittat på samtliga svenska projekt sedan 2014. Den konstaterar att de visserligen varit kostnadseffektiva på totalen, eftersom Sverige inte betalar ut ersättningar förrän projekten har levererat, men att stora osäkerheter är inbyggda i systemet.",
+      "url": "https://svt.se/nyheter/utrikes/sveriges-klimatprojekt-utomlands-var-tredje-har-misslyckats",
       "domain": "svt.se",
-      "published": "2025-11-02T08:01:30Z"
+      "published": "2025-11-04T07:00:08Z"
     },
     {
-      "title": "Det kan bli nästa steg efter båtattackerna i Karibien",
-      "summary": "USA har attackerat flera båtar i Karibiska havet som pekas ut för att tillhöra drogkarteller. Flera personer har dödats. Björn Ottosson, senior USA - forskare vid FOI, säger att Trump - administrationen sätter press på Maduro - regimen i Venezuela.",
-      "url": "https://svt.se/nyheter/utrikes/det-kan-bli-nasta-steg-efter-batattackerna-i-karibien",
+      "title": "Röda Korset: 20 döda och över 960 skadade efter jordbävning",
+      "summary": "Jordbävningen i Afghanistan hade magnituden 6, 3 och utlöstes ungefär två mil från staden Khulm nära storstaden Mazar - e Sharif på 28 kilometers djup. En av många jordbävningar Afghanistan har varit olycksdrabbat med flera jordbävningar under kort tid. Mer än 2 200 personer omkom i augusti när ett skalv med magnitud 6, 0 slog mot östra Afghanistan, främst mot Kunar - provinsen.",
+      "url": "https://svt.se/nyheter/utrikes/roda-korset-20-doda-och-over-960-skadade-efter-jordbavning",
       "domain": "svt.se",
-      "published": "2025-11-02T22:31:48Z"
+      "published": "2025-11-03T17:35:36Z"
+    },
+    {
+      "title": "Mazda miste rätten att köpa tillbaka andel av bilfabrik i Ryssland",
+      "summary": "Mazda blir den första utländska biltillverkare som mister återköpsrättigheter efter att ha lämnat den ryska marknaden på grund av det ryska kriget. De västliga biltillverkarna sålde sina tillgångar i Ryssland för symboliska summor, men behöll optionen att köpa tillbaka dem senare om det blir möjligt. Mazda ägde hälften av en bilfabrik i Vladivostok som tillverkade Mazdabilar som såldes till den ryska bilkoncernen Sollers för en ( 1 ) euro.",
+      "url": "https://yle.fi/a/7-10087396?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-03T18:48:44Z"
+    },
+    {
+      "title": "Lettlands president undertecknade inte utträde ur konventionen mot våld mot kvin…",
+      "summary": "Lettlands parlament röstade för att lämna Istanbulkonventionen, det vill säga Europarådets konvention om förebyggande och bekämpning av våld mot kvinnor och våld i hemmet. Nu skickar landets president Edgars Rinkēvičs tillbaka lagen om saken till parlamentet. I ett uttalande säger han att lagen skulle sända ett motstridigt budskap till det lettiska samhället och till landets internationella allierade.",
+      "url": "https://yle.fi/a/7-10087397?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-03T19:39:09Z"
     }
   ]
 }
