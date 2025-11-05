@@ -2,67 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-04T07:13:01+00:00",
-  "total_raw": 39,
-  "total_rank": 8,
+  "generated": "2025-11-05T07:13:34+00:00",
+  "total_raw": 40,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sveriges klimatprojekt utomlands",
-      "summary": "Sverige kan köpa utsläppskrediter där utsläppsminskningarna sker utanför Sveriges gränser. Riksrevisionen har tittat på samtliga svenska projekt sedan 2014. Den konstaterar att de visserligen varit kostnadseffektiva på totalen, eftersom Sverige inte betalar ut ersättningar förrän projekten har levererat, men att stora osäkerheter är inbyggda i systemet.",
-      "url": "https://svt.se/nyheter/utrikes/sveriges-klimatprojekt-utomlands-var-tredje-har-misslyckats",
+      "title": "Alejandra Díaz födde barn åt en främling: ”När jag kom hem ville jag dö",
+      "summary": "Surrogatmammor i Colombia får betalt 8 500 till 12 000 dollar för att vara surrogatmamma. Kaisa Beltran är journalist och fackboksförfattare och hon har träffat Alejandra Díaz och sju andra colombianska kvinnor. Beltran säger att kontrakten befriar agenturerna från allt ansvar samtidigt som de fråntas alla grundrättigheter och all självbestämmanderätt.",
+      "url": "https://yle.fi/a/7-10085433?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-05T04:00:17Z"
+    },
+    {
+      "title": "Flera döda efter flygkrasch i Louisville i USA",
+      "summary": "UPS Airlines bekräftar att det är deras fraktflygplan som är involverat i kraschen. Klockan halv fem på tisdag, Louisville, borgmästare Craig Greenberg uppdaterar dödsiffran till sju. Ombord fanns tre besättningsmedlemmar, alla bekräftade döda.",
+      "url": "https://svt.se/nyheter/utrikes/ups-flyg-har-kraschat-i-louisville-i-usa",
       "domain": "svt.se",
-      "published": "2025-11-04T07:00:08Z"
+      "published": "2025-11-04T23:07:28Z"
     },
     {
-      "title": "Rapport: Antalet barn i konfliktområden och antalet våldsbrott mot barn var reko…",
-      "summary": "År 2024 var det våldsammaste året för barn sedan statistik började föras för 20 år sedan. Totalt utsattes barn för 41 763 allvarliga brott i fjol. Över hälften av de rapporterade fallen skedde i Palestina, Kongo - Kinshasa, Nigeria och Somalia.",
-      "url": "https://yle.fi/a/7-10087395?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-04T02:30:16Z"
-    },
-    {
-      "title": "Svenska Yle avslöjar: Surrogatagenturer ger falska löften till finländska par",
-      "summary": "Surrogatagenturer fungerar som mellanhand och hjälper finländare att hitta surrogatmammor utomlands samt att skriva kontrakt. Surrogatarrangemang är inte tillåtna i Finland, men finländare kan bli föräldrar genom surrogaterrangemang utomlands. Föräldraskapet kan sedan godkännas juridiskt efteråt.",
-      "url": "https://yle.fi/a/7-10086472?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-03T04:10:18Z"
-    },
-    {
-      "title": "Så är läget efter Louvren-kuppen",
-      "summary": "Tjuvar använde stegbil och vinkelslip för att komma åt de franska kronjuvelerna värda omkring en miljard kronor. Några dagar efter den spektakulära stölden greps två män, 34 och 39 år, misstänks ha varit inne på museet under kuppen. Båda har tidigare varit inblandade i stölder och har gjort vissa medgivanden.",
-      "url": "https://svt.se/nyheter/utrikes/sa-ar-laget-efter-louvren-kuppen-mojliga-sparen",
+      "title": "Hela Belgiens luftrum stängdes efter drönarlarm",
+      "summary": "Drönaren sågs vid flygplatsens luftrum vilket ledde till att flygtrafiken avbröts. Flera flygningar mot Zaventem fick omdirigeras, bland annat till flygplatsen Liège. Belgiens försvarsminister Theo Francken kommenterade drönarincidenten under ett tv - program där han gästade.",
+      "url": "https://svt.se/nyheter/utrikes/flygplatsen-i-bryssel-halls-stangd-efter-larm-om-dronare",
       "domain": "svt.se",
-      "published": "2025-11-03T03:29:24Z"
+      "published": "2025-11-04T19:55:05Z"
     },
     {
-      "title": "Det kan bli nästa steg efter båtattackerna i Karibien",
-      "summary": "USA har attackerat flera båtar i Karibiska havet som pekas ut för att tillhöra drogkarteller. Flera personer har dödats. Björn Ottosson, senior USA - forskare vid FOI, säger att Trump - administrationen sätter press på Maduro - regimen i Venezuela.",
-      "url": "https://svt.se/nyheter/utrikes/det-kan-bli-nasta-steg-efter-batattackerna-i-karibien",
+      "title": "Zohran Mamdani väntas vinna borgmästarvalet som delar New Yorks miljonärer och m…",
+      "summary": "Undersökningar visar att 34 - åriga Zohran Mamdani är favorit att bli New Yorks nästa borgmästare. Han har lovat gratis bussturer och sänkta matpriser, vilket skulle göra livet enklare för många i staden. Han är en demokratisk socialist och hör till det Demokratiska partiets vänsterfalang.",
+      "url": "https://yle.fi/a/7-10087143?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-04T09:01:09Z"
+    },
+    {
+      "title": "Hotar Shein: Förbud om ”barnlika” sexdockor säljs",
+      "summary": "Dockorna – runt 80 centimeter långa – har en liten flickas drag och kropp. I famnen håller de en nallebjörn. Köpbeskrivningen klargör i sexuellt explicit språk att det handlar om en.",
+      "url": "https://svt.se/nyheter/utrikes/hotar-shein-forbud-om-barnlika-sexdockor-saljs",
       "domain": "svt.se",
-      "published": "2025-11-02T22:31:48Z"
+      "published": "2025-11-03T20:57:55Z"
     },
     {
-      "title": "Tåganställd svårt skadad i massknivhuggning på brittiskt tåg: ”Räddade många män…",
-      "summary": "Tio personer fördes till sjukhus efter en knivattack på ett tåg i Storbritannien på lördagskvällen. Endast ett av offren uppges ha livshotande skador. Tåget var på väg från Doncaster i nordöstra England till King ' s Cross i London.",
-      "url": "https://yle.fi/a/7-10087307?origin=rss",
+      "title": "Svenska staden Boden håller andan när ännu ett megaprojekt i den gröna omställni…",
+      "summary": "Småstaden Boden har tagit stora lån för att stödja Stegra med bostäder och infrastruktur. För två veckor sedan avslöjade Financial Times att Stegra hotas av konkurs. Företaget har delvis samma ägare som konkursdrabbade Northvolt och en liknande finansieringsstruktur, som bygger på lån med framtida försäljning som säkerhet.",
+      "url": "https://yle.fi/a/7-10087150?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-02T03:47:53Z"
-    },
-    {
-      "title": "Trump: USA vill ha slut på dödandet av kristna i Nigeria",
-      "summary": "USA: s president Donald Trump varnade sent på lördagskvällen finsk tid att USA kan gå till krig i Nigeria. Orsaken till Trumps utbrott är att han anser att Nigerias ledning inte gör tillräckligt för att få slut på förföljelse av kristna i landet. Trump skrev på Truth Social att kristendomen är utsatt för ett existentiellt hot.",
-      "url": "https://yle.fi/a/7-10087305?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-01T21:37:34Z"
-    },
-    {
-      "title": "Satellitbilder visar orkanen Melissas framfart i Jamaica",
-      "summary": "Räddnings - och hjälpinsatser pågår på olika håll i Jamaica efter orkanen Melissa, men situationen är svår. Fyra dagar efter stormen råder brist på mat och rent vatten. Samtidigt är det svårt att nå hjälpbehövande eftersom så många vägar har skadats, fyllts med bråte eller blivit översvämmade.",
-      "url": "https://yle.fi/a/7-10087303?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-01T19:58:17Z"
+      "published": "2025-11-03T09:00:16Z"
     }
   ]
 }

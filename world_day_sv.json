@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-04T07:11:50+00:00",
-  "total_raw": 15,
+  "generated": "2025-11-05T07:12:38+00:00",
+  "total_raw": 29,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Svenska staden Boden håller andan när ännu ett megaprojekt i den gröna omställni…",
-      "summary": "Småstaden Boden har tagit stora lån för att stödja Stegra med bostäder och infrastruktur. För två veckor sedan avslöjade Financial Times att Stegra hotas av konkurs. Företaget har delvis samma ägare som konkursdrabbade Northvolt och en liknande finansieringsstruktur, som bygger på lån med framtida försäljning som säkerhet.",
-      "url": "https://yle.fi/a/7-10087150?origin=rss",
+      "title": "Zohran Mamdani väntas vinna borgmästarvalet som delar New Yorks miljonärer och m…",
+      "summary": "Undersökningar visar att 34 - åriga Zohran Mamdani är favorit att bli New Yorks nästa borgmästare. Han har lovat gratis bussturer och sänkta matpriser, vilket skulle göra livet enklare för många i staden. Han är en demokratisk socialist och hör till det Demokratiska partiets vänsterfalang.",
+      "url": "https://yle.fi/a/7-10087143?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-03T09:00:16Z"
+      "published": "2025-11-04T09:01:09Z"
     },
     {
-      "title": "Sveriges klimatprojekt utomlands",
-      "summary": "Sverige kan köpa utsläppskrediter där utsläppsminskningarna sker utanför Sveriges gränser. Riksrevisionen har tittat på samtliga svenska projekt sedan 2014. Den konstaterar att de visserligen varit kostnadseffektiva på totalen, eftersom Sverige inte betalar ut ersättningar förrän projekten har levererat, men att stora osäkerheter är inbyggda i systemet.",
-      "url": "https://svt.se/nyheter/utrikes/sveriges-klimatprojekt-utomlands-var-tredje-har-misslyckats",
+      "title": "Miljardärerna blir rikare medan miljontals amerikaner lever i fattigdom",
+      "summary": "En heltidsanställd med minimilön har inte råd med en enkel tvårummare. Livsmedelsosäkerheten är den högsta på över tio år. USA har den högsta andelen relativ fattigdom och den näst högsta andelen barnfattigdom och spädbarnsdödlighet.",
+      "url": "https://yle.fi/a/7-10087346?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-04T07:42:54Z"
+    },
+    {
+      "title": "Alejandra Díaz födde barn åt en främling: ”När jag kom hem ville jag dö",
+      "summary": "Surrogatmammor i Colombia får betalt 8 500 till 12 000 dollar för att vara surrogatmamma. Kaisa Beltran är journalist och fackboksförfattare och hon har träffat Alejandra Díaz och sju andra colombianska kvinnor. Beltran säger att kontrakten befriar agenturerna från allt ansvar samtidigt som de fråntas alla grundrättigheter och all självbestämmanderätt.",
+      "url": "https://yle.fi/a/7-10085433?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-05T04:00:17Z"
+    },
+    {
+      "title": "Hela Belgiens luftrum stängdes efter drönarlarm",
+      "summary": "Drönaren sågs vid flygplatsens luftrum vilket ledde till att flygtrafiken avbröts. Flera flygningar mot Zaventem fick omdirigeras, bland annat till flygplatsen Liège. Belgiens försvarsminister Theo Francken kommenterade drönarincidenten under ett tv - program där han gästade.",
+      "url": "https://svt.se/nyheter/utrikes/flygplatsen-i-bryssel-halls-stangd-efter-larm-om-dronare",
       "domain": "svt.se",
-      "published": "2025-11-04T07:00:08Z"
+      "published": "2025-11-04T19:55:05Z"
     },
     {
-      "title": "Röda Korset: 20 döda och över 960 skadade efter jordbävning",
-      "summary": "Jordbävningen i Afghanistan hade magnituden 6, 3 och utlöstes ungefär två mil från staden Khulm nära storstaden Mazar - e Sharif på 28 kilometers djup. En av många jordbävningar Afghanistan har varit olycksdrabbat med flera jordbävningar under kort tid. Mer än 2 200 personer omkom i augusti när ett skalv med magnitud 6, 0 slog mot östra Afghanistan, främst mot Kunar - provinsen.",
-      "url": "https://svt.se/nyheter/utrikes/roda-korset-20-doda-och-over-960-skadade-efter-jordbavning",
+      "title": "Oenighet om EU:s klimatpolitik",
+      "summary": "Länder som Polen, Ungern och Tjeckien anser dock att 90 procent är alldeles för mycket. Andra motsträviga länder, som Italien och Frankrike, kräver i sin tur större flexibilitet att räkna in klimatsatsningar som görs utanför Europa. Steg två blir att även slå fast EU: s nästa så kallade NDC – nationella klimatplan – om utsläppen till år 2035, som ska presenteras vid COP30 - mötet i Belém.",
+      "url": "https://svt.se/nyheter/utrikes/stor-oenighet-i-bryssel-infor-klimatmotet-cop30",
       "domain": "svt.se",
-      "published": "2025-11-03T17:35:36Z"
-    },
-    {
-      "title": "Mazda miste rätten att köpa tillbaka andel av bilfabrik i Ryssland",
-      "summary": "Mazda blir den första utländska biltillverkare som mister återköpsrättigheter efter att ha lämnat den ryska marknaden på grund av det ryska kriget. De västliga biltillverkarna sålde sina tillgångar i Ryssland för symboliska summor, men behöll optionen att köpa tillbaka dem senare om det blir möjligt. Mazda ägde hälften av en bilfabrik i Vladivostok som tillverkade Mazdabilar som såldes till den ryska bilkoncernen Sollers för en ( 1 ) euro.",
-      "url": "https://yle.fi/a/7-10087396?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-03T18:48:44Z"
-    },
-    {
-      "title": "Lettlands president undertecknade inte utträde ur konventionen mot våld mot kvin…",
-      "summary": "Lettlands parlament röstade för att lämna Istanbulkonventionen, det vill säga Europarådets konvention om förebyggande och bekämpning av våld mot kvinnor och våld i hemmet. Nu skickar landets president Edgars Rinkēvičs tillbaka lagen om saken till parlamentet. I ett uttalande säger han att lagen skulle sända ett motstridigt budskap till det lettiska samhället och till landets internationella allierade.",
-      "url": "https://yle.fi/a/7-10087397?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-03T19:39:09Z"
+      "published": "2025-11-04T15:00:24Z"
     }
   ]
 }

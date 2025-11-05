@@ -2,39 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-04T07:13:40+00:00",
-  "total_raw": 39,
-  "total_rank": 4,
+  "generated": "2025-11-05T07:14:07+00:00",
+  "total_raw": 40,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sveriges klimatprojekt utomlands",
-      "summary": "Sverige kan köpa utsläppskrediter där utsläppsminskningarna sker utanför Sveriges gränser. Riksrevisionen har tittat på samtliga svenska projekt sedan 2014. Den konstaterar att de visserligen varit kostnadseffektiva på totalen, eftersom Sverige inte betalar ut ersättningar förrän projekten har levererat, men att stora osäkerheter är inbyggda i systemet.",
-      "url": "https://svt.se/nyheter/utrikes/sveriges-klimatprojekt-utomlands-var-tredje-har-misslyckats",
-      "domain": "svt.se",
-      "published": "2025-11-04T07:00:08Z"
+      "title": "Alejandra Díaz födde barn åt en främling: ”När jag kom hem ville jag dö",
+      "summary": "Surrogatmammor i Colombia får betalt 8 500 till 12 000 dollar för att vara surrogatmamma. Kaisa Beltran är journalist och fackboksförfattare och hon har träffat Alejandra Díaz och sju andra colombianska kvinnor. Beltran säger att kontrakten befriar agenturerna från allt ansvar samtidigt som de fråntas alla grundrättigheter och all självbestämmanderätt.",
+      "url": "https://yle.fi/a/7-10085433?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-05T04:00:17Z"
     },
     {
-      "title": "Svenska Yle avslöjar: Surrogatagenturer ger falska löften till finländska par",
-      "summary": "Surrogatagenturer fungerar som mellanhand och hjälper finländare att hitta surrogatmammor utomlands samt att skriva kontrakt. Surrogatarrangemang är inte tillåtna i Finland, men finländare kan bli föräldrar genom surrogaterrangemang utomlands. Föräldraskapet kan sedan godkännas juridiskt efteråt.",
-      "url": "https://yle.fi/a/7-10086472?origin=rss",
+      "title": "Zohran Mamdani väntas vinna borgmästarvalet som delar New Yorks miljonärer och m…",
+      "summary": "Undersökningar visar att 34 - åriga Zohran Mamdani är favorit att bli New Yorks nästa borgmästare. Han har lovat gratis bussturer och sänkta matpriser, vilket skulle göra livet enklare för många i staden. Han är en demokratisk socialist och hör till det Demokratiska partiets vänsterfalang.",
+      "url": "https://yle.fi/a/7-10087143?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-03T04:10:18Z"
+      "published": "2025-11-04T09:01:09Z"
     },
     {
-      "title": "Tåganställd svårt skadad i massknivhuggning på brittiskt tåg: ”Räddade många män…",
-      "summary": "Tio personer fördes till sjukhus efter en knivattack på ett tåg i Storbritannien på lördagskvällen. Endast ett av offren uppges ha livshotande skador. Tåget var på väg från Doncaster i nordöstra England till King ' s Cross i London.",
-      "url": "https://yle.fi/a/7-10087307?origin=rss",
+      "title": "Svenska staden Boden håller andan när ännu ett megaprojekt i den gröna omställni…",
+      "summary": "Småstaden Boden har tagit stora lån för att stödja Stegra med bostäder och infrastruktur. För två veckor sedan avslöjade Financial Times att Stegra hotas av konkurs. Företaget har delvis samma ägare som konkursdrabbade Northvolt och en liknande finansieringsstruktur, som bygger på lån med framtida försäljning som säkerhet.",
+      "url": "https://yle.fi/a/7-10087150?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-02T03:47:53Z"
-    },
-    {
-      "title": "Trump: USA vill ha slut på dödandet av kristna i Nigeria",
-      "summary": "USA: s president Donald Trump varnade sent på lördagskvällen finsk tid att USA kan gå till krig i Nigeria. Orsaken till Trumps utbrott är att han anser att Nigerias ledning inte gör tillräckligt för att få slut på förföljelse av kristna i landet. Trump skrev på Truth Social att kristendomen är utsatt för ett existentiellt hot.",
-      "url": "https://yle.fi/a/7-10087305?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-01T21:37:34Z"
+      "published": "2025-11-03T09:00:16Z"
     }
   ]
 }
