@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-05T07:14:07+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-06T07:15:33+00:00",
+  "total_raw": 38,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Bebisar säljs på Facebook för några tusenlappar",
+      "summary": "Svenska Yles granskning av surrogatindustrin visar att agenturer inte är ärliga med blivande föräldrar. Många kvinnor från olika afrikanska länder som erbjuder sig att bli surgrogatmammor kommer ofta från rika västländer. De flesta finländare som skaffar barn via en surrogATmamma gör det ändå ändå via en agentur, som fungerar som mellanhand för att sköta processen.",
+      "url": "https://yle.fi/a/7-10087107?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-06T04:30:16Z"
+    },
     {
       "title": "Alejandra Díaz födde barn åt en främling: ”När jag kom hem ville jag dö",
       "summary": "Surrogatmammor i Colombia får betalt 8 500 till 12 000 dollar för att vara surrogatmamma. Kaisa Beltran är journalist och fackboksförfattare och hon har träffat Alejandra Díaz och sju andra colombianska kvinnor. Beltran säger att kontrakten befriar agenturerna från allt ansvar samtidigt som de fråntas alla grundrättigheter och all självbestämmanderätt.",
@@ -16,18 +23,11 @@
       "published": "2025-11-05T04:00:17Z"
     },
     {
-      "title": "Zohran Mamdani väntas vinna borgmästarvalet som delar New Yorks miljonärer och m…",
-      "summary": "Undersökningar visar att 34 - åriga Zohran Mamdani är favorit att bli New Yorks nästa borgmästare. Han har lovat gratis bussturer och sänkta matpriser, vilket skulle göra livet enklare för många i staden. Han är en demokratisk socialist och hör till det Demokratiska partiets vänsterfalang.",
-      "url": "https://yle.fi/a/7-10087143?origin=rss",
+      "title": "Ambitiöst utsläppsmål splittrar EU:s medlemsländer inför viktigt klimatmöte",
+      "summary": "Ett förslag om att minska koldioxidutsläppen med 90 procent till 2040 ligger på bordet. Förslaget ses som avgörande med tanke på EU: s fastslagna mål om att vara klimatneutralt 2050. Länderna oroar sig för hur konkurrenskraften påverkas om utsläppsmålet blir alltför ambitiöst.",
+      "url": "https://yle.fi/a/7-10087413?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-04T09:01:09Z"
-    },
-    {
-      "title": "Svenska staden Boden håller andan när ännu ett megaprojekt i den gröna omställni…",
-      "summary": "Småstaden Boden har tagit stora lån för att stödja Stegra med bostäder och infrastruktur. För två veckor sedan avslöjade Financial Times att Stegra hotas av konkurs. Företaget har delvis samma ägare som konkursdrabbade Northvolt och en liknande finansieringsstruktur, som bygger på lån med framtida försäljning som säkerhet.",
-      "url": "https://yle.fi/a/7-10087150?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-03T09:00:16Z"
+      "published": "2025-11-04T10:22:16Z"
     }
   ]
 }
