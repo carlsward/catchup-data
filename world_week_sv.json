@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-07T07:13:46+00:00",
-  "total_raw": 39,
-  "total_rank": 6,
+  "generated": "2025-11-08T06:55:43+00:00",
+  "total_raw": 40,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Marimekko landade i hjärtat av Paris med målet att erövra världen",
+      "summary": "Den 140 kvadratmeter stora lokalen finns i hörnet av Rue Vieille du Temple och Rue de Poitou. Adressen är mycket välkänd bland både parisare och turister. Den ligger i hjärtat av metropolens legendariska Le Marais ( Träsket ) där många internationella modeskapare samlats under 2000 - talet.",
+      "url": "https://yle.fi/a/7-10086908?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-08T05:15:16Z"
+    },
+    {
+      "title": "Källor: Ungern får köpa rysk olja i ett år",
+      "summary": "Ungern har fått ett \" fullständigt och obegränsat undantag \" från import av rysk gas och olja. Utrikesminister Péter Szijjártó meddelade att Ungern hade gått med på att köpa amerikansk flytande naturgas värd cirka 5, 7 miljarder dollar. Ungern uppges ha gått med i att köpa den amerikanska flytande gasen värd motsvarande cirka cirka $ 5.",
+      "url": "https://svt.se/nyheter/utrikes/kallor-ungern-far-kopa-rysk-olja-i-ett-ar",
+      "domain": "svt.se",
+      "published": "2025-11-08T04:39:47Z"
+    },
+    {
+      "title": "Videoklipp visar brutal massaker av RSF i Sudan",
+      "summary": "Den 26 oktober intog Rapid Support Forces ( RSF ) staden al - Fashir i sydvästra Sudan. Enligt FN har befolkningen utsatts för avrättningar och sexuellt våld. Hundratals filmklipp har spridits på sociala medier, många har till synes filmats av förövarna själva.",
+      "url": "https://svt.se/nyheter/utrikes/videoklipp-visar-brutal-massaker-av-rsf-i-sudan",
+      "domain": "svt.se",
+      "published": "2025-11-07T17:57:17Z"
+    },
     {
       "title": "Estniska gårdar vädjar om hjälp efter svinpesten",
       "summary": "Gården Ekseko har tvingats slakta över hälften av sina djur på grund av den afrikanska svinpesten. Alla 8 300 suggor och 15 000 smågrisar har slaktats. Det var i juli som gården isolerades efter det konstaterades att flera suggor hade smittats av afrikansk svinpest.",
       "url": "https://yle.fi/a/7-10085994?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-07T04:00:17Z"
-    },
-    {
-      "title": "Amerikansk attack mot båt i Karibien",
-      "summary": "Tre manliga narkoterrorister - som befann sig ombord på fartyget - dödades, skriver försvarsministern. Attacken ska ha skett på internationellt vatten och utfördes på order av president Donald Trump. Nästan 70 personer har nu dött i dessa attacker, som startade i september och som kritiserats som \" utomrättsliga avrättningar.",
-      "url": "https://svt.se/nyheter/utrikes/amerikansk-attack-mot-bat-i-karibien",
-      "domain": "svt.se",
-      "published": "2025-11-07T03:29:21Z"
     },
     {
       "title": "Klimatmötet COP30 i Brasilien: Var, när och hur går klimatmötet till",
@@ -37,18 +51,18 @@
       "published": "2025-11-06T04:30:16Z"
     },
     {
-      "title": "Klimatforskaren: EU-ländernas klimatmål en urvattning",
-      "summary": "EU - länderna kom överens om målen för utsläppsminskningar med 90 procent jämfört med 1990. Målen innebär att EU till 2035 ska ha minskat utsläppen med 66, 25 till 72, 5 procent. Men kritiker säger att målen är för ambitiösa och riskerar att minska Europas konkurrenskraft.",
-      "url": "https://svt.se/nyheter/utrikes/klimatforskaren-eu-landernas-klimatmal-en-urvattning",
-      "domain": "svt.se",
-      "published": "2025-11-05T16:13:19Z"
+      "title": "Ryssland hotar med att börja testa kärnvapen",
+      "summary": "Försvarsminister Andrej Belousov föreslår att landet omedelbart börjar förbereda sig för fullskaliga tester av kärnvapen på Novaja Zemlja. Ryssland har inte för avsikt att lämna förbudet mot kärnvapentester, men varnade för att landet kommer att vidta åtgärder om andra stater återupptar tester. President Donald Trump förklarade att USA omedelbart börjar testa kärnvapen på lika villkor med andra länder.",
+      "url": "https://yle.fi/a/7-10087575?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-05T15:56:26Z"
     },
     {
-      "title": "Efter ett år av strider har ryska styrkor tagit sig in i Pokrovsk",
-      "summary": "Hundratals ryska soldater har lyckats infiltrera staden Pokrovsk i östra Ukraina. Ukrainas militär uppger att man skickat förstärkningar till staden och att mer vapen och utrustning är på väg. Ett av målen med den här operationen verkar vara att tvinga Ryssland att flytta bort styrkor från staden Dobropillia.",
-      "url": "https://yle.fi/a/7-10087497?origin=rss",
+      "title": "Ukraina vill inte ha kopek",
+      "summary": "Kopek ersätts med shah. Shah betyder steg, och användes som en monetär term i Ukraina på 1500 - och 1600 - talen. Sedlar med namnet shah var också i omlopp under den ukrainska revolutionen 1917 - 1921.",
+      "url": "https://yle.fi/a/7-10087569?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-05T11:22:40Z"
+      "published": "2025-11-05T15:49:58Z"
     }
   ]
 }

@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-07T07:14:23+00:00",
-  "total_raw": 39,
-  "total_rank": 3,
+  "generated": "2025-11-08T06:56:27+00:00",
+  "total_raw": 40,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Marimekko landade i hjärtat av Paris med målet att erövra världen",
+      "summary": "Den 140 kvadratmeter stora lokalen finns i hörnet av Rue Vieille du Temple och Rue de Poitou. Adressen är mycket välkänd bland både parisare och turister. Den ligger i hjärtat av metropolens legendariska Le Marais ( Träsket ) där många internationella modeskapare samlats under 2000 - talet.",
+      "url": "https://yle.fi/a/7-10086908?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-08T05:15:16Z"
+    },
     {
       "title": "Estniska gårdar vädjar om hjälp efter svinpesten",
       "summary": "Gården Ekseko har tvingats slakta över hälften av sina djur på grund av den afrikanska svinpesten. Alla 8 300 suggor och 15 000 smågrisar har slaktats. Det var i juli som gården isolerades efter det konstaterades att flera suggor hade smittats av afrikansk svinpest.",
@@ -23,11 +30,11 @@
       "published": "2025-11-06T04:30:16Z"
     },
     {
-      "title": "Efter ett år av strider har ryska styrkor tagit sig in i Pokrovsk",
-      "summary": "Hundratals ryska soldater har lyckats infiltrera staden Pokrovsk i östra Ukraina. Ukrainas militär uppger att man skickat förstärkningar till staden och att mer vapen och utrustning är på väg. Ett av målen med den här operationen verkar vara att tvinga Ryssland att flytta bort styrkor från staden Dobropillia.",
-      "url": "https://yle.fi/a/7-10087497?origin=rss",
+      "title": "Ukraina vill inte ha kopek",
+      "summary": "Kopek ersätts med shah. Shah betyder steg, och användes som en monetär term i Ukraina på 1500 - och 1600 - talen. Sedlar med namnet shah var också i omlopp under den ukrainska revolutionen 1917 - 1921.",
+      "url": "https://yle.fi/a/7-10087569?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-05T11:22:40Z"
+      "published": "2025-11-05T15:49:58Z"
     }
   ]
 }
