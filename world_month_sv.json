@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-08T06:56:27+00:00",
+  "generated": "2025-11-09T07:16:05+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Jättevågor på Teneriffa",
+      "summary": "Vid ett tillfälle sveptes tio personer i väg när en våg slog mot en pir i Puerto de la Cruz. Nio av personerna kunde räddas, men en kvinna från Nederländerna omkom i samband med händelsen. Tidigare under dagen hittades två omkomna män i vattnet längs stränder i norra respektive södra delen av ön.",
+      "url": "https://svt.se/nyheter/utrikes/jattevagor-pa-teneriffa-tre-doda",
+      "domain": "svt.se",
+      "published": "2025-11-08T23:23:48Z"
+    },
     {
       "title": "Marimekko landade i hjärtat av Paris med målet att erövra världen",
       "summary": "Den 140 kvadratmeter stora lokalen finns i hörnet av Rue Vieille du Temple och Rue de Poitou. Adressen är mycket välkänd bland både parisare och turister. Den ligger i hjärtat av metropolens legendariska Le Marais ( Träsket ) där många internationella modeskapare samlats under 2000 - talet.",
@@ -23,18 +30,11 @@
       "published": "2025-11-07T04:00:17Z"
     },
     {
-      "title": "Bebisar säljs på Facebook för några tusenlappar",
-      "summary": "Svenska Yles granskning av surrogatindustrin visar att agenturer inte är ärliga med blivande föräldrar. Många kvinnor från olika afrikanska länder som erbjuder sig att bli surgrogatmammor kommer från rika västländer. De flesta finländare som skaffar barn via en surrogatermamma gör det ändå ändå via en agentur, som fungerar som mellanhand för att sköta processen.",
-      "url": "https://yle.fi/a/7-10087107?origin=rss",
+      "title": "Klimatmötet COP30 i Brasilien: Svenska Yles redaktör enda finländska journaliste…",
+      "summary": "Det är sjunde gången Lotte Krank - van de Burgt har rapporterat från FN: s årliga klimatkonferens. Hon ger svar på fyra frågor om toppmötet i Brasilien. Det är tio år sedan Parisavtalet undertecknades och det är 30 år sedan FN började arrangera klimatmöten för att begränsa jordens temperaturökning.",
+      "url": "https://yle.fi/a/7-10087626?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-06T04:30:16Z"
-    },
-    {
-      "title": "Ukraina vill inte ha kopek",
-      "summary": "Kopek ersätts med shah. Shah betyder steg, och användes som en monetär term i Ukraina på 1500 - och 1600 - talen. Sedlar med namnet shah var också i omlopp under den ukrainska revolutionen 1917 - 1921.",
-      "url": "https://yle.fi/a/7-10087569?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-05T15:49:58Z"
+      "published": "2025-11-06T16:44:54Z"
     }
   ]
 }
