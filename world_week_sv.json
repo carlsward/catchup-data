@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-09T07:15:20+00:00",
+  "generated": "2025-11-10T07:20:17+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tre omkom när stora vågor drabbade Teneriffa",
-      "summary": "Räddningshelikopter plockade upp en man som hade fallit i vattnet vid en strand i La Guancha på öns nordkust. Han förklarades dödförklarad vid ankomsten, sade räddningstjänsten. Tidigare hittades en annan man flytande vid stranden i El Cabezo på södra Teneriffa.",
-      "url": "https://yle.fi/a/7-10087763?origin=rss",
+      "title": "Nedstängningen av statsapparaten i USA närmar sig ett slut",
+      "summary": "Nedstängningen av den amerikanska statsapparaten verkar vara på väg mot ett slut. 60 senatorer i senaten har gått med på några smärre ändringar i Donald Trumps budgetförslag för budgetåret 2025 – 2026. Kompromissförslaget måste fortfarande godkännas av representanthuset innan det kan undertecknas av president Trump.",
+      "url": "https://yle.fi/a/7-10087782?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-09T06:22:23Z"
+      "published": "2025-11-10T03:48:36Z"
     },
     {
-      "title": "Jättevågor på Teneriffa",
-      "summary": "Vid ett tillfälle sveptes tio personer i väg när en våg slog mot en pir i Puerto de la Cruz. Nio av personerna kunde räddas, men en kvinna från Nederländerna omkom i samband med händelsen. Tidigare under dagen hittades två omkomna män i vattnet längs stränder i norra respektive södra delen av ön.",
-      "url": "https://svt.se/nyheter/utrikes/jattevagor-pa-teneriffa-tre-doda",
+      "title": "USA-nedstängning ett steg närmare att brytas",
+      "summary": "Skiftet kommer efter åtta mittenorienterade demokrater nådde en uppgörelse med sina republikanska kollegor i senaten. Avtalet beskrivs som \" tillfällig \" och skulle trygga statens finansiering till och med den 30 januari. Schumer röstade nej Strax före klockan 05, svensk tid, godkändes överenskommelsen i en första röstning.",
+      "url": "https://svt.se/nyheter/utrikes/kallor-usa-nedstangning-nara-ett-slut",
       "domain": "svt.se",
-      "published": "2025-11-08T23:23:48Z"
+      "published": "2025-11-10T01:14:54Z"
     },
     {
-      "title": "Tornado i södra Brasilien",
-      "summary": "Vindar på över 69 meter per sekund har vält träd och bilar och flera byggnader och bostäder skadade. Byggnader och bostäder har raserats Värst drabbade av tornadon är kommunen Rio Bonito do Iguaçu, i delstaten Paraná, med cirka 14 000 invånare. Myndigheterna i området uppger att siffran över döda och skadade kan stiga.",
-      "url": "https://svt.se/nyheter/utrikes/tornado-i-sodra-brasilien-over-hundra-skadade",
+      "title": "Tio år med Parisavtalet",
+      "summary": "Parisavtalet om max 1, 5 graders global uppvärmning har passerat, varnar FN: s generalsekreterare och en rad tunga klimatforskare. Med ländernas nuvarande politik är jorden snarare på väg mot en uppvärmning på 2, 8 grader mot slutet av seklet. Åsa Romson representerade Sverige på plats i Paris 2015 när avtalet klubbades igenom under glädjescener.",
+      "url": "https://svt.se/nyheter/utrikes/tio-ar-med-parisavtalet-farre-varldsledare-pa-cop30-i-belem",
       "domain": "svt.se",
-      "published": "2025-11-08T06:16:07Z"
+      "published": "2025-11-09T19:12:44Z"
+    },
+    {
+      "title": "Efter Orbáns USA-besök: Han säljer ut Ungern, säger oppositionsledare Péter Magy…",
+      "summary": "Péter Magyar har länge lovat att föra sitt land västerut. Ungern har i många år intagit en egen kurs mot Nato och EU. Magyars uppstickande parti Tisza har förutsättningar att klara sig bra i parlamentsvalet i april.",
+      "url": "https://yle.fi/a/7-10087767?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-09T11:50:36Z"
+    },
+    {
+      "title": "Bataclan tio år senare: Därför ser Frankrike färre terrordåd i dag",
+      "summary": "Totalt 131 personer dödades i tre koordinerade dåd mot restauranger, fotbollsarenan Stade De France och konsertlokalen Bataclan i Paris den 13 november 2015. De allra flesta offren sköts ihjäl av terrorister som sedan tog sina liv genom att spränga sig själva. Genom att samarbeta mellan myndigheter på olika nivåer i Frankrike och med andra länder har man arbetat med anti - radikalisering samt kartläggning och kontroll av individer i riskzonen har man lyckats stoppa nyrekryteringen av unga terrorister.",
+      "url": "https://svt.se/nyheter/utrikes/bataclan-tio-ar-senare-darfor-ser-frankrike-farre-terrordad-i-dag",
+      "domain": "svt.se",
+      "published": "2025-11-08T14:14:08Z"
     },
     {
       "title": "Marimekko landade i hjärtat av Paris med målet att erövra världen",
@@ -37,11 +51,11 @@
       "published": "2025-11-08T05:15:16Z"
     },
     {
-      "title": "Videoklipp visar brutal massaker av RSF i Sudan",
-      "summary": "Den 26 oktober intog Rapid Support Forces ( RSF ) staden al - Fashir i sydvästra Sudan. Enligt FN har befolkningen utsatts för avrättningar och sexuellt våld. Hundratals filmklipp har spridits på sociala medier, många har till synes filmats av förövarna själva.",
-      "url": "https://svt.se/nyheter/utrikes/videoklipp-visar-brutal-massaker-av-rsf-i-sudan",
-      "domain": "svt.se",
-      "published": "2025-11-07T17:57:17Z"
+      "title": "Shein öppnade butik i Paris mitt under skandal om barnliknande sexdockor i sorti…",
+      "summary": "På bara några år har den kinesiska onlinehandelsjätten Shein gjort miljardvinster tack vare sin affärsmodell med enbart postorderförsändelser och snabbmode. Det innebär kläder som produceras blixtsnabbt, säljs superbilligt och ofta kastas lika snabbt. När företaget öppnade sin första permanenta, fysiska butik någonsin – på lyxvaruhuset BHV i Paris den 5 november – tvingades kravallpolis till plats.",
+      "url": "https://yle.fi/a/7-10086682?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-07T09:00:07Z"
     },
     {
       "title": "Estniska gårdar vädjar om hjälp efter svinpesten",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10085994?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-07T04:00:17Z"
-    },
-    {
-      "title": "President Stubb: En pessimist kommer aldrig att lösa klimatkrisen",
-      "summary": "Världsledare samlades i kuststaden Belém i Brasilien inför nästa veckas årliga globala klimatmöte COP30. Finlands president Alexander Stubb höll tal på engelska inför deltagarna. Stubb vill se innovation och ansvarstagande Stubb la fram tre punkter för vad han ser som avgörande för vidare framgångar: självrannsakan, en tro på vetenskapen och mod.",
-      "url": "https://yle.fi/a/7-10087654?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-06T19:06:38Z"
-    },
-    {
-      "title": "Klimatmötet COP30 i Brasilien: Svenska Yles redaktör enda finländska journaliste…",
-      "summary": "Det är sjunde gången Lotte Krank - van de Burgt har rapporterat från FN: s årliga klimatkonferens. Hon ger svar på fyra frågor om toppmötet i Brasilien. Det är tio år sedan Parisavtalet undertecknades och det är 30 år sedan FN började arrangera klimatmöten för att begränsa jordens temperaturökning.",
-      "url": "https://yle.fi/a/7-10087626?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-06T16:44:54Z"
     }
   ]
 }
