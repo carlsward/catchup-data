@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-10T07:21:03+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-11T07:15:51+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA-nedstängning ett steg närmare att brytas",
-      "summary": "Skiftet kommer efter åtta mittenorienterade demokrater nådde en uppgörelse med sina republikanska kollegor i senaten. Avtalet beskrivs som \" tillfällig \" och skulle trygga statens finansiering till och med den 30 januari. Schumer röstade nej Strax före klockan 05, svensk tid, godkändes överenskommelsen i en första röstning.",
-      "url": "https://svt.se/nyheter/utrikes/kallor-usa-nedstangning-nara-ett-slut",
+      "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
+      "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
+      "url": "https://yle.fi/a/7-10087845?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-11T06:44:30Z"
+    },
+    {
+      "title": "Chatt: Vad undrar du om svenska gängtoppar utomlands?",
+      "summary": "Arne: Gängen blir större när en gärningsman släpps ut ur fängelset. Han säger att media ger gängledare en kändisstatus. När de släpps efter avtjänat straff är det svårt för många att skaffa bankkonton, få hyreskontrakt och jobb.",
+      "url": "https://svt.se/nyheter/utrikes/chatt-vad-undrar-du-om-svenska-gangtoppar-utomlands",
       "domain": "svt.se",
-      "published": "2025-11-10T01:14:54Z"
+      "published": "2025-11-10T11:40:19Z"
     },
     {
       "title": "Efter Orbáns USA-besök: Han säljer ut Ungern, säger oppositionsledare Péter Magy…",
@@ -23,18 +30,11 @@
       "published": "2025-11-09T11:50:36Z"
     },
     {
-      "title": "Marimekko landade i hjärtat av Paris med målet att erövra världen",
-      "summary": "Den 140 kvadratmeter stora lokalen finns i hörnet av Rue Vieille du Temple och Rue de Poitou. Adressen är mycket välkänd bland både parisare och turister. Den ligger i hjärtat av metropolens legendariska Le Marais ( Träsket ) där många internationella modeskapare samlats under 2000 - talet.",
-      "url": "https://yle.fi/a/7-10086908?origin=rss",
+      "title": "Historisk jättediamant var försvunnen i 100 år",
+      "summary": "Den historiska diamanten plockades fram ur en pappkappsäck i ett bankvalv någonstans i den kanadensiska provinsen Quebec. På engelska Wikipedia Wikipedia finns Florentinaren fortfarande med på listan över försvunna skatter. Ferdinand I de ' Medici köpte diamanten i slutet av 1500 - talet men efter att ätten Medici dog ut på svärdssidan landade den hos släkten Habsburg, som satt på den kejserliga tronen i dubbelmonarkin Österrike - Ungern.",
+      "url": "https://yle.fi/a/7-10087759?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-08T05:15:16Z"
-    },
-    {
-      "title": "Estniska gårdar vädjar om hjälp efter svinpesten",
-      "summary": "Gården Ekseko har tvingats slakta över hälften av sina djur på grund av den afrikanska svinpesten. Alla 8 300 suggor och 15 000 smågrisar har slaktats. Det var i juli som gården isolerades efter det konstaterades att flera suggor hade smittats av afrikansk svinpest.",
-      "url": "https://yle.fi/a/7-10085994?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-07T04:00:17Z"
+      "published": "2025-11-08T19:46:00Z"
     }
   ]
 }

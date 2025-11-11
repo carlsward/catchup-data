@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-10T07:18:53+00:00",
-  "total_raw": 17,
+  "generated": "2025-11-11T07:13:45+00:00",
+  "total_raw": 20,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Efter Orbáns USA-besök: Han säljer ut Ungern, säger oppositionsledare Péter Magy…",
-      "summary": "Péter Magyar har länge lovat att föra sitt land västerut. Ungern har i många år intagit en egen kurs mot Nato och EU. Magyars uppstickande parti Tisza har förutsättningar att klara sig bra i parlamentsvalet i april.",
-      "url": "https://yle.fi/a/7-10087767?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-09T11:50:36Z"
-    },
-    {
-      "title": "BBC:s generaldirektör avgår efter kritiserad Trumpvideo",
-      "summary": "BBC: s generaldirektör Tim Davie och nyhetschefen Deborah Turness lämnar sin tjänst. De två höga chefernas avgång kommer efter flera dagar av uppståndelse kring BBC nyhetsrapportering. I måndags rapporterade The Telegraph med hänvisning till en läckt intern promemoria att BBC hade klippt ihop delar av Donald Trump tal den 6 januari 2021.",
-      "url": "https://yle.fi/a/7-10087778?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-09T19:41:09Z"
-    },
-    {
-      "title": "Tio år med Parisavtalet",
-      "summary": "Parisavtalet om max 1, 5 graders global uppvärmning har passerat, varnar FN: s generalsekreterare och en rad tunga klimatforskare. Med ländernas nuvarande politik är jorden snarare på väg mot en uppvärmning på 2, 8 grader mot slutet av seklet. Åsa Romson representerade Sverige på plats i Paris 2015 när avtalet klubbades igenom under glädjescener.",
-      "url": "https://svt.se/nyheter/utrikes/tio-ar-med-parisavtalet-farre-varldsledare-pa-cop30-i-belem",
+      "title": "Chatt: Vad undrar du om svenska gängtoppar utomlands?",
+      "summary": "Arne: Gängen blir större när en gärningsman släpps ut ur fängelset. Han säger att media ger gängledare en kändisstatus. När de släpps efter avtjänat straff är det svårt för många att skaffa bankkonton, få hyreskontrakt och jobb.",
+      "url": "https://svt.se/nyheter/utrikes/chatt-vad-undrar-du-om-svenska-gangtoppar-utomlands",
       "domain": "svt.se",
-      "published": "2025-11-09T19:12:44Z"
+      "published": "2025-11-10T11:40:19Z"
     },
     {
-      "title": "En miljon människor på flykt undan supertyfon i Filippinerna",
-      "summary": "Fung - wong klassificeras nu som tyfon i kategori 3. Vindar med orkanstyrka förväntas röra sig över Luzon under kvällen och natten. Människor har blivit sittande på sina tak för att husen snabbt omgärdas av vatten.",
-      "url": "https://yle.fi/a/7-10087768?origin=rss",
+      "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
+      "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
+      "url": "https://yle.fi/a/7-10087845?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-09T09:50:31Z"
+      "published": "2025-11-11T06:44:30Z"
     },
     {
-      "title": "Två BBC-chefer avgår efter kritiken mot redigering av Trump-dokumentär",
-      "summary": "BBC: s generaldirektör Tim Davie och nyhetschefen Deborah Turness lämnar sina tjänster efter att de mottagit kritik för en dokumentär av mediebolaget. Kritiken riktade sig mot redigeringen av ett tal av Donalds Trump som kritiker menade kunde vilseleda tittarna. Klippningen ser ut att uppmana stormning Talet hölls samma dag som stormningen av Kapitolium i januari 2021.",
-      "url": "https://svt.se/nyheter/utrikes/tva-bbc-chefer-avgar-efter-kritiken-mot-redigering-av-trump-dokumentar",
+      "title": "Kommentar: Sagolandet Sverige skickade kungen till klimatmötet och signalerade m…",
+      "summary": "Debatt om Sveriges engagemang för klimatmötet COP30 har bevisvärde. Det går sällsynt illa för den svenska regeringens strävan att nå landets klimatmål. En orsak är att den svenska högerregeringen sänkte priset på bensin.",
+      "url": "https://yle.fi/a/7-10087787?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-10T10:11:21Z"
+    },
+    {
+      "title": "President Niinistö: Europa borde tala direkt med Ryssland, som Trump gör",
+      "summary": "President Sauli Niinistö anser att Europa borde föra direkta samtal med Ryssland. Han säger att Rysslands president Vladimir Putin förhandlar om Ukrainas öde direkt med USA: s president Donald Trump. Han tycker att Europa nu befinner sig vid ett vägskäl: – Man måste rycka upp sig om det egna ska bestå.",
+      "url": "https://yle.fi/a/7-10087835?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-10T18:30:45Z"
+    },
+    {
+      "title": "Budgetstriden i USA ett steg närmare lösning",
+      "summary": "Nedstängningen är en följd av att man inte kunnat enas om budgeten. Nu har man röstat om ett kompromissförslag. Åtta demokrater röstade med Republikanerna, trots kritik från tunga partivänner.",
+      "url": "https://svt.se/nyheter/utrikes/budgetstriden-i-usa-ett-steg-narmare-losning",
       "domain": "svt.se",
-      "published": "2025-11-09T18:15:10Z"
+      "published": "2025-11-11T02:41:00Z"
     }
   ]
 }
