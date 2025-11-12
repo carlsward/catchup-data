@@ -3,22 +3,22 @@
   "language": "sv",
   "span": "day",
   "days": 1,
-  "generated": "2025-11-11T07:13:45+00:00",
-  "total_candidates": 20,
+  "generated": "2025-11-12T07:12:31+00:00",
+  "total_candidates": 22,
   "total_selected": 5,
   "utc_range": {
-    "min": 1762760918,
-    "max": 1762843470
+    "min": 1762848085,
+    "max": 1762925992
   },
   "per_day": [
     {
       "day_index": 0,
       "candidates": 5,
-      "selected": 2
+      "selected": 1
     }
   ],
   "per_domain_selected": {
-    "yle.fi": 3,
-    "svt.se": 2
+    "svt.se": 3,
+    "yle.fi": 2
   }
 }

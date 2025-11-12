@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-11T07:15:51+00:00",
+  "generated": "2025-11-12T07:14:16+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Massiv militärövning i Venezuela efter ökad amerikansk närvaro",
+      "summary": "Mobilisering är ett svar på det \" imperialistiska hotet \" som USA utgör, säger försvarsministern. Förutom den vanliga militären kommer den bolivianska milisen att delta. Spänt läge mellan Venezuela och USA Milisen ska enligt Maduro bestå av flera miljoner civila.",
+      "url": "https://svt.se/nyheter/utrikes/massiv-militarovning-i-venezuela-efter-okad-amerikansk-narvaro",
+      "domain": "svt.se",
+      "published": "2025-11-11T23:38:42Z"
+    },
     {
       "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
       "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
@@ -16,25 +23,18 @@
       "published": "2025-11-11T06:44:30Z"
     },
     {
-      "title": "Chatt: Vad undrar du om svenska gängtoppar utomlands?",
-      "summary": "Arne: Gängen blir större när en gärningsman släpps ut ur fängelset. Han säger att media ger gängledare en kändisstatus. När de släpps efter avtjänat straff är det svårt för många att skaffa bankkonton, få hyreskontrakt och jobb.",
-      "url": "https://svt.se/nyheter/utrikes/chatt-vad-undrar-du-om-svenska-gangtoppar-utomlands",
-      "domain": "svt.se",
-      "published": "2025-11-10T11:40:19Z"
+      "title": "Kommentar: Sagolandet Sverige skickade kungen till klimatmötet och signalerade m…",
+      "summary": "Debatt om Sveriges engagemang för klimatmötet COP30 har bevisvärde. Det går sällsynt illa för den svenska regeringens strävan att nå landets klimatmål. En orsak är att den svenska högerregeringen sänkte priset på bensin.",
+      "url": "https://yle.fi/a/7-10087787?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-10T10:11:21Z"
     },
     {
-      "title": "Efter Orbáns USA-besök: Han säljer ut Ungern, säger oppositionsledare Péter Magy…",
-      "summary": "Péter Magyar har länge lovat att föra sitt land västerut. Ungern har i många år intagit en egen kurs mot Nato och EU. Magyars uppstickande parti Tisza har förutsättningar att klara sig bra i parlamentsvalet i april.",
-      "url": "https://yle.fi/a/7-10087767?origin=rss",
+      "title": "BBC:s generaldirektör avgår efter kritiserad Trumpvideo",
+      "summary": "Det brittiska rundradiobolaget BBC: s generaldirektör Tim Davie avgår, meddelade BBC på söndagskvällen. Även chefen för BBC nyhetsverksamhet Deborah Turness lämnar sin tjänst. De två höga chefernas avgång kommer efter flera dagar av uppståndelse kring BBCs nyhetsrapportering.",
+      "url": "https://yle.fi/a/7-10087778?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-09T11:50:36Z"
-    },
-    {
-      "title": "Historisk jättediamant var försvunnen i 100 år",
-      "summary": "Den historiska diamanten plockades fram ur en pappkappsäck i ett bankvalv någonstans i den kanadensiska provinsen Quebec. På engelska Wikipedia Wikipedia finns Florentinaren fortfarande med på listan över försvunna skatter. Ferdinand I de ' Medici köpte diamanten i slutet av 1500 - talet men efter att ätten Medici dog ut på svärdssidan landade den hos släkten Habsburg, som satt på den kejserliga tronen i dubbelmonarkin Österrike - Ungern.",
-      "url": "https://yle.fi/a/7-10087759?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-08T19:46:00Z"
+      "published": "2025-11-09T19:41:09Z"
     }
   ]
 }

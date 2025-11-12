@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-11T07:15:06+00:00",
+  "generated": "2025-11-12T07:13:36+00:00",
   "total_raw": 39,
-  "total_rank": 8,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Aktivister stormade COP30-klimatmötets lokaler",
+      "summary": "Hundratals företrädare för ursprungsbefolkningarna stormade huvudingången till möteslokalen i Belém, Brasilien. Säkerhetsvakter lyckades stoppa dem innan de nådde den så kallade blå zonen, den formella förhandlingslokalen. Många av demonstranterna bar på skyltar med texten: \" Vårt land är inte till salu...",
+      "url": "https://yle.fi/a/7-10087917?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-12T04:03:41Z"
+    },
+    {
+      "title": "Massiv militärövning i Venezuela efter ökad amerikansk närvaro",
+      "summary": "Mobilisering är ett svar på det \" imperialistiska hotet \" som USA utgör, säger försvarsministern. Förutom den vanliga militären kommer den bolivianska milisen att delta. Spänt läge mellan Venezuela och USA Milisen ska enligt Maduro bestå av flera miljoner civila.",
+      "url": "https://svt.se/nyheter/utrikes/massiv-militarovning-i-venezuela-efter-okad-amerikansk-narvaro",
+      "domain": "svt.se",
+      "published": "2025-11-11T23:38:42Z"
+    },
+    {
+      "title": "Ny korruptionsskandal skakar Kiev",
+      "summary": "Ukrainas antikorruptionsmyndighet Nabu kunde på måndagen avslöja en omfattande korruptionshärva. Sju personer åtalas för att ha förskingrat omkring 100 miljoner dollar, motsvarande nära en miljard svenska kronor. Enligt myndigheten har de misstänkta upprättat ett storskaligt mutsystem inom energisektorn.",
+      "url": "https://svt.se/nyheter/utrikes/ny-korruptionsskandal-skakar-kiev",
+      "domain": "svt.se",
+      "published": "2025-11-11T21:17:27Z"
+    },
     {
       "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
       "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
@@ -16,18 +37,11 @@
       "published": "2025-11-11T06:44:30Z"
     },
     {
-      "title": "Budgetstriden i USA ett steg närmare lösning",
-      "summary": "Nedstängningen är en följd av att man inte kunnat enas om budgeten. Nu har man röstat om ett kompromissförslag. Åtta demokrater röstade med Republikanerna, trots kritik från tunga partivänner.",
-      "url": "https://svt.se/nyheter/utrikes/budgetstriden-i-usa-ett-steg-narmare-losning",
+      "title": "USA lyfter tillfälligt sanktioner mot Syrien",
+      "summary": "Sanktionerna gäller de som ligger under den så kallade Caesar Act, vilket är en lag som Donald Trump införde 2019. USA: s finansdepartement vill dock göra undantag i lättnaden gällande transaktioner med Ryssland och Iran. När al - Sharaa anlände till Vita huset mötte han inte Trump traditionsenligt vid västra flygeln.",
+      "url": "https://svt.se/nyheter/utrikes/motet-mellan-al-sharaa-och-trump-har-borjat",
       "domain": "svt.se",
-      "published": "2025-11-11T02:41:00Z"
-    },
-    {
-      "title": "Chatt: Vad undrar du om svenska gängtoppar utomlands?",
-      "summary": "Arne: Gängen blir större när en gärningsman släpps ut ur fängelset. Han säger att media ger gängledare en kändisstatus. När de släpps efter avtjänat straff är det svårt för många att skaffa bankkonton, få hyreskontrakt och jobb.",
-      "url": "https://svt.se/nyheter/utrikes/chatt-vad-undrar-du-om-svenska-gangtoppar-utomlands",
-      "domain": "svt.se",
-      "published": "2025-11-10T11:40:19Z"
+      "published": "2025-11-10T16:49:07Z"
     },
     {
       "title": "Kommentar: Sagolandet Sverige skickade kungen till klimatmötet och signalerade m…",
@@ -37,32 +51,11 @@
       "published": "2025-11-10T10:11:21Z"
     },
     {
-      "title": "Tio år med Parisavtalet",
-      "summary": "Parisavtalet om max 1, 5 graders global uppvärmning har passerat, varnar FN: s generalsekreterare och en rad tunga klimatforskare. Med ländernas nuvarande politik är jorden snarare på väg mot en uppvärmning på 2, 8 grader mot slutet av seklet. Åsa Romson representerade Sverige på plats i Paris 2015 när avtalet klubbades igenom under glädjescener.",
-      "url": "https://svt.se/nyheter/utrikes/tio-ar-med-parisavtalet-farre-varldsledare-pa-cop30-i-belem",
-      "domain": "svt.se",
-      "published": "2025-11-09T19:12:44Z"
-    },
-    {
-      "title": "Efter Orbáns USA-besök: Han säljer ut Ungern, säger oppositionsledare Péter Magy…",
-      "summary": "Péter Magyar har länge lovat att föra sitt land västerut. Ungern har i många år intagit en egen kurs mot Nato och EU. Magyars uppstickande parti Tisza har förutsättningar att klara sig bra i parlamentsvalet i april.",
-      "url": "https://yle.fi/a/7-10087767?origin=rss",
+      "title": "BBC:s generaldirektör avgår efter kritiserad Trumpvideo",
+      "summary": "Det brittiska rundradiobolaget BBC: s generaldirektör Tim Davie avgår, meddelade BBC på söndagskvällen. Även chefen för BBC nyhetsverksamhet Deborah Turness lämnar sin tjänst. De två höga chefernas avgång kommer efter flera dagar av uppståndelse kring BBCs nyhetsrapportering.",
+      "url": "https://yle.fi/a/7-10087778?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-09T11:50:36Z"
-    },
-    {
-      "title": "Historisk jättediamant var försvunnen i 100 år",
-      "summary": "Den historiska diamanten plockades fram ur en pappkappsäck i ett bankvalv någonstans i den kanadensiska provinsen Quebec. På engelska Wikipedia Wikipedia finns Florentinaren fortfarande med på listan över försvunna skatter. Ferdinand I de ' Medici köpte diamanten i slutet av 1500 - talet men efter att ätten Medici dog ut på svärdssidan landade den hos släkten Habsburg, som satt på den kejserliga tronen i dubbelmonarkin Österrike - Ungern.",
-      "url": "https://yle.fi/a/7-10087759?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-08T19:46:00Z"
-    },
-    {
-      "title": "Storbritannien söker inspiration från Danmark för strängare immigrationslagar",
-      "summary": "Shabana Mahmood kommer att presentera ett omfattande reformpaket som gäller landets immigrations - och asylregler senare i november. Flera brittiska medier rapporterar också att inrikesministern har låtit sig inspireras av Danmarks stränga regler. På Labours partikongress lovade hon att göra allt som krävs för att Storbritannien ska få kontroll över sina gränser igen.",
-      "url": "https://yle.fi/a/7-10087756?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-08T17:09:32Z"
+      "published": "2025-11-09T19:41:09Z"
     }
   ]
 }
