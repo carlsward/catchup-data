@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-13T07:17:10+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-14T07:14:50+00:00",
+  "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Så avgörs Europas klimatpolitik i Peking",
+      "summary": "Kina har gått från att vara världens största utsläppare av växthusgaser till att också vara världsledande inom grön teknologi. Kina leder produktionen av solpaneler, batterier till elbilar och kritiska mineraler. Samtidigt har Europas produktion halkat efter och beroendet av kinesisk teknik och råvaror har ökat dramatiskt.",
+      "url": "https://yle.fi/a/7-10087348?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-14T04:47:41Z"
+    },
     {
       "title": "Attacken i Paris 2015 lämnade djupa spår: ‘’Jag är alltid extra försiktig efter…",
       "summary": "130 personer som dog i terrorattackerna den 13 november 2015 har talat om sina erfarenheter. Många av offren för terroristernas terrorattacker har berättat om sina minnen offentligt inför årsdagen. Pappa Olivier, mamma Lucille, dottern Gabrielle och kompisen Yaëlle har alla tänt två ljus vardera och ställt dem vid foten av den stora staty som står mitt på skvären.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10087972?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-12T15:27:19Z"
-    },
-    {
-      "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
-      "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
-      "url": "https://yle.fi/a/7-10087845?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-11T06:44:30Z"
     }
   ]
 }

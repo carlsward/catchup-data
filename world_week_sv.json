@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-13T07:16:35+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-14T07:14:16+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Kraftiga attacker mot Kiev under natten: ”Oerhört tung natt",
+      "summary": "Minst 11 bostadshus har attackerats och bränts, säger SVT: s Elin Jönsson. Ryssland skickade även in ett stort antal drönare som vi hörde explodera, säger hon. Det har också kommit rapporter om att ryska trupper omringat soldater och avrättat tre ukrainska soldater i Myrnohrad.",
+      "url": "https://svt.se/nyheter/utrikes/kraftiga-attacker-mot-kiev-under-natten-oerhort-tung-natt",
+      "domain": "svt.se",
+      "published": "2025-11-14T06:41:24Z"
+    },
+    {
+      "title": "Så avgörs Europas klimatpolitik i Peking",
+      "summary": "Kina har gått från att vara världens största utsläppare av växthusgaser till att också vara världsledande inom grön teknologi. Kina leder produktionen av solpaneler, batterier till elbilar och kritiska mineraler. Samtidigt har Europas produktion halkat efter och beroendet av kinesisk teknik och råvaror har ökat dramatiskt.",
+      "url": "https://yle.fi/a/7-10087348?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-14T04:47:41Z"
+    },
     {
       "title": "Attacken i Paris 2015 lämnade djupa spår: ‘’Jag är alltid extra försiktig efter…",
       "summary": "130 personer som dog i terrorattackerna den 13 november 2015 har talat om sina erfarenheter. Många av offren för terroristernas terrorattacker har berättat om sina minnen offentligt inför årsdagen. Pappa Olivier, mamma Lucille, dottern Gabrielle och kompisen Yaëlle har alla tänt två ljus vardera och ställt dem vid foten av den stora staty som står mitt på skvären.",
@@ -17,10 +31,17 @@
     },
     {
       "title": "Nedstängningen i USA är över",
-      "summary": "I måndags godkände senaten ett kompromissförslag som innebär att finansieringen av den federala statsapparaten förlängs till den 30 januari. Natten mot torsdag svensk tid röstades lagförslaget även igenom av representanthuset med 222 röster för och 209 emot. När han kom ut igen var tonen hårdare.",
+      "summary": "I måndags godkände senaten ett kompromissförslag som innebär att finansieringen av den federala statsapparaten förlängs till den 30 januari. Natten mot torsdag svensk tid röstades lagförslaget även igenom av representanthuset med 222 röster för och 209 emot. Ett slutligt undertecknande av presidenten krävdes för att budgeten skulle antas.",
       "url": "https://svt.se/nyheter/utrikes/nedstangningen-kan-vara-over-representanthuset-rostar-ja",
       "domain": "svt.se",
       "published": "2025-11-13T01:22:48Z"
+    },
+    {
+      "title": "Här är kritiken som skapat ”stor kris” på BBC",
+      "summary": "De senaste dagarna har rubriker om BBC dominerat det brittiska nyhetsflödet. Sandra Stiskalo: \" Det är en jättestor sak i Storbritannien och en stor kris för hela bolaget \" Många britter är överens om att klippningen av Trump - inslaget var missvisande. Det här är svåra tider för BBC men vi kommer att ta oss igenom dem, \" sade Tim Davie i ett tal till anställda under tisdagens ITV - tal till personalen.",
+      "url": "https://svt.se/nyheter/utrikes/har-ar-kritiken-som-skapat-stor-kris-pa-bbc",
+      "domain": "svt.se",
+      "published": "2025-11-12T20:06:48Z"
     },
     {
       "title": "Privata mejl från Epstein uppger att Trump ”kände till flickorna",
@@ -28,27 +49,6 @@
       "url": "https://yle.fi/a/7-10087972?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-12T15:27:19Z"
-    },
-    {
-      "title": "Epsteins mejl om Trump: Han tillbringade timmar i mitt hus",
-      "summary": "Representanthusets utredningsutskott håller på att gå igenom tusentals dokument ur Epstein - utredningen. Demokraterna i utskottet har offentliggjort tre tidigare okända mejl ur materialet. De menar att de väcker frågor om Trumps relation med Jeffrey Epstein och vad han kände till om brotten.",
-      "url": "https://svt.se/nyheter/utrikes/epsteins-mejl-om-trump-han-tillbringade-timmar-i-mitt-hus",
-      "domain": "svt.se",
-      "published": "2025-11-12T15:03:03Z"
-    },
-    {
-      "title": "Ny korruptionsskandal skakar Kiev",
-      "summary": "Ukrainas antikorruptionsmyndighet Nabu kunde på måndagen avslöja en omfattande korruptionshärva. Sju personer åtalas för att ha förskingrat omkring 100 miljoner dollar, motsvarande nära en miljard svenska kronor. Enligt myndigheten har de misstänkta upprättat ett storskaligt mutsystem inom energisektorn.",
-      "url": "https://svt.se/nyheter/utrikes/ny-korruptionsskandal-skakar-kiev",
-      "domain": "svt.se",
-      "published": "2025-11-11T21:17:27Z"
-    },
-    {
-      "title": "Korruption och ojämlikhet får unga irakier att vända politiken ryggen",
-      "summary": "Valet ses av många analytiker som en måttstock för hur förtroendet för det politiska systemet upprättades efter USA: s invasion 2003. Irakierna ska välja 329 parlamentsledamöter bland de totalt 7 744 kandidater, som kommer från en rad olika religiösa grupper och politiska partier. 83 av platserna ska enligt det rådande systemet gå till kvinnor.",
-      "url": "https://yle.fi/a/7-10087845?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-11T06:44:30Z"
     }
   ]
 }
