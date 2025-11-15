@@ -2,15 +2,29 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-14T07:14:16+00:00",
+  "generated": "2025-11-15T06:59:18+00:00",
   "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Molenbeek försöker skaka av sig terrorstämpeln tio år efter Parisattackerna",
+      "summary": "Molenbeek plågas av nya problem som delvis har ersatt hotet från jihadism. Unga människor dras fortfarande in i radikaliseringen, säger forskaren Mohamed Fahmi. Han säger att den offentliga politiken inte har lyckats förhindra radikalisering.",
+      "url": "https://yle.fi/a/7-10087978?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-15T04:35:50Z"
+    },
+    {
+      "title": "Ryska roboten faller handlöst",
+      "summary": "Robottillverkaren Aidol presenterade sin nya modell inför journalister och gäster på plats i Moskva nyligen. Till tonerna av ledmotivet från. Rocky – roboten hann bara ta ett fåtal steg innan den föll rakt framåt, varpå en märkbart stressad person försökte skymma scenen med ett draperi.",
+      "url": "https://svt.se/nyheter/utrikes/ryska-roboten-faller-handlost-mitt-under-lanseringen",
+      "domain": "svt.se",
+      "published": "2025-11-15T02:11:20Z"
+    },
+    {
       "title": "Kraftiga attacker mot Kiev under natten: ”Oerhört tung natt",
-      "summary": "Minst 11 bostadshus har attackerats och bränts, säger SVT: s Elin Jönsson. Ryssland skickade även in ett stort antal drönare som vi hörde explodera, säger hon. Det har också kommit rapporter om att ryska trupper omringat soldater och avrättat tre ukrainska soldater i Myrnohrad.",
+      "summary": "Minst sex personer har dött och minst 35 har skadats, rapporterar AP. Ryssland skickade även in ett stort antal drönare som vi hörde explodera, säger SVT: s Elin Jönsson. Ukraina har också attackerat en oljedepå och bostadshus i den ryska staden Novorossiysk, vid Svarta havet.",
       "url": "https://svt.se/nyheter/utrikes/kraftiga-attacker-mot-kiev-under-natten-oerhort-tung-natt",
       "domain": "svt.se",
       "published": "2025-11-14T06:41:24Z"
@@ -23,11 +37,11 @@
       "published": "2025-11-14T04:47:41Z"
     },
     {
-      "title": "Attacken i Paris 2015 lämnade djupa spår: ‘’Jag är alltid extra försiktig efter…",
-      "summary": "130 personer som dog i terrorattackerna den 13 november 2015 har talat om sina erfarenheter. Många av offren för terroristernas terrorattacker har berättat om sina minnen offentligt inför årsdagen. Pappa Olivier, mamma Lucille, dottern Gabrielle och kompisen Yaëlle har alla tänt två ljus vardera och ställt dem vid foten av den stora staty som står mitt på skvären.",
-      "url": "https://yle.fi/a/7-10087682?origin=rss",
+      "title": "Brittisk dokumentär om Hitlers dna: Kan ha haft mikropenis",
+      "summary": "Dokumentär hävdar att Hitler mobbades för hur hans könsorgan såg ut. Dna - analys av Hitlers blod visar att han hade Kallmanns syndrom, en genetiskt betingad endokrin sjukdom som kan orsaka helt utebliven pubertet eller puberteten inte fortskrider normalt. Nazist led av högre risk än 90 procent av befolkningen för autism, schizofreni och bipolär sjukdom, enligt The Times.",
+      "url": "https://yle.fi/a/7-10088006?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-13T04:30:14Z"
+      "published": "2025-11-13T18:01:31Z"
     },
     {
       "title": "Nedstängningen i USA är över",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/nedstangningen-kan-vara-over-representanthuset-rostar-ja",
       "domain": "svt.se",
       "published": "2025-11-13T01:22:48Z"
-    },
-    {
-      "title": "Här är kritiken som skapat ”stor kris” på BBC",
-      "summary": "De senaste dagarna har rubriker om BBC dominerat det brittiska nyhetsflödet. Sandra Stiskalo: \" Det är en jättestor sak i Storbritannien och en stor kris för hela bolaget \" Många britter är överens om att klippningen av Trump - inslaget var missvisande. Det här är svåra tider för BBC men vi kommer att ta oss igenom dem, \" sade Tim Davie i ett tal till anställda under tisdagens ITV - tal till personalen.",
-      "url": "https://svt.se/nyheter/utrikes/har-ar-kritiken-som-skapat-stor-kris-pa-bbc",
-      "domain": "svt.se",
-      "published": "2025-11-12T20:06:48Z"
-    },
-    {
-      "title": "Privata mejl från Epstein uppger att Trump ”kände till flickorna",
-      "summary": "Jeffrey Epstein nämnde Donald Trump vid namn flera gånger i privat korrespondens i 15 års tid, rapporterar CNN. Demokraterna i representanthusets tillsynskommitté har släppt 23 000 sidor dokument som kopplar samman Epstein och Epstein. I e - post till sin långvariga medarbetare Ghislaine Maxwell, som dömdes för sexhandel efter Epsteins död, samt till författaren Michael Wolff uppges Epstein säga att Trump tillbringade betydande tid med en kvinna som kommittén beskriver som ett offer för Epstein sexhandel.",
-      "url": "https://yle.fi/a/7-10087972?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-12T15:27:19Z"
     }
   ]
 }
