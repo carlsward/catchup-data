@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-16T07:20:17+00:00",
-  "total_raw": 40,
-  "total_rank": 4,
+  "generated": "2025-11-17T07:17:14+00:00",
+  "total_raw": 39,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Storbritannien minskar skyddet för flyktingar",
-      "summary": "De föreslagna förändringarna är en del av ett reformpaket som gäller landets immigrations - och asylregler. Åtgärderna är modellerade efter Danmarks asyl - och immigrationssystem, som hör till de striktaste i Europa. Flyktingstatusens varaktighet kommer att skäras till hälften, 30 månader, alltså två och ett halvt år.",
-      "url": "https://yle.fi/a/7-10088165?origin=rss",
+      "title": "Omröstning om Epsteindokument väntar",
+      "summary": "De så kallade Epsteinfilerna har orsakat en spricka mellan republikaner och president. I juli fick representanthuset en tidigarelagd semester för att den republikanska talmannen Mike Johnson ville undvika en debatt om dokumenten. Nu har Johnson sagt att en omröstning om ett offentliggörande ska ske kommande vecka.",
+      "url": "https://svt.se/nyheter/utrikes/i-veckan-vantas-spand-omrostning-om-epsteindokument",
+      "domain": "svt.se",
+      "published": "2025-11-17T02:41:44Z"
+    },
+    {
+      "title": "Skäggförbud och rivna minareter: Så kontrollerar Kina sin muslimska minoritet",
+      "summary": "Uigurerna utgör ungefär hälften av Kinas 25 miljoner muslimer. Traditionellt har muslimer i Kina utövat en tolerant och moderat form av sin religion. Men för cirka 20 år sedan började det bli vanligt att kvinnor bar svarta plagg som täckte allt utom ögonen.",
+      "url": "https://yle.fi/a/7-10086155?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-16T04:40:09Z"
+      "published": "2025-11-16T09:02:51Z"
     },
     {
       "title": "Pengarna från din rekorddyra choklad når inte kakaobonden Adwoa Besiwaa",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10086156?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-15T14:25:46Z"
-    },
-    {
-      "title": "Så avgörs Europas klimatpolitik i Peking",
-      "summary": "Kina har gått från att vara världens största utsläppare av växthusgaser till att också vara världsledande inom grön teknologi. Kina leder produktionen av solpaneler, batterier till elbilar och kritiska mineraler. Samtidigt har Europas produktion halkat efter och beroendet av kinesisk teknik och råvaror har ökat dramatiskt.",
-      "url": "https://yle.fi/a/7-10087348?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-14T04:47:41Z"
-    },
-    {
-      "title": "BBC: Ingen ersättning till Trump",
-      "summary": "Trumpadministrationens talesperson meddelade idag att en stämningsansökan lämnats in. Presidentens externa juridiska rådgivare har stämt BBC, sade Karoline Leavitt. BBC har fram till kl.",
-      "url": "https://svt.se/nyheter/utrikes/bbc-ingen-ersattning-till-trump",
-      "domain": "svt.se",
-      "published": "2025-11-13T20:51:08Z"
     }
   ]
 }

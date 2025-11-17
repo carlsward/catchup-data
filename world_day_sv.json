@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-16T07:18:34+00:00",
-  "total_raw": 17,
+  "generated": "2025-11-17T07:15:46+00:00",
+  "total_raw": 19,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Pengarna från din rekorddyra choklad når inte kakaobonden Adwoa Besiwaa",
-      "summary": "Kakaon är en livlina för Adwoa Besiwaa, 40, men hon oroar sig för sina barns framtid. Priset på choklad steg med 26 procent i Finland mellan maj 2024 och maj 2025. Ghanas statliga kakaomyndighet har visserligen höjt det reglerade priset till bönderna, men de högre intäkterna äts snabbt upp av ökade kostnader för arbetskraft, gödsel och transporter.",
-      "url": "https://yle.fi/a/7-10086156?origin=rss",
+      "title": "Skäggförbud och rivna minareter: Så kontrollerar Kina sin muslimska minoritet",
+      "summary": "Uigurerna utgör ungefär hälften av Kinas 25 miljoner muslimer. Traditionellt har muslimer i Kina utövat en tolerant och moderat form av sin religion. Men för cirka 20 år sedan började det bli vanligt att kvinnor bar svarta plagg som täckte allt utom ögonen.",
+      "url": "https://yle.fi/a/7-10086155?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-15T14:25:46Z"
+      "published": "2025-11-16T09:02:51Z"
     },
     {
-      "title": "FN:s säkerhetsråd röstar om Gazas framtid på måndagen",
-      "summary": "Förenta staterna inledde förra veckan förhandlingar om ett utkast till resolution med FN: s säkerhetsråd. I resolutionen skulle en övergångsregering bestående av palestinier upprättas för att styra Gaza. Den skulle i sin tur underställas Trumps så kallade fredsstyrelse, som skulle ha mandat fram till slutet av 2027.",
-      "url": "https://yle.fi/a/7-10088142?origin=rss",
+      "title": "Ryssland har inte blivit av med sin imperialistiska självbild",
+      "summary": "Bosättarkolonialism ses som kapitalism och har att göra med 1900 - talet och politisk ideologi. Författaren och forskaren Mariam Naiem säger att kolonialism är en form av kolonialism. Hon säger att det finns två huvudorsaker till det här.",
+      "url": "https://yle.fi/a/7-10087949?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-15T11:36:50Z"
+      "published": "2025-11-16T16:00:10Z"
     },
     {
-      "title": "STT: Amerikanska undantagstillstånd förenklar försäljningen av Lukoil",
-      "summary": "Sanktionerna är delvis åsidosatta av de sanktioner som USA har infört mot det ryska oljebolaget Lukoils internationella verksamhet. Sanktioner riktas även mot den ryska oljejätten Rosneft. Tack vare undantagstillstånden förlängs tidsfristen för ikraftträdandet av sanktionerna.",
-      "url": "https://yle.fi/a/7-10088153?origin=rss",
+      "title": "Dina personuppgifter ska snart kunna användas för att träna AI",
+      "summary": "Förslagen är en del av ett så kallat förenklingspaket som ska presenteras den 19 november. EU - kommissionen planerar att begränsa definitionen av personuppgifter och låta företag behandla personuppgifter för att träna AI som ett \" legitimt intresse \" Det skulle innebära att företag inte längre behöver be om ditt uttryckliga samtycke för att använda dina uppgifter. Förändringarna kommer efter hårt tryck från både USA: s regering och stora teknikföretag.",
+      "url": "https://yle.fi/a/7-10088168?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-15T14:00:54Z"
+      "published": "2025-11-16T12:49:15Z"
     },
     {
-      "title": "Han blev falskt anklagad för juvelkuppen mot Louvren",
-      "summary": "På sju minuter stal tjuvarna juveler som beskrivits som ovärderliga från världskända muséet Louvren i Paris. Fyra personer har åtalats för brottet i Frankrike. Samtidigt sprids förbrytarfoton, mugshots, i sociala medier som påstås visa rånarna.",
-      "url": "https://svt.se/nyheter/utrikes/han-blev-falskt-anklagad-for-juvelkuppen-mot-louvren",
+      "title": "Omröstning om Epsteindokument väntar",
+      "summary": "De så kallade Epsteinfilerna har orsakat en spricka mellan republikaner och president. I juli fick representanthuset en tidigarelagd semester för att den republikanska talmannen Mike Johnson ville undvika en debatt om dokumenten. Nu har Johnson sagt att en omröstning om ett offentliggörande ska ske kommande vecka.",
+      "url": "https://svt.se/nyheter/utrikes/i-veckan-vantas-spand-omrostning-om-epsteindokument",
       "domain": "svt.se",
-      "published": "2025-11-15T11:06:08Z"
+      "published": "2025-11-17T02:41:44Z"
     },
     {
-      "title": "Här rasar husen snart ned i havet på Irland",
-      "summary": "Invånarna i den lilla byn Portrane på Irlands östkust har inte erbjudits någon ersättning eller omplacering. De flesta av dem har redan förlorat flera meter av sina trädgårdar. Professor Mary Bourke säger att upp till tio meter land per år försvinner ned i havet.",
-      "url": "https://svt.se/nyheter/utrikes/har-rasar-husen-snart-ned-i-havet-pa-irland",
+      "title": "Presidentvalet i Chile: Jara och Kast ställs mot varandra",
+      "summary": "Om ingen kandidat får över 50 procent av rösterna går de två kandidaterna med flest röster vidare till en andra valomgång. Det ser ut att bli favorittippade Jeanette Jara och José Kast som kommer att ställas mot varandra i december. President Boric gratulerade de båda kandidaterna för att ha gått vidare till den andra valomgången.",
+      "url": "https://svt.se/nyheter/utrikes/presidentvalet-i-chile-forhandstippade-gar-mot-andra-valomgang",
       "domain": "svt.se",
-      "published": "2025-11-15T13:41:45Z"
+      "published": "2025-11-17T00:25:10Z"
     }
   ]
 }
