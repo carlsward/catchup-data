@@ -2,53 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-19T07:13:50+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-20T07:13:11+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "19 november: Nattens nyheter",
-      "summary": "Frågor om det uppmärksammade mordet på regimkritikern Jamal Khashoggi avfärdades av president Trump. Ett samarbetsavtal som bland annat innebär att Saudiarabien köper F - 35 - stridsflygplan från USA. Hamas kommer att träffa USA: s särskilda sändebud för Mellanöstern, Steve Witkoff, under onsdagen, rapporterar den saudiska kanalen A - Sharq.",
-      "url": "https://svt.se/nyheter/utrikes/19-november-nattens-nyheter-cs67fy",
-      "domain": "svt.se",
-      "published": "2025-11-19T04:15:59Z"
+      "title": "Brasilien kallade in kavalleriet men väntat resultat uteblev på klimatmötet",
+      "summary": "Klimatmötets ordförande Brasilien kallade in kavalleriet för att försöka få till stånd resultat i förhandlingarna i Belém. Trots de två tungviktarnas närvaro kom och gick tidsfristen utan att något paket presenterades. Brasilien var lite väl optimistiskt när man trodde att en överenskommelse kunde nås så tidigt.",
+      "url": "https://yle.fi/a/7-10088289?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-20T03:30:20Z"
     },
     {
-      "title": "Analys: Kongressen körde över Trump",
-      "summary": "Epsteinfilerna är nu närmare att offentliggöras än tidigare. Men fortfarande två hinder återstår för president Donald Trump. Trump har möjlighet att lägga in sitt veto, men då skulle han gå emot både representanthuset och senaten.",
-      "url": "https://yle.fi/a/7-10088308?origin=rss",
+      "title": "Ukrainska Khrystyna: Min familj såg attackerna i Ternopil från fönstret",
+      "summary": "Ternopil, en mindre stad i västra Ukraina, hade 225 000 invånare när Rysslands fullskaliga invasion inleddes 2022. Staden har varit relativt förskonad från attacker under kriget under kriget i Ukraina. Ryssland genomförde omfattande anfall från luften med robotar och drönare under morgonen.",
+      "url": "https://svt.se/nyheter/utrikes/ukrainska-khrystyna-min-familj-sag-attackerna-i-ternopil-fran-fonstret",
+      "domain": "svt.se",
+      "published": "2025-11-20T00:52:40Z"
+    },
+    {
+      "title": "Utfasning av fossila bränslen splittrar klimattoppmötet",
+      "summary": "Brasilien har lyckats få ett 80 - tal länder att stödja ett förslag om färdplan för utfasning av olja, kol och gas. Ingen av skrivelserna som presenterades igår slår fast att en färdplan ska tas fram, vilket har väckt kritik. Flera EU - länder har skrivit under förslaget om färdplanen, men inte EU som helhet.",
+      "url": "https://svt.se/nyheter/utrikes/utfasning-av-fossila-branslen-splittrar-klimattoppmotet",
+      "domain": "svt.se",
+      "published": "2025-11-19T19:03:35Z"
+    },
+    {
+      "title": "Toni Peltoniemi vägrar stänga sin Teboilmack: ”Situationen är helt galen",
+      "summary": "Teboil bensinstation i Kaustby, Finland, är inställd på att stänga på grund av sanktioner. Ägaren Lukoil är nära allierad med Rysslands president Vladimir Putin. Lukoils verksamhet utanför Ryssland är värd 22 miljarder dollar, men det är orimligt att tro att någon skulle betala så mycket i det här läget, säger analytikern Veli - Pekka Tynkkynen.",
+      "url": "https://yle.fi/a/7-10088247?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-19T03:10:16Z"
+      "published": "2025-11-19T10:06:51Z"
     },
     {
       "title": "Ja till att offentliggöra Epstein-filerna",
-      "summary": "Omröstningen i representanthuset slutade med överväldigande röstsiffror för offentliggörande, 427 - 1. Sex personer avstod, medan republikanen Clay Higgins levererade nej - rösten. Senaten beslutade under kvällen att inte hålla en omröstning i saken utan godtar förslaget unisont.",
+      "summary": "Hela 427 ledamöter röstade för ett offentliggörande medan sex personer avstod och bara en, republikanen Clay Higgins, röstade nej. Kort senare beslutade senaten att inte hålla en omröstning i saken utan istället godta förslaget unisont. Trump vände Talmannen Mike Johnson motsatte sig länge omröstningen i representanthuset, då Trump tidigare sagt sig vara emot ett offentliggörande.",
       "url": "https://svt.se/nyheter/utrikes/kritisk-omrostning-om-epsteinfilerna-i-kvall",
       "domain": "svt.se",
       "published": "2025-11-18T19:18:06Z"
     },
     {
-      "title": "När paradiset torkar ut: Açaíodlare i Brasilien kämpar för sin överlevnad",
-      "summary": "Ilha do Combú är en tio minuters båtfärd från miljonstaden Belém i norra Brasilien. Invånarna har bott här i generationer och är levande vittnen till de förändringar som har drabbat ön under årens lopp. Forskning visar att Beléms temperatur har ökat med ungefär 1, 3 – 1, 9 grader under de senaste 40 – 50 åren.",
-      "url": "https://yle.fi/a/7-10088154?origin=rss",
+      "title": "Tisdagens problem hos Cloudflare visar hur sårbart internet är",
+      "summary": "Störningar förekom också i sociala medier, visar sajten Downdetector. Cloudflare har specialiserat sig på innehållsleveransnätverk, molntjänster och skydd mot bland annat överbelastningsattacker. Företaget försäkrade på tisdagseftermiddagen på plattformen X att det inte var frågan om ett angrepp mot bolaget, utan om en bugg som aktiverades i samband med en rutinändring.",
+      "url": "https://yle.fi/a/7-10088327?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-18T16:00:14Z"
-    },
-    {
-      "title": "Klimatmötet i Brasilien går in på sin andra vecka",
-      "summary": "Brasilien har vidtagit massiva åtgärder för att det inte ska hända igen. Miljöministrar från hela världen har anlänt till Belém för att förhandla om de svåra frågorna som fortfarande återstår att lösa. De svåraste frågorna är hur rika länder ska hjälpa de fattiga länderna så att de kan anpassa sig till klimatförändringen och övergå till grön energi.",
-      "url": "https://yle.fi/a/7-10088257?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-17T16:38:51Z"
-    },
-    {
-      "title": "Omröstning om Epsteindokument väntar",
-      "summary": "De så kallade Epsteinfilerna har orsakat en spricka mellan republikaner och president. I juli fick representanthuset en tidigarelagd semester för att den republikanska talmannen Mike Johnson ville undvika en debatt om dokumenten. Nu har Johnson sagt att en omröstning om ett offentliggörande ska ske kommande vecka.",
-      "url": "https://svt.se/nyheter/utrikes/i-veckan-vantas-spand-omrostning-om-epsteindokument",
-      "domain": "svt.se",
-      "published": "2025-11-17T02:41:44Z"
+      "published": "2025-11-18T17:29:44Z"
     }
   ]
 }
