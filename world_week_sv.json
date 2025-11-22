@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-21T07:12:57+00:00",
-  "total_raw": 39,
-  "total_rank": 6,
+  "generated": "2025-11-22T06:58:00+00:00",
+  "total_raw": 40,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "The Telegraph: Här är Trumps och Putins plan för Ukraina",
-      "summary": "Ukrainas suveränitet ska bekräftas och Ukrainas säkerhet ska garanteras. Ryssland får inte invadera flera grannländer, men Nato får inte expandera. Omfattande icke - angreppspakt som Ryssland, Ukraina och Europa ska förbinda sig till.",
-      "url": "https://yle.fi/a/7-10088485?origin=rss",
+      "title": "EU kritiseras för att förhala förhandlingarna på klimatmötet: ”Blockerar pengar…",
+      "summary": "Trots flera förhandlingsrundor lyckades man inte komma fram till ett slutavtal som alla länder kunde ställa sig bakom. Mötet, som skulle ha avslutats på fredagskvällen, kommer att fortsätta på lördagen. Oljeländerna vägrade gå med på att formuleringen om att fasa ut fossila bränslen skrivs in i slutavtalet.",
+      "url": "https://yle.fi/a/7-10088292?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-21T04:57:22Z"
+      "published": "2025-11-22T04:20:15Z"
+    },
+    {
+      "title": "Marjorie Taylor Greene lämnar kongressen i USA",
+      "summary": "Republikanska Marjorie Taylor Greene har kritiserat president Donald Trump för hans hantering av Jeffrey Epstein - utredningen. Hon har stått i centrum för republikanska röster som vill att Epsteinutredarna lägger allt på bordet. Taylor är inte nöjd med hur hon behandlats av presidenten för sin inblandning.",
+      "url": "https://svt.se/nyheter/utrikes/marjorie-taylor-greene-lamnar-kongressen-i-usa",
+      "domain": "svt.se",
+      "published": "2025-11-22T01:26:50Z"
+    },
+    {
+      "title": "Brasilien borrar efter olja",
+      "summary": "Tillståndet gäller borrning i den så kallade Ekvatorialmarginalen, ett havsområde längs norra Brasiliens kust, mellan delstaterna Amapá och Rio Grande do Norte. Det tros rymma stora olje - och gasreserver men det är också ett känsligt område med ett rikt djurliv och många lokala samhällen. Miljö - och ursprungsbefolkningarnas organisationer har skarpt kritiserat beslutet och kallat det katastrofalt ur miljö - och klimatsynpunkt.",
+      "url": "https://yle.fi/a/7-10088212?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-21T08:40:35Z"
     },
     {
       "title": "The Telegraph avslöjar: Trumps och Putins 28-punktsplan",
@@ -23,6 +37,13 @@
       "published": "2025-11-20T23:06:53Z"
     },
     {
+      "title": "Pourmokhtari om COP30-slutspurten: ”Motstånd från oljeländerna",
+      "summary": "Klimattoppmötet i Belém har gått in i slutskedet och förhandlingarna fortsätter. Ett andra utkast skulle presenteras, men så blev det inte på grund av branden som bröt ut på området sent på eftermiddagen. Två stora frågor som länderna ska försöka enas kring: Den ena handlar om hur mycket mer pengar länderna tillsammans ska betala ut till utvecklingsländer för att hjälpa dem med klimatanpassning, den andra om hur man ska garantera att pengarna man lovade på förra årets möte betalas ut.",
+      "url": "https://svt.se/nyheter/utrikes/pourmokhtari-om-cop30-slutspurten-motstand-fran-oljelanderna",
+      "domain": "svt.se",
+      "published": "2025-11-20T21:31:06Z"
+    },
+    {
       "title": "De senaste fredsplanerna skulle vara en katastrof för Ukraina, säger Rysslandskä…",
       "summary": "Rysslandskännaren Arkady Moshes beskriver den senaste planen för Ukraina som en fruktansvärd förlust och något som ukrainarna inte kommer att acceptera. Planen skulle också kunna leda till en allvarlig försämring av säkerhetsläget i Europa. Moshes säger att planen fokuserar på två saker: - Ukraina ger upp territorier.",
       "url": "https://yle.fi/a/7-10088445?origin=rss",
@@ -30,25 +51,18 @@
       "published": "2025-11-20T14:15:36Z"
     },
     {
-      "title": "10 000 soldater ska skydda Polens infrastruktur",
-      "summary": "Försvarsmakten ska bistå polisen med 10 000 soldater för att skydda infrastrukturen i landet, meddelade Polens regering på onsdagen. Utrikesminister Radoslaw Sikorski sade på en presskonferens tidigare under dagen att det ryska konsulatet i Gdansk får stänga till följd av helgens händelser. Den polske utrikesministern påpekar att han tidigare har varnat Ryssland för kraftfulla åtgärder om fientliga handlingar mot Polen inte upphör.",
-      "url": "https://svt.se/nyheter/utrikes/10-000-soldater-ska-skydda-polens-infrastruktur",
-      "domain": "svt.se",
-      "published": "2025-11-20T06:47:42Z"
-    },
-    {
-      "title": "Utfasning av fossila bränslen splittrar klimattoppmötet",
-      "summary": "Brasilien har lyckats få ett 80 - tal länder att stödja ett förslag om färdplan för utfasning av olja, kol och gas. Ingen av skrivelserna som presenterades igår slår fast att en färdplan ska tas fram, vilket har väckt kritik. Flera EU - länder har skrivit under förslaget om färdplanen, men inte EU som helhet.",
-      "url": "https://svt.se/nyheter/utrikes/utfasning-av-fossila-branslen-splittrar-klimattoppmotet",
-      "domain": "svt.se",
-      "published": "2025-11-19T19:03:35Z"
-    },
-    {
-      "title": "Toni Peltoniemi vägrar stänga sin Teboilmack: ”Situationen är helt galen",
-      "summary": "Teboil bensinstation i Kaustby, Finland, är inställd på att stänga på grund av sanktioner. Ägaren Lukoil är nära allierad med Rysslands president Vladimir Putin. Lukoils verksamhet utanför Ryssland är värd 22 miljarder dollar, men det är orimligt att tro att någon skulle betala så mycket i det här läget, säger analytikern Veli - Pekka Tynkkynen.",
-      "url": "https://yle.fi/a/7-10088247?origin=rss",
+      "title": "Analys: I Sverige lyssnar ingen längre på Bamse",
+      "summary": "I decennier förkroppsligade den starka men snälla björnen Bamse svensk och skandinavisk kriminalpolitik. Bakgrunden är så klart den våldsvåg som har pågått i flera år i Sverige. Antalet barn som döms för grova våldsbrott har femdubblats på några år.",
+      "url": "https://yle.fi/a/7-10087248?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-19T10:06:51Z"
+      "published": "2025-11-19T17:00:14Z"
+    },
+    {
+      "title": "Femtio år efter diktatorn Francos död måste fortfarande gamla sår läkas i Spanie…",
+      "summary": "Spanien har förvandlats till en fullvärdig demokrati sedan Francos död är ärren från inbördeskriget 1936 – 39 och den efterföljande fyra decennier långa fascistiska regimen djupt. Emilio Silva säger att Francos kropp må vara borta men att man fortfarande djupt känner av diktatorns inflytande. Oberoende föreningar, som Silvas, har intensifierat arbetet med att hitta kvarlevorna av tusentals offer för Franco - regimen.",
+      "url": "https://yle.fi/a/7-10088362?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-19T15:33:08Z"
     }
   ]
 }

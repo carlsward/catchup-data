@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-21T07:13:30+00:00",
-  "total_raw": 39,
-  "total_rank": 3,
+  "generated": "2025-11-22T06:58:45+00:00",
+  "total_raw": 40,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "EU kritiseras för att förhala förhandlingarna på klimatmötet: ”Blockerar pengar…",
+      "summary": "Trots flera förhandlingsrundor lyckades man inte komma fram till ett slutavtal som alla länder kunde ställa sig bakom. Mötet, som skulle ha avslutats på fredagskvällen, kommer att fortsätta på lördagen. Oljeländerna vägrade gå med på att formuleringen om att fasa ut fossila bränslen skrivs in i slutavtalet.",
+      "url": "https://yle.fi/a/7-10088292?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-22T04:20:15Z"
+    },
     {
       "title": "The Telegraph avslöjar: Trumps och Putins 28-punktsplan",
       "summary": "Dokumentet består av 28 punkter och beskriver hur en möjlig uppgörelse mellan länderna skulle se ut. Ukrainas suveränitet ska fastställas, men landet förväntas kraftigt styra om sin säkerhetspolitik. Enligt planen får Ukraina inte gå med i Nato, inga utländska trupper får stationeras i landet och militären ska begränsas till 600 000 soldater.",
@@ -23,11 +30,11 @@
       "published": "2025-11-20T14:15:36Z"
     },
     {
-      "title": "Toni Peltoniemi vägrar stänga sin Teboilmack: ”Situationen är helt galen",
-      "summary": "Teboil bensinstation i Kaustby, Finland, är inställd på att stänga på grund av sanktioner. Ägaren Lukoil är nära allierad med Rysslands president Vladimir Putin. Lukoils verksamhet utanför Ryssland är värd 22 miljarder dollar, men det är orimligt att tro att någon skulle betala så mycket i det här läget, säger analytikern Veli - Pekka Tynkkynen.",
-      "url": "https://yle.fi/a/7-10088247?origin=rss",
+      "title": "Femtio år efter diktatorn Francos död måste fortfarande gamla sår läkas i Spanie…",
+      "summary": "Spanien har förvandlats till en fullvärdig demokrati sedan Francos död är ärren från inbördeskriget 1936 – 39 och den efterföljande fyra decennier långa fascistiska regimen djupt. Emilio Silva säger att Francos kropp må vara borta men att man fortfarande djupt känner av diktatorns inflytande. Oberoende föreningar, som Silvas, har intensifierat arbetet med att hitta kvarlevorna av tusentals offer för Franco - regimen.",
+      "url": "https://yle.fi/a/7-10088362?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-19T10:06:51Z"
+      "published": "2025-11-19T15:33:08Z"
     }
   ]
 }
