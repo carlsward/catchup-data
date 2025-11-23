@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-22T06:58:00+00:00",
-  "total_raw": 40,
+  "generated": "2025-11-23T07:29:07+00:00",
+  "total_raw": 38,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "EU kritiseras för att förhala förhandlingarna på klimatmötet: ”Blockerar pengar…",
-      "summary": "Trots flera förhandlingsrundor lyckades man inte komma fram till ett slutavtal som alla länder kunde ställa sig bakom. Mötet, som skulle ha avslutats på fredagskvällen, kommer att fortsätta på lördagen. Oljeländerna vägrade gå med på att formuleringen om att fasa ut fossila bränslen skrivs in i slutavtalet.",
-      "url": "https://yle.fi/a/7-10088292?origin=rss",
+      "title": "Ford lägger ner jättefabrik efter 15 miljoner bilar då Tyskland går från boom ti…",
+      "summary": "Den tyska ekonomin befinner sig i en \" strukturell kris \", det vill säga djupgående problem i ekonomin. Bruttonationalprodukten, värdet av allt som produceras i ett land under ett år, har vuxit med bara 0, 3 procent sedan 2019. En rapport från Ernst & Young ( EY ) konstaterade i somras att 100 000 industriarbetstillfällen har försvunnit bara under det senaste året.",
+      "url": "https://yle.fi/a/7-10087984?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-22T04:20:15Z"
+      "published": "2025-11-23T04:12:06Z"
     },
     {
-      "title": "Marjorie Taylor Greene lämnar kongressen i USA",
-      "summary": "Republikanska Marjorie Taylor Greene har kritiserat president Donald Trump för hans hantering av Jeffrey Epstein - utredningen. Hon har stått i centrum för republikanska röster som vill att Epsteinutredarna lägger allt på bordet. Taylor är inte nöjd med hur hon behandlats av presidenten för sin inblandning.",
-      "url": "https://svt.se/nyheter/utrikes/marjorie-taylor-greene-lamnar-kongressen-i-usa",
+      "title": "Bolsonaro förd till häkte",
+      "summary": "Brasiliens ex - president Jair Bolsonaro dömdes tidigare i höstas till 27 års fängelse för att ha försökt genomföra en statskupp efter valförlusten 2022. Han har suttit i husarrest sedan i augusti. På lördagen greps han och fördes till ett häkte på grund av flyktrisk.",
+      "url": "https://svt.se/nyheter/utrikes/bolsonaro-ford-till-hakte-forsokte-forstora-sin-fotboja",
       "domain": "svt.se",
-      "published": "2025-11-22T01:26:50Z"
+      "published": "2025-11-22T23:56:01Z"
+    },
+    {
+      "title": "Avtal klart på COP30",
+      "summary": "Inget av de hetaste orden på COP30 nämns i beslutstexten. Det står att pengarna ska tredubblas från 2035, vilket är fem år senare än det första utkastet föreslog. Sveriges klimatminister Romina Pourmokhtari pekar ut maktvakuum.",
+      "url": "https://svt.se/nyheter/utrikes/avtal-klart-pa-cop30-ingen-skrivning-om-utfasning",
+      "domain": "svt.se",
+      "published": "2025-11-22T18:51:16Z"
+    },
+    {
+      "title": "Klimatmötet i Brasilien nådde en överenskommelse: ”Inte tillräckligt, men accept…",
+      "summary": "EU: s klimatkommissionär Wopke Hoekstra säger att det godkända avtalet är acceptabelt. U - länderna får 120 miljarder dollar per år, men målet sköts upp med fem år till år 2035 i stället för år 2030. Avtalet saknar skrivelser om att stärka ländernas otillräckliga planer för utsläppsminskningar, inte heller en hänvisning till en färdkarta för när och hur fossila bränslen ska fasas ut finns med.",
+      "url": "https://yle.fi/a/7-10088562?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-22T16:06:22Z"
+    },
+    {
+      "title": "Chatt: SVT:s reportrar svarade på era frågor om COP 30",
+      "summary": "Vad är huvudasakliga och konkreta effekter av klimatförändringarna vid 1. 5, eller 2. 5 graders uppvärmning?",
+      "url": "https://svt.se/nyheter/utrikes/chatt-vaga-fraga-om-klimatmotet-cop30-i-brasilien",
+      "domain": "svt.se",
+      "published": "2025-11-21T14:19:58Z"
     },
     {
       "title": "Brasilien borrar efter olja",
@@ -30,20 +51,6 @@
       "published": "2025-11-21T08:40:35Z"
     },
     {
-      "title": "The Telegraph avslöjar: Trumps och Putins 28-punktsplan",
-      "summary": "Dokumentet består av 28 punkter och beskriver hur en möjlig uppgörelse mellan länderna skulle se ut. Ukrainas suveränitet ska fastställas, men landet förväntas kraftigt styra om sin säkerhetspolitik. Enligt planen får Ukraina inte gå med i Nato, inga utländska trupper får stationeras i landet och militären ska begränsas till 600 000 soldater.",
-      "url": "https://svt.se/nyheter/utrikes/the-telegraph-avslojar-trumps-och-putins-28-punktsplan",
-      "domain": "svt.se",
-      "published": "2025-11-20T23:06:53Z"
-    },
-    {
-      "title": "Pourmokhtari om COP30-slutspurten: ”Motstånd från oljeländerna",
-      "summary": "Klimattoppmötet i Belém har gått in i slutskedet och förhandlingarna fortsätter. Ett andra utkast skulle presenteras, men så blev det inte på grund av branden som bröt ut på området sent på eftermiddagen. Två stora frågor som länderna ska försöka enas kring: Den ena handlar om hur mycket mer pengar länderna tillsammans ska betala ut till utvecklingsländer för att hjälpa dem med klimatanpassning, den andra om hur man ska garantera att pengarna man lovade på förra årets möte betalas ut.",
-      "url": "https://svt.se/nyheter/utrikes/pourmokhtari-om-cop30-slutspurten-motstand-fran-oljelanderna",
-      "domain": "svt.se",
-      "published": "2025-11-20T21:31:06Z"
-    },
-    {
       "title": "De senaste fredsplanerna skulle vara en katastrof för Ukraina, säger Rysslandskä…",
       "summary": "Rysslandskännaren Arkady Moshes beskriver den senaste planen för Ukraina som en fruktansvärd förlust och något som ukrainarna inte kommer att acceptera. Planen skulle också kunna leda till en allvarlig försämring av säkerhetsläget i Europa. Moshes säger att planen fokuserar på två saker: - Ukraina ger upp territorier.",
       "url": "https://yle.fi/a/7-10088445?origin=rss",
@@ -51,18 +58,11 @@
       "published": "2025-11-20T14:15:36Z"
     },
     {
-      "title": "Analys: I Sverige lyssnar ingen längre på Bamse",
-      "summary": "I decennier förkroppsligade den starka men snälla björnen Bamse svensk och skandinavisk kriminalpolitik. Bakgrunden är så klart den våldsvåg som har pågått i flera år i Sverige. Antalet barn som döms för grova våldsbrott har femdubblats på några år.",
-      "url": "https://yle.fi/a/7-10087248?origin=rss",
+      "title": "Utrikeschefen Kallas om den nya fredsplanen: ”Det finns bara en angripare och et…",
+      "summary": "EU: s utrikeschef Kaja Kallas uttrycker skepsis mot den nya fredsplanen för Ukraina. Kallas betonade att EU inte varit delaktigt i utformningen av 28 - punktsplanen. Hon påpekade att planen inte verkar kräva några eftergifter av Ryssland, trots att Ryssland fortsätter bomba civila mål.",
+      "url": "https://yle.fi/a/7-10088437?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-19T17:00:14Z"
-    },
-    {
-      "title": "Femtio år efter diktatorn Francos död måste fortfarande gamla sår läkas i Spanie…",
-      "summary": "Spanien har förvandlats till en fullvärdig demokrati sedan Francos död är ärren från inbördeskriget 1936 – 39 och den efterföljande fyra decennier långa fascistiska regimen djupt. Emilio Silva säger att Francos kropp må vara borta men att man fortfarande djupt känner av diktatorns inflytande. Oberoende föreningar, som Silvas, har intensifierat arbetet med att hitta kvarlevorna av tusentals offer för Franco - regimen.",
-      "url": "https://yle.fi/a/7-10088362?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-19T15:33:08Z"
+      "published": "2025-11-20T09:05:41Z"
     }
   ]
 }
