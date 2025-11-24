@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-23T07:29:07+00:00",
-  "total_raw": 38,
+  "generated": "2025-11-24T07:24:30+00:00",
+  "total_raw": 36,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Finland bygger stängsel mot Ryssland",
+      "summary": "Av Finlands över 1300 kilometer långa gräns kommer främst områden där det finns vägar och infrastruktur på båda sidor om gränsen skyddas. I Lappland täcker stängslet bara de gamla övergångarna där det är enkelt att ta sig över. Färre ögon och öron vid gränsen gör jobbet svårare för gränsbevakningen.",
+      "url": "https://svt.se/nyheter/utrikes/finland-bygger-stangsel-mot-ryssland-200-km-langt-skydd",
+      "domain": "svt.se",
+      "published": "2025-11-24T05:17:25Z"
+    },
+    {
+      "title": "AI-chattbotar länkar till rysk propaganda om Ukraina",
+      "summary": "AI chattbotar som Chat GPT, Gemini, Grok och Deep Seek länkar till information som kommer från sajter som sprider rysk propaganda eller har kopplingar till rysk underrättelsetjänst. När chattbotarna länkade till de här pro - ryska källorna handlade det oftast om frågor där de var tvungna att söka kompletterande information från nätet för att kunna utföra användarens begäran. I fall där det finns en brist på information, i studien kallat.",
+      "url": "https://yle.fi/a/7-10087408?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-24T03:20:22Z"
+    },
+    {
+      "title": "Framsteg i förhandlingarna om fredsplan i Schweiz",
+      "summary": "Rubio: \" Vi har haft möjlighet att gå igenom några av de punkterna nu och jag tycker att vi har gjort bra framsteg. Ukraina: \" Ukraina är tacksam till USA, till varje amerikanskt hjärta, och särskilt till president Trump för hjälp som började med Javelins ( missiler ) och som räddar ukrainares liv. Europa uppges ha lagt fram ett motförslag till USA: s plan, enligt nyhetsbyrån Reuters, enligt Reuters.",
+      "url": "https://svt.se/nyheter/utrikes/usas-utrikesminister-om-forhandlingarna-i-schweiz",
+      "domain": "svt.se",
+      "published": "2025-11-23T16:55:06Z"
+    },
     {
       "title": "Ford lägger ner jättefabrik efter 15 miljoner bilar då Tyskland går från boom ti…",
       "summary": "Den tyska ekonomin befinner sig i en \" strukturell kris \", det vill säga djupgående problem i ekonomin. Bruttonationalprodukten, värdet av allt som produceras i ett land under ett år, har vuxit med bara 0, 3 procent sedan 2019. En rapport från Ernst & Young ( EY ) konstaterade i somras att 100 000 industriarbetstillfällen har försvunnit bara under det senaste året.",
       "url": "https://yle.fi/a/7-10087984?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-23T04:12:06Z"
-    },
-    {
-      "title": "Bolsonaro förd till häkte",
-      "summary": "Brasiliens ex - president Jair Bolsonaro dömdes tidigare i höstas till 27 års fängelse för att ha försökt genomföra en statskupp efter valförlusten 2022. Han har suttit i husarrest sedan i augusti. På lördagen greps han och fördes till ett häkte på grund av flyktrisk.",
-      "url": "https://svt.se/nyheter/utrikes/bolsonaro-ford-till-hakte-forsokte-forstora-sin-fotboja",
-      "domain": "svt.se",
-      "published": "2025-11-22T23:56:01Z"
     },
     {
       "title": "Avtal klart på COP30",
@@ -37,11 +51,11 @@
       "published": "2025-11-22T16:06:22Z"
     },
     {
-      "title": "Chatt: SVT:s reportrar svarade på era frågor om COP 30",
-      "summary": "Vad är huvudasakliga och konkreta effekter av klimatförändringarna vid 1. 5, eller 2. 5 graders uppvärmning?",
-      "url": "https://svt.se/nyheter/utrikes/chatt-vaga-fraga-om-klimatmotet-cop30-i-brasilien",
+      "title": "Starka reaktioner på USA:s plan",
+      "summary": "USA har fört samtal med både Ryssland om Ukraina under kriget. Det senaste i Trumps fredsförsök är ett läckt utkast som består av 28 punkter. Ukrainas president Zelenskyj har inte kommenterat innehållet, men säger att de är redo för ett \" ärligt arbete \" för en hållbar fred som respekterar landets suveränitet.",
+      "url": "https://svt.se/nyheter/utrikes/starka-reaktioner-pa-usas-plan-kallor-stor-press-fran-vita-huset",
       "domain": "svt.se",
-      "published": "2025-11-21T14:19:58Z"
+      "published": "2025-11-21T21:12:40Z"
     },
     {
       "title": "Brasilien borrar efter olja",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10088212?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-21T08:40:35Z"
-    },
-    {
-      "title": "De senaste fredsplanerna skulle vara en katastrof för Ukraina, säger Rysslandskä…",
-      "summary": "Rysslandskännaren Arkady Moshes beskriver den senaste planen för Ukraina som en fruktansvärd förlust och något som ukrainarna inte kommer att acceptera. Planen skulle också kunna leda till en allvarlig försämring av säkerhetsläget i Europa. Moshes säger att planen fokuserar på två saker: - Ukraina ger upp territorier.",
-      "url": "https://yle.fi/a/7-10088445?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-20T14:15:36Z"
-    },
-    {
-      "title": "Utrikeschefen Kallas om den nya fredsplanen: ”Det finns bara en angripare och et…",
-      "summary": "EU: s utrikeschef Kaja Kallas uttrycker skepsis mot den nya fredsplanen för Ukraina. Kallas betonade att EU inte varit delaktigt i utformningen av 28 - punktsplanen. Hon påpekade att planen inte verkar kräva några eftergifter av Ryssland, trots att Ryssland fortsätter bomba civila mål.",
-      "url": "https://yle.fi/a/7-10088437?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-20T09:05:41Z"
     }
   ]
 }

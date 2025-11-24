@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-23T07:29:54+00:00",
-  "total_raw": 38,
+  "generated": "2025-11-24T07:25:15+00:00",
+  "total_raw": 36,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "AI-chattbotar länkar till rysk propaganda om Ukraina",
+      "summary": "AI chattbotar som Chat GPT, Gemini, Grok och Deep Seek länkar till information som kommer från sajter som sprider rysk propaganda eller har kopplingar till rysk underrättelsetjänst. När chattbotarna länkade till de här pro - ryska källorna handlade det oftast om frågor där de var tvungna att söka kompletterande information från nätet för att kunna utföra användarens begäran. I fall där det finns en brist på information, i studien kallat.",
+      "url": "https://yle.fi/a/7-10087408?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-24T03:20:22Z"
+    },
     {
       "title": "Ford lägger ner jättefabrik efter 15 miljoner bilar då Tyskland går från boom ti…",
       "summary": "Den tyska ekonomin befinner sig i en \" strukturell kris \", det vill säga djupgående problem i ekonomin. Bruttonationalprodukten, värdet av allt som produceras i ett land under ett år, har vuxit med bara 0, 3 procent sedan 2019. En rapport från Ernst & Young ( EY ) konstaterade i somras att 100 000 industriarbetstillfällen har försvunnit bara under det senaste året.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10088212?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-21T08:40:35Z"
-    },
-    {
-      "title": "De senaste fredsplanerna skulle vara en katastrof för Ukraina, säger Rysslandskä…",
-      "summary": "Rysslandskännaren Arkady Moshes beskriver den senaste planen för Ukraina som en fruktansvärd förlust och något som ukrainarna inte kommer att acceptera. Planen skulle också kunna leda till en allvarlig försämring av säkerhetsläget i Europa. Moshes säger att planen fokuserar på två saker: - Ukraina ger upp territorier.",
-      "url": "https://yle.fi/a/7-10088445?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-20T14:15:36Z"
     }
   ]
 }
