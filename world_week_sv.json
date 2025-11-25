@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-24T07:24:30+00:00",
+  "generated": "2025-11-25T07:16:39+00:00",
   "total_raw": 36,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Finland bygger stängsel mot Ryssland",
-      "summary": "Av Finlands över 1300 kilometer långa gräns kommer främst områden där det finns vägar och infrastruktur på båda sidor om gränsen skyddas. I Lappland täcker stängslet bara de gamla övergångarna där det är enkelt att ta sig över. Färre ögon och öron vid gränsen gör jobbet svårare för gränsbevakningen.",
-      "url": "https://svt.se/nyheter/utrikes/finland-bygger-stangsel-mot-ryssland-200-km-langt-skydd",
-      "domain": "svt.se",
-      "published": "2025-11-24T05:17:25Z"
+      "title": "Finland på väg mot EU:s ekonomiska obsklass: ”Skadar vår trovärdighet när vi tid…",
+      "summary": "EU - kommissionen rekommenderar att Finland sätts under särskild ekonomisk övervakning. På byråkratspråk kallas det \" underskottsförfarande \" I praktiken betyder det att Finland flyttas ner till EU: s ekonomiska obsklass. Eero Heinäluoma ser underskottsförfarandet som ett bakslag för Finlands rykte som förespråkare för sunda statsfinanser.",
+      "url": "https://yle.fi/a/7-10088447?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-25T03:30:14Z"
     },
     {
-      "title": "AI-chattbotar länkar till rysk propaganda om Ukraina",
-      "summary": "AI chattbotar som Chat GPT, Gemini, Grok och Deep Seek länkar till information som kommer från sajter som sprider rysk propaganda eller har kopplingar till rysk underrättelsetjänst. När chattbotarna länkade till de här pro - ryska källorna handlade det oftast om frågor där de var tvungna att söka kompletterande information från nätet för att kunna utföra användarens begäran. I fall där det finns en brist på information, i studien kallat.",
-      "url": "https://yle.fi/a/7-10087408?origin=rss",
+      "title": "FN: 50 000 kvinnor dödades av någon i sin närhet",
+      "summary": "Enligt rapporten dödades 60 procent av alla kvinnor runt om i världen som mördades av antingen en partner eller en släkting. I jämförelse dödades 11 procent av männen av någon i deras närhet. Det finns fall från alla delar av världen, men i fjol skedde flest i Afrika, där 22 000 fall rapporterades.",
+      "url": "https://svt.se/nyheter/utrikes/fn-50-000-kvinnor-dodades-av-nagon-i-sin-narhet",
+      "domain": "svt.se",
+      "published": "2025-11-25T01:32:19Z"
+    },
+    {
+      "title": "USA stämplar formellt Venezuelas Cartel de los Soles som en terrororganisation",
+      "summary": "Det infördes också terrorismrelaterade sanktioner mot gruppen, som sägs inkludera Maduro och andra högt uppsatta tjänstemän. Beskedet publicerades på måndagen på det amerikanska finansministeriets webbplats. Detta är den senaste åtgärden i något som Trumpadministrationen hävdar handlar om en kamp mot narkotikasmuggling.",
+      "url": "https://yle.fi/a/7-10088665?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-24T03:20:22Z"
+      "published": "2025-11-24T17:54:14Z"
+    },
+    {
+      "title": "Bengt Norborg om fredsplanerna för Ukraina: ”En dramatisk vecka väntar",
+      "summary": "Det nya förslaget innehåller Ukrainas huvudsakliga synpunkter, till skillnad från det första som kritiserats för att vara till Rysslands fördel. Den 21 november publicerades Trumps och Putins fredsplan för Ukraina på 28 punkter. Fredsplanen kritiserades av amerikanska oppositionen, Europeiska ledare och experter för att i stort sett gynna Ryssland.",
+      "url": "https://svt.se/nyheter/utrikes/bengt-norborg-om-fredsplanerna-for-ukraina-en-dramatisk-vecka-vantar",
+      "domain": "svt.se",
+      "published": "2025-11-24T09:00:54Z"
     },
     {
       "title": "Framsteg i förhandlingarna om fredsplan i Schweiz",
@@ -37,32 +51,18 @@
       "published": "2025-11-23T04:12:06Z"
     },
     {
-      "title": "Avtal klart på COP30",
-      "summary": "Inget av de hetaste orden på COP30 nämns i beslutstexten. Det står att pengarna ska tredubblas från 2035, vilket är fem år senare än det första utkastet föreslog. Sveriges klimatminister Romina Pourmokhtari pekar ut maktvakuum.",
-      "url": "https://svt.se/nyheter/utrikes/avtal-klart-pa-cop30-ingen-skrivning-om-utfasning",
-      "domain": "svt.se",
-      "published": "2025-11-22T18:51:16Z"
-    },
-    {
-      "title": "Klimatmötet i Brasilien nådde en överenskommelse: ”Inte tillräckligt, men accept…",
-      "summary": "EU: s klimatkommissionär Wopke Hoekstra säger att det godkända avtalet är acceptabelt. U - länderna får 120 miljarder dollar per år, men målet sköts upp med fem år till år 2035 i stället för år 2030. Avtalet saknar skrivelser om att stärka ländernas otillräckliga planer för utsläppsminskningar, inte heller en hänvisning till en färdkarta för när och hur fossila bränslen ska fasas ut finns med.",
-      "url": "https://yle.fi/a/7-10088562?origin=rss",
+      "title": "Reuters: USA inleder en ny fas i sin Venezuelaoperation",
+      "summary": "Enligt källorna övervägs flera alternativ, inklusive ett försök att störta Venezuelas regering. Två av källorna tror att täckoperationer kommer att inledas i den första fasen. USA planerar enligt myndigheterna att utse nätverket Cartel de los Soles som en utländsk terroristorganisation.",
+      "url": "https://yle.fi/a/7-10088575?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-22T16:06:22Z"
+      "published": "2025-11-22T22:16:09Z"
     },
     {
-      "title": "Starka reaktioner på USA:s plan",
-      "summary": "USA har fört samtal med både Ryssland om Ukraina under kriget. Det senaste i Trumps fredsförsök är ett läckt utkast som består av 28 punkter. Ukrainas president Zelenskyj har inte kommenterat innehållet, men säger att de är redo för ett \" ärligt arbete \" för en hållbar fred som respekterar landets suveränitet.",
-      "url": "https://svt.se/nyheter/utrikes/starka-reaktioner-pa-usas-plan-kallor-stor-press-fran-vita-huset",
+      "title": "Uppgifter: USA redo för ny fas av operationer i Venezuela",
+      "summary": "Venezuelas president Nicolás Maduro har sagt att amerikanska operationer är en del av USA: s plan att störta honom från makten. Spänt läge mellan Venezuela och USA Det är också knarksmugglingen som ligger till grund för båtattackerna, där omkring 80 personer dödades, enligt Trump. Medan Maduro hävdar att dödsoffren är vanliga medborgare, rapporterar Reuters att USA är redo att inleda en ny fas av Venezuela - relaterade operationer.",
+      "url": "https://svt.se/nyheter/utrikes/uppgifter-usa-overvager-att-storta-venezuelas-regering",
       "domain": "svt.se",
-      "published": "2025-11-21T21:12:40Z"
-    },
-    {
-      "title": "Brasilien borrar efter olja",
-      "summary": "Tillståndet gäller borrning i den så kallade Ekvatorialmarginalen, ett havsområde längs norra Brasiliens kust, mellan delstaterna Amapá och Rio Grande do Norte. Det tros rymma stora olje - och gasreserver men det är också ett känsligt område med ett rikt djurliv och många lokala samhällen. Miljö - och ursprungsbefolkningarnas organisationer har skarpt kritiserat beslutet och kallat det katastrofalt ur miljö - och klimatsynpunkt.",
-      "url": "https://yle.fi/a/7-10088212?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-21T08:40:35Z"
+      "published": "2025-11-22T21:56:52Z"
     }
   ]
 }

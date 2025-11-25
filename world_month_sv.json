@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-24T07:25:15+00:00",
+  "generated": "2025-11-25T07:17:19+00:00",
   "total_raw": 36,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "AI-chattbotar länkar till rysk propaganda om Ukraina",
-      "summary": "AI chattbotar som Chat GPT, Gemini, Grok och Deep Seek länkar till information som kommer från sajter som sprider rysk propaganda eller har kopplingar till rysk underrättelsetjänst. När chattbotarna länkade till de här pro - ryska källorna handlade det oftast om frågor där de var tvungna att söka kompletterande information från nätet för att kunna utföra användarens begäran. I fall där det finns en brist på information, i studien kallat.",
-      "url": "https://yle.fi/a/7-10087408?origin=rss",
+      "title": "Finland på väg mot EU:s ekonomiska obsklass: ”Skadar vår trovärdighet när vi tid…",
+      "summary": "EU - kommissionen rekommenderar att Finland sätts under särskild ekonomisk övervakning. På byråkratspråk kallas det \" underskottsförfarande \" I praktiken betyder det att Finland flyttas ner till EU: s ekonomiska obsklass. Eero Heinäluoma ser underskottsförfarandet som ett bakslag för Finlands rykte som förespråkare för sunda statsfinanser.",
+      "url": "https://yle.fi/a/7-10088447?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-24T03:20:22Z"
+      "published": "2025-11-25T03:30:14Z"
+    },
+    {
+      "title": "USA stämplar formellt Venezuelas Cartel de los Soles som en terrororganisation",
+      "summary": "Det infördes också terrorismrelaterade sanktioner mot gruppen, som sägs inkludera Maduro och andra högt uppsatta tjänstemän. Beskedet publicerades på måndagen på det amerikanska finansministeriets webbplats. Detta är den senaste åtgärden i något som Trumpadministrationen hävdar handlar om en kamp mot narkotikasmuggling.",
+      "url": "https://yle.fi/a/7-10088665?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-24T17:54:14Z"
     },
     {
       "title": "Ford lägger ner jättefabrik efter 15 miljoner bilar då Tyskland går från boom ti…",
@@ -23,18 +30,11 @@
       "published": "2025-11-23T04:12:06Z"
     },
     {
-      "title": "Klimatmötet i Brasilien nådde en överenskommelse: ”Inte tillräckligt, men accept…",
-      "summary": "EU: s klimatkommissionär Wopke Hoekstra säger att det godkända avtalet är acceptabelt. U - länderna får 120 miljarder dollar per år, men målet sköts upp med fem år till år 2035 i stället för år 2030. Avtalet saknar skrivelser om att stärka ländernas otillräckliga planer för utsläppsminskningar, inte heller en hänvisning till en färdkarta för när och hur fossila bränslen ska fasas ut finns med.",
-      "url": "https://yle.fi/a/7-10088562?origin=rss",
+      "title": "Reuters: USA inleder en ny fas i sin Venezuelaoperation",
+      "summary": "Enligt källorna övervägs flera alternativ, inklusive ett försök att störta Venezuelas regering. Två av källorna tror att täckoperationer kommer att inledas i den första fasen. USA planerar enligt myndigheterna att utse nätverket Cartel de los Soles som en utländsk terroristorganisation.",
+      "url": "https://yle.fi/a/7-10088575?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-22T16:06:22Z"
-    },
-    {
-      "title": "Brasilien borrar efter olja",
-      "summary": "Tillståndet gäller borrning i den så kallade Ekvatorialmarginalen, ett havsområde längs norra Brasiliens kust, mellan delstaterna Amapá och Rio Grande do Norte. Det tros rymma stora olje - och gasreserver men det är också ett känsligt område med ett rikt djurliv och många lokala samhällen. Miljö - och ursprungsbefolkningarnas organisationer har skarpt kritiserat beslutet och kallat det katastrofalt ur miljö - och klimatsynpunkt.",
-      "url": "https://yle.fi/a/7-10088212?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-21T08:40:35Z"
+      "published": "2025-11-22T22:16:09Z"
     }
   ]
 }

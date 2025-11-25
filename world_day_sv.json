@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-24T07:23:10+00:00",
-  "total_raw": 11,
+  "generated": "2025-11-25T07:15:24+00:00",
+  "total_raw": 16,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "AI-chattbotar länkar till rysk propaganda om Ukraina",
-      "summary": "AI chattbotar som Chat GPT, Gemini, Grok och Deep Seek länkar till information som kommer från sajter som sprider rysk propaganda eller har kopplingar till rysk underrättelsetjänst. När chattbotarna länkade till de här pro - ryska källorna handlade det oftast om frågor där de var tvungna att söka kompletterande information från nätet för att kunna utföra användarens begäran. I fall där det finns en brist på information, i studien kallat.",
-      "url": "https://yle.fi/a/7-10087408?origin=rss",
+      "title": "USA stämplar formellt Venezuelas Cartel de los Soles som en terrororganisation",
+      "summary": "Det infördes också terrorismrelaterade sanktioner mot gruppen, som sägs inkludera Maduro och andra högt uppsatta tjänstemän. Beskedet publicerades på måndagen på det amerikanska finansministeriets webbplats. Detta är den senaste åtgärden i något som Trumpadministrationen hävdar handlar om en kamp mot narkotikasmuggling.",
+      "url": "https://yle.fi/a/7-10088665?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-24T03:20:22Z"
+      "published": "2025-11-24T17:54:14Z"
     },
     {
-      "title": "Analys: Ännu ett klimatmöte som lovade mycket men inte gav just något",
-      "summary": "Brasilien tog till en ny strategi för att försäkra sig om resultat vid klimatmötet. Ordförandelandet Brasilien underskattade helt enkelt hur komplicerat det skulle vara att få ihop en överenskommelse. Det faktum att fossila bränslen inte ens nämndes i ett slutdokument från ett klimatmöte visar hur svår frågan är.",
-      "url": "https://yle.fi/a/7-10088584?origin=rss",
+      "title": "Finland sätts i EU:s ekonomiska obsklass och det här innebär det",
+      "summary": "EU - kommissionen förväntas på tisdag rekommendera att Finland hamnar i det som kallas för EU: s obsklass. Officiellt handlar det om EU - kommissionens förfarande för för stora budgetunderskott. Det innebär att större uppmärksamhet riktas mot hur Finland hanterar sina offentliga finanser.",
+      "url": "https://yle.fi/a/7-10088531?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-23T12:36:21Z"
+      "published": "2025-11-24T09:35:46Z"
     },
     {
-      "title": "Framsteg i förhandlingarna om fredsplan i Schweiz",
-      "summary": "Rubio: \" Vi har haft möjlighet att gå igenom några av de punkterna nu och jag tycker att vi har gjort bra framsteg. Ukraina: \" Ukraina är tacksam till USA, till varje amerikanskt hjärta, och särskilt till president Trump för hjälp som började med Javelins ( missiler ) och som räddar ukrainares liv. Europa uppges ha lagt fram ett motförslag till USA: s plan, enligt nyhetsbyrån Reuters, enligt Reuters.",
-      "url": "https://svt.se/nyheter/utrikes/usas-utrikesminister-om-forhandlingarna-i-schweiz",
+      "title": "Analys: Ukraina riskerar att hamna i samma sits som Finland efter andra världskr…",
+      "summary": "Det är fortfarande oklart vem som arbetade fram utkastet till en fredsplan för Ukraina. Det är svårt att tänka sig att Ukraina skulle avstå från större städer som Kramatorsk och Slovjansk utan strid. För Ukraina är det också av tyngsta vikt att få starka och trovärdiga säkerhetsgarantier av USA och Europa.",
+      "url": "https://yle.fi/a/7-10088661?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-24T15:12:41Z"
+    },
+    {
+      "title": "Bengt Norborg om fredsplanerna för Ukraina: ”En dramatisk vecka väntar",
+      "summary": "Det nya förslaget innehåller Ukrainas huvudsakliga synpunkter, till skillnad från det första som kritiserats för att vara till Rysslands fördel. Den 21 november publicerades Trumps och Putins fredsplan för Ukraina på 28 punkter. Fredsplanen kritiserades av amerikanska oppositionen, Europeiska ledare och experter för att i stort sett gynna Ryssland.",
+      "url": "https://svt.se/nyheter/utrikes/bengt-norborg-om-fredsplanerna-for-ukraina-en-dramatisk-vecka-vantar",
       "domain": "svt.se",
-      "published": "2025-11-23T16:55:06Z"
+      "published": "2025-11-24T09:00:54Z"
     },
     {
-      "title": "Fem döda i israeliskt flyganfall mot Libanons huvudstad Beirut",
-      "summary": "Fem personer uppges ha dödats och ytterligare 28 skadades i attacken. Attacken riktades mot ett bostadshus i Beiruts södra förorter. Libanons president Joseph Aoun vädjade till det internationella samfundet om ett kraftfullt ingripande för att stoppa de israeliska attackerna mot landet.",
-      "url": "https://yle.fi/a/7-10088591?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-23T17:44:56Z"
-    },
-    {
-      "title": "50 år efter diktatorns död fortsätter sökandet",
-      "summary": "Massgravar med uppskattningsvis 4 000 personer som föll offer för Francos repression. I landet många, många fler. Och med dem också familjerna som fortsätter att leta efter försvunna släktingar.",
-      "url": "https://svt.se/nyheter/utrikes/50-ar-efter-diktatorns-dod-fortsatter-sokandet",
+      "title": "Svenska ministrar på besök i Syrien",
+      "summary": "Det är det första svenska ministerbesöket i Syrien sedan Bashar al - Assads regim störtades i december. Ministrarna ska träffa interimspresident Ahmed al - Sharaa och utrikesminister Asaad al - Shaibani. Det har snart gått ett år sedan Assadregimen föll.",
+      "url": "https://svt.se/nyheter/utrikes/svenska-ministrar-pa-besok-i-syrien-ska-traffa-presidenten",
       "domain": "svt.se",
-      "published": "2025-11-23T21:04:37Z"
+      "published": "2025-11-24T12:54:35Z"
     }
   ]
 }
