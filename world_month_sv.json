@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-25T07:17:19+00:00",
-  "total_raw": 36,
+  "generated": "2025-11-26T07:18:16+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Finland på väg mot EU:s ekonomiska obsklass: ”Skadar vår trovärdighet när vi tid…",
-      "summary": "EU - kommissionen rekommenderar att Finland sätts under särskild ekonomisk övervakning. På byråkratspråk kallas det \" underskottsförfarande \" I praktiken betyder det att Finland flyttas ner till EU: s ekonomiska obsklass. Eero Heinäluoma ser underskottsförfarandet som ett bakslag för Finlands rykte som förespråkare för sunda statsfinanser.",
-      "url": "https://yle.fi/a/7-10088447?origin=rss",
+      "title": "Neste sålde jättetanker",
+      "summary": "Den kazakstanska oljan är varken sanktionerad av EU eller USA. Trots att den lastas ombord på fartyg i ryska Ust - Luga och trots att den transporteras dit genom tusentals kilometer långa ryskägda oljeledningar. I dag är Kazakstan EU: s tredje största oljeleverantör efter USA och Norge.",
+      "url": "https://yle.fi/a/7-10087723?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-25T03:30:14Z"
+      "published": "2025-11-26T04:20:47Z"
+    },
+    {
+      "title": "Banditer, svält och minskat bistånd",
+      "summary": "Hungern går mot rekordnivåer, meddelar Världslivsmedelsprogrammet. Nästan 35 miljoner människor riskerar att gå hungriga under 2026 eftersom resurserna är slut i december. Samtidigt sker det allt fler mord och masskidnappningar.",
+      "url": "https://yle.fi/a/7-10088710?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-25T14:26:51Z"
     },
     {
       "title": "USA stämplar formellt Venezuelas Cartel de los Soles som en terrororganisation",
@@ -23,18 +30,11 @@
       "published": "2025-11-24T17:54:14Z"
     },
     {
-      "title": "Ford lägger ner jättefabrik efter 15 miljoner bilar då Tyskland går från boom ti…",
-      "summary": "Den tyska ekonomin befinner sig i en \" strukturell kris \", det vill säga djupgående problem i ekonomin. Bruttonationalprodukten, värdet av allt som produceras i ett land under ett år, har vuxit med bara 0, 3 procent sedan 2019. En rapport från Ernst & Young ( EY ) konstaterade i somras att 100 000 industriarbetstillfällen har försvunnit bara under det senaste året.",
-      "url": "https://yle.fi/a/7-10087984?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-23T04:12:06Z"
-    },
-    {
-      "title": "Reuters: USA inleder en ny fas i sin Venezuelaoperation",
-      "summary": "Enligt källorna övervägs flera alternativ, inklusive ett försök att störta Venezuelas regering. Två av källorna tror att täckoperationer kommer att inledas i den första fasen. USA planerar enligt myndigheterna att utse nätverket Cartel de los Soles som en utländsk terroristorganisation.",
-      "url": "https://yle.fi/a/7-10088575?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-22T22:16:09Z"
+      "title": "Framsteg i förhandlingarna om fredsplan i Schweiz",
+      "summary": "Rubio: \" Vi har haft möjlighet att gå igenom några av de punkterna nu och jag tycker att vi har gjort bra framsteg. Ukraina: \" Ukraina är tacksam till USA, till varje amerikanskt hjärta, och särskilt till president Trump för hjälp som började med Javelins ( missiler ) och som räddar ukrainares liv. Europa uppges ha lagt fram ett motförslag till USA: s plan, enligt nyhetsbyrån Reuters, enligt Reuters.",
+      "url": "https://svt.se/nyheter/utrikes/usas-utrikesminister-om-forhandlingarna-i-schweiz",
+      "domain": "svt.se",
+      "published": "2025-11-23T16:55:06Z"
     }
   ]
 }
