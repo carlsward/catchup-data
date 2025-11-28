@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-27T07:15:05+00:00",
+  "generated": "2025-11-28T07:14:01+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump: En av de skjutna nationalgardisterna är död",
+      "summary": "USA: s president Donald Trump talade om en av de två soldater, en man och en kvinna i 20 - årsåldern, som skadades allvarligt av skott nära Vita huset i Washington DC i onsdags. Trump sa att Gärningsmannen, som Trump kallade för ett barbariskt monster, fortfarande kämpar för sitt liv. Den 29 - årige gärningsmannen är från Afghanistan.",
+      "url": "https://yle.fi/a/7-10088929?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-28T03:42:46Z"
+    },
     {
       "title": "Tysk cannabis blev laglig men krånglig: ”En riktig skitlag",
       "summary": "En ny lag skulle leda vägen för laglig cannabis i Tyskland. Istället tampas klubbar som Mariana Cannabis – med verksamhet på 180 orter – med byråkrati. Många andra klubbar kämpar mot myndigheter som försöker sabotera legaliseringen, säger klubbens presstalesman Keno Mennenga.",
@@ -23,18 +30,11 @@
       "published": "2025-11-26T09:02:18Z"
     },
     {
-      "title": "Kaja Kallas till Svenska Yle: Ryssland vill skynda fram fred",
-      "summary": "Utrikesminister Kaja Kallas intervjuar inför EU: s pågående plenumvecka i Strasbourg. Kallas diskuterar riskerna med pågående fredssonderingar, betydelsen av att varje land själv får forma sin säkerhetspolitiska kurs. Hon varnar för faran i att belöna angriparen i en militär konflikt.",
-      "url": "https://yle.fi/a/7-10088760?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-25T20:32:06Z"
-    },
-    {
-      "title": "Svenska Christina fast i Antarktis i 26 timmar: ”Full snöstorm",
-      "summary": "En grupp på 65 personer reste med gummibåtar ut till King George Island, norr om den antarktiska halvön, överraskades av en kraftig snöstorm. Nästan omedelbart bestämde expeditionsledaren att vi skulle evakuera, men då var det försent, säger Christina Larsson. När vädret hade förbättrats vid 20 - tiden på måndag kväll kunde resenärerna transporteras tillbaka till fartyget igen.",
-      "url": "https://svt.se/nyheter/utrikes/svenska-christina-fast-i-antarktis-i-26-timmar-full-snostorm",
+      "title": "Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff",
+      "summary": "Högerradikale Bolsonaro blir kvar i den federala polisens fängelse och förflyttas inte till fängelsekomplexet Papuda, som expresidentens allierade förespråkat. Nu är processen om Bolsonaros kuppförsök över och straffet har därmed verkställts. Straffet uppgår till 27 år och tre månader.",
+      "url": "https://svt.se/nyheter/utrikes/brasiliens-hogsta-domstol-bolsonaro-kan-borja-avtjana-sitt-straff",
       "domain": "svt.se",
-      "published": "2025-11-24T22:10:17Z"
+      "published": "2025-11-25T19:40:36Z"
     }
   ]
 }

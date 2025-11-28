@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-27T07:13:05+00:00",
-  "total_raw": 23,
+  "generated": "2025-11-28T07:11:58+00:00",
+  "total_raw": 13,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Så blev Jeffrey Epstein en ökänd sexförbrytare",
-      "summary": "Jeffrey Epstein anklagas för att ha förgripit sig på en 14 - årig flicka i Florida 2005. Åklagare Barry Krischer väljer att föra fallet vidare till en åtalsjury, som tar ställning till om det finns tillräckligt med bevis för att formellt åtala Epstein. Epsteins advokater förhandlar med den federala åklagaren Alexander Acosta om att undvika ett federalt åtal.",
-      "url": "https://yle.fi/a/7-10088654?origin=rss",
+      "title": "Blir det fred i Ukraina? Vi förklarar läget med fredsprocessen just nu",
+      "summary": "Den ursprungliga fredsplanen sågs i Europa och Ukraina som ensidigt Rysslandsvänlig. Förra veckan publicerade flera internationella medier en läckt fredsplan för Ukraina och Ryssland. Den plan som läcktes ut till medier för en vecka sedan verkar nu vara begraven, i alla fall tillfälligt.",
+      "url": "https://yle.fi/a/7-10088885?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-26T09:02:18Z"
+      "published": "2025-11-27T15:18:42Z"
     },
     {
-      "title": "Ny lag i Italien: Kvinnomord blir separat brott som ger livstidsstraff",
-      "summary": "Italiens parlament röstade enhälligt för att införa brottet. Kvinnomord – mord på en kvinna, motiverat av kön – i en separat lag. Straffet är livstids fängelse.",
-      "url": "https://yle.fi/a/7-10088779?origin=rss",
+      "title": "Trump: En av de skjutna nationalgardisterna är död",
+      "summary": "USA: s president Donald Trump talade om en av de två soldater, en man och en kvinna i 20 - årsåldern, som skadades allvarligt av skott nära Vita huset i Washington DC i onsdags. Trump sa att Gärningsmannen, som Trump kallade för ett barbariskt monster, fortfarande kämpar för sitt liv. Den 29 - årige gärningsmannen är från Afghanistan.",
+      "url": "https://yle.fi/a/7-10088929?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-26T15:08:06Z"
+      "published": "2025-11-28T03:42:46Z"
     },
     {
-      "title": "Tysk cannabis blev laglig men krånglig: ”En riktig skitlag",
-      "summary": "En ny lag skulle leda vägen för laglig cannabis i Tyskland. Istället tampas klubbar som Mariana Cannabis – med verksamhet på 180 orter – med byråkrati. Många andra klubbar kämpar mot myndigheter som försöker sabotera legaliseringen, säger klubbens presstalesman Keno Mennenga.",
-      "url": "https://yle.fi/a/7-10088016?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-27T03:30:14Z"
-    },
-    {
-      "title": "Två militärer skjutna nära Vita huset i Washington DC",
-      "summary": "Två nationalgardister, en man och en kvinna, patrullerade ett område två kvarter nordväst om Vita huset. En revolverman sköt sedan sitt vapen mot gardisterna vid ingripandet. Polisen utreder händelsen med hjälp av FBI: s gemensamma terrorismstyrka.",
-      "url": "https://svt.se/nyheter/utrikes/tva-soldater-skjutna-nara-vita-huset",
+      "title": "Skulle attackera Eurovision med cyanid: ”Fun time",
+      "summary": "Mannen är 23 år och bor i Sverige, studerar kemi och har ett företag inom samma område. Han ska ha radikaliserats på nätet och under resor till Sverige. Han är dömd för att ha bränt ner en minkfarm 2019 och har kopplats till grupper inom så kallad ekofascism.",
+      "url": "https://svt.se/nyheter/utrikes/skulle-attackera-eurovision-med-cyanid-fun-time",
       "domain": "svt.se",
-      "published": "2025-11-26T19:51:12Z"
+      "published": "2025-11-27T08:50:54Z"
     },
     {
-      "title": "EU-länder överens om ”chat control",
-      "summary": "Ett kompromissförslag har godkänts av medlemsländernas ambassadörer. Förhandlingarna med EU - parlamentet om ett slutligt utseende av den så kallade CSAM - lagstiftningen kan nu inledas. Lagförslaget, som ursprungligen lades fram av EU: s förra inrikeskommissionär Ylva Johansson under våren 2022, har anklagats för att medföra en alldeles för långtgående kontroll av chattar och e - postmeddelanden.",
-      "url": "https://svt.se/nyheter/utrikes/eu-lander-overens-om-chat-control",
+      "title": "Guinea-Bissaus president har lämnat landet",
+      "summary": "Soldater patrullerar området kring presidentpalatset i huvudstaden Bissau. Färre människor än vanligt rör sig på den stora vägen som leder fram till platsen, där skottlossning bröt ut under onsdagen. Kuppen sker bara dagar efter söndagens presidentval.",
+      "url": "https://svt.se/nyheter/utrikes/guinea-bissaus-president-har-lamnat-landet",
       "domain": "svt.se",
-      "published": "2025-11-26T10:10:20Z"
+      "published": "2025-11-27T22:11:19Z"
+    },
+    {
+      "title": "Efter Washington-dådet: USA ska granska visum",
+      "summary": "USCIS - chefen Joseph Edlow uppger på X att omprövningen kommer efter order från president Donald Trump. Trump sade tidigare på torsdagen att han vill att alla utlänningar som kommit in i vårt land från Afghanistan ska omprövas. Terrorkopplingar undersöks som terrorbrott, men motivet är fortfarande oklart.",
+      "url": "https://svt.se/nyheter/utrikes/efter-washington-dadet-usa-ska-granska-visum",
+      "domain": "svt.se",
+      "published": "2025-11-27T22:38:38Z"
     }
   ]
 }

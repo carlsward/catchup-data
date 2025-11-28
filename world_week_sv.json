@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-27T07:14:23+00:00",
+  "generated": "2025-11-28T07:13:16+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Finland prickas för arbetslöshet och utsatta unga",
-      "summary": "Finland har fallit under EU - genomsnittet när det gäller ungdomsarbetslöshet, sysselsättningsgrad, arbetslöshetsnivå och andelen unga som avbryter sin utbildning. Finland är nu i en grupp av nio medlemsländer som ska granskas extra noga för ökad social ojämlikhet. EU - parlamentets sysselsättningsutskott Li Andersson ser rapporten som en varningsklocka för Finland.",
-      "url": "https://yle.fi/a/7-10088842?origin=rss",
+      "title": "Trump: En av de skjutna nationalgardisterna är död",
+      "summary": "USA: s president Donald Trump talade om en av de två soldater, en man och en kvinna i 20 - årsåldern, som skadades allvarligt av skott nära Vita huset i Washington DC i onsdags. Trump sa att Gärningsmannen, som Trump kallade för ett barbariskt monster, fortfarande kämpar för sitt liv. Den 29 - årige gärningsmannen är från Afghanistan.",
+      "url": "https://yle.fi/a/7-10088929?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-27T04:11:50Z"
+      "published": "2025-11-28T03:42:46Z"
+    },
+    {
+      "title": "Trump: Ska stoppa droger från Venezuela även på land",
+      "summary": "Minst 80 personer har dödats i attackerna, enligt AFP: s beräkningar. Spänningar mellan USA och länder i Sydamerika har ökat till följd av attackerna. USA: s president Donald Trump säger att drogsmugglingen nu är lättare på land.",
+      "url": "https://svt.se/nyheter/utrikes/trump-ska-stoppa-droger-aven-pa-land",
+      "domain": "svt.se",
+      "published": "2025-11-28T00:46:55Z"
+    },
+    {
+      "title": "Skulle attackera Eurovision med cyanid: ”Fun time",
+      "summary": "Mannen är 23 år och bor i Sverige, studerar kemi och har ett företag inom samma område. Han ska ha radikaliserats på nätet och under resor till Sverige. Han är dömd för att ha bränt ner en minkfarm 2019 och har kopplats till grupper inom så kallad ekofascism.",
+      "url": "https://svt.se/nyheter/utrikes/skulle-attackera-eurovision-med-cyanid-fun-time",
+      "domain": "svt.se",
+      "published": "2025-11-27T08:50:54Z"
     },
     {
       "title": "Tysk cannabis blev laglig men krånglig: ”En riktig skitlag",
@@ -23,11 +37,11 @@
       "published": "2025-11-27T03:30:14Z"
     },
     {
-      "title": "Två militärer skjutna nära Vita huset i Washington DC",
-      "summary": "Två nationalgardister, en man och en kvinna, patrullerade ett område två kvarter nordväst om Vita huset. En revolverman sköt sedan sitt vapen mot gardisterna vid ingripandet. Polisen utreder händelsen med hjälp av FBI: s gemensamma terrorismstyrka.",
-      "url": "https://svt.se/nyheter/utrikes/tva-soldater-skjutna-nara-vita-huset",
+      "title": "Brand i bostadshus i Hongkong",
+      "summary": "Branden bröt ut i ett av höghusen i onsdags och har spridit sig snabbt i byggnadsställningar av bambu och skyddsnät. Myndigheterna har skapat album med bilder på de döda där personer kan söka efter anhöriga. Anställda på byggbolaget misstänkta lägenhetskomplexet genomgick en renovering när branden bröt ut.",
+      "url": "https://svt.se/nyheter/utrikes/storbrand-i-bostadshus-i-hongkong-minst-13-doda",
       "domain": "svt.se",
-      "published": "2025-11-26T19:51:12Z"
+      "published": "2025-11-26T12:51:03Z"
     },
     {
       "title": "Så blev Jeffrey Epstein en ökänd sexförbrytare",
@@ -37,32 +51,18 @@
       "published": "2025-11-26T09:02:18Z"
     },
     {
-      "title": "Kaja Kallas till Svenska Yle: Ryssland vill skynda fram fred",
-      "summary": "Utrikesminister Kaja Kallas intervjuar inför EU: s pågående plenumvecka i Strasbourg. Kallas diskuterar riskerna med pågående fredssonderingar, betydelsen av att varje land själv får forma sin säkerhetspolitiska kurs. Hon varnar för faran i att belöna angriparen i en militär konflikt.",
-      "url": "https://yle.fi/a/7-10088760?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-25T20:32:06Z"
+      "title": "Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff",
+      "summary": "Högerradikale Bolsonaro blir kvar i den federala polisens fängelse och förflyttas inte till fängelsekomplexet Papuda, som expresidentens allierade förespråkat. Nu är processen om Bolsonaros kuppförsök över och straffet har därmed verkställts. Straffet uppgår till 27 år och tre månader.",
+      "url": "https://svt.se/nyheter/utrikes/brasiliens-hogsta-domstol-bolsonaro-kan-borja-avtjana-sitt-straff",
+      "domain": "svt.se",
+      "published": "2025-11-25T19:40:36Z"
     },
     {
-      "title": "I bästa fall ett första steg”",
-      "summary": "Det reviderade förslaget uppges enligt Financial Times innehålla 19 punkter i stället för Trumps ursprungliga 28 punkt förslag. De känsligaste frågorna är dock utelämnade och väntas sparas till direkta samtal mellan USA: s president Donald Trump och Ukrainas president Volodymyr Zelenskyj. Det handlar om Ukrainas territorium och eftergifter, samt landets framtida allianser.",
-      "url": "https://svt.se/nyheter/utrikes/i-basta-fall-ett-forsta-steg-analytikern-om-forhandlingarna-for-fred-i-ukraina",
+      "title": "EU-parlamentet: Inför 16-årsgräns på sociala medier",
+      "summary": "Enligt det isländska förslaget ska åldersgränsen för sociala medier höjas från 13 till 15 eller 16 år. När det gäller sociala medier är det fritt fram, det är oacceptabelt, säger Skúli Bragi Geirdal som är ledamot i Alltinget, till RÚV, Islands public service - bolag. Fler länder följer efter Island är inte det enda landet där frågan diskuteras.",
+      "url": "https://svt.se/nyheter/utrikes/eu-parlamentet-infor-16-arsgrans-pa-sociala-medier",
       "domain": "svt.se",
-      "published": "2025-11-25T08:38:56Z"
-    },
-    {
-      "title": "Svenska Christina fast i Antarktis i 26 timmar: ”Full snöstorm",
-      "summary": "En grupp på 65 personer reste med gummibåtar ut till King George Island, norr om den antarktiska halvön, överraskades av en kraftig snöstorm. Nästan omedelbart bestämde expeditionsledaren att vi skulle evakuera, men då var det försent, säger Christina Larsson. När vädret hade förbättrats vid 20 - tiden på måndag kväll kunde resenärerna transporteras tillbaka till fartyget igen.",
-      "url": "https://svt.se/nyheter/utrikes/svenska-christina-fast-i-antarktis-i-26-timmar-full-snostorm",
-      "domain": "svt.se",
-      "published": "2025-11-24T22:10:17Z"
-    },
-    {
-      "title": "Svenskar blev strandsatta på ö i Antarktis",
-      "summary": "Passagerare, guider och guider var strandsatta på King George Island i mellan ett halvt och ett dygn. Ett snabbt väderomslag ledde till att de inte kunde återvända till fartyget med gummibåtar efter en landstigning. Majoriteten svenskar Polarquest är ett svenskt företag och majoriteten av resenärerna är svenska medborgare, enligt Lannborn Barker.",
-      "url": "https://svt.se/nyheter/utrikes/svenskar-strandsatta-pa-o-i-antarktis",
-      "domain": "svt.se",
-      "published": "2025-11-24T19:07:18Z"
+      "published": "2025-11-25T17:49:39Z"
     }
   ]
 }
