@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-28T07:13:16+00:00",
+  "generated": "2025-11-29T07:13:17+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump: En av de skjutna nationalgardisterna är död",
-      "summary": "USA: s president Donald Trump talade om en av de två soldater, en man och en kvinna i 20 - årsåldern, som skadades allvarligt av skott nära Vita huset i Washington DC i onsdags. Trump sa att Gärningsmannen, som Trump kallade för ett barbariskt monster, fortfarande kämpar för sitt liv. Den 29 - årige gärningsmannen är från Afghanistan.",
-      "url": "https://yle.fi/a/7-10088929?origin=rss",
+      "title": "Trots vapenvilan fortsätter dödandet i Gaza",
+      "summary": "Trots vapenvilan fortsätter dödandet i Gaza – Israel har brutit eldupphöret 497 gånger, säger Amnesty International. Israel fortsätter attackera Gaza i stort sett dagligen, och blockerar fortfarande tillräckliga mängder humanitärt bistånd från att komma in i Gaza. Detta trots upprepade order från FN: s internationella domstol ICJ, Amnesty säger.",
+      "url": "https://yle.fi/a/7-10088944?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-28T03:42:46Z"
+      "published": "2025-11-29T05:00:14Z"
     },
     {
-      "title": "Trump: Ska stoppa droger från Venezuela även på land",
-      "summary": "Minst 80 personer har dödats i attackerna, enligt AFP: s beräkningar. Spänningar mellan USA och länder i Sydamerika har ökat till följd av attackerna. USA: s president Donald Trump säger att drogsmugglingen nu är lättare på land.",
-      "url": "https://svt.se/nyheter/utrikes/trump-ska-stoppa-droger-aven-pa-land",
+      "title": "USA pausar alla asylbeslut",
+      "summary": "Den misstänkte skytten är en 29 - årig man som kom från Afghanistan till USA 2021 av skyddsskäl och beviljades asyl i april i år. Tidigare tjänstgjorde han i Afghanistans USA - stödda armé i tio år. Knappt ett dygn tidigare beslutade USCIS att se över alla tidigare utfärdade permanenta visum från 19 olika länder.",
+      "url": "https://svt.se/nyheter/utrikes/usa-pausar-alla-asylbeslut",
       "domain": "svt.se",
-      "published": "2025-11-28T00:46:55Z"
+      "published": "2025-11-29T00:23:16Z"
+    },
+    {
+      "title": "Lämnar över sig med uppsträckta händer",
+      "summary": "Det var under torsdag som israeliska styrkor sköt ihjäl de två männen. Israeliska styrkor ses närma sig en port vid en byggnad. Styrkorna ser ut att ha använt en grävmaskin för att bryta upp porten.",
+      "url": "https://svt.se/nyheter/utrikes/lamnar-over-sig-med-uppstrackta-hander-sedan-skjuts-de-av-israeliska-styrkor",
+      "domain": "svt.se",
+      "published": "2025-11-28T21:04:35Z"
+    },
+    {
+      "title": "Georgien på väg mot enmansdiktatur: ”Vi vägrar bli Putins marionetter",
+      "summary": "Demonstratörer samlas utanför Georgiens parlament för att protestera mot regeringen. Regeringen säger att den vill förbjuda landets tre största oppositionspartier. Många bedömare varnar för att utvecklingen närmar sig en punkt där demokratin inte längre kan återhämta sig.",
+      "url": "https://yle.fi/a/7-10088861?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-28T08:54:31Z"
     },
     {
       "title": "Skulle attackera Eurovision med cyanid: ”Fun time",
@@ -37,32 +51,18 @@
       "published": "2025-11-27T03:30:14Z"
     },
     {
-      "title": "Brand i bostadshus i Hongkong",
-      "summary": "Branden bröt ut i ett av höghusen i onsdags och har spridit sig snabbt i byggnadsställningar av bambu och skyddsnät. Myndigheterna har skapat album med bilder på de döda där personer kan söka efter anhöriga. Anställda på byggbolaget misstänkta lägenhetskomplexet genomgick en renovering när branden bröt ut.",
-      "url": "https://svt.se/nyheter/utrikes/storbrand-i-bostadshus-i-hongkong-minst-13-doda",
-      "domain": "svt.se",
-      "published": "2025-11-26T12:51:03Z"
-    },
-    {
-      "title": "Så blev Jeffrey Epstein en ökänd sexförbrytare",
-      "summary": "Jeffrey Epstein anklagas för att ha förgripit sig på en 14 - årig flicka i Florida 2005. Åklagare Barry Krischer väljer att föra fallet vidare till en åtalsjury, som tar ställning till om det finns tillräckligt med bevis för att formellt åtala Epstein. Epsteins advokater förhandlar med den federala åklagaren Alexander Acosta om att undvika ett federalt åtal.",
-      "url": "https://yle.fi/a/7-10088654?origin=rss",
+      "title": "Två soldater allvarligt skadade i skottlossning nära Vita huset",
+      "summary": "Två nationalgardister träffades av skott i närheten av Vita huset i Washington DC. De skottskadade soldaterna kommer från nationalgardet i West Virginia. Trump uppmanar myndigheterna att gå igenom alla invandrare från Afghanistan som kom in i landet under president Joe Biden.",
+      "url": "https://yle.fi/a/7-10088849?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-26T09:02:18Z"
+      "published": "2025-11-26T20:08:36Z"
     },
     {
-      "title": "Brasiliens högsta domstol: Bolsonaro kan börja avtjäna sitt straff",
-      "summary": "Högerradikale Bolsonaro blir kvar i den federala polisens fängelse och förflyttas inte till fängelsekomplexet Papuda, som expresidentens allierade förespråkat. Nu är processen om Bolsonaros kuppförsök över och straffet har därmed verkställts. Straffet uppgår till 27 år och tre månader.",
-      "url": "https://svt.se/nyheter/utrikes/brasiliens-hogsta-domstol-bolsonaro-kan-borja-avtjana-sitt-straff",
+      "title": "En av militärerna död efter skjutning vid Vita huset i Washington DC",
+      "summary": "Två uniformerade militärer sköts när de patrullerade ett område två kvarter nordväst om Vita huset. Skytten kom då runt hörnet och avlossade sitt vapen mot gardisterna. Andra nationalgardister i närheten lyckades få kontroll över den misstänkte och gripa denne, säger polisen.",
+      "url": "https://svt.se/nyheter/utrikes/tva-soldater-skjutna-nara-vita-huset",
       "domain": "svt.se",
-      "published": "2025-11-25T19:40:36Z"
-    },
-    {
-      "title": "EU-parlamentet: Inför 16-årsgräns på sociala medier",
-      "summary": "Enligt det isländska förslaget ska åldersgränsen för sociala medier höjas från 13 till 15 eller 16 år. När det gäller sociala medier är det fritt fram, det är oacceptabelt, säger Skúli Bragi Geirdal som är ledamot i Alltinget, till RÚV, Islands public service - bolag. Fler länder följer efter Island är inte det enda landet där frågan diskuteras.",
-      "url": "https://svt.se/nyheter/utrikes/eu-parlamentet-infor-16-arsgrans-pa-sociala-medier",
-      "domain": "svt.se",
-      "published": "2025-11-25T17:49:39Z"
+      "published": "2025-11-26T19:51:12Z"
     }
   ]
 }
