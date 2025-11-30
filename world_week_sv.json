@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-29T07:13:17+00:00",
-  "total_raw": 40,
-  "total_rank": 8,
+  "generated": "2025-11-30T07:27:32+00:00",
+  "total_raw": 39,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Egypten tränar hundratals palestinier för framtida polisstyrka i Gaza",
+      "summary": "Egypten tränar just nu hundratals palestinska poliser med målet att integrera dem i en säkerhetsstyrka i Gaza efter kriget. En första grupp på över 500 poliser utbildades i Kairo i mars och sedan september har två månader långa kurser återupptagits för att ta emot ytterligare hundratals personer. Enligt fredsplanen ska de arbeta tillsammans med en tillfällig internationell stabiliseringsstyrka ( ISF ) för att säkra gränsområdena.",
+      "url": "https://yle.fi/a/7-10089017?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-30T05:20:34Z"
+    },
+    {
+      "title": "Fiskboom i USA efter världens största dammrivning",
+      "summary": "Fyra vattenkraftdammar revs på Klamath - floden för ett år sedan. Projektet har mött applåder från myndigheterna och stammarna men inte varit okontroversiellt. Vissa boende i området har uttryckt oro för minskad eltillgång, försämrad vattenkvalitet eller att strandmiljöerna förändras.",
+      "url": "https://svt.se/nyheter/utrikes/fiskboom-i-usa-efter-varldens-storsta-dammrivning",
+      "domain": "svt.se",
+      "published": "2025-11-30T03:13:59Z"
+    },
+    {
+      "title": "Experten: Trumps säljtaktik kan ha svårt att lyckas i Ukraina",
+      "summary": "Under det gångna året har hoppet om ett avtal tänts vid många tillfällen, men kriget rasar vidare med tusentals döda vid frontlinjerna. USA: s senaste steg för att stoppa kriget kom den 21 november, när Ukraina fick ta emot ett förslag på fredsavtal som kritiserades för att vara en \" rysk önskelista \" Lars - Johan Åge: Det är väntat att Trump – som gick ut högt i början – är beredd att backa lite från ursprungskraven.",
+      "url": "https://svt.se/nyheter/utrikes/experten-trumps-saljtaktik-kan-ha-svart-att-lyckas-i-ukraina",
+      "domain": "svt.se",
+      "published": "2025-11-29T09:23:07Z"
+    },
     {
       "title": "Trots vapenvilan fortsätter dödandet i Gaza",
       "summary": "Trots vapenvilan fortsätter dödandet i Gaza – Israel har brutit eldupphöret 497 gånger, säger Amnesty International. Israel fortsätter attackera Gaza i stort sett dagligen, och blockerar fortfarande tillräckliga mängder humanitärt bistånd från att komma in i Gaza. Detta trots upprepade order från FN: s internationella domstol ICJ, Amnesty säger.",
       "url": "https://yle.fi/a/7-10088944?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-29T05:00:14Z"
-    },
-    {
-      "title": "USA pausar alla asylbeslut",
-      "summary": "Den misstänkte skytten är en 29 - årig man som kom från Afghanistan till USA 2021 av skyddsskäl och beviljades asyl i april i år. Tidigare tjänstgjorde han i Afghanistans USA - stödda armé i tio år. Knappt ett dygn tidigare beslutade USCIS att se över alla tidigare utfärdade permanenta visum från 19 olika länder.",
-      "url": "https://svt.se/nyheter/utrikes/usa-pausar-alla-asylbeslut",
-      "domain": "svt.se",
-      "published": "2025-11-29T00:23:16Z"
     },
     {
       "title": "Lämnar över sig med uppsträckta händer",
@@ -37,32 +51,11 @@
       "published": "2025-11-28T08:54:31Z"
     },
     {
-      "title": "Skulle attackera Eurovision med cyanid: ”Fun time",
-      "summary": "Mannen är 23 år och bor i Sverige, studerar kemi och har ett företag inom samma område. Han ska ha radikaliserats på nätet och under resor till Sverige. Han är dömd för att ha bränt ner en minkfarm 2019 och har kopplats till grupper inom så kallad ekofascism.",
-      "url": "https://svt.se/nyheter/utrikes/skulle-attackera-eurovision-med-cyanid-fun-time",
-      "domain": "svt.se",
-      "published": "2025-11-27T08:50:54Z"
-    },
-    {
-      "title": "Tysk cannabis blev laglig men krånglig: ”En riktig skitlag",
-      "summary": "En ny lag skulle leda vägen för laglig cannabis i Tyskland. Istället tampas klubbar som Mariana Cannabis – med verksamhet på 180 orter – med byråkrati. Många andra klubbar kämpar mot myndigheter som försöker sabotera legaliseringen, säger klubbens presstalesman Keno Mennenga.",
-      "url": "https://yle.fi/a/7-10088016?origin=rss",
+      "title": "Fabergéägg av finländska Alma Pihl säljs på auktion",
+      "summary": "Vinterägget är det dyraste av de drygt 50 ägg som hovjuveleraren Fabergé tillverkade för den ryska tsarfamiljen före revolutionen 1917. Ägget förväntas inbringa över 20 miljoner pund ( 22, 8 miljoner euro ), så det gäller att ha god ekonomi för att kunna ge ett anbud. Det är inte första gången Christie ' s säljer ägget som Alma Pihl designade år 1913.",
+      "url": "https://yle.fi/a/7-10088923?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-27T03:30:14Z"
-    },
-    {
-      "title": "Två soldater allvarligt skadade i skottlossning nära Vita huset",
-      "summary": "Två nationalgardister träffades av skott i närheten av Vita huset i Washington DC. De skottskadade soldaterna kommer från nationalgardet i West Virginia. Trump uppmanar myndigheterna att gå igenom alla invandrare från Afghanistan som kom in i landet under president Joe Biden.",
-      "url": "https://yle.fi/a/7-10088849?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-26T20:08:36Z"
-    },
-    {
-      "title": "En av militärerna död efter skjutning vid Vita huset i Washington DC",
-      "summary": "Två uniformerade militärer sköts när de patrullerade ett område två kvarter nordväst om Vita huset. Skytten kom då runt hörnet och avlossade sitt vapen mot gardisterna. Andra nationalgardister i närheten lyckades få kontroll över den misstänkte och gripa denne, säger polisen.",
-      "url": "https://svt.se/nyheter/utrikes/tva-soldater-skjutna-nara-vita-huset",
-      "domain": "svt.se",
-      "published": "2025-11-26T19:51:12Z"
+      "published": "2025-11-27T19:43:21Z"
     }
   ]
 }
