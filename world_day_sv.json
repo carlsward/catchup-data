@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-30T07:26:23+00:00",
-  "total_raw": 18,
+  "generated": "2025-12-01T07:37:51+00:00",
+  "total_raw": 14,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tyskland: Stora protester mot högerpopulistiska AfD:s nya ungdomsorganisation",
-      "summary": "Polisen använde pepparspray och vattenkanoner mot de antifascistiska demonstranterna. Minst 20 officiella demonstrationer har registrerats hos myndigheterna. Tusentals demonstranter förväntades anlända till staden Giessen, som har drygt 90 000 invånare.",
-      "url": "https://yle.fi/a/7-10089002?origin=rss",
+      "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
+      "summary": "Den ukrainska delegationen reste till Florida under helgen, där USA och Ukraina kommer att fortsätta förhandla om fred. Ukrainas delegation leds av den tidigare försvarsministern och nuvarande nationella säkerhetsrådssekreteraren Rustem Umjerov. I förhandlingarna saknas den tidigare chefsförhandlaren Andrij Jermak, som tvingades lämna sin post efter en korruptionsskandal.",
+      "url": "https://yle.fi/a/7-10089032?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-29T14:18:41Z"
+      "published": "2025-11-30T16:00:14Z"
     },
     {
-      "title": "En svår natt och morgon i Kiev",
-      "summary": "Minst tre civila har dödats och ett fyrtiotal sårats i nattens massiva ryska drönar - och robotattacker mot Ukrainas huvudstad Kiev. Enligt det ukrainska energiministeriet förlorade ungefär 600 000 hushåll strömmen under natten, cirka 500 000 av dem i Kiev. Ukrainas president Volodymyr Zelenskyj avfyrade nästan 600 drönare och 36 missiler mot Kiev och en del andra distrikt i Ukraina under natten och morgonen.",
-      "url": "https://yle.fi/a/7-10089000?origin=rss",
+      "title": "Försiktigt positiva uttalanden från Ukraina och USA om förhandlingarna i Florida",
+      "summary": "Ukrainas chefsförhandlare Rustem Umerov uttryckte sin uppskattning över USA: s ansträngningar. Rubio tillade att mycket arbete ännu återstår för att få slut på Rysslands krig mot Ukraina. Ukrainas biträdande utrikesminister Sergiy Kyslytsya på X då samtalen pågått ett tag.",
+      "url": "https://yle.fi/a/7-10089039?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-29T11:50:14Z"
+      "published": "2025-11-30T20:21:04Z"
     },
     {
-      "title": "Experten: Trumps säljtaktik kan ha svårt att lyckas i Ukraina",
-      "summary": "Under det gångna året har hoppet om ett avtal tänts vid många tillfällen, men kriget rasar vidare med tusentals döda vid frontlinjerna. USA: s senaste steg för att stoppa kriget kom den 21 november, när Ukraina fick ta emot ett förslag på fredsavtal som kritiserades för att vara en \" rysk önskelista \" Lars - Johan Åge: Det är väntat att Trump – som gick ut högt i början – är beredd att backa lite från ursprungskraven.",
-      "url": "https://svt.se/nyheter/utrikes/experten-trumps-saljtaktik-kan-ha-svart-att-lyckas-i-ukraina",
+      "title": "Sipri: Världens vapenproducenter gör rekordvinster",
+      "summary": "De 100 största vapentillverkarna i världen såg sina intäkter öka med nästan sex procent i fjol. Försäljningen för de här 100 bolagen nådde rekordintäkter på totalt 679 miljarder dollar, motsvarande ungefär 587 miljarder euro. Den ökade efterfrågan märks främst i Europa, enligt forskaren Jade Guiberteau Ricard.",
+      "url": "https://yle.fi/a/7-10089041?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-01T04:35:14Z"
+    },
+    {
+      "title": "Trump i ny attack mot medier",
+      "summary": "Avdelningen dök upp i fredags, skriver The Guardian. Vinjetten är \" Misleading. Biased.",
+      "url": "https://svt.se/nyheter/utrikes/trump-i-ny-attack-mot-medier-lanserar-skamlista",
       "domain": "svt.se",
-      "published": "2025-11-29T09:23:07Z"
+      "published": "2025-11-30T07:54:43Z"
     },
     {
-      "title": "Fiskboom i USA efter världens största dammrivning",
-      "summary": "Fyra vattenkraftdammar revs på Klamath - floden för ett år sedan. Projektet har mött applåder från myndigheterna och stammarna men inte varit okontroversiellt. Vissa boende i området har uttryckt oro för minskad eltillgång, försämrad vattenkvalitet eller att strandmiljöerna förändras.",
-      "url": "https://svt.se/nyheter/utrikes/fiskboom-i-usa-efter-varldens-storsta-dammrivning",
+      "title": "Netanyahu vill bli benådad",
+      "summary": "Netanyahu säger i videomeddelandet att han gärna skulle vilja fullfölja rättegången. Han tror att det skulle rentvå honom, men att nationens intresse kräver annat. Justitiedepartementet kommer nu att samla in underlag och sedan komma med en rekommendation till Herzog, enligt ett uttalande från presidentkansliet.",
+      "url": "https://svt.se/nyheter/utrikes/netanyahu-vill-bli-benadad",
       "domain": "svt.se",
-      "published": "2025-11-30T03:13:59Z"
-    },
-    {
-      "title": "Egypten tränar hundratals palestinier för framtida polisstyrka i Gaza",
-      "summary": "Egypten tränar just nu hundratals palestinska poliser med målet att integrera dem i en säkerhetsstyrka i Gaza efter kriget. En första grupp på över 500 poliser utbildades i Kairo i mars och sedan september har två månader långa kurser återupptagits för att ta emot ytterligare hundratals personer. Enligt fredsplanen ska de arbeta tillsammans med en tillfällig internationell stabiliseringsstyrka ( ISF ) för att säkra gränsområdena.",
-      "url": "https://yle.fi/a/7-10089017?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-30T05:20:34Z"
+      "published": "2025-11-30T12:38:00Z"
     }
   ]
 }

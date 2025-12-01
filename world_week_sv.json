@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-11-30T07:27:32+00:00",
+  "generated": "2025-12-01T07:39:13+00:00",
   "total_raw": 39,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Egypten tränar hundratals palestinier för framtida polisstyrka i Gaza",
-      "summary": "Egypten tränar just nu hundratals palestinska poliser med målet att integrera dem i en säkerhetsstyrka i Gaza efter kriget. En första grupp på över 500 poliser utbildades i Kairo i mars och sedan september har två månader långa kurser återupptagits för att ta emot ytterligare hundratals personer. Enligt fredsplanen ska de arbeta tillsammans med en tillfällig internationell stabiliseringsstyrka ( ISF ) för att säkra gränsområdena.",
-      "url": "https://yle.fi/a/7-10089017?origin=rss",
+      "title": "Sipri: Världens vapenproducenter gör rekordvinster",
+      "summary": "De 100 största vapentillverkarna i världen såg sina intäkter öka med nästan sex procent i fjol. Försäljningen för de här 100 bolagen nådde rekordintäkter på totalt 679 miljarder dollar, motsvarande ungefär 587 miljarder euro. Den ökade efterfrågan märks främst i Europa, enligt forskaren Jade Guiberteau Ricard.",
+      "url": "https://yle.fi/a/7-10089041?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-11-30T05:20:34Z"
+      "published": "2025-12-01T04:35:14Z"
     },
     {
-      "title": "Fiskboom i USA efter världens största dammrivning",
-      "summary": "Fyra vattenkraftdammar revs på Klamath - floden för ett år sedan. Projektet har mött applåder från myndigheterna och stammarna men inte varit okontroversiellt. Vissa boende i området har uttryckt oro för minskad eltillgång, försämrad vattenkvalitet eller att strandmiljöerna förändras.",
-      "url": "https://svt.se/nyheter/utrikes/fiskboom-i-usa-efter-varldens-storsta-dammrivning",
+      "title": "Pete Hegseth kritiseras för dödsorder mot venezuelanskt fartyg: ”Tydligt krigsbr…",
+      "summary": "Tim Kaine och Mark Kelly antyder att en av attackerna i septemberkan ha varit ett brott mot internationell lag. Den 2 september ska USA: s försvarsminister Pete Hegseth ha beordrat en attack mot två besättningsmedlemmar som överlevde en redan genomförd attack mot det aktuella fartyget. Vi kommer att undersöka saken, men nej det skulle jag inte ha velat, inte en andra attack, säger Kaine.",
+      "url": "https://svt.se/nyheter/utrikes/pete-hegseth-kritiseras-for-dodsorder-mot-venezuelanskt-fartyg-tydligt-krigsbrott",
       "domain": "svt.se",
-      "published": "2025-11-30T03:13:59Z"
+      "published": "2025-11-30T23:04:22Z"
+    },
+    {
+      "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
+      "summary": "Den ukrainska delegationen reste till Florida under helgen, där USA och Ukraina kommer att fortsätta förhandla om fred. Ukrainas delegation leds av den tidigare försvarsministern och nuvarande nationella säkerhetsrådssekreteraren Rustem Umjerov. I förhandlingarna saknas den tidigare chefsförhandlaren Andrij Jermak, som tvingades lämna sin post efter en korruptionsskandal.",
+      "url": "https://yle.fi/a/7-10089032?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-30T16:00:14Z"
+    },
+    {
+      "title": "Trump i ny attack mot medier",
+      "summary": "Avdelningen dök upp i fredags, skriver The Guardian. Vinjetten är \" Misleading. Biased.",
+      "url": "https://svt.se/nyheter/utrikes/trump-i-ny-attack-mot-medier-lanserar-skamlista",
+      "domain": "svt.se",
+      "published": "2025-11-30T07:54:43Z"
     },
     {
       "title": "Experten: Trumps säljtaktik kan ha svårt att lyckas i Ukraina",
@@ -37,11 +51,11 @@
       "published": "2025-11-29T05:00:14Z"
     },
     {
-      "title": "Lämnar över sig med uppsträckta händer",
-      "summary": "Det var under torsdag som israeliska styrkor sköt ihjäl de två männen. Israeliska styrkor ses närma sig en port vid en byggnad. Styrkorna ser ut att ha använt en grävmaskin för att bryta upp porten.",
-      "url": "https://svt.se/nyheter/utrikes/lamnar-over-sig-med-uppstrackta-hander-sedan-skjuts-de-av-israeliska-styrkor",
-      "domain": "svt.se",
-      "published": "2025-11-28T21:04:35Z"
+      "title": "The Telegraph: USA tänker erkänna delar av Ukraina som ryska",
+      "summary": "USA tänker erkänna Krimhalvön och andra ryskockuperade ukrainska områden som delar av Ryssland, enligt den brittiska tidningen The Telegraph. Enligt tidningen gör USA det för att få igenom ett avtal om att få slut på Rysslands krig mot Ukraina. Ukrainas europeiska allierade har gång på gång uteslutit att de skulle ställa sig bakom ett avtal som innebär att gränserna ritas om med våld.",
+      "url": "https://yle.fi/a/7-10088980?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-28T14:33:01Z"
     },
     {
       "title": "Georgien på väg mot enmansdiktatur: ”Vi vägrar bli Putins marionetter",
@@ -49,13 +63,6 @@
       "url": "https://yle.fi/a/7-10088861?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-28T08:54:31Z"
-    },
-    {
-      "title": "Fabergéägg av finländska Alma Pihl säljs på auktion",
-      "summary": "Vinterägget är det dyraste av de drygt 50 ägg som hovjuveleraren Fabergé tillverkade för den ryska tsarfamiljen före revolutionen 1917. Ägget förväntas inbringa över 20 miljoner pund ( 22, 8 miljoner euro ), så det gäller att ha god ekonomi för att kunna ge ett anbud. Det är inte första gången Christie ' s säljer ägget som Alma Pihl designade år 1913.",
-      "url": "https://yle.fi/a/7-10088923?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-27T19:43:21Z"
     }
   ]
 }
