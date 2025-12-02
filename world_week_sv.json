@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-01T07:39:13+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-02T07:19:20+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sipri: Världens vapenproducenter gör rekordvinster",
-      "summary": "De 100 största vapentillverkarna i världen såg sina intäkter öka med nästan sex procent i fjol. Försäljningen för de här 100 bolagen nådde rekordintäkter på totalt 679 miljarder dollar, motsvarande ungefär 587 miljarder euro. Den ökade efterfrågan märks främst i Europa, enligt forskaren Jade Guiberteau Ricard.",
-      "url": "https://yle.fi/a/7-10089041?origin=rss",
+      "title": "USA:s försvarsminister ska ha beordrat dödligt angrepp mot påstådda drogsmugglar…",
+      "summary": "USA: s försvarsminister Pete Hegseth ska ha gett instruktioner om att döda överlevare i en amerikansk attack mot ett påstått drogsmugglarfartyg från Venezuela tidigare i höst. Vita huset har rättfärdigat attacken med att fartyget, som man övervakat en tid, skulle ha transporterat droger till USA. Operationen övervakades av drönare som filmade händelsen.",
+      "url": "https://yle.fi/a/7-10089118?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-01T04:35:14Z"
+      "published": "2025-12-02T05:47:51Z"
     },
     {
-      "title": "Pete Hegseth kritiseras för dödsorder mot venezuelanskt fartyg: ”Tydligt krigsbr…",
-      "summary": "Tim Kaine och Mark Kelly antyder att en av attackerna i septemberkan ha varit ett brott mot internationell lag. Den 2 september ska USA: s försvarsminister Pete Hegseth ha beordrat en attack mot två besättningsmedlemmar som överlevde en redan genomförd attack mot det aktuella fartyget. Vi kommer att undersöka saken, men nej det skulle jag inte ha velat, inte en andra attack, säger Kaine.",
-      "url": "https://svt.se/nyheter/utrikes/pete-hegseth-kritiseras-for-dodsorder-mot-venezuelanskt-fartyg-tydligt-krigsbrott",
+      "title": "Kanada går med i europeisk försvarsfond",
+      "summary": "Fonden, som bildades i maj, har lånat upp 150 miljarder euro till försvarssatsningar i deltagarländerna. 19 av EU: s 27 medlemsländer har ansökt om lån från fonden. Polen har beviljats det största lånet, nära 44 miljarder euro.",
+      "url": "https://svt.se/nyheter/utrikes/kanada-gar-med-i-europeisk-forsvarsfond",
       "domain": "svt.se",
-      "published": "2025-11-30T23:04:22Z"
+      "published": "2025-12-01T23:47:44Z"
+    },
+    {
+      "title": "Trump kallade till möte om Venezuela-konflikten",
+      "summary": "Mötet hölls i Vita huset med början klockan 17 lokal tid. Enligt uppgift skulle krigsminister Pete Hegseth, utrikesminister Rubio och försvarsstabens ordförande Dan Caine delta. Trump började senare kommentera helt andra frågor på plattformen Truth Social.",
+      "url": "https://svt.se/nyheter/utrikes/uppgifter-trump-vantas-halla-mote-om-venezuela-konflikten",
+      "domain": "svt.se",
+      "published": "2025-12-01T17:51:14Z"
+    },
+    {
+      "title": "Hela Mellanöstern håller andan då Gen Z förändrar Iran och utmanar regimen",
+      "summary": "Unga iranier ser konflikten som ett hinder för ett värdigt liv, säger Sanam Vakil, chef för Mellanöstern - och Nordafrikaprogrammet på tankesmedjan Chatham House. Hon säger att regimen har hållit en låg profil utrikespolitiskt för att hantera trycket på hemmaplan. Vakil säger att trots hopplösheten och repressionen har något förändrats i gatubilden.",
+      "url": "https://yle.fi/a/7-10086893?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-01T09:00:14Z"
     },
     {
       "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
@@ -37,11 +51,11 @@
       "published": "2025-11-30T07:54:43Z"
     },
     {
-      "title": "Experten: Trumps säljtaktik kan ha svårt att lyckas i Ukraina",
-      "summary": "Under det gångna året har hoppet om ett avtal tänts vid många tillfällen, men kriget rasar vidare med tusentals döda vid frontlinjerna. USA: s senaste steg för att stoppa kriget kom den 21 november, när Ukraina fick ta emot ett förslag på fredsavtal som kritiserades för att vara en \" rysk önskelista \" Lars - Johan Åge: Det är väntat att Trump – som gick ut högt i början – är beredd att backa lite från ursprungskraven.",
-      "url": "https://svt.se/nyheter/utrikes/experten-trumps-saljtaktik-kan-ha-svart-att-lyckas-i-ukraina",
+      "title": "Norska budgetsamtal gnisslar",
+      "summary": "MDG hoppade av i protest mot att ett förslag om höjda drivmedelsavgifter strukits. Tre partier har kommit överens om ett förlag som bl. a.",
+      "url": "https://svt.se/nyheter/utrikes/norska-budgetsamtal-gnisslar",
       "domain": "svt.se",
-      "published": "2025-11-29T09:23:07Z"
+      "published": "2025-11-29T19:33:56Z"
     },
     {
       "title": "Trots vapenvilan fortsätter dödandet i Gaza",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10088944?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-29T05:00:14Z"
-    },
-    {
-      "title": "The Telegraph: USA tänker erkänna delar av Ukraina som ryska",
-      "summary": "USA tänker erkänna Krimhalvön och andra ryskockuperade ukrainska områden som delar av Ryssland, enligt den brittiska tidningen The Telegraph. Enligt tidningen gör USA det för att få igenom ett avtal om att få slut på Rysslands krig mot Ukraina. Ukrainas europeiska allierade har gång på gång uteslutit att de skulle ställa sig bakom ett avtal som innebär att gränserna ritas om med våld.",
-      "url": "https://yle.fi/a/7-10088980?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-28T14:33:01Z"
-    },
-    {
-      "title": "Georgien på väg mot enmansdiktatur: ”Vi vägrar bli Putins marionetter",
-      "summary": "Demonstratörer samlas utanför Georgiens parlament för att protestera mot regeringen. Regeringen säger att den vill förbjuda landets tre största oppositionspartier. Många bedömare varnar för att utvecklingen närmar sig en punkt där demokratin inte längre kan återhämta sig.",
-      "url": "https://yle.fi/a/7-10088861?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-28T08:54:31Z"
     }
   ]
 }

@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-01T07:39:57+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-02T07:20:04+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sipri: Världens vapenproducenter gör rekordvinster",
-      "summary": "De 100 största vapentillverkarna i världen såg sina intäkter öka med nästan sex procent i fjol. Försäljningen för de här 100 bolagen nådde rekordintäkter på totalt 679 miljarder dollar, motsvarande ungefär 587 miljarder euro. Den ökade efterfrågan märks främst i Europa, enligt forskaren Jade Guiberteau Ricard.",
-      "url": "https://yle.fi/a/7-10089041?origin=rss",
+      "title": "USA:s försvarsminister ska ha beordrat dödligt angrepp mot påstådda drogsmugglar…",
+      "summary": "USA: s försvarsminister Pete Hegseth ska ha gett instruktioner om att döda överlevare i en amerikansk attack mot ett påstått drogsmugglarfartyg från Venezuela tidigare i höst. Vita huset har rättfärdigat attacken med att fartyget, som man övervakat en tid, skulle ha transporterat droger till USA. Operationen övervakades av drönare som filmade händelsen.",
+      "url": "https://yle.fi/a/7-10089118?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-01T04:35:14Z"
+      "published": "2025-12-02T05:47:51Z"
+    },
+    {
+      "title": "Hela Mellanöstern håller andan då Gen Z förändrar Iran och utmanar regimen",
+      "summary": "Unga iranier ser konflikten som ett hinder för ett värdigt liv, säger Sanam Vakil, chef för Mellanöstern - och Nordafrikaprogrammet på tankesmedjan Chatham House. Hon säger att regimen har hållit en låg profil utrikespolitiskt för att hantera trycket på hemmaplan. Vakil säger att trots hopplösheten och repressionen har något förändrats i gatubilden.",
+      "url": "https://yle.fi/a/7-10086893?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-01T09:00:14Z"
     },
     {
       "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10088944?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-29T05:00:14Z"
-    },
-    {
-      "title": "Georgien på väg mot enmansdiktatur: ”Vi vägrar bli Putins marionetter",
-      "summary": "Demonstratörer samlas utanför Georgiens parlament för att protestera mot regeringen. Regeringen säger att den vill förbjuda landets tre största oppositionspartier. Många bedömare varnar för att utvecklingen närmar sig en punkt där demokratin inte längre kan återhämta sig.",
-      "url": "https://yle.fi/a/7-10088861?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-28T08:54:31Z"
     }
   ]
 }
