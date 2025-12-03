@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-02T07:19:20+00:00",
+  "generated": "2025-12-03T07:18:21+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA:s försvarsminister ska ha beordrat dödligt angrepp mot påstådda drogsmugglar…",
-      "summary": "USA: s försvarsminister Pete Hegseth ska ha gett instruktioner om att döda överlevare i en amerikansk attack mot ett påstått drogsmugglarfartyg från Venezuela tidigare i höst. Vita huset har rättfärdigat attacken med att fartyget, som man övervakat en tid, skulle ha transporterat droger till USA. Operationen övervakades av drönare som filmade händelsen.",
-      "url": "https://yle.fi/a/7-10089118?origin=rss",
+      "title": "Ryssland efter samtalen med USA: Ingen kompromiss om Ukraina ännu",
+      "summary": "Rysslands president Jurij Usjakov säger att Vladimir Putin och de amerikanska representanterna höll ett givande möte i Kreml. Men i praktiken ledde samtalen inte till några resultat. Rådgivaren konstaterade också att mötet specifikt behandlade territoriella frågor, utan vilka vi inte ser någon lösning på krisen.",
+      "url": "https://yle.fi/a/7-10089190?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-02T05:47:51Z"
+      "published": "2025-12-03T03:44:43Z"
     },
     {
-      "title": "Kanada går med i europeisk försvarsfond",
-      "summary": "Fonden, som bildades i maj, har lånat upp 150 miljarder euro till försvarssatsningar i deltagarländerna. 19 av EU: s 27 medlemsländer har ansökt om lån från fonden. Polen har beviljats det största lånet, nära 44 miljarder euro.",
-      "url": "https://svt.se/nyheter/utrikes/kanada-gar-med-i-europeisk-forsvarsfond",
+      "title": "Överenskommelse om rödgrön statsbudget i Norge",
+      "summary": "Klimat - och miljöförslag som ska läggas till Nu har lagts till. MDG och SV är med på båten. Det är oklart om Jonas Gahr Støre ( AP ) kommer att få ett budgetförslag i tid.",
+      "url": "https://svt.se/nyheter/utrikes/fem-partier-overens-om-norges-statsbudget",
       "domain": "svt.se",
-      "published": "2025-12-01T23:47:44Z"
+      "published": "2025-12-03T02:01:14Z"
+    },
+    {
+      "title": "Mötet i Moskva avslutat",
+      "summary": "Jurij Usjakov säger att ingen kompromiss nåddes, men USA har överlämnat fyra dokument utöver den uppmärksammade fredsplanen. På frågan om ett krigsslut har kommit närmare eller längre bort, säger han att det verkligen inte har kommit längre bort. Han talade till och med om möjligheten för krig med Europa.",
+      "url": "https://svt.se/nyheter/utrikes/motet-i-moskva-avslutat-invantar-signaler",
+      "domain": "svt.se",
+      "published": "2025-12-02T21:59:30Z"
+    },
+    {
+      "title": "Europa kan vinna chipkriget med opolitisk AI",
+      "summary": "Katja Bego, expert på geopolitik och teknologi, ser en öppning i kampen mellan USA och Kina som europeiska bolag bör utnyttja. Under president Donald Trump har man tillåtit amerikanska bolag att sälja avancerade AI - chip till Kina. USA har under lång tid pressat allierade länder som Nederländerna och Taiwan att stoppa sin export till Kina – av just säkerhetsskäl.",
+      "url": "https://yle.fi/a/7-10087897?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-02T09:01:04Z"
     },
     {
       "title": "Trump kallade till möte om Venezuela-konflikten",
@@ -37,32 +51,18 @@
       "published": "2025-12-01T09:00:14Z"
     },
     {
+      "title": "Försiktigt positiva uttalanden från Ukraina och USA om förhandlingarna i Florida",
+      "summary": "Ukrainas chefsförhandlare Rustem Umerov uttryckte sin uppskattning över USA: s ansträngningar. Rubio tillade att mycket arbete ännu återstår för att få slut på Rysslands krig mot Ukraina. Ukrainas biträdande utrikesminister Sergiy Kyslytsya på X då samtalen pågått ett tag.",
+      "url": "https://yle.fi/a/7-10089039?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-11-30T20:21:04Z"
+    },
+    {
       "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
       "summary": "Den ukrainska delegationen reste till Florida under helgen, där USA och Ukraina kommer att fortsätta förhandla om fred. Ukrainas delegation leds av den tidigare försvarsministern och nuvarande nationella säkerhetsrådssekreteraren Rustem Umjerov. I förhandlingarna saknas den tidigare chefsförhandlaren Andrij Jermak, som tvingades lämna sin post efter en korruptionsskandal.",
       "url": "https://yle.fi/a/7-10089032?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-30T16:00:14Z"
-    },
-    {
-      "title": "Trump i ny attack mot medier",
-      "summary": "Avdelningen dök upp i fredags, skriver The Guardian. Vinjetten är \" Misleading. Biased.",
-      "url": "https://svt.se/nyheter/utrikes/trump-i-ny-attack-mot-medier-lanserar-skamlista",
-      "domain": "svt.se",
-      "published": "2025-11-30T07:54:43Z"
-    },
-    {
-      "title": "Norska budgetsamtal gnisslar",
-      "summary": "MDG hoppade av i protest mot att ett förslag om höjda drivmedelsavgifter strukits. Tre partier har kommit överens om ett förlag som bl. a.",
-      "url": "https://svt.se/nyheter/utrikes/norska-budgetsamtal-gnisslar",
-      "domain": "svt.se",
-      "published": "2025-11-29T19:33:56Z"
-    },
-    {
-      "title": "Trots vapenvilan fortsätter dödandet i Gaza",
-      "summary": "Trots vapenvilan fortsätter dödandet i Gaza – Israel har brutit eldupphöret 497 gånger, säger Amnesty International. Israel fortsätter attackera Gaza i stort sett dagligen, och blockerar fortfarande tillräckliga mängder humanitärt bistånd från att komma in i Gaza. Detta trots upprepade order från FN: s internationella domstol ICJ, Amnesty säger.",
-      "url": "https://yle.fi/a/7-10088944?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-29T05:00:14Z"
     }
   ]
 }

@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-02T07:20:04+00:00",
+  "generated": "2025-12-03T07:19:01+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA:s försvarsminister ska ha beordrat dödligt angrepp mot påstådda drogsmugglar…",
-      "summary": "USA: s försvarsminister Pete Hegseth ska ha gett instruktioner om att döda överlevare i en amerikansk attack mot ett påstått drogsmugglarfartyg från Venezuela tidigare i höst. Vita huset har rättfärdigat attacken med att fartyget, som man övervakat en tid, skulle ha transporterat droger till USA. Operationen övervakades av drönare som filmade händelsen.",
-      "url": "https://yle.fi/a/7-10089118?origin=rss",
+      "title": "Ryssland efter samtalen med USA: Ingen kompromiss om Ukraina ännu",
+      "summary": "Rysslands president Jurij Usjakov säger att Vladimir Putin och de amerikanska representanterna höll ett givande möte i Kreml. Men i praktiken ledde samtalen inte till några resultat. Rådgivaren konstaterade också att mötet specifikt behandlade territoriella frågor, utan vilka vi inte ser någon lösning på krisen.",
+      "url": "https://yle.fi/a/7-10089190?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-02T05:47:51Z"
+      "published": "2025-12-03T03:44:43Z"
+    },
+    {
+      "title": "Europa kan vinna chipkriget med opolitisk AI",
+      "summary": "Katja Bego, expert på geopolitik och teknologi, ser en öppning i kampen mellan USA och Kina som europeiska bolag bör utnyttja. Under president Donald Trump har man tillåtit amerikanska bolag att sälja avancerade AI - chip till Kina. USA har under lång tid pressat allierade länder som Nederländerna och Taiwan att stoppa sin export till Kina – av just säkerhetsskäl.",
+      "url": "https://yle.fi/a/7-10087897?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-02T09:01:04Z"
     },
     {
       "title": "Hela Mellanöstern håller andan då Gen Z förändrar Iran och utmanar regimen",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10089032?origin=rss",
       "domain": "yle.fi",
       "published": "2025-11-30T16:00:14Z"
-    },
-    {
-      "title": "Trots vapenvilan fortsätter dödandet i Gaza",
-      "summary": "Trots vapenvilan fortsätter dödandet i Gaza – Israel har brutit eldupphöret 497 gånger, säger Amnesty International. Israel fortsätter attackera Gaza i stort sett dagligen, och blockerar fortfarande tillräckliga mängder humanitärt bistånd från att komma in i Gaza. Detta trots upprepade order från FN: s internationella domstol ICJ, Amnesty säger.",
-      "url": "https://yle.fi/a/7-10088944?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-29T05:00:14Z"
     }
   ]
 }
