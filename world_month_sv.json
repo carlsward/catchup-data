@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-03T07:19:01+00:00",
+  "generated": "2025-12-04T07:21:02+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland efter samtalen med USA: Ingen kompromiss om Ukraina ännu",
-      "summary": "Rysslands president Jurij Usjakov säger att Vladimir Putin och de amerikanska representanterna höll ett givande möte i Kreml. Men i praktiken ledde samtalen inte till några resultat. Rådgivaren konstaterade också att mötet specifikt behandlade territoriella frågor, utan vilka vi inte ser någon lösning på krisen.",
-      "url": "https://yle.fi/a/7-10089190?origin=rss",
+      "title": "Dansk lots slår larm: Ryska militärklädda ombord på skuggflottans fartyg",
+      "summary": "Skuggflottan sköter nästan all export av rysk råolja från Primorsk och Ust - Luga längst inne i Finska viken. På en bild står en man på däcket, klädd i ryska flottans kamouflageuniform och tar bilder av Stora Bältbron. Längst ner på sidan finns namnen på två män med rysk nationalitet som inte hör till besättningen.",
+      "url": "https://yle.fi/a/7-10088833?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-03T03:44:43Z"
+      "published": "2025-12-04T04:18:46Z"
+    },
+    {
+      "title": "Är Rysslands beslut att kalla in reservister ett sätt att mobilisera i smyg?",
+      "summary": "Putin bekräftade att ryska styrkor har erövrat flera orter i södra Ukraina. Enligt Putin gör den senaste offensiven att militären kan \" avancera ytterligare \" Också på hemmaplan har presidenten infört nya åtgärder för att säkerställa att framstegen fortsätter. Omkring 100 000 man som tidigare skrivit under kontrakt om att ingå i den här reserven.",
+      "url": "https://yle.fi/a/7-10087885?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-03T17:55:58Z"
     },
     {
       "title": "Europa kan vinna chipkriget med opolitisk AI",
@@ -23,18 +30,11 @@
       "published": "2025-12-02T09:01:04Z"
     },
     {
-      "title": "Hela Mellanöstern håller andan då Gen Z förändrar Iran och utmanar regimen",
-      "summary": "Unga iranier ser konflikten som ett hinder för ett värdigt liv, säger Sanam Vakil, chef för Mellanöstern - och Nordafrikaprogrammet på tankesmedjan Chatham House. Hon säger att regimen har hållit en låg profil utrikespolitiskt för att hantera trycket på hemmaplan. Vakil säger att trots hopplösheten och repressionen har något förändrats i gatubilden.",
-      "url": "https://yle.fi/a/7-10086893?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-01T09:00:14Z"
-    },
-    {
-      "title": "Fredsförhandlingarna om Ukraina fortsätter nu i Florida",
-      "summary": "Den ukrainska delegationen reste till Florida under helgen, där USA och Ukraina kommer att fortsätta förhandla om fred. Ukrainas delegation leds av den tidigare försvarsministern och nuvarande nationella säkerhetsrådssekreteraren Rustem Umjerov. I förhandlingarna saknas den tidigare chefsförhandlaren Andrij Jermak, som tvingades lämna sin post efter en korruptionsskandal.",
-      "url": "https://yle.fi/a/7-10089032?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-11-30T16:00:14Z"
+      "title": "Trump kallade till möte om Venezuela-konflikten",
+      "summary": "Mötet hölls i Vita huset med början klockan 17 lokal tid. Enligt uppgift skulle krigsminister Pete Hegseth, utrikesminister Rubio och försvarsstabens ordförande Dan Caine delta. Trump började senare kommentera helt andra frågor på plattformen Truth Social.",
+      "url": "https://svt.se/nyheter/utrikes/uppgifter-trump-vantas-halla-mote-om-venezuela-konflikten",
+      "domain": "svt.se",
+      "published": "2025-12-01T17:51:14Z"
     }
   ]
 }
