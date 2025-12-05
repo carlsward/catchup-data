@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-04T07:20:19+00:00",
-  "total_raw": 40,
+  "generated": "2025-12-05T07:20:33+00:00",
+  "total_raw": 38,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Putin besöker Indien",
-      "summary": "De två ledarna ska ses under kvällen på en privat middag och väntas diskutera försvarssamarbeten och vapenköp. Även kärnkraft, handel och olja står på dagordningen. Indien är till skillnad från Kina en demokrati och numera en stark ekonomisk makt, säger Malin Mendel.",
-      "url": "https://svt.se/nyheter/utrikes/putin-besoker-indien-forsta-besoket-sedan-ukrainakriget",
-      "domain": "svt.se",
-      "published": "2025-12-04T06:31:55Z"
+      "title": "Ny amerikansk attack mot knarkbåt",
+      "summary": "Ytterligare en båt i östra Stilla havet har utsatts för en amerikansk attack. Fyra personer ska ha dödats. Attacken på torsdag genomfördes för att stoppa den illegala narkotikasmugglingen till USA, meddelar den amerikanska militären med hänvisning till underrättelseuppgifter.",
+      "url": "https://yle.fi/a/7-10089357?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-05T05:05:34Z"
     },
     {
-      "title": "Dansk lots slår larm: Ryska militärklädda ombord på skuggflottans fartyg",
-      "summary": "Skuggflottan sköter nästan all export av rysk råolja från Primorsk och Ust - Luga längst inne i Finska viken. På en bild står en man på däcket, klädd i ryska flottans kamouflageuniform och tar bilder av Stora Bältbron. Längst ner på sidan finns namnen på två män med rysk nationalitet som inte hör till besättningen.",
-      "url": "https://yle.fi/a/7-10088833?origin=rss",
+      "title": "USA: Ny attack mot fartyg i Stilla havet",
+      "summary": "Attacken, som dödade fyra personer, uppges ha genomförts på internationellt vatten under ledning av USA: s krigsminister Pete Hegseth. USA har sedan tidigare en pågående insats mot vad de säger är misstänkta \" knarkbåtar \" i Karibiska havet och östra Stilla havet, något som har mötts av stark kritik. Den amerikanska militären säger att fartyget transporterade olaglig narkotika och färdades längs en känd rutt för narkotikasmuggling i Stilla havet.",
+      "url": "https://svt.se/nyheter/utrikes/usa-ny-attack-mot-fartyg-i-karibien",
+      "domain": "svt.se",
+      "published": "2025-12-04T23:49:10Z"
+    },
+    {
+      "title": "Malmer Stenergard: ”Hoppas de anhöriga får veta vad som hänt",
+      "summary": "Läckan, som kallas Damaskus dossier, är nya bevis på den brutalitet som Assadregimen utsatte sin egen befolkning för. I samarbete med journalistnätverket ICIJ och tyska tv - kanalen NDR kan Uppdrag granskning berätta om de tusentals bilder som visar utmärglade och torterade människor som greps och försvann mellan åren 2012 och 2024. Omkring 160 000 syrier är fortfarande försvunna.",
+      "url": "https://svt.se/nyheter/utrikes/malmer-stenergard-hoppas-de-anhoriga-far-veta-vad-som-hant",
+      "domain": "svt.se",
+      "published": "2025-12-04T12:58:08Z"
+    },
+    {
+      "title": "Massiv dokumentläcka avslöjar nya detaljer om Assadregimens våldsmaskineri",
+      "summary": "Turky Alfashtaki var en av hundratusentals syrier som försvann under Syriens långa och blodiga inbördeskrig. En vag misstanke om regimkritisk verksamhet kunde leda till gripande, tortyr och döden. Hur många som verkligen försvann i de syriska fängelserna är fortfarande okänt.",
+      "url": "https://yle.fi/a/7-10089287?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-04T04:18:46Z"
+      "published": "2025-12-04T08:48:15Z"
     },
     {
       "title": "Är Rysslands beslut att kalla in reservister ett sätt att mobilisera i smyg?",
@@ -37,32 +51,18 @@
       "published": "2025-12-03T02:01:14Z"
     },
     {
+      "title": "Pete Hegseth efter dubbelattacken: ”Vi har bara börjat",
+      "summary": "USA har i omgångar under hösten slagit till mot vad de menar är misstänkta venezuelanska knarkbåtar. Den andra september genomfördes en attack mot två besättningsmedlemmar som hade överlevt en tidigare attack mot en misstänkt knarkbåt. Befälhavaren som ledde operationen ska ha godkänt en andra attack mot båten – något som han hade full rätt att göra enligt lagen uppger Vita huset.",
+      "url": "https://svt.se/nyheter/utrikes/pete-hegseth-efter-dubbelattacken-vi-har-bara-borjat",
+      "domain": "svt.se",
+      "published": "2025-12-02T22:27:25Z"
+    },
+    {
       "title": "Mötet i Moskva avslutat",
       "summary": "Jurij Usjakov säger att ingen kompromiss nåddes, men USA har överlämnat fyra dokument utöver den uppmärksammade fredsplanen. På frågan om ett krigsslut har kommit närmare eller längre bort, säger han att det verkligen inte har kommit längre bort. Han talade till och med om möjligheten för krig med Europa.",
       "url": "https://svt.se/nyheter/utrikes/motet-i-moskva-avslutat-invantar-signaler",
       "domain": "svt.se",
       "published": "2025-12-02T21:59:30Z"
-    },
-    {
-      "title": "Europa kan vinna chipkriget med opolitisk AI",
-      "summary": "Katja Bego, expert på geopolitik och teknologi, ser en öppning i kampen mellan USA och Kina som europeiska bolag bör utnyttja. Under president Donald Trump har man tillåtit amerikanska bolag att sälja avancerade AI - chip till Kina. USA har under lång tid pressat allierade länder som Nederländerna och Taiwan att stoppa sin export till Kina – av just säkerhetsskäl.",
-      "url": "https://yle.fi/a/7-10087897?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-02T09:01:04Z"
-    },
-    {
-      "title": "Trump kallade till möte om Venezuela-konflikten",
-      "summary": "Mötet hölls i Vita huset med början klockan 17 lokal tid. Enligt uppgift skulle krigsminister Pete Hegseth, utrikesminister Rubio och försvarsstabens ordförande Dan Caine delta. Trump började senare kommentera helt andra frågor på plattformen Truth Social.",
-      "url": "https://svt.se/nyheter/utrikes/uppgifter-trump-vantas-halla-mote-om-venezuela-konflikten",
-      "domain": "svt.se",
-      "published": "2025-12-01T17:51:14Z"
-    },
-    {
-      "title": "Dödssiffran i Sydostasien stiger till över 1 100 personer",
-      "summary": "I Sri Lanka har minst 366 personer dött och ytterligare 367 personer saknas i naturkatastrofen som skakat om Sydostasien. Lokala myndigheter räknar antalet personer utan hem till över 200 000 personer, rapporterar AP under måndagen. Vägar blockerade för hjälpinsatser i vissa delar av Indonesien där dödssiffran på tisdagen steg till över 750 personer med mer än 500 saknade sedan det kraftiga regnet började förra veckan.",
-      "url": "https://svt.se/nyheter/utrikes/dodssiffran-i-sydostasien-stiger-till-over-1-100-personer",
-      "domain": "svt.se",
-      "published": "2025-12-01T15:44:24Z"
     }
   ]
 }
