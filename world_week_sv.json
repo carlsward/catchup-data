@@ -2,25 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-05T07:20:33+00:00",
+  "generated": "2025-12-06T07:11:24+00:00",
   "total_raw": 38,
-  "total_rank": 8,
+  "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ny amerikansk attack mot knarkbåt",
-      "summary": "Ytterligare en båt i östra Stilla havet har utsatts för en amerikansk attack. Fyra personer ska ha dödats. Attacken på torsdag genomfördes för att stoppa den illegala narkotikasmugglingen till USA, meddelar den amerikanska militären med hänvisning till underrättelseuppgifter.",
-      "url": "https://yle.fi/a/7-10089357?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-05T05:05:34Z"
+      "title": "Nya strider mellan Afghanistan och Pakistan",
+      "summary": "Vittnena säger att styrkor från de båda länderna beskjutit varandra, bland annat med artilleri. Pakistans regering beskyllde den andra sidan för att ha påbörjat attackerna. Flera sammandrabbningar har inträffat mellan länderna under de senaste veckorna, trots att de i oktober kom överens om en vapenvila.",
+      "url": "https://svt.se/nyheter/utrikes/nya-strider-mellan-afghanistan-och-pakistan",
+      "domain": "svt.se",
+      "published": "2025-12-06T01:00:23Z"
     },
     {
-      "title": "USA: Ny attack mot fartyg i Stilla havet",
-      "summary": "Attacken, som dödade fyra personer, uppges ha genomförts på internationellt vatten under ledning av USA: s krigsminister Pete Hegseth. USA har sedan tidigare en pågående insats mot vad de säger är misstänkta \" knarkbåtar \" i Karibiska havet och östra Stilla havet, något som har mötts av stark kritik. Den amerikanska militären säger att fartyget transporterade olaglig narkotika och färdades längs en känd rutt för narkotikasmuggling i Stilla havet.",
-      "url": "https://svt.se/nyheter/utrikes/usa-ny-attack-mot-fartyg-i-karibien",
+      "title": "Regimen mördade hennes bror: ”Så viktigt att de anhöriga får veta",
+      "summary": "Nya uppgifter om var och när Mazen al - Hamada dödades har släppts. Där finns också bilder på hans döda kropp. Uppdrag granskning, journalistnätverket ICIJ och tyska tv - kanalen NDR har kunnat avslöja de tusentals dokument som nu finns tillgängliga för att hjälpa till att identifiera offren för Syriens regim.",
+      "url": "https://svt.se/nyheter/utrikes/regimen-mordade-hennes-bror-sa-viktigt-att-de-anhoriga-far-veta",
       "domain": "svt.se",
-      "published": "2025-12-04T23:49:10Z"
+      "published": "2025-12-05T13:32:27Z"
+    },
+    {
+      "title": "Trumps grova tal om somalier har fört språkbruket långt utanför tidigare gränser",
+      "summary": "I tisdags uttryckte han sig nedsättande om landets 260 000 människor av somalisk härkomst. Han sa att \" somaliska invandrare i USA är skräp \" – Vi vill inte ha dem i vårt land, sa Trump fem gånger. Vicepresident JD Vance kunde ses knyta näven.",
+      "url": "https://yle.fi/a/7-10089376?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-05T12:54:32Z"
     },
     {
       "title": "Malmer Stenergard: ”Hoppas de anhöriga får veta vad som hänt",
@@ -35,34 +42,6 @@
       "url": "https://yle.fi/a/7-10089287?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-04T08:48:15Z"
-    },
-    {
-      "title": "Är Rysslands beslut att kalla in reservister ett sätt att mobilisera i smyg?",
-      "summary": "Putin bekräftade att ryska styrkor har erövrat flera orter i södra Ukraina. Enligt Putin gör den senaste offensiven att militären kan \" avancera ytterligare \" Också på hemmaplan har presidenten infört nya åtgärder för att säkerställa att framstegen fortsätter. Omkring 100 000 man som tidigare skrivit under kontrakt om att ingå i den här reserven.",
-      "url": "https://yle.fi/a/7-10087885?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-03T17:55:58Z"
-    },
-    {
-      "title": "Överenskommelse om rödgrön statsbudget i Norge",
-      "summary": "Klimat - och miljöförslag som ska läggas till Nu har lagts till. MDG och SV är med på båten. Det är oklart om Jonas Gahr Støre ( AP ) kommer att få ett budgetförslag i tid.",
-      "url": "https://svt.se/nyheter/utrikes/fem-partier-overens-om-norges-statsbudget",
-      "domain": "svt.se",
-      "published": "2025-12-03T02:01:14Z"
-    },
-    {
-      "title": "Pete Hegseth efter dubbelattacken: ”Vi har bara börjat",
-      "summary": "USA har i omgångar under hösten slagit till mot vad de menar är misstänkta venezuelanska knarkbåtar. Den andra september genomfördes en attack mot två besättningsmedlemmar som hade överlevt en tidigare attack mot en misstänkt knarkbåt. Befälhavaren som ledde operationen ska ha godkänt en andra attack mot båten – något som han hade full rätt att göra enligt lagen uppger Vita huset.",
-      "url": "https://svt.se/nyheter/utrikes/pete-hegseth-efter-dubbelattacken-vi-har-bara-borjat",
-      "domain": "svt.se",
-      "published": "2025-12-02T22:27:25Z"
-    },
-    {
-      "title": "Mötet i Moskva avslutat",
-      "summary": "Jurij Usjakov säger att ingen kompromiss nåddes, men USA har överlämnat fyra dokument utöver den uppmärksammade fredsplanen. På frågan om ett krigsslut har kommit närmare eller längre bort, säger han att det verkligen inte har kommit längre bort. Han talade till och med om möjligheten för krig med Europa.",
-      "url": "https://svt.se/nyheter/utrikes/motet-i-moskva-avslutat-invantar-signaler",
-      "domain": "svt.se",
-      "published": "2025-12-02T21:59:30Z"
     }
   ]
 }

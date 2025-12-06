@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-05T07:21:17+00:00",
+  "generated": "2025-12-06T07:11:53+00:00",
   "total_raw": 38,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ny amerikansk attack mot knarkbåt",
-      "summary": "Ytterligare en båt i östra Stilla havet har utsatts för en amerikansk attack. Fyra personer ska ha dödats. Attacken på torsdag genomfördes för att stoppa den illegala narkotikasmugglingen till USA, meddelar den amerikanska militären med hänvisning till underrättelseuppgifter.",
-      "url": "https://yle.fi/a/7-10089357?origin=rss",
+      "title": "Nya strider mellan Afghanistan och Pakistan",
+      "summary": "Vittnena säger att styrkor från de båda länderna beskjutit varandra, bland annat med artilleri. Pakistans regering beskyllde den andra sidan för att ha påbörjat attackerna. Flera sammandrabbningar har inträffat mellan länderna under de senaste veckorna, trots att de i oktober kom överens om en vapenvila.",
+      "url": "https://svt.se/nyheter/utrikes/nya-strider-mellan-afghanistan-och-pakistan",
+      "domain": "svt.se",
+      "published": "2025-12-06T01:00:23Z"
+    },
+    {
+      "title": "Trumps grova tal om somalier har fört språkbruket långt utanför tidigare gränser",
+      "summary": "I tisdags uttryckte han sig nedsättande om landets 260 000 människor av somalisk härkomst. Han sa att \" somaliska invandrare i USA är skräp \" – Vi vill inte ha dem i vårt land, sa Trump fem gånger. Vicepresident JD Vance kunde ses knyta näven.",
+      "url": "https://yle.fi/a/7-10089376?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-05T05:05:34Z"
+      "published": "2025-12-05T12:54:32Z"
     },
     {
       "title": "Massiv dokumentläcka avslöjar nya detaljer om Assadregimens våldsmaskineri",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10089287?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-04T08:48:15Z"
-    },
-    {
-      "title": "Är Rysslands beslut att kalla in reservister ett sätt att mobilisera i smyg?",
-      "summary": "Putin bekräftade att ryska styrkor har erövrat flera orter i södra Ukraina. Enligt Putin gör den senaste offensiven att militären kan \" avancera ytterligare \" Också på hemmaplan har presidenten infört nya åtgärder för att säkerställa att framstegen fortsätter. Omkring 100 000 man som tidigare skrivit under kontrakt om att ingå i den här reserven.",
-      "url": "https://yle.fi/a/7-10087885?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-03T17:55:58Z"
-    },
-    {
-      "title": "Mötet i Moskva avslutat",
-      "summary": "Jurij Usjakov säger att ingen kompromiss nåddes, men USA har överlämnat fyra dokument utöver den uppmärksammade fredsplanen. På frågan om ett krigsslut har kommit närmare eller längre bort, säger han att det verkligen inte har kommit längre bort. Han talade till och med om möjligheten för krig med Europa.",
-      "url": "https://svt.se/nyheter/utrikes/motet-i-moskva-avslutat-invantar-signaler",
-      "domain": "svt.se",
-      "published": "2025-12-02T21:59:30Z"
     }
   ]
 }
