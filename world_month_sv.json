@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-06T07:11:53+00:00",
-  "total_raw": 38,
-  "total_rank": 3,
+  "generated": "2025-12-07T07:29:19+00:00",
+  "total_raw": 39,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Nya strider mellan Afghanistan och Pakistan",
-      "summary": "Vittnena säger att styrkor från de båda länderna beskjutit varandra, bland annat med artilleri. Pakistans regering beskyllde den andra sidan för att ha påbörjat attackerna. Flera sammandrabbningar har inträffat mellan länderna under de senaste veckorna, trots att de i oktober kom överens om en vapenvila.",
-      "url": "https://svt.se/nyheter/utrikes/nya-strider-mellan-afghanistan-och-pakistan",
+      "title": "Sverige betalar invandrare för att flytta hem: ”Kostar lite jämfört med att ha d…",
+      "summary": "Upproret började i Jokkmokk, där kommunalråd Roland Boman svarade på ett brev från regeringens samordnare för frivillig återvandring. Omkring 10 procent av dem som arbetar i kommunen har invandrarbakgrund. SD: s inflytande över regeringen har lett till kritik från regeringens egen utredare.",
+      "url": "https://yle.fi/a/7-10088799?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-07T06:39:56Z"
+    },
+    {
+      "title": "USA presenterar ny nationell säkerhetsstrategi",
+      "summary": "Vita huset släpper 33 - sidigt dokument som beskriver Trumpadministrationens utrikespolitiska prioriteringar. En av de viktigaste punkterna är att stoppa global massmigration. I strategin står det att om den pågående trenden inte bryts så kommer kontinenten att vara oigenkännlig om 20 år.",
+      "url": "https://svt.se/nyheter/utrikes/usa-presenterar-ny-nationell-sakerhetsstrategi-har-ar-andringarna",
       "domain": "svt.se",
-      "published": "2025-12-06T01:00:23Z"
+      "published": "2025-12-06T19:21:39Z"
     },
     {
       "title": "Trumps grova tal om somalier har fört språkbruket långt utanför tidigare gränser",
@@ -23,11 +30,11 @@
       "published": "2025-12-05T12:54:32Z"
     },
     {
-      "title": "Massiv dokumentläcka avslöjar nya detaljer om Assadregimens våldsmaskineri",
-      "summary": "Turky Alfashtaki var en av hundratusentals syrier som försvann under Syriens långa och blodiga inbördeskrig. En vag misstanke om regimkritisk verksamhet kunde leda till gripande, tortyr och döden. Hur många som verkligen försvann i de syriska fängelserna är fortfarande okänt.",
-      "url": "https://yle.fi/a/7-10089287?origin=rss",
+      "title": "Allt fler tycker att superrika borde beskattas hårdare",
+      "summary": "Den rikaste toppen ( 1 procent ) i Europa äger nästan hälften av all finansiell förmögenhet. Oxfam säger att klyftan mellan Europas superrika och vanliga människor ökar varje år eftersom EU: s regeringar misslyckas med att rättvist beskatta extrem förmögenhet. Det mest populära målet, med stöd av 94 procent av befolkningen, var att beskatta de superrika för att möjliggöra bättre sjukvård.",
+      "url": "https://yle.fi/a/7-10089297?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-04T08:48:15Z"
+      "published": "2025-12-04T17:00:17Z"
     }
   ]
 }
