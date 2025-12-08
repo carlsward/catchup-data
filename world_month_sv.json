@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-07T07:29:19+00:00",
+  "generated": "2025-12-08T07:22:35+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Krypskytteturism i Sarajevo utreds",
+      "summary": "Barn dödades av bosnienserbiska krypskyttar eller i granatattacker under belägringen 1995. Det finns namn på 530 barn som man har fastställt identiteterna på, men det kan även finnas fler. Minst 10 000 människor dödades främst av granatbeskjutning och av krypskyttarna.",
+      "url": "https://yle.fi/a/7-10089391?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-08T05:13:11Z"
+    },
     {
       "title": "Sverige betalar invandrare för att flytta hem: ”Kostar lite jämfört med att ha d…",
       "summary": "Upproret började i Jokkmokk, där kommunalråd Roland Boman svarade på ett brev från regeringens samordnare för frivillig återvandring. Omkring 10 procent av dem som arbetar i kommunen har invandrarbakgrund. SD: s inflytande över regeringen har lett till kritik från regeringens egen utredare.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10089376?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-05T12:54:32Z"
-    },
-    {
-      "title": "Allt fler tycker att superrika borde beskattas hårdare",
-      "summary": "Den rikaste toppen ( 1 procent ) i Europa äger nästan hälften av all finansiell förmögenhet. Oxfam säger att klyftan mellan Europas superrika och vanliga människor ökar varje år eftersom EU: s regeringar misslyckas med att rättvist beskatta extrem förmögenhet. Det mest populära målet, med stöd av 94 procent av befolkningen, var att beskatta de superrika för att möjliggöra bättre sjukvård.",
-      "url": "https://yle.fi/a/7-10089297?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-04T17:00:17Z"
     }
   ]
 }
