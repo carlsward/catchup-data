@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-08T07:21:52+00:00",
-  "total_raw": 39,
-  "total_rank": 8,
+  "generated": "2025-12-09T07:19:03+00:00",
+  "total_raw": 40,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Krypskytteturism i Sarajevo utreds",
-      "summary": "Barn dödades av bosnienserbiska krypskyttar eller i granatattacker under belägringen 1995. Det finns namn på 530 barn som man har fastställt identiteterna på, men det kan även finnas fler. Minst 10 000 människor dödades främst av granatbeskjutning och av krypskyttarna.",
-      "url": "https://yle.fi/a/7-10089391?origin=rss",
+      "title": "Historia och regional maktkamp eldar på bråket mellan Japan och Kina",
+      "summary": "Japans premiärminister Sanae Takaichi sa den 7 november att man är beredd att ingripa militärt vid aggressioner mot Taiwan. Sedan dess har förhållandet mellan Japan och Kina snabbt försämrats. I det senaste ledet i den här dispyten genomförde en kinesisk hangarfartygsgrupp intensiva flygövningar nära Okinawa i södra Japan i helgen.",
+      "url": "https://yle.fi/a/7-10088293?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-08T05:13:11Z"
+      "published": "2025-12-09T06:15:12Z"
     },
     {
-      "title": "Nära 2 000 döda efter översvämningar i Asien",
-      "summary": "Två tropiska stormar drabbade Thailand, Malaysia, Vietnam och Sri Lanka i slutet av november. 1, 2 miljoner människor har tvingats fly från sina hem, drygt 800 000 av dessa befinner sig i Indonesien. FN skriver att varmare havsvatten ökar risken för kraftigt skyfall.",
-      "url": "https://svt.se/nyheter/utrikes/nara-2-000-doda-efter-oversvamningar-i-asien-miljontals-drabbade",
+      "title": "Fortsatta strider mellan Thailand och Kambodja",
+      "summary": "Nya strider mellan länderna blossade upp under natten mot måndagen. I Thailand säger man att situationen utlöstes av attacker från Kambodja mot en militärpostering där både soldater och civila dödades. Minst två civila har dödats av thailändsk beskjutning under tisdagen, enligt kambodjansk militär.",
+      "url": "https://svt.se/nyheter/utrikes/fortsatta-strider-mellan-thailand-och-kambodja",
       "domain": "svt.se",
-      "published": "2025-12-08T02:35:51Z"
+      "published": "2025-12-09T02:30:07Z"
+    },
+    {
+      "title": "Paris fortsätter gå åt Airbnb då hyrorna skenar och Parisbor blir utan lägenhet",
+      "summary": "I år införde Paris ett strängare regelverk gällande privat korttidsuthyrning av lägenheter. Orsaken är att uthyrningstjänster som Airbnb har inneburit färre lägenheter på marknaden för Paris egna invånare. Det dyraste boendet som plattformarna erbjuder i Europa hittas i Monaco, där man kan behöva hosta upp 3 500 euro för en natt.",
+      "url": "https://yle.fi/a/7-10088233?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-08T16:46:03Z"
+    },
+    {
+      "title": "Jordbävning utanför Japan",
+      "summary": "En tsunamivarning utfärdades av Japans meteorologiska institut. Den blåstes sedan av, men invånarna uppmanades att hålla sig borta från vattennära platser. Omkring 800 hushåll har blivit strömlösa till följd av jordbävningen, säger Japans statssekreterare Minoru Kihara.",
+      "url": "https://svt.se/nyheter/utrikes/jordbavning-utanfor-japan",
+      "domain": "svt.se",
+      "published": "2025-12-08T14:25:33Z"
+    },
+    {
+      "title": "Peskov: Kreml välkomnar USA:s nya nationella säkerhetsstrategi",
+      "summary": "Sedan Ryssland annekterade Krim har alla motsvarande strategidokument från USA beskrivit Ryssland som ett direkt hot mot USA: s säkerhet. Ännu i den senaste upplagan från 2022, samma år som Ryssland inledde sin fullskaliga invasion av Ukraina, beskrev president Joe Bidens administration landet som ett \" akut hot \". I årets upplaga av dokumentet saknas alla sådana formuleringar.",
+      "url": "https://yle.fi/a/7-10089495?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-07T12:50:42Z"
     },
     {
       "title": "Minister i Benin: Kuppförsök avvärjt",
@@ -28,41 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/soldater-i-benin-vi-har-tagit-over-makten",
       "domain": "svt.se",
       "published": "2025-12-07T08:45:21Z"
-    },
-    {
-      "title": "Sverige betalar invandrare för att flytta hem: ”Kostar lite jämfört med att ha d…",
-      "summary": "Upproret började i Jokkmokk, där kommunalråd Roland Boman svarade på ett brev från regeringens samordnare för frivillig återvandring. Omkring 10 procent av dem som arbetar i kommunen har invandrarbakgrund. SD: s inflytande över regeringen har lett till kritik från regeringens egen utredare.",
-      "url": "https://yle.fi/a/7-10088799?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-07T06:39:56Z"
-    },
-    {
-      "title": "USA presenterar ny nationell säkerhetsstrategi",
-      "summary": "Vita huset släpper 33 - sidigt dokument som beskriver Trumpadministrationens utrikespolitiska prioriteringar. En av de viktigaste punkterna är att stoppa global massmigration. I strategin står det att om den pågående trenden inte bryts så kommer kontinenten att vara oigenkännlig om 20 år.",
-      "url": "https://svt.se/nyheter/utrikes/usa-presenterar-ny-nationell-sakerhetsstrategi-har-ar-andringarna",
-      "domain": "svt.se",
-      "published": "2025-12-06T19:21:39Z"
-    },
-    {
-      "title": "Massiva nattliga attacker mot Ukraina och fortsatta fredssamtal",
-      "summary": "USA: s president Donald Trumps rådgivare och ukrainska tjänstemän träffas i USA för en tredje dag av samtal. Varje sida bedömde att alla verkliga steg mot en överenskommelse i slutändan kommer att bero på Rysslands beredskap att visa ett seriöst engagemang för långsiktig fred. Ryssland har intensifierat sina attacker mot Ukrainas energisektor och infrastruktur under de senaste veckorna.",
-      "url": "https://yle.fi/a/7-10089448?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-06T14:23:23Z"
-    },
-    {
-      "title": "Bolsonaros son vill ställa upp i presidentvalet i Brasilien",
-      "summary": "Den 44 - åriga senatorn Flávio Bolsonaro är Jair Bolsonaros äldsta son. Hans kansli bekräftar för AP att han kommer att utmana Luiz Inácio Lula da Silva i presidentvalet i oktober nästa år. Lula ställer upp en fjärde gång Den sittande vänsterpresidenten i Brasilien, nyligen 80 år fyllda Lula do Silva, meddelade i oktober att han är inställd på att ställa upp för en fjärde mandatperiod.",
-      "url": "https://svt.se/nyheter/utrikes/bolsonaros-son-vill-stalla-upp-i-presidentvalet-i-brasilien",
-      "domain": "svt.se",
-      "published": "2025-12-05T21:51:32Z"
-    },
-    {
-      "title": "Trumps grova tal om somalier har fört språkbruket långt utanför tidigare gränser",
-      "summary": "I tisdags uttryckte han sig nedsättande om landets 260 000 människor av somalisk härkomst. Han sa att \" somaliska invandrare i USA är skräp \" – Vi vill inte ha dem i vårt land, sa Trump fem gånger. Vicepresident JD Vance kunde ses knyta näven.",
-      "url": "https://yle.fi/a/7-10089376?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-05T12:54:32Z"
     }
   ]
 }
