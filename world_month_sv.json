@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-09T07:19:34+00:00",
+  "generated": "2025-12-10T07:24:01+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Nu förbjuds sociala medier för barn under 16 år i Australien",
+      "summary": "Från och med nu får australiska barn och ungdomar som är under 16 år inte längre använda sociala medier. Förbudet gäller tio sociala medieplattformar: Facebook, Instagram, Threads, Kick, Reddit, Snapchat, Tiktok, Twitch, X och Youtube. Det är upp till de företag som ser till att lagen följs.",
+      "url": "https://yle.fi/a/7-10089681?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-10T04:15:29Z"
+    },
     {
       "title": "Historia och regional maktkamp eldar på bråket mellan Japan och Kina",
       "summary": "Japans premiärminister Sanae Takaichi sa den 7 november att man är beredd att ingripa militärt vid aggressioner mot Taiwan. Sedan dess har förhållandet mellan Japan och Kina snabbt försämrats. I det senaste ledet i den här dispyten genomförde en kinesisk hangarfartygsgrupp intensiva flygövningar nära Okinawa i södra Japan i helgen.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10088233?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-08T16:46:03Z"
-    },
-    {
-      "title": "Minister i Benin: Kuppförsök avvärjt",
-      "summary": "Den militära gruppen som framträdde i tv kallar sig för Militärkommittén för återuppbyggnad. Konstitutionen är upphävd. Alla institutioner är upplösta och politiska partiers verksamhet är upphävda tillsvidare, sade en talesperson i tv.",
-      "url": "https://svt.se/nyheter/utrikes/soldater-i-benin-vi-har-tagit-over-makten",
-      "domain": "svt.se",
-      "published": "2025-12-07T08:45:21Z"
     }
   ]
 }

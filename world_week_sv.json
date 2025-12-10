@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-09T07:19:03+00:00",
+  "generated": "2025-12-10T07:23:31+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Nu förbjuds sociala medier för barn under 16 år i Australien",
+      "summary": "Från och med nu får australiska barn och ungdomar som är under 16 år inte längre använda sociala medier. Förbudet gäller tio sociala medieplattformar: Facebook, Instagram, Threads, Kick, Reddit, Snapchat, Tiktok, Twitch, X och Youtube. Det är upp till de företag som ser till att lagen följs.",
+      "url": "https://yle.fi/a/7-10089681?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-10T04:15:29Z"
+    },
+    {
+      "title": "Civila lär sig att flyga drönare i Estland",
+      "summary": "Kurserna för vanliga estländare lanserades i oktober. Målet är att utbilda 10 000 civila i drönarflygning grunder på ett år. Kursen heter Kuri Kotkas, som på estniska betyder den arga örnen.",
+      "url": "https://svt.se/nyheter/utrikes/civila-lar-sig-att-flyga-dronare-i-estland-i-radslan-for-krig",
+      "domain": "svt.se",
+      "published": "2025-12-10T02:30:28Z"
+    },
     {
       "title": "Historia och regional maktkamp eldar på bråket mellan Japan och Kina",
       "summary": "Japans premiärminister Sanae Takaichi sa den 7 november att man är beredd att ingripa militärt vid aggressioner mot Taiwan. Sedan dess har förhållandet mellan Japan och Kina snabbt försämrats. I det senaste ledet i den här dispyten genomförde en kinesisk hangarfartygsgrupp intensiva flygövningar nära Okinawa i södra Japan i helgen.",
@@ -17,7 +31,7 @@
     },
     {
       "title": "Fortsatta strider mellan Thailand och Kambodja",
-      "summary": "Nya strider mellan länderna blossade upp under natten mot måndagen. I Thailand säger man att situationen utlöstes av attacker från Kambodja mot en militärpostering där både soldater och civila dödades. Minst två civila har dödats av thailändsk beskjutning under tisdagen, enligt kambodjansk militär.",
+      "summary": "Minst två civila har dödats av thailändsk beskjutning under tisdagen, enligt kambodjansk militär. På måndagen dödades minst fyra personer och ytterligare tio skadades. Thailands militär har tidigare uppgett att en thailändsk soldat dödats och 18 skadats.",
       "url": "https://svt.se/nyheter/utrikes/fortsatta-strider-mellan-thailand-och-kambodja",
       "domain": "svt.se",
       "published": "2025-12-09T02:30:07Z"
@@ -31,24 +45,10 @@
     },
     {
       "title": "Jordbävning utanför Japan",
-      "summary": "En tsunamivarning utfärdades av Japans meteorologiska institut. Den blåstes sedan av, men invånarna uppmanades att hålla sig borta från vattennära platser. Omkring 800 hushåll har blivit strömlösa till följd av jordbävningen, säger Japans statssekreterare Minoru Kihara.",
+      "summary": "Tsunamivarning utfärdades av Japans meteorologiska institut. Den blåstes sedan av, men invånarna uppmanades att hålla sig borta från vattennära platser. 33 personer har skadats i samband med skalvet, rapporterar AP.",
       "url": "https://svt.se/nyheter/utrikes/jordbavning-utanfor-japan",
       "domain": "svt.se",
       "published": "2025-12-08T14:25:33Z"
-    },
-    {
-      "title": "Peskov: Kreml välkomnar USA:s nya nationella säkerhetsstrategi",
-      "summary": "Sedan Ryssland annekterade Krim har alla motsvarande strategidokument från USA beskrivit Ryssland som ett direkt hot mot USA: s säkerhet. Ännu i den senaste upplagan från 2022, samma år som Ryssland inledde sin fullskaliga invasion av Ukraina, beskrev president Joe Bidens administration landet som ett \" akut hot \". I årets upplaga av dokumentet saknas alla sådana formuleringar.",
-      "url": "https://yle.fi/a/7-10089495?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-07T12:50:42Z"
-    },
-    {
-      "title": "Minister i Benin: Kuppförsök avvärjt",
-      "summary": "Den militära gruppen som framträdde i tv kallar sig för Militärkommittén för återuppbyggnad. Konstitutionen är upphävd. Alla institutioner är upplösta och politiska partiers verksamhet är upphävda tillsvidare, sade en talesperson i tv.",
-      "url": "https://svt.se/nyheter/utrikes/soldater-i-benin-vi-har-tagit-over-makten",
-      "domain": "svt.se",
-      "published": "2025-12-07T08:45:21Z"
     }
   ]
 }
