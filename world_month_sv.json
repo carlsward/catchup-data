@@ -2,32 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-10T07:24:01+00:00",
+  "generated": "2025-12-11T07:26:19+00:00",
   "total_raw": 40,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Nu förbjuds sociala medier för barn under 16 år i Australien",
-      "summary": "Från och med nu får australiska barn och ungdomar som är under 16 år inte längre använda sociala medier. Förbudet gäller tio sociala medieplattformar: Facebook, Instagram, Threads, Kick, Reddit, Snapchat, Tiktok, Twitch, X och Youtube. Det är upp till de företag som ser till att lagen följs.",
-      "url": "https://yle.fi/a/7-10089681?origin=rss",
+      "title": "Sjörövare”, säger Venezuela om USA som beslagtog tankfartyg",
+      "summary": "Den beslagtagna oljetankern seglade under guyansk flagg, men är egentligen inte registrerat där. Justitieministern hävdar att den användes för att smuggla sanktionerad olja från Venezuela och Iran. USA: s utrikesministerium fördömer \" uppenbar stöld och en handling av internationellt sjöröveri \" Venezuela har världens största bevisade oljereserver och exporterar över 900 000 fat per dag.",
+      "url": "https://yle.fi/a/7-10089793?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-10T04:15:29Z"
+      "published": "2025-12-11T04:00:36Z"
     },
     {
-      "title": "Historia och regional maktkamp eldar på bråket mellan Japan och Kina",
-      "summary": "Japans premiärminister Sanae Takaichi sa den 7 november att man är beredd att ingripa militärt vid aggressioner mot Taiwan. Sedan dess har förhållandet mellan Japan och Kina snabbt försämrats. I det senaste ledet i den här dispyten genomförde en kinesisk hangarfartygsgrupp intensiva flygövningar nära Okinawa i södra Japan i helgen.",
-      "url": "https://yle.fi/a/7-10088293?origin=rss",
+      "title": "De lämnade USA och Trump: ”Kändes som att fly från ett destruktivt förhållande",
+      "summary": "Emily Casden, 41, Marina Catala, 46, och Diane Pletcher, 60 har nyligen lämnat USA. Alla tre har lämnat USA för ett sabbatsår eller ett nytt jobb, utan för att de inte längre känner sig hemma i sitt eget land. Trump var ett skämt – tills han inte var det, sa hon.",
+      "url": "https://yle.fi/a/7-10087566?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-09T06:15:12Z"
+      "published": "2025-12-10T10:03:53Z"
     },
     {
-      "title": "Paris fortsätter gå åt Airbnb då hyrorna skenar och Parisbor blir utan lägenhet",
-      "summary": "I år införde Paris ett strängare regelverk gällande privat korttidsuthyrning av lägenheter. Orsaken är att uthyrningstjänster som Airbnb har inneburit färre lägenheter på marknaden för Paris egna invånare. Det dyraste boendet som plattformarna erbjuder i Europa hittas i Monaco, där man kan behöva hosta upp 3 500 euro för en natt.",
-      "url": "https://yle.fi/a/7-10088233?origin=rss",
+      "title": "Över 80 döda i USA:s attacker mot båtar",
+      "summary": "USA har inte kunnat uppvisa bevis för den påstådda narkotikahandeln eller offentliggjort detaljer om vem eller vad som fanns ombord på fartygen. USA: s påstående om självförsvar avvisas. FN - experter uppmanar USA att omedelbart stoppa den här typen av attacker mot fartyg.",
+      "url": "https://yle.fi/a/7-10089625?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-08T16:46:03Z"
+      "published": "2025-12-09T13:47:25Z"
+    },
+    {
+      "title": "Carl Bildt (M) tror inte på fredsplanen: ”Inte på väg någonstans",
+      "summary": "Sedan november har ramverk och punktlistor för fred i Ukraina lagts fram – uppmanat av USA. Ukrainas och Rysslands krav är fortfarande vitt skilda. USA: s vilja att nå en fred har ändå lett till en rad möten mellan olika ledare och delegationer de senaste veckorna.",
+      "url": "https://svt.se/nyheter/utrikes/carl-bildt-m-tror-inte-pa-fredsplanen-inte-pa-vag-nagonstans",
+      "domain": "svt.se",
+      "published": "2025-12-08T21:19:29Z"
     }
   ]
 }
