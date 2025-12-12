@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-11T07:25:39+00:00",
+  "generated": "2025-12-12T07:23:30+00:00",
   "total_raw": 40,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sjörövare”, säger Venezuela om USA som beslagtog tankfartyg",
-      "summary": "Den beslagtagna oljetankern seglade under guyansk flagg, men är egentligen inte registrerat där. Justitieministern hävdar att den användes för att smuggla sanktionerad olja från Venezuela och Iran. USA: s utrikesministerium fördömer \" uppenbar stöld och en handling av internationellt sjöröveri \" Venezuela har världens största bevisade oljereserver och exporterar över 900 000 fat per dag.",
-      "url": "https://yle.fi/a/7-10089793?origin=rss",
+      "title": "Reddit utmanar Australiens nya sociala medieförbud",
+      "summary": "Förbud mot australiska barn och ungdomar som är under 16 år träder i kraft den 10 december. Syftet är att skydda barn från plattformarnas negativa effekter och gäller tio sociala medieplattformar, däribland Reddit. Det amerikanska företaget ifrågasätter lagens giltighet och kräver en granskning av Australiens högsta domstol.",
+      "url": "https://yle.fi/a/7-10089873?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-11T04:00:36Z"
+      "published": "2025-12-12T04:27:59Z"
     },
     {
-      "title": "Fredspristagaren Machado trädde fram ur sitt gömställe",
-      "summary": "Det är första gången på nästan ett år som oppositionsledaren från Venezuela har setts i offentligheten. Machado är efterlyst i sitt hemland, och tvingades gå under jorden efter det omtvistade venezuelanska presidentvalet 2024. Hennes dotter har konstaterat att mamman vill leva fritt i Venezuela, och att hon kommer att återvända.",
-      "url": "https://yle.fi/a/7-10089794?origin=rss",
+      "title": "Tigran Feiler: Konflikten mellan USA och Venezuela går in i en ny fas",
+      "summary": "Venezuela beslagtog en tanker som enligt uppgift hade 1, 9 miljoner fat ombord. Tigran Feiler säger att det är en oljemängd som gör fartyget ekonomiskt betydelsefullt. Venezuela saknar stöd från omvärlden, säger Feiler.",
+      "url": "https://svt.se/nyheter/utrikes/maudro-fordomer-usa-sjoroveri",
+      "domain": "svt.se",
+      "published": "2025-12-12T02:05:32Z"
+    },
+    {
+      "title": "Machados budskap: Venezuela ska bli fritt",
+      "summary": "Fredspristagaren lämnade sitt gömställe i en förort till Caracas i måndags. Hon satte sig, förklädd, iförd peruk och med falska id - handlingar i en bil. Resan tog tio timmar.",
+      "url": "https://svt.se/nyheter/utrikes/machados-budskap-venezuela-ska-bli-fritt",
+      "domain": "svt.se",
+      "published": "2025-12-11T14:37:36Z"
+    },
+    {
+      "title": "Tyska bilindustrin kämpar för sin existens",
+      "summary": "Vissa experter ser industrin i en existentiell kris. Beatrix Keim är en av de ledande experterna när det gäller den tyska bilindustrin. Hon säger att vissa fabriker kommer att stängas av den enkla anledningen att försäljningen har minskat.",
+      "url": "https://yle.fi/a/7-10089328?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-11T03:10:11Z"
+      "published": "2025-12-11T08:38:05Z"
     },
     {
       "title": "Trump: USA har beslagtagit tankfartyg utanför Venezuela",
@@ -37,25 +51,18 @@
       "published": "2025-12-10T10:03:53Z"
     },
     {
-      "title": "Över 80 döda i USA:s attacker mot båtar",
+      "title": "Stubb: ”Vi är närmare ett fredsavtal än någonsin sedan kriget bröt ut",
+      "summary": "Finlands president Alexander Stubb och den norska politikern Jens Stoltenberg deltog i diskussionen. Den tidigare statsministern och EU - kommissionären Jyrki Katainen sade att det är trevligt att få tala utrikespolitik och säkerhetsfrågor igen eftersom han hemma i Norge mest får frågor om ekonomi. Katainen frågade honom om vi ska vänja oss vid en ny världsordning som i mångt och mycket styrs av tre presidenter: USA: s Donald Trump, Rysslands Vladimir Putin och Kinas Xi Jinping.",
+      "url": "https://yle.fi/a/7-10089523?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-09T13:56:57Z"
+    },
+    {
+      "title": "Över 80 döda i USA:s attacker mot venezuelanska båtar",
       "summary": "USA har inte kunnat uppvisa bevis för den påstådda narkotikahandeln eller offentliggjort detaljer om vem eller vad som fanns ombord på fartygen. USA: s påstående om självförsvar avvisas. FN - experter uppmanar USA att omedelbart stoppa den här typen av attacker mot fartyg.",
       "url": "https://yle.fi/a/7-10089625?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-09T13:47:25Z"
-    },
-    {
-      "title": "Fortsatta strider mellan Thailand och Kambodja",
-      "summary": "Minst två civila har dödats av thailändsk beskjutning under tisdagen, enligt kambodjansk militär. På måndagen dödades minst fyra personer och ytterligare tio skadades. Thailands militär har tidigare uppgett att en thailändsk soldat dödats och 18 skadats.",
-      "url": "https://svt.se/nyheter/utrikes/fortsatta-strider-mellan-thailand-och-kambodja",
-      "domain": "svt.se",
-      "published": "2025-12-09T02:30:07Z"
-    },
-    {
-      "title": "Carl Bildt (M) tror inte på fredsplanen: ”Inte på väg någonstans",
-      "summary": "Sedan november har ramverk och punktlistor för fred i Ukraina lagts fram – uppmanat av USA. Ukrainas och Rysslands krav är fortfarande vitt skilda. USA: s vilja att nå en fred har ändå lett till en rad möten mellan olika ledare och delegationer de senaste veckorna.",
-      "url": "https://svt.se/nyheter/utrikes/carl-bildt-m-tror-inte-pa-fredsplanen-inte-pa-vag-nagonstans",
-      "domain": "svt.se",
-      "published": "2025-12-08T21:19:29Z"
     }
   ]
 }

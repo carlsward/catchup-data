@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-11T07:26:19+00:00",
+  "generated": "2025-12-12T07:24:09+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Sjörövare”, säger Venezuela om USA som beslagtog tankfartyg",
-      "summary": "Den beslagtagna oljetankern seglade under guyansk flagg, men är egentligen inte registrerat där. Justitieministern hävdar att den användes för att smuggla sanktionerad olja från Venezuela och Iran. USA: s utrikesministerium fördömer \" uppenbar stöld och en handling av internationellt sjöröveri \" Venezuela har världens största bevisade oljereserver och exporterar över 900 000 fat per dag.",
-      "url": "https://yle.fi/a/7-10089793?origin=rss",
+      "title": "Tigran Feiler: Konflikten mellan USA och Venezuela går in i en ny fas",
+      "summary": "Venezuela beslagtog en tanker som enligt uppgift hade 1, 9 miljoner fat ombord. Tigran Feiler säger att det är en oljemängd som gör fartyget ekonomiskt betydelsefullt. Venezuela saknar stöd från omvärlden, säger Feiler.",
+      "url": "https://svt.se/nyheter/utrikes/maudro-fordomer-usa-sjoroveri",
+      "domain": "svt.se",
+      "published": "2025-12-12T02:05:32Z"
+    },
+    {
+      "title": "Tyska bilindustrin kämpar för sin existens",
+      "summary": "Vissa experter ser industrin i en existentiell kris. Beatrix Keim är en av de ledande experterna när det gäller den tyska bilindustrin. Hon säger att vissa fabriker kommer att stängas av den enkla anledningen att försäljningen har minskat.",
+      "url": "https://yle.fi/a/7-10089328?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-11T04:00:36Z"
+      "published": "2025-12-11T08:38:05Z"
     },
     {
       "title": "De lämnade USA och Trump: ”Kändes som att fly från ett destruktivt förhållande",
@@ -23,18 +30,11 @@
       "published": "2025-12-10T10:03:53Z"
     },
     {
-      "title": "Över 80 döda i USA:s attacker mot båtar",
+      "title": "Över 80 döda i USA:s attacker mot venezuelanska båtar",
       "summary": "USA har inte kunnat uppvisa bevis för den påstådda narkotikahandeln eller offentliggjort detaljer om vem eller vad som fanns ombord på fartygen. USA: s påstående om självförsvar avvisas. FN - experter uppmanar USA att omedelbart stoppa den här typen av attacker mot fartyg.",
       "url": "https://yle.fi/a/7-10089625?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-09T13:47:25Z"
-    },
-    {
-      "title": "Carl Bildt (M) tror inte på fredsplanen: ”Inte på väg någonstans",
-      "summary": "Sedan november har ramverk och punktlistor för fred i Ukraina lagts fram – uppmanat av USA. Ukrainas och Rysslands krav är fortfarande vitt skilda. USA: s vilja att nå en fred har ändå lett till en rad möten mellan olika ledare och delegationer de senaste veckorna.",
-      "url": "https://svt.se/nyheter/utrikes/carl-bildt-m-tror-inte-pa-fredsplanen-inte-pa-vag-nagonstans",
-      "domain": "svt.se",
-      "published": "2025-12-08T21:19:29Z"
     }
   ]
 }

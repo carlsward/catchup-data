@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-11T07:24:35+00:00",
-  "total_raw": 13,
+  "generated": "2025-12-12T07:22:12+00:00",
+  "total_raw": 21,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "De lämnade USA och Trump: ”Kändes som att fly från ett destruktivt förhållande",
-      "summary": "Emily Casden, 41, Marina Catala, 46, och Diane Pletcher, 60 har nyligen lämnat USA. Alla tre har lämnat USA för ett sabbatsår eller ett nytt jobb, utan för att de inte längre känner sig hemma i sitt eget land. Trump var ett skämt – tills han inte var det, sa hon.",
-      "url": "https://yle.fi/a/7-10087566?origin=rss",
+      "title": "Tyska bilindustrin kämpar för sin existens",
+      "summary": "Vissa experter ser industrin i en existentiell kris. Beatrix Keim är en av de ledande experterna när det gäller den tyska bilindustrin. Hon säger att vissa fabriker kommer att stängas av den enkla anledningen att försäljningen har minskat.",
+      "url": "https://yle.fi/a/7-10089328?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-10T10:03:53Z"
+      "published": "2025-12-11T08:38:05Z"
     },
     {
-      "title": "Val i Ukraina inom 90 dygn: Är det möjligt?",
-      "summary": "Ukrainas president Volodomyr Zelenskyj har sagt att han är beredd att hålla val i Ukraina även under pågående krig. Ryhor Nizhnikau, senior forskare vid Utrikespolitiska institutet i Helsingfors, ser dock ingen möjlighet för Ukraina att hålla något val under rådande förhållanden. Att ordna val tar tid, och det skulle bara skada Zelenskijs trovärdighet om man försökte ordna ett val när det råder undantagstillstånd.",
-      "url": "https://yle.fi/a/7-10089787?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-10T16:50:24Z"
-    },
-    {
-      "title": "Fredspristagaren uteblev från prisutdelningen",
-      "summary": "Den venezuelanska oppositionspolitikern María Corina Machado kunde inte själv ta emot priset. Hon sade i ett telefonsamtal med Nobelkommitténs ordförande Jørgen Watne Frydnes att hon är på väg till Oslo. Det var oklart varifrån hon ringde.",
-      "url": "https://yle.fi/a/7-10089689?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-10T08:54:03Z"
-    },
-    {
-      "title": "Fed sänker styrräntan en kvarts procentenhet",
-      "summary": "Marknaden hade prisat in nästan 90 procents sannolikhet för en sänkning i den storleksordningen. Federal Open Market Committee ( FOMC ) hade fattat ett ovanligt svårt beslut. Trycket har ökat av att president Donald Trump gång på gång kräver sänkt ränta.",
-      "url": "https://svt.se/nyheter/utrikes/fed-sanker-styrrantan-en-kvarts-procentenhet",
+      "title": "Machados budskap: Venezuela ska bli fritt",
+      "summary": "Fredspristagaren lämnade sitt gömställe i en förort till Caracas i måndags. Hon satte sig, förklädd, iförd peruk och med falska id - handlingar i en bil. Resan tog tio timmar.",
+      "url": "https://svt.se/nyheter/utrikes/machados-budskap-venezuela-ska-bli-fritt",
       "domain": "svt.se",
-      "published": "2025-12-10T19:03:01Z"
+      "published": "2025-12-11T14:37:36Z"
     },
     {
-      "title": "Trump: USA har beslagtagit tankfartyg utanför Venezuela",
-      "summary": "USA: s justitieminister skrev senare på X att oljetankern hade varit belagd med amerikanska sanktioner i flera år på grund av att den använts för att smuggla olja från Venezuela och Iran. Vid 21 - tiden svensk tid hade priserna stigit med drygt 1 procent. CNBC: s Tigran Feiler: Beslaget är en tydlig upptrappning av trycket på Venezuela, men inte av det militära slag som många väntat sig.",
-      "url": "https://svt.se/nyheter/utrikes/kallor-usa-beslagtog-tankfartyg-utanfor-venezuela",
+      "title": "Frågetecknen är många kring USA:s eventuellt skärpta regler för inresa",
+      "summary": "Esta är ett digitalt resetillstånd som medborgare i 42 länder, inklusive Finland, kan ansöka om för att resa till USA. Tidigare i år höjdes avgiften för Esta från 21 till 40 dollar. I flera EU - länder har antalet resor till USA minskat med över 20 procent.",
+      "url": "https://yle.fi/a/7-10089857?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-11T14:13:20Z"
+    },
+    {
+      "title": "Fredspristagaren om spända läget med USA: ”Venezuela redan invaderat",
+      "summary": "Fredspristagaren Machado säger att Ryssland, Iran, terrorgrupper Hamas och Hizbollah, gerillor och drogkarteller redan verkar i landet och orsakar stor skada. Hon anser att det är smuggling av narkotika och vapen, oljehandel på svarta marknaden och människohandel som finansierar Maduros styre. Vet att USA: s stöd är viktigt \", säger utrikesreporter Bert Sundström om María Corina Machado.",
+      "url": "https://svt.se/nyheter/utrikes/fredspristagaren-om-spanda-laget-med-usa-venezuela-redan-invaderat",
       "domain": "svt.se",
-      "published": "2025-12-10T19:51:38Z"
+      "published": "2025-12-11T11:06:35Z"
+    },
+    {
+      "title": "Plan för plan: Så markerar amerikanska militären mot Venezuela",
+      "summary": "Sedan den 2 september har 87 personer dödats i attacker mot vad de påstår var 23 \" knarkbåtar \" i Karibiska havet och östra Stilla havet. Samtidigt har en militär upprustning påbörjats i Karibien. Den lanserades officiellt av amerikanska krigsministern Pete Hegseth under namnet Operation Southern Spear den 13 november.",
+      "url": "https://svt.se/nyheter/utrikes/plan-for-plan-sa-markerar-amerikanska-militaren-mot-venezuela",
+      "domain": "svt.se",
+      "published": "2025-12-11T16:56:36Z"
     }
   ]
 }
