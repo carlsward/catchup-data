@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-12T07:24:09+00:00",
-  "total_raw": 40,
+  "generated": "2025-12-13T07:16:15+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tigran Feiler: Konflikten mellan USA och Venezuela går in i en ny fas",
-      "summary": "Venezuela beslagtog en tanker som enligt uppgift hade 1, 9 miljoner fat ombord. Tigran Feiler säger att det är en oljemängd som gör fartyget ekonomiskt betydelsefullt. Venezuela saknar stöd från omvärlden, säger Feiler.",
-      "url": "https://svt.se/nyheter/utrikes/maudro-fordomer-usa-sjoroveri",
-      "domain": "svt.se",
-      "published": "2025-12-12T02:05:32Z"
+      "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
+      "summary": "G20 är en symbolisk plats för diskussioner om global ojämlikhet, skuldkris och energiomställning. Sydafrika hoppades att toppmötet skulle innebära början på ett genombrott för Afrikas inflytande i globala institutioner. G20 representerar 85 procent av världsekonomin och två tredjedelar av jordens befolkning, men för många sydafrikaner är de stora visionerna svåra att känna igen i vardagen.",
+      "url": "https://yle.fi/a/7-10088637?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-13T05:46:36Z"
+    },
+    {
+      "title": "Rysslands centralbank stämmer Euroclear för planerna på att ta ryska tillgångar",
+      "summary": "EU driver på för att få ut cirka 200 miljarder euro av den ryska centralbankens tillgångar för att stödja Ukraina. Belgien vill ha solidaritet Belgien har hittills motsatt sig användningen av tillgångar på grund av risker för rysk vedergällning och frågor kring ansvaret för eventuella ersättningskrav. EU kräver bindande juridiska garantier från övriga medlemsländer för att minimera de nationella riskerna om de frysta tillgångarna används.",
+      "url": "https://yle.fi/a/7-10089898?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-12T10:37:06Z"
     },
     {
       "title": "Tyska bilindustrin kämpar för sin existens",
@@ -23,18 +30,11 @@
       "published": "2025-12-11T08:38:05Z"
     },
     {
-      "title": "De lämnade USA och Trump: ”Kändes som att fly från ett destruktivt förhållande",
-      "summary": "Emily Casden, 41, Marina Catala, 46, och Diane Pletcher, 60 har nyligen lämnat USA. Alla tre har lämnat USA för ett sabbatsår eller ett nytt jobb, utan för att de inte längre känner sig hemma i sitt eget land. Trump var ett skämt – tills han inte var det, sa hon.",
-      "url": "https://yle.fi/a/7-10087566?origin=rss",
+      "title": "Här är bilderna från årets Nobelfest",
+      "summary": "Sveriges kung Carl XVI Gustaf delade ut årets Nobelpriser i fysik, kemi, medicin, litteratur och ekonomi i Konserthuset i Stockholm. Fredspriset delades ut i Oslo. Pristagaren María Corina Machado kunde inte närvara vid ceremonin.",
+      "url": "https://yle.fi/a/7-10089792?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-10T10:03:53Z"
-    },
-    {
-      "title": "Över 80 döda i USA:s attacker mot venezuelanska båtar",
-      "summary": "USA har inte kunnat uppvisa bevis för den påstådda narkotikahandeln eller offentliggjort detaljer om vem eller vad som fanns ombord på fartygen. USA: s påstående om självförsvar avvisas. FN - experter uppmanar USA att omedelbart stoppa den här typen av attacker mot fartyg.",
-      "url": "https://yle.fi/a/7-10089625?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-09T13:47:25Z"
+      "published": "2025-12-10T20:16:41Z"
     }
   ]
 }

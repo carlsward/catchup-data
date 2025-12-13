@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-12T07:23:30+00:00",
-  "total_raw": 40,
-  "total_rank": 8,
+  "generated": "2025-12-13T07:15:40+00:00",
+  "total_raw": 39,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Reddit utmanar Australiens nya sociala medieförbud",
-      "summary": "Förbud mot australiska barn och ungdomar som är under 16 år träder i kraft den 10 december. Syftet är att skydda barn från plattformarnas negativa effekter och gäller tio sociala medieplattformar, däribland Reddit. Det amerikanska företaget ifrågasätter lagens giltighet och kräver en granskning av Australiens högsta domstol.",
-      "url": "https://yle.fi/a/7-10089873?origin=rss",
+      "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
+      "summary": "G20 är en symbolisk plats för diskussioner om global ojämlikhet, skuldkris och energiomställning. Sydafrika hoppades att toppmötet skulle innebära början på ett genombrott för Afrikas inflytande i globala institutioner. G20 representerar 85 procent av världsekonomin och två tredjedelar av jordens befolkning, men för många sydafrikaner är de stora visionerna svåra att känna igen i vardagen.",
+      "url": "https://yle.fi/a/7-10088637?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-12T04:27:59Z"
+      "published": "2025-12-13T05:46:36Z"
+    },
+    {
+      "title": "Ukrainska soldaten: Proteserna har blivit våra sexleksaker",
+      "summary": "Rysslands invasion av Ukraina har pågått i nästan fyra år. Många par tvingas leva åtskilda och tusentals soldater återvänder med trasiga kroppar. När invasionen började var det få som talade om hur kriget påverkade deras sexliv.",
+      "url": "https://svt.se/nyheter/utrikes/ukrainska-soldaten-proteserna-har-blivit-vara-sexleksaker",
+      "domain": "svt.se",
+      "published": "2025-12-13T04:58:55Z"
+    },
+    {
+      "title": "Rysslands centralbank stämmer Euroclear för planerna på att ta ryska tillgångar",
+      "summary": "EU driver på för att få ut cirka 200 miljarder euro av den ryska centralbankens tillgångar för att stödja Ukraina. Belgien vill ha solidaritet Belgien har hittills motsatt sig användningen av tillgångar på grund av risker för rysk vedergällning och frågor kring ansvaret för eventuella ersättningskrav. EU kräver bindande juridiska garantier från övriga medlemsländer för att minimera de nationella riskerna om de frysta tillgångarna används.",
+      "url": "https://yle.fi/a/7-10089898?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-12T10:37:06Z"
     },
     {
       "title": "Tigran Feiler: Konflikten mellan USA och Venezuela går in i en ny fas",
@@ -23,11 +37,11 @@
       "published": "2025-12-12T02:05:32Z"
     },
     {
-      "title": "Machados budskap: Venezuela ska bli fritt",
-      "summary": "Fredspristagaren lämnade sitt gömställe i en förort till Caracas i måndags. Hon satte sig, förklädd, iförd peruk och med falska id - handlingar i en bil. Resan tog tio timmar.",
-      "url": "https://svt.se/nyheter/utrikes/machados-budskap-venezuela-ska-bli-fritt",
+      "title": "Kilmar Abrego García släppt",
+      "summary": "Kilmar Abrego García skickades från Maryland till El Salvador i mars. Han var en av 238 män som amerikanska myndigheter uppgav var gängkriminella. Abrego var inte dömd för något brott – varken i USA eller El Salvador – och hade beviljats skyddsstatus i USA på grund av hot från kriminella nätverk i sitt hemland.",
+      "url": "https://svt.se/nyheter/utrikes/kilmar-abrego-garcia-slappt",
       "domain": "svt.se",
-      "published": "2025-12-11T14:37:36Z"
+      "published": "2025-12-11T22:59:35Z"
     },
     {
       "title": "Tyska bilindustrin kämpar för sin existens",
@@ -37,32 +51,11 @@
       "published": "2025-12-11T08:38:05Z"
     },
     {
-      "title": "Trump: USA har beslagtagit tankfartyg utanför Venezuela",
-      "summary": "USA: s justitieminister skrev senare på X att oljetankern hade varit belagd med amerikanska sanktioner i flera år på grund av att den använts för att smuggla olja från Venezuela och Iran. Vid 21 - tiden svensk tid hade priserna stigit med drygt 1 procent. CNBC: s Tigran Feiler: Beslaget är en tydlig upptrappning av trycket på Venezuela, men inte av det militära slag som många väntat sig.",
-      "url": "https://svt.se/nyheter/utrikes/kallor-usa-beslagtog-tankfartyg-utanfor-venezuela",
-      "domain": "svt.se",
-      "published": "2025-12-10T19:51:38Z"
-    },
-    {
-      "title": "De lämnade USA och Trump: ”Kändes som att fly från ett destruktivt förhållande",
-      "summary": "Emily Casden, 41, Marina Catala, 46, och Diane Pletcher, 60 har nyligen lämnat USA. Alla tre har lämnat USA för ett sabbatsår eller ett nytt jobb, utan för att de inte längre känner sig hemma i sitt eget land. Trump var ett skämt – tills han inte var det, sa hon.",
-      "url": "https://yle.fi/a/7-10087566?origin=rss",
+      "title": "Här är bilderna från årets Nobelfest",
+      "summary": "Sveriges kung Carl XVI Gustaf delade ut årets Nobelpriser i fysik, kemi, medicin, litteratur och ekonomi i Konserthuset i Stockholm. Fredspriset delades ut i Oslo. Pristagaren María Corina Machado kunde inte närvara vid ceremonin.",
+      "url": "https://yle.fi/a/7-10089792?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-10T10:03:53Z"
-    },
-    {
-      "title": "Stubb: ”Vi är närmare ett fredsavtal än någonsin sedan kriget bröt ut",
-      "summary": "Finlands president Alexander Stubb och den norska politikern Jens Stoltenberg deltog i diskussionen. Den tidigare statsministern och EU - kommissionären Jyrki Katainen sade att det är trevligt att få tala utrikespolitik och säkerhetsfrågor igen eftersom han hemma i Norge mest får frågor om ekonomi. Katainen frågade honom om vi ska vänja oss vid en ny världsordning som i mångt och mycket styrs av tre presidenter: USA: s Donald Trump, Rysslands Vladimir Putin och Kinas Xi Jinping.",
-      "url": "https://yle.fi/a/7-10089523?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-09T13:56:57Z"
-    },
-    {
-      "title": "Över 80 döda i USA:s attacker mot venezuelanska båtar",
-      "summary": "USA har inte kunnat uppvisa bevis för den påstådda narkotikahandeln eller offentliggjort detaljer om vem eller vad som fanns ombord på fartygen. USA: s påstående om självförsvar avvisas. FN - experter uppmanar USA att omedelbart stoppa den här typen av attacker mot fartyg.",
-      "url": "https://yle.fi/a/7-10089625?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-09T13:47:25Z"
+      "published": "2025-12-10T20:16:41Z"
     }
   ]
 }
