@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-13T07:16:15+00:00",
-  "total_raw": 39,
-  "total_rank": 4,
+  "generated": "2025-12-14T07:29:47+00:00",
+  "total_raw": 38,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "För Bosnien låter löften om utveckling och demokrati fortfarande vänta på sig 30…",
+      "summary": "Många ser fredsavtalets struktur som ett hinder för utveckling. Trots att olika områden hade klara majoriteter fanns så gott som överallt betydande minoriteter från åtminstone en annan religiös grupp. Bosniens styrelsesystem har konstruerats så att livet blir svårt för de yngsta och de äldre, eller i princip alla, säger Transparency International.",
+      "url": "https://yle.fi/a/7-10089547?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-14T05:08:05Z"
+    },
     {
       "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
       "summary": "G20 är en symbolisk plats för diskussioner om global ojämlikhet, skuldkris och energiomställning. Sydafrika hoppades att toppmötet skulle innebära början på ett genombrott för Afrikas inflytande i globala institutioner. G20 representerar 85 procent av världsekonomin och två tredjedelar av jordens befolkning, men för många sydafrikaner är de stora visionerna svåra att känna igen i vardagen.",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10089898?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-12T10:37:06Z"
-    },
-    {
-      "title": "Tyska bilindustrin kämpar för sin existens",
-      "summary": "Vissa experter ser industrin i en existentiell kris. Beatrix Keim är en av de ledande experterna när det gäller den tyska bilindustrin. Hon säger att vissa fabriker kommer att stängas av den enkla anledningen att försäljningen har minskat.",
-      "url": "https://yle.fi/a/7-10089328?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-11T08:38:05Z"
-    },
-    {
-      "title": "Här är bilderna från årets Nobelfest",
-      "summary": "Sveriges kung Carl XVI Gustaf delade ut årets Nobelpriser i fysik, kemi, medicin, litteratur och ekonomi i Konserthuset i Stockholm. Fredspriset delades ut i Oslo. Pristagaren María Corina Machado kunde inte närvara vid ceremonin.",
-      "url": "https://yle.fi/a/7-10089792?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-10T20:16:41Z"
     }
   ]
 }
