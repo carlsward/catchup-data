@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-14T07:29:47+00:00",
-  "total_raw": 38,
-  "total_rank": 3,
+  "generated": "2025-12-15T07:31:16+00:00",
+  "total_raw": 39,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Ukraina går in i en avgörande vecka",
+      "summary": "Ukraina står inför ett avgörande skede i fredsprocessen, när president Volodymyr Zelenskyj för samtal med amerikanska och europeiska ledare i Berlin. Tre centrala frågor avgör nu om förhandlingarna kan leda till verkliga framsteg eller om dödläget består. Den största stötesten är vilka territoriella eftergifter Ukraina kan acceptera som en del av ett fredsavtal.",
+      "url": "https://yle.fi/a/7-10089986?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-15T04:21:16Z"
+    },
     {
       "title": "För Bosnien låter löften om utveckling och demokrati fortfarande vänta på sig 30…",
       "summary": "Många ser fredsavtalets struktur som ett hinder för utveckling. Trots att olika områden hade klara majoriteter fanns så gott som överallt betydande minoriteter från åtminstone en annan religiös grupp. Bosniens styrelsesystem har konstruerats så att livet blir svårt för de yngsta och de äldre, eller i princip alla, säger Transparency International.",
@@ -23,11 +30,11 @@
       "published": "2025-12-13T05:46:36Z"
     },
     {
-      "title": "Rysslands centralbank stämmer Euroclear för planerna på att ta ryska tillgångar",
-      "summary": "EU driver på för att få ut cirka 200 miljarder euro av den ryska centralbankens tillgångar för att stödja Ukraina. Belgien vill ha solidaritet Belgien har hittills motsatt sig användningen av tillgångar på grund av risker för rysk vedergällning och frågor kring ansvaret för eventuella ersättningskrav. EU kräver bindande juridiska garantier från övriga medlemsländer för att minimera de nationella riskerna om de frysta tillgångarna används.",
-      "url": "https://yle.fi/a/7-10089898?origin=rss",
+      "title": "Trump, Clinton och Gates syns på nya Epsteinbilder",
+      "summary": "Jeffrey Epstein dog i en fängelsecell i New York 2019 i väntan på åtal för människohandel med sexuella syften. Demokraterna släppte 19 bilder som visar den nuvarande presidenten Donald Trump, den tidigare presidenten Bill Clinton och den dåvarande prins Andrew. Det är oklart när bilderna har tagits, i vilka sammanhang och vem som har tagit dem.",
+      "url": "https://yle.fi/a/7-10089937?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-12T10:37:06Z"
+      "published": "2025-12-12T17:31:00Z"
     }
   ]
 }

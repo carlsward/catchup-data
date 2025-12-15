@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-14T07:29:20+00:00",
-  "total_raw": 38,
-  "total_rank": 6,
+  "generated": "2025-12-15T07:30:35+00:00",
+  "total_raw": 39,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Ukraina går in i en avgörande vecka",
+      "summary": "Ukraina står inför ett avgörande skede i fredsprocessen, när president Volodymyr Zelenskyj för samtal med amerikanska och europeiska ledare i Berlin. Tre centrala frågor avgör nu om förhandlingarna kan leda till verkliga framsteg eller om dödläget består. Den största stötesten är vilka territoriella eftergifter Ukraina kan acceptera som en del av ett fredsavtal.",
+      "url": "https://yle.fi/a/7-10089986?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-15T04:21:16Z"
+    },
+    {
+      "title": "Kontroll av sociala medier för USA-resenärer kan bli verklighet",
+      "summary": "För att besöka USA som turist måste man betala och fylla i ett turistvisum, ett så kallat Esta. Enligt det förslag som finns nu kan de som vill besöka USA framöver tvingas öppna upp sina sociala medier, e - post och sin telefonlista för granskning. Historiken ska, om förslaget går igenom, sträcka sig fem år bak i tiden.",
+      "url": "https://svt.se/nyheter/utrikes/kontroll-av-sociala-medier-for-usa-resenarer-kan-bli-verklighet",
+      "domain": "svt.se",
+      "published": "2025-12-15T02:50:14Z"
+    },
+    {
+      "title": "Masskjutning på Bondi Beach i Sydney: Detta vet vi",
+      "summary": "Attacken genomfördes vid firandet av den judiska högtiden chanukka. Två misstänkta gärningsmän är i 50 - årsåldern och den andra är 24 år, enligt polisen. Den äldre mannen dödades på platsen.",
+      "url": "https://svt.se/nyheter/utrikes/masskjutning-i-bondi-beach-detta-vet-vi",
+      "domain": "svt.se",
+      "published": "2025-12-14T14:07:07Z"
+    },
     {
       "title": "För Bosnien låter löften om utveckling och demokrati fortfarande vänta på sig 30…",
       "summary": "Många ser fredsavtalets struktur som ett hinder för utveckling. Trots att olika områden hade klara majoriteter fanns så gott som överallt betydande minoriteter från åtminstone en annan religiös grupp. Bosniens styrelsesystem har konstruerats så att livet blir svårt för de yngsta och de äldre, eller i princip alla, säger Transparency International.",
@@ -16,18 +37,11 @@
       "published": "2025-12-14T05:08:05Z"
     },
     {
-      "title": "Läkemedelsjätten Johnson & Johnson döms betala miljonskadestånd",
-      "summary": "Kvinnorna diagnostiserades med äggstockscancer 2014 och 2018. Efter fredagens domslut får de nu motsvarande 167 miljoner respektive 204 miljoner kronor vardera. Johnson & Johnson står dock inför stämningar där över 67 000 personer i USA hävdar att de fått cancer, oftast i lungorna eller äggstockarna, efter att ha använt företagets produkter som innehåller talk.",
-      "url": "https://svt.se/nyheter/utrikes/lakemedelsjatten-johnson-och-johnson-doms-betala-miljonskadestand",
+      "title": "Två döda efter skjutning vid universitetet Brown i USA",
+      "summary": "Mer än 400 poliser deltar i jakten på den misstänkte skytten. Två studenter hade dött och åtta personer vårdades för allvarliga skador på ett närliggande sjukhus. Skottlossningen inträffade strax efter klockan 16 på lördagen, lokal tid i en av universitetets byggnader där studenter skrev examensprov.",
+      "url": "https://svt.se/nyheter/utrikes/flera-skjutna-vid-brown-university",
       "domain": "svt.se",
-      "published": "2025-12-14T02:12:19Z"
-    },
-    {
-      "title": "Israeliska soldater vittnar om skott mot obeväpnade: ”Såg det med egna ögon",
-      "summary": "I dokumentären berättar israeliska soldater som tjänstgjort i den israeliska armén om sina upplevelser. Om man vill skjuta kan man göra det, säger en soldat som i dokumentären kallas för Daniel och som var officer i pansartrupperna. Israelisk militär säger att den vidtar åtgärder för att minimera civila förluster, samt för att varna och evakuera civila.",
-      "url": "https://svt.se/nyheter/utrikes/israeliska-soldater-vittnar-om-skott-mot-obevapnade-sag-det-med-egna-ogon",
-      "domain": "svt.se",
-      "published": "2025-12-13T17:13:46Z"
+      "published": "2025-12-13T22:41:19Z"
     },
     {
       "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
@@ -37,18 +51,18 @@
       "published": "2025-12-13T05:46:36Z"
     },
     {
-      "title": "UD avråder från resor till flera områden i Thailand",
-      "summary": "Utrikesdepartementet avråder från alla resor närmast Kambodja i sydöstra Thailand. Det råder också avrådan från icke - nödvändiga resor till övriga provinser i Thailand och Kambodja som ligger längs med gränsen. Resenärer får nu pengarna tillbaka eller får boka om resan.",
-      "url": "https://svt.se/nyheter/utrikes/ud-avrader-fran-resor-till-flera-omraden-i-thailand",
-      "domain": "svt.se",
-      "published": "2025-12-12T17:05:48Z"
+      "title": "Trump, Clinton och Gates syns på nya Epsteinbilder",
+      "summary": "Jeffrey Epstein dog i en fängelsecell i New York 2019 i väntan på åtal för människohandel med sexuella syften. Demokraterna släppte 19 bilder som visar den nuvarande presidenten Donald Trump, den tidigare presidenten Bill Clinton och den dåvarande prins Andrew. Det är oklart när bilderna har tagits, i vilka sammanhang och vem som har tagit dem.",
+      "url": "https://yle.fi/a/7-10089937?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-12T17:31:00Z"
     },
     {
-      "title": "Rysslands centralbank stämmer Euroclear för planerna på att ta ryska tillgångar",
-      "summary": "EU driver på för att få ut cirka 200 miljarder euro av den ryska centralbankens tillgångar för att stödja Ukraina. Belgien vill ha solidaritet Belgien har hittills motsatt sig användningen av tillgångar på grund av risker för rysk vedergällning och frågor kring ansvaret för eventuella ersättningskrav. EU kräver bindande juridiska garantier från övriga medlemsländer för att minimera de nationella riskerna om de frysta tillgångarna används.",
-      "url": "https://yle.fi/a/7-10089898?origin=rss",
+      "title": "Tyskland anklagar Ryssland för cyberattacker och desinformation 2024",
+      "summary": "Tyskland anklagar Ryssland för cyberattacker riktade mot dess flygtrafikledning och mot det federala valet i februari. Den ryska ambassadören har kallats in för samtal. Martin Giese, talesman för det tyska utrikesministeriet, säger att landets säkerhetstjänst har bevis för att hackergrupper som leds av Rysslands militära underrättelsetjänst GRU låg bakom attackerna och påverkansoperationerna.",
+      "url": "https://yle.fi/a/7-10089927?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-12T10:37:06Z"
+      "published": "2025-12-12T14:29:36Z"
     }
   ]
 }
