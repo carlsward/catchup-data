@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-15T07:30:35+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-16T07:24:36+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Analys: Ukraina går in i en avgörande vecka",
-      "summary": "Ukraina står inför ett avgörande skede i fredsprocessen, när president Volodymyr Zelenskyj för samtal med amerikanska och europeiska ledare i Berlin. Tre centrala frågor avgör nu om förhandlingarna kan leda till verkliga framsteg eller om dödläget består. Den största stötesten är vilka territoriella eftergifter Ukraina kan acceptera som en del av ett fredsavtal.",
-      "url": "https://yle.fi/a/7-10089986?origin=rss",
+      "title": "Ryssland kommenterar samtalen: ”På gränsen till en lösning i förhandlingarna med…",
+      "summary": "Biträdande utrikesminister Sergej Rjabkov säger att Ryssland och Ukraina nu är på randen till en diplomatisk lösning för att avsluta kriget. I samma intervju säger han att Ryssland inte är berett att kompromissa om territorium. Ryssland kräver full kontroll över Krim, samt över fyra andra delvis ockuperade ukrainska regioner: Donetsk, Luhansk, Zaporizjja och Cherson.",
+      "url": "https://yle.fi/a/7-10090073?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-15T04:21:16Z"
+      "published": "2025-12-16T05:10:50Z"
     },
     {
-      "title": "Kontroll av sociala medier för USA-resenärer kan bli verklighet",
-      "summary": "För att besöka USA som turist måste man betala och fylla i ett turistvisum, ett så kallat Esta. Enligt det förslag som finns nu kan de som vill besöka USA framöver tvingas öppna upp sina sociala medier, e - post och sin telefonlista för granskning. Historiken ska, om förslaget går igenom, sträcka sig fem år bak i tiden.",
-      "url": "https://svt.se/nyheter/utrikes/kontroll-av-sociala-medier-for-usa-resenarer-kan-bli-verklighet",
+      "title": "Trump stämmer BBC på tio miljarder dollar",
+      "summary": "Trump har begärt fem miljarder dollar i skadestånd för vart och ett av de två åtalspunkterna i stämningsansökan. Den brittiska public service - bolaget anklagas för att producera en falsk, nedsättande och provocerande skildring av Trump. Trump har sagt att han kommer att stämma BBC för att de lagt ord i min mun.",
+      "url": "https://svt.se/nyheter/utrikes/trump-stammer-bbc-pa-fem-miljarder-dollar",
       "domain": "svt.se",
-      "published": "2025-12-15T02:50:14Z"
+      "published": "2025-12-16T00:32:45Z"
+    },
+    {
+      "title": "Influencer ger missvisande bild av ”kvarlämnade” späckhuggare",
+      "summary": "Fotografen, som kallar sig Seph Lawless, säger att han har filmat djuren vid flera tillfällen under sommaren och hösten. Marineland i Antibes, en vattenpark som länge var känd för shower med späckhuggare och delfiner. Parken stängde för allmänheten i början av året, efter en ny lag som förbjuder shower med valar och.",
+      "url": "https://svt.se/nyheter/utrikes/influencer-ger-missvisande-bild-av-kvarlamnade-spackhuggare",
+      "domain": "svt.se",
+      "published": "2025-12-15T19:53:29Z"
+    },
+    {
+      "title": "Diskussionerna om fred i Ukraina går vidare",
+      "summary": "USA: s specialsändebud Steve Witkoff, Jared Kushner, Tysklands förbundskansler Friedrich Merz och Ukrainas president Volodymyr Zelenskyj höll ett fem timmar långt samtal på måndagen. Det andra samtalet mellan de ukrainska och amerikanska delegaterna hölls måndagen, men i skrivande stund har inga detaljer framkommit om vad man kommit överens om. USA har fortsatt insistera på att Ukraina måste ge upp de områden i Donbass som nu ockuperas av ryska styrkor, och även dra sig tillbaka från sådana platser som ukrainarna kontrollerar.",
+      "url": "https://yle.fi/a/7-10090058?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-15T16:16:21Z"
     },
     {
       "title": "Masskjutning på Bondi Beach i Sydney: Detta vet vi",
-      "summary": "Attacken genomfördes vid firandet av den judiska högtiden chanukka. Två misstänkta gärningsmän är i 50 - årsåldern och den andra är 24 år, enligt polisen. Den äldre mannen dödades på platsen.",
+      "summary": "Polisen säger att attacken genomfördes vid firandet av den judiska högtiden chanukka. Två misstänkta gärningsmän som är far och son, enligt polisen. Den yngre ligger i koma och vårdas med livshotande skador på sjukhus.",
       "url": "https://svt.se/nyheter/utrikes/masskjutning-i-bondi-beach-detta-vet-vi",
       "domain": "svt.se",
       "published": "2025-12-14T14:07:07Z"
@@ -37,32 +51,18 @@
       "published": "2025-12-14T05:08:05Z"
     },
     {
-      "title": "Två döda efter skjutning vid universitetet Brown i USA",
-      "summary": "Mer än 400 poliser deltar i jakten på den misstänkte skytten. Två studenter hade dött och åtta personer vårdades för allvarliga skador på ett närliggande sjukhus. Skottlossningen inträffade strax efter klockan 16 på lördagen, lokal tid i en av universitetets byggnader där studenter skrev examensprov.",
-      "url": "https://svt.se/nyheter/utrikes/flera-skjutna-vid-brown-university",
-      "domain": "svt.se",
-      "published": "2025-12-13T22:41:19Z"
+      "title": "Tvättbjörn som bröt sig in i spritaffär misstänks vara serieförbrytare",
+      "summary": "En tvättbjörn bröt sig in i en spritaffär i Virginia i USA, fällde flera flaskor från hyllorna, drack sig full och sedan slocknade på toalettgolvet. En karatestudio och fordonsmyndigheten misstänks ha haft besök av samma individ. Djuret togs om hand då det stod klart att det fått i sig alkohol och släpptes ut i samma grannskap nästa dag.",
+      "url": "https://yle.fi/a/7-10089964?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-13T20:50:07Z"
     },
     {
-      "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
-      "summary": "G20 är en symbolisk plats för diskussioner om global ojämlikhet, skuldkris och energiomställning. Sydafrika hoppades att toppmötet skulle innebära början på ett genombrott för Afrikas inflytande i globala institutioner. G20 representerar 85 procent av världsekonomin och två tredjedelar av jordens befolkning, men för många sydafrikaner är de stora visionerna svåra att känna igen i vardagen.",
-      "url": "https://yle.fi/a/7-10088637?origin=rss",
+      "title": "Toppkommendör i Hamas dödad i israelisk attack",
+      "summary": "Raed Saed var nummer två i Hamas militära gren al - Qassambrigaderna efter Izz al - Din al - Haddad. Han tros ha varit en av de Hamasledare som planerade terrorattacken på södra Israel den 7 oktober 2023. Israel har flera gånger försökt döda Saed utan framgång.",
+      "url": "https://yle.fi/a/7-10089958?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-13T05:46:36Z"
-    },
-    {
-      "title": "Trump, Clinton och Gates syns på nya Epsteinbilder",
-      "summary": "Jeffrey Epstein dog i en fängelsecell i New York 2019 i väntan på åtal för människohandel med sexuella syften. Demokraterna släppte 19 bilder som visar den nuvarande presidenten Donald Trump, den tidigare presidenten Bill Clinton och den dåvarande prins Andrew. Det är oklart när bilderna har tagits, i vilka sammanhang och vem som har tagit dem.",
-      "url": "https://yle.fi/a/7-10089937?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-12T17:31:00Z"
-    },
-    {
-      "title": "Tyskland anklagar Ryssland för cyberattacker och desinformation 2024",
-      "summary": "Tyskland anklagar Ryssland för cyberattacker riktade mot dess flygtrafikledning och mot det federala valet i februari. Den ryska ambassadören har kallats in för samtal. Martin Giese, talesman för det tyska utrikesministeriet, säger att landets säkerhetstjänst har bevis för att hackergrupper som leds av Rysslands militära underrättelsetjänst GRU låg bakom attackerna och påverkansoperationerna.",
-      "url": "https://yle.fi/a/7-10089927?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-12T14:29:36Z"
+      "published": "2025-12-13T16:27:37Z"
     }
   ]
 }

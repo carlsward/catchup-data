@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-15T07:31:16+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-16T07:25:18+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Analys: Ukraina går in i en avgörande vecka",
-      "summary": "Ukraina står inför ett avgörande skede i fredsprocessen, när president Volodymyr Zelenskyj för samtal med amerikanska och europeiska ledare i Berlin. Tre centrala frågor avgör nu om förhandlingarna kan leda till verkliga framsteg eller om dödläget består. Den största stötesten är vilka territoriella eftergifter Ukraina kan acceptera som en del av ett fredsavtal.",
-      "url": "https://yle.fi/a/7-10089986?origin=rss",
+      "title": "Ryssland kommenterar samtalen: ”På gränsen till en lösning i förhandlingarna med…",
+      "summary": "Biträdande utrikesminister Sergej Rjabkov säger att Ryssland och Ukraina nu är på randen till en diplomatisk lösning för att avsluta kriget. I samma intervju säger han att Ryssland inte är berett att kompromissa om territorium. Ryssland kräver full kontroll över Krim, samt över fyra andra delvis ockuperade ukrainska regioner: Donetsk, Luhansk, Zaporizjja och Cherson.",
+      "url": "https://yle.fi/a/7-10090073?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-15T04:21:16Z"
+      "published": "2025-12-16T05:10:50Z"
+    },
+    {
+      "title": "Diskussionerna om fred i Ukraina går vidare",
+      "summary": "USA: s specialsändebud Steve Witkoff, Jared Kushner, Tysklands förbundskansler Friedrich Merz och Ukrainas president Volodymyr Zelenskyj höll ett fem timmar långt samtal på måndagen. Det andra samtalet mellan de ukrainska och amerikanska delegaterna hölls måndagen, men i skrivande stund har inga detaljer framkommit om vad man kommit överens om. USA har fortsatt insistera på att Ukraina måste ge upp de områden i Donbass som nu ockuperas av ryska styrkor, och även dra sig tillbaka från sådana platser som ukrainarna kontrollerar.",
+      "url": "https://yle.fi/a/7-10090058?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-15T16:16:21Z"
     },
     {
       "title": "För Bosnien låter löften om utveckling och demokrati fortfarande vänta på sig 30…",
@@ -23,18 +30,11 @@
       "published": "2025-12-14T05:08:05Z"
     },
     {
-      "title": "Yoliswa Matoti oroar sig för sitt ofödda barn i skuggan av tomma löften från vär…",
-      "summary": "G20 är en symbolisk plats för diskussioner om global ojämlikhet, skuldkris och energiomställning. Sydafrika hoppades att toppmötet skulle innebära början på ett genombrott för Afrikas inflytande i globala institutioner. G20 representerar 85 procent av världsekonomin och två tredjedelar av jordens befolkning, men för många sydafrikaner är de stora visionerna svåra att känna igen i vardagen.",
-      "url": "https://yle.fi/a/7-10088637?origin=rss",
+      "title": "Tvättbjörn som bröt sig in i spritaffär misstänks vara serieförbrytare",
+      "summary": "En tvättbjörn bröt sig in i en spritaffär i Virginia i USA, fällde flera flaskor från hyllorna, drack sig full och sedan slocknade på toalettgolvet. En karatestudio och fordonsmyndigheten misstänks ha haft besök av samma individ. Djuret togs om hand då det stod klart att det fått i sig alkohol och släpptes ut i samma grannskap nästa dag.",
+      "url": "https://yle.fi/a/7-10089964?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-13T05:46:36Z"
-    },
-    {
-      "title": "Trump, Clinton och Gates syns på nya Epsteinbilder",
-      "summary": "Jeffrey Epstein dog i en fängelsecell i New York 2019 i väntan på åtal för människohandel med sexuella syften. Demokraterna släppte 19 bilder som visar den nuvarande presidenten Donald Trump, den tidigare presidenten Bill Clinton och den dåvarande prins Andrew. Det är oklart när bilderna har tagits, i vilka sammanhang och vem som har tagit dem.",
-      "url": "https://yle.fi/a/7-10089937?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-12T17:31:00Z"
+      "published": "2025-12-13T20:50:07Z"
     }
   ]
 }
