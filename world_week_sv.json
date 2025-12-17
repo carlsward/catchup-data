@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-16T07:24:36+00:00",
+  "generated": "2025-12-17T07:20:52+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland kommenterar samtalen: ”På gränsen till en lösning i förhandlingarna med…",
-      "summary": "Biträdande utrikesminister Sergej Rjabkov säger att Ryssland och Ukraina nu är på randen till en diplomatisk lösning för att avsluta kriget. I samma intervju säger han att Ryssland inte är berett att kompromissa om territorium. Ryssland kräver full kontroll över Krim, samt över fyra andra delvis ockuperade ukrainska regioner: Donetsk, Luhansk, Zaporizjja och Cherson.",
-      "url": "https://yle.fi/a/7-10090073?origin=rss",
+      "title": "Så här beskriver den blivande F-35-piloten Lasse Louhela Finlands nya jaktplan",
+      "summary": "De första finländska F - 35 - jaktplanen tas i bruk i vår i samband med utbildning i USA. Till Finland anländer de första jaktplanen av ny modell mot slutet av år 2026. Den största skillnaden är den omfattande informationsmängden som piloterna har i cockpit, säger överstelöjtnant Mikko Takalo.",
+      "url": "https://yle.fi/a/7-10090144?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-16T05:10:50Z"
+      "published": "2025-12-17T03:40:03Z"
     },
     {
-      "title": "Trump stämmer BBC på tio miljarder dollar",
-      "summary": "Trump har begärt fem miljarder dollar i skadestånd för vart och ett av de två åtalspunkterna i stämningsansökan. Den brittiska public service - bolaget anklagas för att producera en falsk, nedsättande och provocerande skildring av Trump. Trump har sagt att han kommer att stämma BBC för att de lagt ord i min mun.",
-      "url": "https://svt.se/nyheter/utrikes/trump-stammer-bbc-pa-fem-miljarder-dollar",
+      "title": "Studie: Dödens årtionde för glaciärerna",
+      "summary": "Glaciärer kommer att försvinna snabbast i takt med att planeten värms upp, förutspår forskare. 2 000 glaciärer per år kan försvinna för alltid om uppvärmningen begränsas till 1, 5 grader. Blir det fyra grader varmare kan 4 000 per år smälta bort av 200.",
+      "url": "https://svt.se/nyheter/utrikes/studie-dodens-artionde-for-glaciarerna-da-forsvinner-2000-om-aret",
       "domain": "svt.se",
-      "published": "2025-12-16T00:32:45Z"
+      "published": "2025-12-17T01:23:47Z"
+    },
+    {
+      "title": "Europa pressar Ukraina till eftergifter för att blidka Trump",
+      "summary": "Europa verkar ha kommit vidare med USA när det gäller säkerhetsgarantier för Ukraina vid ett eldupphör och fred. Den försiktiga optimismen fanns också hos Finlands president Stubb, som konstaterade att den återkommande punkten är kraven på att Ukraina ska ge upp landområden för att fredsprocessen ska kunna gå vidare. Problemet med hela förhandlingsprocessen är den amerikanska presidenten Donald Trumps inställning till konflikten i nuläget, säger Jakob Hedenskog, analytiker vid Utrikespolitiska institutet i Sverige.",
+      "url": "https://yle.fi/a/7-10090087?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-16T13:32:30Z"
+    },
+    {
+      "title": "Polisen bekräftar: Terrordådet på Bondi Beach inspirerat av IS",
+      "summary": "Den 24 - årige mannen som tillsammans med sin pappa misstänks för att ha utfört terrorattacken på Bondi Beach har vaknat ur sin koma, rapporterar Sydney Morning Herald. Mannen, en man i 50 - årsåldern, sköts ihjäl av polis på platsen. Masskjutningen utreds som ett terrordåd och genomfördes vid ett firande av den judiska högtiden chanukka.",
+      "url": "https://svt.se/nyheter/utrikes/polisen-bekraftar-terrordadet-pa-bondi-beach-inspirerat-av-is",
+      "domain": "svt.se",
+      "published": "2025-12-16T10:16:43Z"
     },
     {
       "title": "Influencer ger missvisande bild av ”kvarlämnade” späckhuggare",
-      "summary": "Fotografen, som kallar sig Seph Lawless, säger att han har filmat djuren vid flera tillfällen under sommaren och hösten. Marineland i Antibes, en vattenpark som länge var känd för shower med späckhuggare och delfiner. Parken stängde för allmänheten i början av året, efter en ny lag som förbjuder shower med valar och.",
+      "summary": "Fotografen, som kallar sig Seph Lawless, säger att han har filmat djuren vid flera tillfällen under sommaren och hösten. Marineland i Antibes, Frankrike stängde för allmänheten i början av året efter en ny lag som förbjuder shower med valar och delfiner i Frankrike. De flesta av de omkring 4 000 djur som fanns på anläggningen har flyttats – men det stämmer att två späckhuggare och tolv delfiner fortfarande finns kvar.",
       "url": "https://svt.se/nyheter/utrikes/influencer-ger-missvisande-bild-av-kvarlamnade-spackhuggare",
       "domain": "svt.se",
       "published": "2025-12-15T19:53:29Z"
@@ -37,32 +51,18 @@
       "published": "2025-12-15T16:16:21Z"
     },
     {
-      "title": "Masskjutning på Bondi Beach i Sydney: Detta vet vi",
-      "summary": "Polisen säger att attacken genomfördes vid firandet av den judiska högtiden chanukka. Två misstänkta gärningsmän som är far och son, enligt polisen. Den yngre ligger i koma och vårdas med livshotande skador på sjukhus.",
-      "url": "https://svt.se/nyheter/utrikes/masskjutning-i-bondi-beach-detta-vet-vi",
+      "title": "Pappan och sonen misstänks för skjutningen mot judiska firandet på Bondi beach",
+      "summary": "Minst 15 personer dödades i masskjutningen vid Bondi Beach i Australien. En av gärningsmännen dödades. Händelsen utreds som ett terrordåd riktat mot firandet av den judiska högtiden chanukka.",
+      "url": "https://svt.se/nyheter/utrikes/pappan-och-sonen-misstanks-for-attacken-mot-judiska-firandet",
       "domain": "svt.se",
-      "published": "2025-12-14T14:07:07Z"
+      "published": "2025-12-14T22:50:30Z"
     },
     {
-      "title": "För Bosnien låter löften om utveckling och demokrati fortfarande vänta på sig 30…",
-      "summary": "Många ser fredsavtalets struktur som ett hinder för utveckling. Trots att olika områden hade klara majoriteter fanns så gott som överallt betydande minoriteter från åtminstone en annan religiös grupp. Bosniens styrelsesystem har konstruerats så att livet blir svårt för de yngsta och de äldre, eller i princip alla, säger Transparency International.",
-      "url": "https://yle.fi/a/7-10089547?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-14T05:08:05Z"
-    },
-    {
-      "title": "Tvättbjörn som bröt sig in i spritaffär misstänks vara serieförbrytare",
-      "summary": "En tvättbjörn bröt sig in i en spritaffär i Virginia i USA, fällde flera flaskor från hyllorna, drack sig full och sedan slocknade på toalettgolvet. En karatestudio och fordonsmyndigheten misstänks ha haft besök av samma individ. Djuret togs om hand då det stod klart att det fått i sig alkohol och släpptes ut i samma grannskap nästa dag.",
-      "url": "https://yle.fi/a/7-10089964?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-13T20:50:07Z"
-    },
-    {
-      "title": "Toppkommendör i Hamas dödad i israelisk attack",
-      "summary": "Raed Saed var nummer två i Hamas militära gren al - Qassambrigaderna efter Izz al - Din al - Haddad. Han tros ha varit en av de Hamasledare som planerade terrorattacken på södra Israel den 7 oktober 2023. Israel har flera gånger försökt döda Saed utan framgång.",
-      "url": "https://yle.fi/a/7-10089958?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-13T16:27:37Z"
+      "title": "Presidentvalet i Chile",
+      "summary": "José Kast, som i senaste valet förlorade mot Boric, är en beundrare av diktatorn. Kast har gått till val på att utvisa mer än 300 000 invandrare och stänga gränsen i norr. Han är känd för sitt motstånd mot abort och samkönade äktenskap.",
+      "url": "https://svt.se/nyheter/utrikes/presidentvalet-i-chile-kommunisten-jeanette-jara-erkanner-sig-besegrad",
+      "domain": "svt.se",
+      "published": "2025-12-14T22:49:48Z"
     }
   ]
 }
