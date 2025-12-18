@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-17T07:21:39+00:00",
+  "generated": "2025-12-18T07:22:07+00:00",
   "total_raw": 40,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump kompletterar porträttvägg i Vita huset med förolämpningar mot sina företrä…",
+      "summary": "Den nuvarande presidenten Donald Trumps företrädare beskrivs så som Trump verkar se dem. Den värsta texten ägnas Trumps företrädare Joe Biden, som Trump också nämner i så gott som varje tal han håller. I september då porträtten hängdes upp, visade det sig att där inte fanns något egentligt porträtt på Biden.",
+      "url": "https://yle.fi/a/7-10090222?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-18T06:27:43Z"
+    },
     {
       "title": "Så här beskriver den blivande F-35-piloten Lasse Louhela Finlands nya jaktplan",
       "summary": "De första finländska F - 35 - jaktplanen tas i bruk i vår i samband med utbildning i USA. Till Finland anländer de första jaktplanen av ny modell mot slutet av år 2026. Den största skillnaden är den omfattande informationsmängden som piloterna har i cockpit, säger överstelöjtnant Mikko Takalo.",
@@ -16,25 +23,11 @@
       "published": "2025-12-17T03:40:03Z"
     },
     {
-      "title": "Europa pressar Ukraina till eftergifter för att blidka Trump",
-      "summary": "Europa verkar ha kommit vidare med USA när det gäller säkerhetsgarantier för Ukraina vid ett eldupphör och fred. Den försiktiga optimismen fanns också hos Finlands president Stubb, som konstaterade att den återkommande punkten är kraven på att Ukraina ska ge upp landområden för att fredsprocessen ska kunna gå vidare. Problemet med hela förhandlingsprocessen är den amerikanska presidenten Donald Trumps inställning till konflikten i nuläget, säger Jakob Hedenskog, analytiker vid Utrikespolitiska institutet i Sverige.",
-      "url": "https://yle.fi/a/7-10090087?origin=rss",
+      "title": "Nu är det klart: EU-kommissionen mjukar upp förbudet mot bensin- och dieselbilar",
+      "summary": "Förbud mot förbränningsmotorer träder i kraft 2035. Förbudet skulle innebära att försäljningen av nya bensin - och dieselbilar skulle upphöra före utgången av 2034. Förslaget väcker farhågor om att EU: s klimatambitioner kan komma att urvattnas.",
+      "url": "https://yle.fi/a/7-10090132?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-16T13:32:30Z"
-    },
-    {
-      "title": "Diskussionerna om fred i Ukraina går vidare",
-      "summary": "USA: s specialsändebud Steve Witkoff, Jared Kushner, Tysklands förbundskansler Friedrich Merz och Ukrainas president Volodymyr Zelenskyj höll ett fem timmar långt samtal på måndagen. Det andra samtalet mellan de ukrainska och amerikanska delegaterna hölls måndagen, men i skrivande stund har inga detaljer framkommit om vad man kommit överens om. USA har fortsatt insistera på att Ukraina måste ge upp de områden i Donbass som nu ockuperas av ryska styrkor, och även dra sig tillbaka från sådana platser som ukrainarna kontrollerar.",
-      "url": "https://yle.fi/a/7-10090058?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-15T16:16:21Z"
-    },
-    {
-      "title": "Pappan och sonen misstänks för skjutningen mot judiska firandet på Bondi beach",
-      "summary": "Minst 15 personer dödades i masskjutningen vid Bondi Beach i Australien. En av gärningsmännen dödades. Händelsen utreds som ett terrordåd riktat mot firandet av den judiska högtiden chanukka.",
-      "url": "https://svt.se/nyheter/utrikes/pappan-och-sonen-misstanks-for-attacken-mot-judiska-firandet",
-      "domain": "svt.se",
-      "published": "2025-12-14T22:50:30Z"
+      "published": "2025-12-16T16:08:49Z"
     }
   ]
 }

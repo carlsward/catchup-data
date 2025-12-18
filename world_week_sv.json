@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-17T07:20:52+00:00",
+  "generated": "2025-12-18T07:21:34+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump kompletterar porträttvägg i Vita huset med förolämpningar mot sina företrä…",
+      "summary": "Den nuvarande presidenten Donald Trumps företrädare beskrivs så som Trump verkar se dem. Den värsta texten ägnas Trumps företrädare Joe Biden, som Trump också nämner i så gott som varje tal han håller. I september då porträtten hängdes upp, visade det sig att där inte fanns något egentligt porträtt på Biden.",
+      "url": "https://yle.fi/a/7-10090222?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-18T06:27:43Z"
+    },
+    {
+      "title": "Donald Trump talade till nationen: ”USA är starkare än någonsin",
+      "summary": "Talet började klockan 21 lokal tid, klockan 03 svensk tid. Trump ägnade flera minuter åt att lista de misstag som han anser gjordes under Bidens tid som president. Han betonade återigen Joe Bidens oförmåga att kontrollera gränsen och påstod att 25 miljoner papperslösa invandrare tog sig in i USA under hans tid.",
+      "url": "https://svt.se/nyheter/utrikes/donald-trump-haller-tal-till-nationen",
+      "domain": "svt.se",
+      "published": "2025-12-18T02:18:09Z"
+    },
     {
       "title": "Så här beskriver den blivande F-35-piloten Lasse Louhela Finlands nya jaktplan",
       "summary": "De första finländska F - 35 - jaktplanen tas i bruk i vår i samband med utbildning i USA. Till Finland anländer de första jaktplanen av ny modell mot slutet av år 2026. Den största skillnaden är den omfattande informationsmängden som piloterna har i cockpit, säger överstelöjtnant Mikko Takalo.",
@@ -17,52 +31,24 @@
     },
     {
       "title": "Studie: Dödens årtionde för glaciärerna",
-      "summary": "Glaciärer kommer att försvinna snabbast i takt med att planeten värms upp, förutspår forskare. 2 000 glaciärer per år kan försvinna för alltid om uppvärmningen begränsas till 1, 5 grader. Blir det fyra grader varmare kan 4 000 per år smälta bort av 200.",
+      "summary": "Glaciärer kommer att försvinna snabbast i takt med att planeten värms upp, förutspår forskare. 2 000 glaciärer per år kan försvinna för alltid om uppvärmningen begränsas till 1, 5 grader. Blir det fyra grader varmare kan 4 000 om året smälta bort av 200.",
       "url": "https://svt.se/nyheter/utrikes/studie-dodens-artionde-for-glaciarerna-da-forsvinner-2000-om-aret",
       "domain": "svt.se",
       "published": "2025-12-17T01:23:47Z"
     },
     {
-      "title": "Europa pressar Ukraina till eftergifter för att blidka Trump",
-      "summary": "Europa verkar ha kommit vidare med USA när det gäller säkerhetsgarantier för Ukraina vid ett eldupphör och fred. Den försiktiga optimismen fanns också hos Finlands president Stubb, som konstaterade att den återkommande punkten är kraven på att Ukraina ska ge upp landområden för att fredsprocessen ska kunna gå vidare. Problemet med hela förhandlingsprocessen är den amerikanska presidenten Donald Trumps inställning till konflikten i nuläget, säger Jakob Hedenskog, analytiker vid Utrikespolitiska institutet i Sverige.",
-      "url": "https://yle.fi/a/7-10090087?origin=rss",
+      "title": "Stort tillslag i Litauen mot ballongliga",
+      "summary": "Åklagarna säger att den misstänkta ligan använde GPS för att lokalisera var ballongerna landade. Vid de över 80 tillslagen gjordes bland annat fynd av cigaretter med belarusisk märkning, sim - kort, vapen och lyxbilar. Ballongerna har stört flygtrafiken, men även setts som ett bredare säkerhetshot med tanke på Belarus nära relation till Ryssland och kriget i Ukraina.",
+      "url": "https://svt.se/nyheter/utrikes/stort-tillslag-i-litauen-mot-ballongliga",
+      "domain": "svt.se",
+      "published": "2025-12-16T17:48:55Z"
+    },
+    {
+      "title": "Nu är det klart: EU-kommissionen mjukar upp förbudet mot bensin- och dieselbilar",
+      "summary": "Förbud mot förbränningsmotorer träder i kraft 2035. Förbudet skulle innebära att försäljningen av nya bensin - och dieselbilar skulle upphöra före utgången av 2034. Förslaget väcker farhågor om att EU: s klimatambitioner kan komma att urvattnas.",
+      "url": "https://yle.fi/a/7-10090132?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-16T13:32:30Z"
-    },
-    {
-      "title": "Polisen bekräftar: Terrordådet på Bondi Beach inspirerat av IS",
-      "summary": "Den 24 - årige mannen som tillsammans med sin pappa misstänks för att ha utfört terrorattacken på Bondi Beach har vaknat ur sin koma, rapporterar Sydney Morning Herald. Mannen, en man i 50 - årsåldern, sköts ihjäl av polis på platsen. Masskjutningen utreds som ett terrordåd och genomfördes vid ett firande av den judiska högtiden chanukka.",
-      "url": "https://svt.se/nyheter/utrikes/polisen-bekraftar-terrordadet-pa-bondi-beach-inspirerat-av-is",
-      "domain": "svt.se",
-      "published": "2025-12-16T10:16:43Z"
-    },
-    {
-      "title": "Influencer ger missvisande bild av ”kvarlämnade” späckhuggare",
-      "summary": "Fotografen, som kallar sig Seph Lawless, säger att han har filmat djuren vid flera tillfällen under sommaren och hösten. Marineland i Antibes, Frankrike stängde för allmänheten i början av året efter en ny lag som förbjuder shower med valar och delfiner i Frankrike. De flesta av de omkring 4 000 djur som fanns på anläggningen har flyttats – men det stämmer att två späckhuggare och tolv delfiner fortfarande finns kvar.",
-      "url": "https://svt.se/nyheter/utrikes/influencer-ger-missvisande-bild-av-kvarlamnade-spackhuggare",
-      "domain": "svt.se",
-      "published": "2025-12-15T19:53:29Z"
-    },
-    {
-      "title": "Diskussionerna om fred i Ukraina går vidare",
-      "summary": "USA: s specialsändebud Steve Witkoff, Jared Kushner, Tysklands förbundskansler Friedrich Merz och Ukrainas president Volodymyr Zelenskyj höll ett fem timmar långt samtal på måndagen. Det andra samtalet mellan de ukrainska och amerikanska delegaterna hölls måndagen, men i skrivande stund har inga detaljer framkommit om vad man kommit överens om. USA har fortsatt insistera på att Ukraina måste ge upp de områden i Donbass som nu ockuperas av ryska styrkor, och även dra sig tillbaka från sådana platser som ukrainarna kontrollerar.",
-      "url": "https://yle.fi/a/7-10090058?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-15T16:16:21Z"
-    },
-    {
-      "title": "Pappan och sonen misstänks för skjutningen mot judiska firandet på Bondi beach",
-      "summary": "Minst 15 personer dödades i masskjutningen vid Bondi Beach i Australien. En av gärningsmännen dödades. Händelsen utreds som ett terrordåd riktat mot firandet av den judiska högtiden chanukka.",
-      "url": "https://svt.se/nyheter/utrikes/pappan-och-sonen-misstanks-for-attacken-mot-judiska-firandet",
-      "domain": "svt.se",
-      "published": "2025-12-14T22:50:30Z"
-    },
-    {
-      "title": "Presidentvalet i Chile",
-      "summary": "José Kast, som i senaste valet förlorade mot Boric, är en beundrare av diktatorn. Kast har gått till val på att utvisa mer än 300 000 invandrare och stänga gränsen i norr. Han är känd för sitt motstånd mot abort och samkönade äktenskap.",
-      "url": "https://svt.se/nyheter/utrikes/presidentvalet-i-chile-kommunisten-jeanette-jara-erkanner-sig-besegrad",
-      "domain": "svt.se",
-      "published": "2025-12-14T22:49:48Z"
+      "published": "2025-12-16T16:08:49Z"
     }
   ]
 }
