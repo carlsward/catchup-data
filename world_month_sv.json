@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-19T07:25:14+00:00",
-  "total_raw": 40,
+  "generated": "2025-12-20T07:15:51+00:00",
+  "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Fredsveteranen Mary Robinson: ”FN måste sluta leva i 1945",
+      "summary": "Mary Robinson är Irlands första kvinnliga president, fredsmäklare i både Nordirland och Östafrika och högkommissarie för FN. Sedan 2007 är hon medlem i The Elders, det råd som Nelson Mandela startade för att arbeta för global fred och rättvisa. Hon är djupt oroad över att FN idag inte kan uppfylla sin roll.",
+      "url": "https://yle.fi/a/7-10089693?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-20T04:41:44Z"
+    },
+    {
       "title": "Ingen enighet om frysta ryska tillgångar",
-      "summary": "EU lånar upp 90 miljarder euro mot EU - budgeten för att täcka Ukrainas akuta finansieringsbehov under de kommande två åren. Tjeckien, Ungern och Slovakien beviljades undantag som innebär att lånet inte påverkar deras ekonomiska åtaganden. På bordet fanns också ett förslag om att använda sammanlagt över 200 miljarder i frysta ryska tillgångar för Ukrainastöd.",
+      "summary": "EU lånar 90 miljarder euro mot EU - budgeten för att täcka Ukrainas akuta finansieringsbehov under de kommande två åren. Tjeckien, Ungern och Slovakien beviljades undantag som innebär att lånet inte påverkar deras ekonomiska åtaganden. På bordet fanns också ett förslag om att använda sammanlagt över 200 miljarder i frysta ryska tillgångar för Ukrainastöd.",
       "url": "https://yle.fi/a/7-10090317?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-19T03:24:42Z"
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10089649?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-18T15:30:14Z"
-    },
-    {
-      "title": "Striden om Rysslands frysta tillgångar hårdnar",
-      "summary": "Ukraina står i centrum för diskussionerna om huruvida frysta tillgångar kan användas som säkerhet för ett lån till Ukraina. Flera centrala frågor är fortfarande olösta, vilket talar för långa och tuffa förhandlingar mellan EU - ledarna. Belgien kräver omfattande och obegränsade garantier från övriga medlemsländer för att gardera sig mot eventuella risker om Ryssland kräver tillbaka sina tillgångar.",
-      "url": "https://yle.fi/a/7-10090216?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-17T20:20:15Z"
     }
   ]
 }
