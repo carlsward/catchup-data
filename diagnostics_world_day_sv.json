@@ -3,17 +3,17 @@
   "language": "sv",
   "span": "day",
   "days": 1,
-  "generated": "2025-12-20T07:14:13+00:00",
-  "total_candidates": 21,
+  "generated": "2025-12-21T07:28:49+00:00",
+  "total_candidates": 22,
   "total_selected": 5,
   "utc_range": {
-    "min": 1766132254,
-    "max": 1766210514
+    "min": 1766217983,
+    "max": 1766301505
   },
   "per_day": [
     {
       "day_index": 0,
-      "candidates": 5,
+      "candidates": 8,
       "selected": 1
     }
   ],

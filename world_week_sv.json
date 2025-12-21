@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-20T07:15:16+00:00",
-  "total_raw": 39,
-  "total_rank": 6,
+  "generated": "2025-12-21T07:30:04+00:00",
+  "total_raw": 40,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Profilerna som lämnade 2025",
-      "summary": "Diogo Jota, som omkom i en tragisk bilolycka tillsammans med sin bror, var bland de profiler som gick bort under året som gick. Fotbollsstjärnan D ' Angelo, den banbrytande R & B - artisten och neo - soul - pionjären, gick bort efter en tids kamp mot cancer. Tidigare skidskytt Laura Dahlmeier dog i en bergsolycka i Pakistan.",
-      "url": "https://svt.se/nyheter/utrikes/profilerna-som-lamnade-2025",
+      "title": "Donah Faliah såg sin vän dö då Madagaskars president störtades: ”Ge dig inte för…",
+      "summary": "Mer än hälften av befolkningen är under 25 år och över 75 procent lever i fattigdom. President Andry Rajoelinas prestigeprojekt – den nya linbanan som skulle minska köerna i huvudstaden – kostade en enkel resa runt en euro. Musikern som varnade och fängslades.",
+      "url": "https://yle.fi/a/7-10088393?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-21T04:43:24Z"
+    },
+    {
+      "title": "Grisbonden Maria drabbas av EU och Kinas elbilsbråk",
+      "summary": "Flytten ses som ett svar på EU: s tullar på kinesiska elbilar. Men effekten har varit kännbar de senaste månaderna. De kinesiska tullarna blir visserligen kvar i fem år – men på en lägre nivå än de europeiska fläskproducenterna fruktat.",
+      "url": "https://svt.se/nyheter/utrikes/grisbonden-maria-drabbas-av-eu-och-kinas-elbilsbrak",
       "domain": "svt.se",
-      "published": "2025-12-20T04:49:17Z"
+      "published": "2025-12-21T03:03:47Z"
+    },
+    {
+      "title": "Detta vet vi om Epsteindokumenten",
+      "summary": "USA: s justitiedepartement började publicera filer på fredagen – men inte alla. Hur mycket som släppts är oklart. Många av dokumenten är maskade och andra är till stor del kända sedan tidigare.",
+      "url": "https://svt.se/nyheter/utrikes/detta-vet-vi-om-espteindokumenten",
+      "domain": "svt.se",
+      "published": "2025-12-20T21:57:07Z"
     },
     {
       "title": "Fredsveteranen Mary Robinson: ”FN måste sluta leva i 1945",
@@ -23,11 +37,11 @@
       "published": "2025-12-20T04:41:44Z"
     },
     {
-      "title": "Nu släpps filerna ur Epstein-utredningen",
-      "summary": "Enligt federal lag var USA: s justitiedepartement skyldigt att senast på fredag offentliggöra allt material om sexbrottslingen Jeffrey Epstein. Enligt lagtexten ska materialet vara publicerat, nedladdningsbart och sökbart för allmänheten. Samtidigt har biträdande justitieminister Todd Blanche sagt till Fox News att ytterligare dokument kommer att offentliggöras först under de kommande veckorna.",
-      "url": "https://svt.se/nyheter/utrikes/nu-slapps-epsteinutredningen-det-kan-vi-vanta-oss",
+      "title": "Putins kritik mot EU: ”Försöker 'stjäla' pengarna",
+      "summary": "Putin säger att Ryssland inte tror att Ukraina är redo för fredssamtal. Han säger att det är upp till Europa och Ukraina att ta nästa steg mot fred. Putin berömmer också USA: s president Donald Trumps försök till fred.",
+      "url": "https://svt.se/nyheter/utrikes/putins-kritik-mot-eu-forsoker-stjala-pengarna",
       "domain": "svt.se",
-      "published": "2025-12-19T17:00:29Z"
+      "published": "2025-12-19T22:46:09Z"
     },
     {
       "title": "Ingen enighet om frysta ryska tillgångar",
@@ -37,18 +51,18 @@
       "published": "2025-12-19T03:24:42Z"
     },
     {
-      "title": "Dansk ”gettolag” kan vara diskriminerande",
-      "summary": "2018 trädde den så kallade \" gettolagen \" i kraft. Lagen innebär att ett bostadsområde inte får ha mer än 50 procent av befolkningen. Hyresvärden har rätt att antingen riva eller sälja bostäderna.",
-      "url": "https://svt.se/nyheter/utrikes/dansk-gettolag-kan-vara-diskriminerande",
-      "domain": "svt.se",
-      "published": "2025-12-18T22:12:07Z"
+      "title": "Trump klassar cannabis som mindre farlig drog",
+      "summary": "Hittills har cannabis varit placerad i den farligaste klassen av droger, tillsammans med till exempel heroin och LSD. Nu flyttas cannabis till klass tre, där bland annat ketamin och anabola steroider finns, substanser som anses ha större medicinsk potential. I flera delstater är medicinsk användning av cannabis tillåten, och vissa godkänner också försäljning och användning för nöjesbruk.",
+      "url": "https://yle.fi/a/7-10090314?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-18T21:05:29Z"
     },
     {
-      "title": "Finländska Anni Hakaniemi bevakar den frysta konflikten mellan Georgien och Ryss…",
-      "summary": "Den tillfälliga gränsen mellan Georgien och Sydossetien är 400 kilometer lång. Ryssland har byggt allt fler fysiska hinder längs gränsen: metallstängsel, diken, vakttorn och övervakningsutrustning. Det finns 220 EU - observatörer från 26 länder på plats i Georgien, varav 10 kommer från Finland.",
-      "url": "https://yle.fi/a/7-10089649?origin=rss",
+      "title": "68 nya Epsteinbilder släpptes",
+      "summary": "Jeffrey Epstein är en av de 68 bilder som demokraterna fick från Epsteins dödsbo förra veckan. Ingen av bilderna visar något olagligt. Epstein har nekat till att göra något brottsligt.",
+      "url": "https://yle.fi/a/7-10090312?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-18T15:30:14Z"
+      "published": "2025-12-18T18:53:33Z"
     }
   ]
 }
