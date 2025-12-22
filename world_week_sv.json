@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-21T07:30:04+00:00",
+  "generated": "2025-12-22T07:31:28+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Donah Faliah såg sin vän dö då Madagaskars president störtades: ”Ge dig inte för…",
+      "title": "Polisen: Bondi-skyttarna övade inför dådet",
+      "summary": "De två misstänkta terroristerna tros också ha gjort en nattlig rekognosceringsresa till Bondi Beach bara några dagar före skjutningen. I oktober spelade de in en video, sittande framför en IS flagga, där de hetsade mot sionister. Samtidigt utlovar Australiens premiärminister Anthony Albanese nya tuffa lagar för att kriminalisera hatpredikande.",
+      "url": "https://svt.se/nyheter/utrikes/misstankta-skyttarna-ska-ha-kastat-hemmagjorda-bomber",
+      "domain": "svt.se",
+      "published": "2025-12-22T06:19:38Z"
+    },
+    {
+      "title": "Ukrainas svenskbyggda stridsbåtar skyddar Odessa",
+      "summary": "Ukrainas viktigaste uppgift är att skydda den så kallade gröna korridoren - det vill säga den för Ukraina livsviktiga exportleden över Svarta havet. Ukraina kunde öppna farleden under sommaren 2023 efter en serie spektakulära framgångar mot Rysslands Svartahavsflotta. Ukrainska drönare och sjöstridsrobotar tvingade den ryska marinen att retirera österut och hotet mot Ukrainas hamnar avtog.",
+      "url": "https://yle.fi/a/7-10090304?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-22T03:30:14Z"
+    },
+    {
+      "title": "Leo tog strid mot Trump",
+      "summary": "Leo Gerdén: Det fanns ett tydligt före och efter Trumps andra mandatperiod som USA: s president. Efter fyra år med Joe Biden på posten kom Trumps valseger 2024 som en chock för många studenter. Presidenten anklagade i synnerhet det anrika Harvard för allt ifrån brister i antagningssystemet och slöseri med resurser till antisemitism.",
+      "url": "https://svt.se/nyheter/utrikes/leo-tog-strid-mot-trump-gjorde-over-100-intervjuer-pa-tva-manader",
+      "domain": "svt.se",
+      "published": "2025-12-21T16:55:10Z"
+    },
+    {
+      "title": "Donah Falia såg sin vän dö då Madagaskars president störtades: ”Ge dig inte förr…",
       "summary": "Mer än hälften av befolkningen är under 25 år och över 75 procent lever i fattigdom. President Andry Rajoelinas prestigeprojekt – den nya linbanan som skulle minska köerna i huvudstaden – kostade en enkel resa runt en euro. Musikern som varnade och fängslades.",
       "url": "https://yle.fi/a/7-10088393?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-21T04:43:24Z"
-    },
-    {
-      "title": "Grisbonden Maria drabbas av EU och Kinas elbilsbråk",
-      "summary": "Flytten ses som ett svar på EU: s tullar på kinesiska elbilar. Men effekten har varit kännbar de senaste månaderna. De kinesiska tullarna blir visserligen kvar i fem år – men på en lägre nivå än de europeiska fläskproducenterna fruktat.",
-      "url": "https://svt.se/nyheter/utrikes/grisbonden-maria-drabbas-av-eu-och-kinas-elbilsbrak",
-      "domain": "svt.se",
-      "published": "2025-12-21T03:03:47Z"
     },
     {
       "title": "Detta vet vi om Epsteindokumenten",
@@ -30,39 +44,11 @@
       "published": "2025-12-20T21:57:07Z"
     },
     {
-      "title": "Fredsveteranen Mary Robinson: ”FN måste sluta leva i 1945",
-      "summary": "Mary Robinson är Irlands första kvinnliga president, fredsmäklare i både Nordirland och Östafrika och högkommissarie för FN. Sedan 2007 är hon medlem i The Elders, det råd som Nelson Mandela startade för att arbeta för global fred och rättvisa. Hon är djupt oroad över att FN idag inte kan uppfylla sin roll.",
-      "url": "https://yle.fi/a/7-10089693?origin=rss",
+      "title": "Zelenskyj: USA öppnar för direkta förhandlingar mellan Ukraina och Ryssland i Mi…",
+      "summary": "USA har föreslagit ett nytt format för fredssamtalen om Ukraina i Miami, säger Ukrainas president Volodymyr Zelenskyj. Det ukrainska ledarskapet kommer att fatta beslut om huruvida man ska acceptera förslaget efter att ha utvärderat nyttan av samtal som fördes med USA i Miami i fredags. Ryssland representeras av president Vladimir Putins särskilda sändebud, Kirill Dmitriev.",
+      "url": "https://yle.fi/a/7-10090397?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-20T04:41:44Z"
-    },
-    {
-      "title": "Putins kritik mot EU: ”Försöker 'stjäla' pengarna",
-      "summary": "Putin säger att Ryssland inte tror att Ukraina är redo för fredssamtal. Han säger att det är upp till Europa och Ukraina att ta nästa steg mot fred. Putin berömmer också USA: s president Donald Trumps försök till fred.",
-      "url": "https://svt.se/nyheter/utrikes/putins-kritik-mot-eu-forsoker-stjala-pengarna",
-      "domain": "svt.se",
-      "published": "2025-12-19T22:46:09Z"
-    },
-    {
-      "title": "Ingen enighet om frysta ryska tillgångar",
-      "summary": "EU lånar 90 miljarder euro mot EU - budgeten för att täcka Ukrainas akuta finansieringsbehov under de kommande två åren. Tjeckien, Ungern och Slovakien beviljades undantag som innebär att lånet inte påverkar deras ekonomiska åtaganden. På bordet fanns också ett förslag om att använda sammanlagt över 200 miljarder i frysta ryska tillgångar för Ukrainastöd.",
-      "url": "https://yle.fi/a/7-10090317?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-19T03:24:42Z"
-    },
-    {
-      "title": "Trump klassar cannabis som mindre farlig drog",
-      "summary": "Hittills har cannabis varit placerad i den farligaste klassen av droger, tillsammans med till exempel heroin och LSD. Nu flyttas cannabis till klass tre, där bland annat ketamin och anabola steroider finns, substanser som anses ha större medicinsk potential. I flera delstater är medicinsk användning av cannabis tillåten, och vissa godkänner också försäljning och användning för nöjesbruk.",
-      "url": "https://yle.fi/a/7-10090314?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-18T21:05:29Z"
-    },
-    {
-      "title": "68 nya Epsteinbilder släpptes",
-      "summary": "Jeffrey Epstein är en av de 68 bilder som demokraterna fick från Epsteins dödsbo förra veckan. Ingen av bilderna visar något olagligt. Epstein har nekat till att göra något brottsligt.",
-      "url": "https://yle.fi/a/7-10090312?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-18T18:53:33Z"
+      "published": "2025-12-20T15:10:05Z"
     }
   ]
 }
