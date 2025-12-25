@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-24T07:22:50+00:00",
-  "total_raw": 19,
+  "generated": "2025-12-25T07:25:32+00:00",
+  "total_raw": 14,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump säger att USA ”måste ha Grönland",
-      "summary": "USA: s president Donald Trump har hållit en presskonferens där han upprepar att USA bör ta över kontrollen av Grönland. Enligt Trump är det en fråga om pengar och militära resurser. Louisianas guvernör Jeff Landry har utsetts till specialsändebud för Grönland.",
-      "url": "https://yle.fi/a/7-10090513?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-23T12:16:44Z"
-    },
-    {
-      "title": "Donald Trump om Grönland: ”Vi måste ha det",
-      "summary": "Med \" han \" avses Jeff Landry, Louisianas mycket konservativa guvernör, som Trump på måndagskvällen svensk tid utsåg till särskilt Grönlandssändebud. Trump och Grönland Presidenten beskriver Landry som en kille som fixar avtal och som kan realisera hans vision om att ta kontroll över Grönland. Utnämningen har väckt stark ilska bland danska ledare och USA: s ambassadör har kallats upp till UD i Köpenhamn.",
-      "url": "https://svt.se/nyheter/utrikes/donald-trump-om-gronland-vi-maste-ha-det",
+      "title": "Ny 20-punktsplan för Ukraina",
+      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
+      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
       "domain": "svt.se",
-      "published": "2025-12-23T07:35:20Z"
+      "published": "2025-12-24T16:30:41Z"
     },
     {
-      "title": "Stora elavbrott efter nattens ryska attacker mot Ukrainas elnätverk",
-      "summary": "Ryssland avfyrade minst 635 attackdrönare och 38 robotar under natten. Omkring 90 procent av dem sköts ned. Minst tre personer dödades i lufträderna.",
-      "url": "https://yle.fi/a/7-10090524?origin=rss",
+      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
+      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
+      "url": "https://yle.fi/a/7-10089121?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-23T14:10:35Z"
+      "published": "2025-12-25T05:21:37Z"
     },
     {
-      "title": "Greta Thunberg gripen i London",
-      "summary": "En 22 - årig kvinna har gripits enligt lagen om terrorism 2000. Hon håller upp ett plakat som uttrycker stöd för de gripna medlemmarna gruppen Palestine Action. På bilder syns Thunberg hålla upp en skylt med texten: \" Jag stöder Palestina Action - fångarna.",
-      "url": "https://svt.se/nyheter/utrikes/greta-thunberg-gripen-i-london-e1lix0",
+      "title": "Förra EU-kommissionären Breton nekas inresa till USA",
+      "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
+      "url": "https://yle.fi/a/7-10090541?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-24T13:49:44Z"
+    },
+    {
+      "title": "I den kinesiska julstaden Yiwu är man redan inriktad på nästa års julpynt",
+      "summary": "I år började exportsäsongen av julpynt och - prylar från kinesiska Yiwu tidigare än normalt. En av orsakerna till att handeln ser annorlunda ut än tidigare är USA: s handelstullar. De amerikanska handelstullarna var som högst uppe i 125 procent i våras, men har sedan dess sjunkit avsevärt i och med att USA och Kina har slutit ett tillfälligt handelsavtal.",
+      "url": "https://yle.fi/a/7-10090514?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-24T08:49:56Z"
+    },
+    {
+      "title": "Flytande hus",
+      "summary": "Nederländernas riksarkitekt Francisco Veenstra säger att det är möjligt att bygga hundratusentals flytande bostäder. Flytande bostäder har varit ett koncept i Nederländerna, vilket följdes upp av enskilda flytande hus. Veensstra ser också fler fördelar med bostadstypen, inte minst i relation till klimatförändringar.",
+      "url": "https://svt.se/nyheter/utrikes/flytande-hus-losning-pa-nederlandsk-bostadsbrist",
       "domain": "svt.se",
-      "published": "2025-12-23T11:34:53Z"
-    },
-    {
-      "title": "Greta Thunberg greps i London enligt terroristlagen",
-      "summary": "Greta Thunberg greps enligt terroristlagen för att ha hållit upp en skylt där det uttrycktes stöd för fångar med kopplingar till Palestine Action. Åtta palestinska aktivister har hungerstrejkat i protest mot att de blivit frihetsberövade utan borgen medan de väntar på rättegång för en rad olika anklagelser relaterade till tidigare protester runt om i landet. I februari 2024 frikändes Thunberg av en domstol i London efter att hon hade vägrat att följa en polisorder att lämna en protest som blockerade ingången till en stor olje - och gasindustrikonferens.",
-      "url": "https://yle.fi/a/7-10090526?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-23T15:37:53Z"
+      "published": "2025-12-25T05:47:52Z"
     }
   ]
 }

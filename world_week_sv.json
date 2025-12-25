@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-24T07:23:42+00:00",
-  "total_raw": 40,
-  "total_rank": 6,
+  "generated": "2025-12-25T07:26:53+00:00",
+  "total_raw": 39,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tre döda i explosion vid polisstation i Moskva",
-      "summary": "Tre personer, varav två ryska poliser, har dött i en explosion nära en polisstation i södra Moskva natten till onsdag. Explosionen inträffade i samband med att de två poliserna närmade sig en man som betedde sig misstänkt. Det har inte specificerats vem mannen var.",
-      "url": "https://yle.fi/a/7-10090536?origin=rss",
+      "title": "Flytande hus",
+      "summary": "Nederländernas riksarkitekt Francisco Veenstra säger att det är möjligt att bygga hundratusentals flytande bostäder. Flytande bostäder har varit ett koncept i Nederländerna, vilket följdes upp av enskilda flytande hus. Veensstra ser också fler fördelar med bostadstypen, inte minst i relation till klimatförändringar.",
+      "url": "https://svt.se/nyheter/utrikes/flytande-hus-losning-pa-nederlandsk-bostadsbrist",
+      "domain": "svt.se",
+      "published": "2025-12-25T05:47:52Z"
+    },
+    {
+      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
+      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
+      "url": "https://yle.fi/a/7-10089121?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-24T07:05:18Z"
+      "published": "2025-12-25T05:21:37Z"
     },
     {
-      "title": "24 december: Nattens nyheter",
-      "summary": "Greta Thunberg greps dagen innan julafton i Köln. Svensk 17 - åring misstänks ha planerat ett kontraktsmord i Tyskland och erbjudit kontraktsmördartjänster via sociala medier. Han greps efter en razzia i Köln efter tips från svensk polis.",
-      "url": "https://svt.se/nyheter/utrikes/24-december-nattens-nyheter-2emblb",
+      "title": "Ny 20-punktsplan för Ukraina",
+      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
+      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
       "domain": "svt.se",
-      "published": "2025-12-24T04:25:04Z"
+      "published": "2025-12-24T16:30:41Z"
     },
     {
-      "title": "Donald Trump om Grönland: ”Vi måste ha det",
-      "summary": "Med \" han \" avses Jeff Landry, Louisianas mycket konservativa guvernör, som Trump på måndagskvällen svensk tid utsåg till särskilt Grönlandssändebud. Trump och Grönland Presidenten beskriver Landry som en kille som fixar avtal och som kan realisera hans vision om att ta kontroll över Grönland. Utnämningen har väckt stark ilska bland danska ledare och USA: s ambassadör har kallats upp till UD i Köpenhamn.",
-      "url": "https://svt.se/nyheter/utrikes/donald-trump-om-gronland-vi-maste-ha-det",
+      "title": "Förra EU-kommissionären Breton nekas inresa till USA",
+      "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
+      "url": "https://yle.fi/a/7-10090541?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-24T13:49:44Z"
+    },
+    {
+      "title": "Greta Thunberg gripen i London",
+      "summary": "En 22 - årig kvinna har gripits enligt lagen om terrorism 2000. Hon håller upp ett plakat som uttrycker stöd för de gripna medlemmarna gruppen Palestine Action. På bilder syns Thunberg hålla upp en skylt med texten: \" Jag stöder Palestina Action - fångarna.",
+      "url": "https://svt.se/nyheter/utrikes/greta-thunberg-gripen-i-london-e1lix0",
       "domain": "svt.se",
-      "published": "2025-12-23T07:35:20Z"
+      "published": "2025-12-23T11:34:53Z"
     },
     {
       "title": "Ukrainska havsdrönare kan bli nytt hot mot skuggtankrar i Östersjön",
@@ -37,11 +51,11 @@
       "published": "2025-12-23T04:27:48Z"
     },
     {
-      "title": "Thailand: Vapenvilan framstressad för Trump",
-      "summary": "Thailand och Kambodja är överens om att hålla nya samtal på onsdag. Striderna har pågått sedan i maj och har inte hållit, sedan dess ingicks två gånger. Sihasak Phuangketkeow betonar att förväntningarna inför de nya samtalen inte är de allra högsta.",
-      "url": "https://svt.se/nyheter/utrikes/thailand-vapenvilan-framstressad-for-trump",
-      "domain": "svt.se",
-      "published": "2025-12-22T16:59:50Z"
+      "title": "Soldatbrist tvingar Ryssland att kräva militärtjänst för uppehållstillstånd",
+      "summary": "Ett nytt dekret kräver att den som ansöker om uppehållstillstånd eller medborgarskap genomgår militärtjänst på minst ett år. Ifjol ansökte 215 000 utlänningar om uppehållstillstånd medan 209 000 personer ville ha medborgarskap. Den absolut största gruppen som ansöker är migranter från de centralasiatiska grannländerna Uzbekistan, Tadzjikistan och Kazakstan.",
+      "url": "https://yle.fi/a/7-10090424?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-22T18:00:23Z"
     },
     {
       "title": "Israel rev bostadshus i östra Jerusalem och vräkte palestinier",

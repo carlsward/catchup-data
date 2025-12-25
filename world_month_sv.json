@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-24T07:24:12+00:00",
-  "total_raw": 40,
-  "total_rank": 3,
+  "generated": "2025-12-25T07:27:39+00:00",
+  "total_raw": 39,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tre döda i explosion vid polisstation i Moskva",
-      "summary": "Tre personer, varav två ryska poliser, har dött i en explosion nära en polisstation i södra Moskva natten till onsdag. Explosionen inträffade i samband med att de två poliserna närmade sig en man som betedde sig misstänkt. Det har inte specificerats vem mannen var.",
-      "url": "https://yle.fi/a/7-10090536?origin=rss",
+      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
+      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
+      "url": "https://yle.fi/a/7-10089121?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-24T07:05:18Z"
+      "published": "2025-12-25T05:21:37Z"
+    },
+    {
+      "title": "Ny 20-punktsplan för Ukraina",
+      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
+      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
+      "domain": "svt.se",
+      "published": "2025-12-24T16:30:41Z"
     },
     {
       "title": "Ukrainska havsdrönare kan bli nytt hot mot skuggtankrar i Östersjön",
