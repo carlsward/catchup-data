@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-25T07:26:53+00:00",
+  "generated": "2025-12-26T07:24:32+00:00",
   "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Flytande hus",
-      "summary": "Nederländernas riksarkitekt Francisco Veenstra säger att det är möjligt att bygga hundratusentals flytande bostäder. Flytande bostäder har varit ett koncept i Nederländerna, vilket följdes upp av enskilda flytande hus. Veensstra ser också fler fördelar med bostadstypen, inte minst i relation till klimatförändringar.",
-      "url": "https://svt.se/nyheter/utrikes/flytande-hus-losning-pa-nederlandsk-bostadsbrist",
+      "title": "Trump: USA har utfört attacker mot IS-mål i Nigeria",
+      "summary": "USA: s president Donald Trump har bekräftat attackerna. Nigerias utrikesministerium har också bekräftat att de riktades mot \" terroristmål \". Attackerna är delvis ett resultat av lobbning från den republikanske senatorn Ted Cruz som tidigare har anklagat Nigeria för massmord på kristna.",
+      "url": "https://yle.fi/a/7-10090556?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-26T06:37:05Z"
+    },
+    {
+      "title": "Trump: Attackerat IS-terrorister i Nigeria",
+      "summary": "Attackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Angreppen utfördes på begäran av nigerianska myndigheter. Trump varnar i samband med anklagelserna att militära åtgärder kan komma att sättas in mot Nigeria.",
+      "url": "https://svt.se/nyheter/utrikes/trump-attackerat-is-terrorister-i-nigeria",
       "domain": "svt.se",
-      "published": "2025-12-25T05:47:52Z"
+      "published": "2025-12-26T00:00:18Z"
+    },
+    {
+      "title": "Thailand och Kambodja i nya samtal om vapenvila",
+      "summary": "Samtalen om vapenvilan inleddes under onsdagen och hölls vid en gränskontroll i den thailändska Chanthaburi - provinsen. Nya attacker under onsdagen kom rapporter om nya sammandrabbningar i regionen. Båda länderna har anklagat varandra för att ha brutit mot det senaste avtalet om vapenvila, som förhandlades fram med hjälp av USA i oktober.",
+      "url": "https://svt.se/nyheter/utrikes/thailand-och-kambodja-i-nya-samtal-om-vapenvila",
+      "domain": "svt.se",
+      "published": "2025-12-25T21:04:36Z"
     },
     {
       "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
@@ -37,32 +51,18 @@
       "published": "2025-12-24T13:49:44Z"
     },
     {
-      "title": "Greta Thunberg gripen i London",
-      "summary": "En 22 - årig kvinna har gripits enligt lagen om terrorism 2000. Hon håller upp ett plakat som uttrycker stöd för de gripna medlemmarna gruppen Palestine Action. På bilder syns Thunberg hålla upp en skylt med texten: \" Jag stöder Palestina Action - fångarna.",
-      "url": "https://svt.se/nyheter/utrikes/greta-thunberg-gripen-i-london-e1lix0",
-      "domain": "svt.se",
-      "published": "2025-12-23T11:34:53Z"
+      "title": "Stora elavbrott efter nattens ryska attacker mot Ukrainas elnätverk",
+      "summary": "Ryssland avfyrade minst 635 attackdrönare och 38 robotar under natten. Omkring 90 procent av dem sköts ned. Minst tre personer dödades i lufträderna.",
+      "url": "https://yle.fi/a/7-10090524?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-23T14:10:35Z"
     },
     {
-      "title": "Ukrainska havsdrönare kan bli nytt hot mot skuggtankrar i Östersjön",
-      "summary": "Ukraina har förstört två landstigningsfartyg, sänkt en korvett och gjort en rysk attackubåt obrukbar i Svarta havet. Till sin hjälp har de egenutvecklade fjärrstyrda havsdrönare, fyllda med sprängmedel. Jarmo Nieminen är tidigare militär och pensionerad chef för Försvarshögskolans krigshistoriska avdelning.",
-      "url": "https://yle.fi/a/7-10090043?origin=rss",
+      "title": "Trump säger att USA ”måste ha Grönland",
+      "summary": "USA: s president Donald Trump har hållit en presskonferens där han upprepar att USA bör ta över kontrollen av Grönland. Enligt Trump är det en fråga om pengar och militära resurser. Louisianas guvernör Jeff Landry har utsetts till specialsändebud för Grönland.",
+      "url": "https://yle.fi/a/7-10090513?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-23T04:27:48Z"
-    },
-    {
-      "title": "Soldatbrist tvingar Ryssland att kräva militärtjänst för uppehållstillstånd",
-      "summary": "Ett nytt dekret kräver att den som ansöker om uppehållstillstånd eller medborgarskap genomgår militärtjänst på minst ett år. Ifjol ansökte 215 000 utlänningar om uppehållstillstånd medan 209 000 personer ville ha medborgarskap. Den absolut största gruppen som ansöker är migranter från de centralasiatiska grannländerna Uzbekistan, Tadzjikistan och Kazakstan.",
-      "url": "https://yle.fi/a/7-10090424?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-22T18:00:23Z"
-    },
-    {
-      "title": "Israel rev bostadshus i östra Jerusalem och vräkte palestinier",
-      "summary": "Israeliska bulldozrar rev på måndagen en fyravåningsbyggnad i östra Jerusalem. Byggnaden hade byggts på privatägd palestinsk mark. Den här byggnaden var den senaste i raden av bostadshus som har demolerats av Israel.",
-      "url": "https://yle.fi/a/7-10090474?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-22T15:04:44Z"
+      "published": "2025-12-23T12:16:44Z"
     }
   ]
 }

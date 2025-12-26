@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-25T07:27:39+00:00",
+  "generated": "2025-12-26T07:25:13+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump: Attackerat IS-terrorister i Nigeria",
+      "summary": "Attackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Angreppen utfördes på begäran av nigerianska myndigheter. Trump varnar i samband med anklagelserna att militära åtgärder kan komma att sättas in mot Nigeria.",
+      "url": "https://svt.se/nyheter/utrikes/trump-attackerat-is-terrorister-i-nigeria",
+      "domain": "svt.se",
+      "published": "2025-12-26T00:00:18Z"
+    },
     {
       "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
       "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
@@ -23,18 +30,11 @@
       "published": "2025-12-24T16:30:41Z"
     },
     {
-      "title": "Ukrainska havsdrönare kan bli nytt hot mot skuggtankrar i Östersjön",
-      "summary": "Ukraina har förstört två landstigningsfartyg, sänkt en korvett och gjort en rysk attackubåt obrukbar i Svarta havet. Till sin hjälp har de egenutvecklade fjärrstyrda havsdrönare, fyllda med sprängmedel. Jarmo Nieminen är tidigare militär och pensionerad chef för Försvarshögskolans krigshistoriska avdelning.",
-      "url": "https://yle.fi/a/7-10090043?origin=rss",
+      "title": "Trump säger att USA ”måste ha Grönland",
+      "summary": "USA: s president Donald Trump har hållit en presskonferens där han upprepar att USA bör ta över kontrollen av Grönland. Enligt Trump är det en fråga om pengar och militära resurser. Louisianas guvernör Jeff Landry har utsetts till specialsändebud för Grönland.",
+      "url": "https://yle.fi/a/7-10090513?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-23T04:27:48Z"
-    },
-    {
-      "title": "Israel rev bostadshus i östra Jerusalem och vräkte palestinier",
-      "summary": "Israeliska bulldozrar rev på måndagen en fyravåningsbyggnad i östra Jerusalem. Byggnaden hade byggts på privatägd palestinsk mark. Den här byggnaden var den senaste i raden av bostadshus som har demolerats av Israel.",
-      "url": "https://yle.fi/a/7-10090474?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-22T15:04:44Z"
+      "published": "2025-12-23T12:16:44Z"
     }
   ]
 }

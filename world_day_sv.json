@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-25T07:25:32+00:00",
-  "total_raw": 14,
+  "generated": "2025-12-26T07:23:19+00:00",
+  "total_raw": 20,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ny 20-punktsplan för Ukraina",
-      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
-      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
+      "title": "Kaliforniens julstorm värre än vanligt: Tim Needham såg sina grannar räddas från…",
+      "summary": "Översvämningsvarning råder i så gott som hela Kalifornien under juldagen. Även för fredag, annandag jul, har varningar utfärdats. I San Bernardino strax öster om storstaden Los Angeles vaknade Tim Needham på julaftonen till att det fanns ett nytt vattendrag på hans tomt.",
+      "url": "https://yle.fi/a/7-10090551?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-25T16:00:14Z"
+    },
+    {
+      "title": "Mette-Marit om åtalet mot sonen Marius: ”Det här fallet måste behandlas i rätten",
+      "summary": "Kronprins Haakon och kronprinsessan Mette - Marit säger att de inte har önskat lägga sig i rättsprocessen. Kronprins Borg Høiby åtalas för totalt 32 brott, inklusive fyra våldtäkter, misshandel i en nära relation, andra våldsbrott, dödshot samt flera trafikförseelser. Han tror inte att det går att förbereda sig på rättegången.",
+      "url": "https://yle.fi/a/7-10090555?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-25T19:55:14Z"
+    },
+    {
+      "title": "Thailand och Kambodja i nya samtal om vapenvila",
+      "summary": "Samtalen om vapenvilan inleddes under onsdagen och hölls vid en gränskontroll i den thailändska Chanthaburi - provinsen. Nya attacker under onsdagen kom rapporter om nya sammandrabbningar i regionen. Båda länderna har anklagat varandra för att ha brutit mot det senaste avtalet om vapenvila, som förhandlades fram med hjälp av USA i oktober.",
+      "url": "https://svt.se/nyheter/utrikes/thailand-och-kambodja-i-nya-samtal-om-vapenvila",
       "domain": "svt.se",
-      "published": "2025-12-24T16:30:41Z"
+      "published": "2025-12-25T21:04:36Z"
     },
     {
-      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
-      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
-      "url": "https://yle.fi/a/7-10089121?origin=rss",
+      "title": "Påven: ”Låt oss be för dem som mist allt i Gaza och de torterade i Ukraina",
+      "summary": "Tusentals åskådare hade som vanligt samlats på Peterskyrkans balkong för att höra påvens tal på juldagen. I sin julhälsning upprepade han sin önskan om att få slut på alla världens krig och betonade julens roll som fredens fest. Han nämnde specifikt alla dem i Gaza som mist allt, och också dem som utsätts för tortyr i Ukraina.",
+      "url": "https://yle.fi/a/7-10090548?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-25T05:21:37Z"
+      "published": "2025-12-25T10:48:40Z"
     },
     {
-      "title": "Förra EU-kommissionären Breton nekas inresa till USA",
-      "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
-      "url": "https://yle.fi/a/7-10090541?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-24T13:49:44Z"
-    },
-    {
-      "title": "I den kinesiska julstaden Yiwu är man redan inriktad på nästa års julpynt",
-      "summary": "I år började exportsäsongen av julpynt och - prylar från kinesiska Yiwu tidigare än normalt. En av orsakerna till att handeln ser annorlunda ut än tidigare är USA: s handelstullar. De amerikanska handelstullarna var som högst uppe i 125 procent i våras, men har sedan dess sjunkit avsevärt i och med att USA och Kina har slutit ett tillfälligt handelsavtal.",
-      "url": "https://yle.fi/a/7-10090514?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-24T08:49:56Z"
-    },
-    {
-      "title": "Flytande hus",
-      "summary": "Nederländernas riksarkitekt Francisco Veenstra säger att det är möjligt att bygga hundratusentals flytande bostäder. Flytande bostäder har varit ett koncept i Nederländerna, vilket följdes upp av enskilda flytande hus. Veensstra ser också fler fördelar med bostadstypen, inte minst i relation till klimatförändringar.",
-      "url": "https://svt.se/nyheter/utrikes/flytande-hus-losning-pa-nederlandsk-bostadsbrist",
+      "title": "Tre döda i oväder i Kalifornien",
+      "summary": "Mer än 165 000 hushåll utan ström efter ett strömavbrott orsakat av stormen. Det rör sig om en atmosfärisk flod som sveper över södra delarna av delstaten. Delar av Los Angeles drabbades av nära 30 centimeter nederbörd under ovädrets första dygn.",
+      "url": "https://svt.se/nyheter/utrikes/tre-doda-i-ovader-i-kalifornien-kyxk7t",
       "domain": "svt.se",
-      "published": "2025-12-25T05:47:52Z"
+      "published": "2025-12-25T10:55:29Z"
     }
   ]
 }
