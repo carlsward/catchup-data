@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-26T07:25:13+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-27T07:23:05+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Jasmin Santanen designar hållbart mode i Paris: ”Jag vill inte överproducera",
+      "summary": "Modeindustrin är en klimatbov, som förbrukar stora mängder vatten, kemikalier och energi till att tillverka kläder. En rad passionerade designer väljer nu att göra kläder med hänsyn till planeten. En av dem är finländska Jasmin Santanen, som lanserade sin första kollektion i Paris för nästan tjugo år sedan.",
+      "url": "https://yle.fi/a/7-10089893?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-27T04:35:14Z"
+    },
+    {
       "title": "Trump: Attackerat IS-terrorister i Nigeria",
-      "summary": "Attackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Angreppen utfördes på begäran av nigerianska myndigheter. Trump varnar i samband med anklagelserna att militära åtgärder kan komma att sättas in mot Nigeria.",
+      "summary": "Flygattackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Nigerias utrikesminister Yusuf Maitama Tuggar säger att det var en \" gemensam operation \" riktad mot \" terrorister \" Tuggar sade att operationen hade planerats \" under en längre tid \" och hade använt underrättelseinformation från den nigerianska sidan. I samband med anklagelserna varnade Trump att militära åtgärder kunde sättas in mot Nigeria.",
       "url": "https://svt.se/nyheter/utrikes/trump-attackerat-is-terrorister-i-nigeria",
       "domain": "svt.se",
       "published": "2025-12-26T00:00:18Z"
@@ -23,18 +30,11 @@
       "published": "2025-12-25T05:21:37Z"
     },
     {
-      "title": "Ny 20-punktsplan för Ukraina",
-      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
-      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
-      "domain": "svt.se",
-      "published": "2025-12-24T16:30:41Z"
-    },
-    {
-      "title": "Trump säger att USA ”måste ha Grönland",
-      "summary": "USA: s president Donald Trump har hållit en presskonferens där han upprepar att USA bör ta över kontrollen av Grönland. Enligt Trump är det en fråga om pengar och militära resurser. Louisianas guvernör Jeff Landry har utsetts till specialsändebud för Grönland.",
-      "url": "https://yle.fi/a/7-10090513?origin=rss",
+      "title": "Förra EU-kommissionären Breton nekas inresa till USA",
+      "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
+      "url": "https://yle.fi/a/7-10090541?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-23T12:16:44Z"
+      "published": "2025-12-24T13:49:44Z"
     }
   ]
 }

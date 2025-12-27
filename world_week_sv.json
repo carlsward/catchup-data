@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-26T07:24:32+00:00",
-  "total_raw": 39,
+  "generated": "2025-12-27T07:22:26+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump: USA har utfört attacker mot IS-mål i Nigeria",
-      "summary": "USA: s president Donald Trump har bekräftat attackerna. Nigerias utrikesministerium har också bekräftat att de riktades mot \" terroristmål \". Attackerna är delvis ett resultat av lobbning från den republikanske senatorn Ted Cruz som tidigare har anklagat Nigeria för massmord på kristna.",
-      "url": "https://yle.fi/a/7-10090556?origin=rss",
+      "title": "Jasmin Santanen designar hållbart mode i Paris: ”Jag vill inte överproducera",
+      "summary": "Modeindustrin är en klimatbov, som förbrukar stora mängder vatten, kemikalier och energi till att tillverka kläder. En rad passionerade designer väljer nu att göra kläder med hänsyn till planeten. En av dem är finländska Jasmin Santanen, som lanserade sin första kollektion i Paris för nästan tjugo år sedan.",
+      "url": "https://yle.fi/a/7-10089893?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-26T06:37:05Z"
+      "published": "2025-12-27T04:35:14Z"
+    },
+    {
+      "title": "Undantagstillstånd utlyst i New York",
+      "summary": "Stormen förväntas orsaka \" betydande snöfall, starka vindar och minusgrader \" Omkring 40 miljoner bor i snöovädrets farozon, enligt AFP. 1 500 flyg har ställts in i nordöstra USA. Vädervarningarna sträcker sig dock utanför New Yorks gränser, med 40 miljoner människor som lever i farozonen.",
+      "url": "https://svt.se/nyheter/utrikes/new-york-utlyser-undantagstillstand",
+      "domain": "svt.se",
+      "published": "2025-12-26T23:36:58Z"
+    },
+    {
+      "title": "Zelenskyj och Trump ska träffas igen",
+      "summary": "Ukrainas president Volodymyr Zelenskyj och USA: s president Donald Trump har kommit överens om att träffas på nytt på söndag för att diskutera den amerikanska fredsplanen. Beskedet kommer efter Zelenskj hade ett nästan en timme långt telefonsamtal med de amerikanska sändebuden Steve Witkoff och Jared Kushner på torsdag. Trump backar lite och säger att han tror att det kommer att gå bra med Zelenskij – och med Rysslands president Vladimir Putin.",
+      "url": "https://yle.fi/a/7-10090561?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-26T12:39:47Z"
     },
     {
       "title": "Trump: Attackerat IS-terrorister i Nigeria",
-      "summary": "Attackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Angreppen utfördes på begäran av nigerianska myndigheter. Trump varnar i samband med anklagelserna att militära åtgärder kan komma att sättas in mot Nigeria.",
+      "summary": "Flygattackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Nigerias utrikesminister Yusuf Maitama Tuggar säger att det var en \" gemensam operation \" riktad mot \" terrorister \" Tuggar sade att operationen hade planerats \" under en längre tid \" och hade använt underrättelseinformation från den nigerianska sidan. I samband med anklagelserna varnade Trump att militära åtgärder kunde sättas in mot Nigeria.",
       "url": "https://svt.se/nyheter/utrikes/trump-attackerat-is-terrorister-i-nigeria",
       "domain": "svt.se",
       "published": "2025-12-26T00:00:18Z"
     },
     {
       "title": "Thailand och Kambodja i nya samtal om vapenvila",
-      "summary": "Samtalen om vapenvilan inleddes under onsdagen och hölls vid en gränskontroll i den thailändska Chanthaburi - provinsen. Nya attacker under onsdagen kom rapporter om nya sammandrabbningar i regionen. Båda länderna har anklagat varandra för att ha brutit mot det senaste avtalet om vapenvila, som förhandlades fram med hjälp av USA i oktober.",
+      "summary": "Thailands premiärminister Charnvirakul insisterar på att Thailand inte kan retirera från områden som landet säkrat. Samtalen om vapenvilan, som inleddes under onsdagen och hålls vid en gränskontroll i den thailändska Chanthaburi - provinsen, förväntas pågå fram till och med lördag. Kambodjas försvarsdepartement anklagade Thailand för att använda stridsflygplan för att bomba Banteay Meanchey - provinsen i gränsregionen och beskrev handlingarna som \" brutala \" och urskillningslösa.",
       "url": "https://svt.se/nyheter/utrikes/thailand-och-kambodja-i-nya-samtal-om-vapenvila",
       "domain": "svt.se",
       "published": "2025-12-25T21:04:36Z"
@@ -37,13 +51,6 @@
       "published": "2025-12-25T05:21:37Z"
     },
     {
-      "title": "Ny 20-punktsplan för Ukraina",
-      "summary": "På onsdagen offentliggjordes ett nytt utkast till ett fredsavtal som framförts av Ukraina och USA. Enligt Ukrainas president Volodymyr Zelenskyj förväntas ett ryskt svar under dagen. Den senaste fredsplanen innebär bland annat att dagens frontlinjer fryses och demilitariserade zoner införs.",
-      "url": "https://svt.se/nyheter/utrikes/ny-20-punktsplan-for-ukraina-inga-tecken-pa-nara-fred",
-      "domain": "svt.se",
-      "published": "2025-12-24T16:30:41Z"
-    },
-    {
       "title": "Förra EU-kommissionären Breton nekas inresa till USA",
       "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
       "url": "https://yle.fi/a/7-10090541?origin=rss",
@@ -51,18 +58,11 @@
       "published": "2025-12-24T13:49:44Z"
     },
     {
-      "title": "Stora elavbrott efter nattens ryska attacker mot Ukrainas elnätverk",
-      "summary": "Ryssland avfyrade minst 635 attackdrönare och 38 robotar under natten. Omkring 90 procent av dem sköts ned. Minst tre personer dödades i lufträderna.",
-      "url": "https://yle.fi/a/7-10090524?origin=rss",
+      "title": "Zelenskyj har offentliggjort detaljer om fredsplanen",
+      "summary": "Ukrainas president Volodymyr Zelenskyj har offentliggjort detaljer i den nya 20 punkter långa fredsplanen för Ukraina och Ryssland. Den nya planen har också godkänts av USA och ska skickas till Moskva. Om samtliga parter godkänner planen skulle det innebära ett direkt eldupphör i kriget.",
+      "url": "https://yle.fi/a/7-10090539?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-23T14:10:35Z"
-    },
-    {
-      "title": "Trump säger att USA ”måste ha Grönland",
-      "summary": "USA: s president Donald Trump har hållit en presskonferens där han upprepar att USA bör ta över kontrollen av Grönland. Enligt Trump är det en fråga om pengar och militära resurser. Louisianas guvernör Jeff Landry har utsetts till specialsändebud för Grönland.",
-      "url": "https://yle.fi/a/7-10090513?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-23T12:16:44Z"
+      "published": "2025-12-24T09:59:09Z"
     }
   ]
 }
