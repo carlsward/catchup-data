@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-27T07:23:05+00:00",
+  "generated": "2025-12-28T07:38:20+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Jasmin Santanen designar hållbart mode i Paris: ”Jag vill inte överproducera",
-      "summary": "Modeindustrin är en klimatbov, som förbrukar stora mängder vatten, kemikalier och energi till att tillverka kläder. En rad passionerade designer väljer nu att göra kläder med hänsyn till planeten. En av dem är finländska Jasmin Santanen, som lanserade sin första kollektion i Paris för nästan tjugo år sedan.",
-      "url": "https://yle.fi/a/7-10089893?origin=rss",
+      "title": "Myanmar går till val",
+      "summary": "Militärjuntan tog makten i Myanmar i februari 2021 efter att Aung San Suu Kyi vann valet 2020. Den numera 80 - åriga oppositionsledaren hindrades därmed från att tillträda en andra mandatperiod, och avtjänar just nu ett 27 - årigt fängelsestraff som av många anses vara politiskt motiverat. Statskuppen ledde till ett inbördeskrig, vilket orsakade tusentals civila dödsfall, arresteringar och lämnade miljoner människor på flykt, enligt FN.",
+      "url": "https://svt.se/nyheter/utrikes/myanmar-gar-till-val-forsta-pa-fem-ar",
+      "domain": "svt.se",
+      "published": "2025-12-28T00:27:50Z"
+    },
+    {
+      "title": "Terrorgruppen IS har överlevt och blivit ett ”varumärke",
+      "summary": "Australiens premiärminister säger att det är \" mycket tydligt att detta var en IS - inspirerad attack \" IS har sedan 2019 återuppfunnit sig som en internationell terroristorganisation som förlitar sig på mindre terrorceller, propaganda, stöd och ideologisk vägledning åt andra lokala terrorgrupper i olika delar av världen. Experter är oeniga om hur centralt styrd organisationen är idag. IS Khorasan ( IS - K ) bas i Afghanistan, till mot mål i Iran, Ryssland, Turkiet och Pakistan.",
+      "url": "https://yle.fi/a/7-10090293?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-27T04:35:14Z"
+      "published": "2025-12-27T11:16:58Z"
     },
     {
       "title": "Trump: Attackerat IS-terrorister i Nigeria",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10089121?origin=rss",
       "domain": "yle.fi",
       "published": "2025-12-25T05:21:37Z"
-    },
-    {
-      "title": "Förra EU-kommissionären Breton nekas inresa till USA",
-      "summary": "Fem EU - kommissionärer har fått veta att de inte får visum till USA. Bland dem finns en av upphovsmännen till EU: s förordning om digitala tjänster ( DSA ), Thierry Breton. EU har starkt fördömt det amerikanska agerandet och att Bryssel kan komma att \" svara snabbt och beslutsamt \" mot de \" oberättigade åtgärderna.",
-      "url": "https://yle.fi/a/7-10090541?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-24T13:49:44Z"
     }
   ]
 }
