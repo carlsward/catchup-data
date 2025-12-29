@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-28T07:37:40+00:00",
+  "generated": "2025-12-29T07:38:33+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Lavrov: Ryssland motsätter sig Taiwans självständighet",
-      "summary": "Ryssland erkänner Taiwan som en oupplöslig del av Kina och motsätter sig öns självständighet i alla former. Utrikesminister Lavrov beskrev också att Japan har gett sig ut på en \" militariseringens väg \" Uttalandet har ökat spänningarna mellan Japan och Kina. Ministern uppmanade Japan att noga överväga innan det fattar några förhastade beslut.",
-      "url": "https://yle.fi/a/7-10090592?origin=rss",
+      "title": "Inga större genombrott i Ukrainaförhandlingarna",
+      "summary": "Mötet mellan USA: s president Donald Trump och Ukrainas president Volodymyr Zelenskyj avslutades utan några större genombrott. Trump har tidigare varit uppenbart frustrerad över att kriget är svårare att avsluta än han ursprungligen hade tänkt sig, och han har också tagit avstånd från processen. Det är svårt att tro att Vladimir Putin skulle gå med på den senaste versionen av fredsplanen, men han har inte ändrat sin ståndpunkt.",
+      "url": "https://yle.fi/a/7-10090605?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-28T07:12:08Z"
+      "published": "2025-12-29T03:26:22Z"
+    },
+    {
+      "title": "Bert Sundström om mötet mellan Zelenskyj och Trump: ”Inte så konkret",
+      "summary": "Donald Trump och Volodymyr Zelenskyj är överens om att ett fredsavtal för Ukrainakriget är nära. Men det återstår frågor, som till exempel hur det blir med säkerhetsgarantier för Ukraina. Fler frågetecken uppstår när det kommer till andra viktiga delar i den 20 - punktsplan som presidenterna hoppas på att leda till fred, såsom återuppbyggnad, vapenvila och territorium.",
+      "url": "https://svt.se/nyheter/utrikes/bert-sundstrom-om-motet-mellan-trump-och-zelenskyj-inte-sa-varst-konkret",
+      "domain": "svt.se",
+      "published": "2025-12-29T00:06:37Z"
+    },
+    {
+      "title": "Iranexpert: Kärnprogrammet handlar om överlevnad, inte religiös ideologi",
+      "summary": "Iran är övertygat om att landet kämpar för sin självständighet, säger Iranexperten Vali Nasr. Nasr säger att väst ofta misstolkar vad som driver regimen i Iran. Irans kärnenergiprogram har främst fungerat som en förhandlingsbricka för att tvinga väst till förhandlingsbordet.",
+      "url": "https://yle.fi/a/7-10087558?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-28T10:42:37Z"
     },
     {
       "title": "Myanmar går till val",
@@ -58,11 +72,11 @@
       "published": "2025-12-25T21:04:36Z"
     },
     {
-      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
-      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
-      "url": "https://yle.fi/a/7-10089121?origin=rss",
+      "title": "Mette-Marit om åtalet mot sonen Marius: ”Det här fallet måste behandlas i rätten",
+      "summary": "Kronprins Haakon och kronprinsessan Mette - Marit säger att de inte har önskat lägga sig i rättsprocessen. Kronprins Borg Høiby åtalas för totalt 32 brott, inklusive fyra våldtäkter, misshandel i en nära relation, andra våldsbrott, dödshot samt flera trafikförseelser. Han tror inte att det går att förbereda sig på rättegången.",
+      "url": "https://yle.fi/a/7-10090555?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-25T05:21:37Z"
+      "published": "2025-12-25T19:55:14Z"
     }
   ]
 }

@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-28T07:38:20+00:00",
+  "generated": "2025-12-29T07:39:24+00:00",
   "total_raw": 40,
-  "total_rank": 4,
+  "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Myanmar går till val",
-      "summary": "Militärjuntan tog makten i Myanmar i februari 2021 efter att Aung San Suu Kyi vann valet 2020. Den numera 80 - åriga oppositionsledaren hindrades därmed från att tillträda en andra mandatperiod, och avtjänar just nu ett 27 - årigt fängelsestraff som av många anses vara politiskt motiverat. Statskuppen ledde till ett inbördeskrig, vilket orsakade tusentals civila dödsfall, arresteringar och lämnade miljoner människor på flykt, enligt FN.",
-      "url": "https://svt.se/nyheter/utrikes/myanmar-gar-till-val-forsta-pa-fem-ar",
-      "domain": "svt.se",
-      "published": "2025-12-28T00:27:50Z"
+      "title": "Inga större genombrott i Ukrainaförhandlingarna",
+      "summary": "Mötet mellan USA: s president Donald Trump och Ukrainas president Volodymyr Zelenskyj avslutades utan några större genombrott. Trump har tidigare varit uppenbart frustrerad över att kriget är svårare att avsluta än han ursprungligen hade tänkt sig, och han har också tagit avstånd från processen. Det är svårt att tro att Vladimir Putin skulle gå med på den senaste versionen av fredsplanen, men han har inte ändrat sin ståndpunkt.",
+      "url": "https://yle.fi/a/7-10090605?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-29T03:26:22Z"
+    },
+    {
+      "title": "Iranexpert: Kärnprogrammet handlar om överlevnad, inte religiös ideologi",
+      "summary": "Iran är övertygat om att landet kämpar för sin självständighet, säger Iranexperten Vali Nasr. Nasr säger att väst ofta misstolkar vad som driver regimen i Iran. Irans kärnenergiprogram har främst fungerat som en förhandlingsbricka för att tvinga väst till förhandlingsbordet.",
+      "url": "https://yle.fi/a/7-10087558?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-28T10:42:37Z"
     },
     {
       "title": "Terrorgruppen IS har överlevt och blivit ett ”varumärke",
@@ -30,11 +37,11 @@
       "published": "2025-12-26T00:00:18Z"
     },
     {
-      "title": "Demokraterna har röjts ur vägen i Hongkong men det skrämmer inte finländska före…",
-      "summary": "Finländska företag är inte oroade Timo Kantola säger att också antalet finländska företag har ökat en aning. När säkerhetslagarna trädde i kraft lämnade några finländska företag Hongkong, men de har ersatts av andra investerare från Finland. Kantola konstaterar att det gäller för samtliga EU - länder som har öppnat generalkonsulat i Hongkong.",
-      "url": "https://yle.fi/a/7-10089121?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-25T05:21:37Z"
+      "title": "Thailand och Kambodja i nya samtal om vapenvila",
+      "summary": "Thailands premiärminister Charnvirakul insisterar på att Thailand inte kan retirera från områden som landet säkrat. Samtalen om vapenvilan, som inleddes under onsdagen och hålls vid en gränskontroll i den thailändska Chanthaburi - provinsen, förväntas pågå fram till och med lördag. Kambodjas försvarsdepartement anklagade Thailand för att använda stridsflygplan för att bomba Banteay Meanchey - provinsen i gränsregionen och beskrev handlingarna som \" brutala \" och urskillningslösa.",
+      "url": "https://svt.se/nyheter/utrikes/thailand-och-kambodja-i-nya-samtal-om-vapenvila",
+      "domain": "svt.se",
+      "published": "2025-12-25T21:04:36Z"
     }
   ]
 }

@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-28T07:36:30+00:00",
-  "total_raw": 8,
+  "generated": "2025-12-29T07:37:01+00:00",
+  "total_raw": 13,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Terrorgruppen IS har överlevt och blivit ett ”varumärke",
-      "summary": "Australiens premiärminister säger att det är \" mycket tydligt att detta var en IS - inspirerad attack \" IS har sedan 2019 återuppfunnit sig som en internationell terroristorganisation som förlitar sig på mindre terrorceller, propaganda, stöd och ideologisk vägledning åt andra lokala terrorgrupper i olika delar av världen. Experter är oeniga om hur centralt styrd organisationen är idag. IS Khorasan ( IS - K ) bas i Afghanistan, till mot mål i Iran, Ryssland, Turkiet och Pakistan.",
-      "url": "https://yle.fi/a/7-10090293?origin=rss",
+      "title": "Iranexpert: Kärnprogrammet handlar om överlevnad, inte religiös ideologi",
+      "summary": "Iran är övertygat om att landet kämpar för sin självständighet, säger Iranexperten Vali Nasr. Nasr säger att väst ofta misstolkar vad som driver regimen i Iran. Irans kärnenergiprogram har främst fungerat som en förhandlingsbricka för att tvinga väst till förhandlingsbordet.",
+      "url": "https://yle.fi/a/7-10087558?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-27T11:16:58Z"
+      "published": "2025-12-28T10:42:37Z"
     },
     {
-      "title": "Texas nya valdistrikt väcker ilska bland svarta",
-      "summary": "En tredjedel av invånarna i Fort Worth lever under fattigdomsgränsen. De nya kartorna anses gynna Republikanerna och därför minoriteterna i området upplever att deras röster inte längre räknas. Processen med att rita om valdistrikten kallas för gerrymandering.",
-      "url": "https://yle.fi/a/7-10089888?origin=rss",
+      "title": "Inga större genombrott i Ukrainaförhandlingarna",
+      "summary": "Mötet mellan USA: s president Donald Trump och Ukrainas president Volodymyr Zelenskyj avslutades utan några större genombrott. Trump har tidigare varit uppenbart frustrerad över att kriget är svårare att avsluta än han ursprungligen hade tänkt sig, och han har också tagit avstånd från processen. Det är svårt att tro att Vladimir Putin skulle gå med på den senaste versionen av fredsplanen, men han har inte ändrat sin ståndpunkt.",
+      "url": "https://yle.fi/a/7-10090605?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-27T16:30:10Z"
+      "published": "2025-12-29T03:26:22Z"
     },
     {
-      "title": "Myanmar går till val",
-      "summary": "Militärjuntan tog makten i Myanmar i februari 2021 efter att Aung San Suu Kyi vann valet 2020. Den numera 80 - åriga oppositionsledaren hindrades därmed från att tillträda en andra mandatperiod, och avtjänar just nu ett 27 - årigt fängelsestraff som av många anses vara politiskt motiverat. Statskuppen ledde till ett inbördeskrig, vilket orsakade tusentals civila dödsfall, arresteringar och lämnade miljoner människor på flykt, enligt FN.",
-      "url": "https://svt.se/nyheter/utrikes/myanmar-gar-till-val-forsta-pa-fem-ar",
+      "title": "Kina inleder en stor militärövning runt Taiwan",
+      "summary": "Kinesisk militär har satt in stridsflygplan, bombplan, obemannade luftfarkoster och långdistansraketer för att öva på att träffa mobila landbaserade mål. Meddelandet mötte snabba fördömanden från Taiwan. Detta är den sjätte kinesiska storövningen kring Taiwan sedan Nancy Pelosi besökte Taiwan 2022.",
+      "url": "https://yle.fi/a/7-10090607?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-29T05:05:02Z"
+    },
+    {
+      "title": "Zelenskyj och Trump i möte",
+      "summary": "Putin kräver att få Donbas, och det förstås inte Zelenskyj är rimligt, säger han. Presidenterna kommer att hålla telefonsamtal med europeiska ledare i samband med mötet. Den 20 - punkts fredsplan för Ukraina har omarbetats för att komma närmare Ukrainas krav.",
+      "url": "https://svt.se/nyheter/utrikes/zelenskyj-och-trump-i-samtal-ska-diskutera-fredsplan",
       "domain": "svt.se",
-      "published": "2025-12-28T00:27:50Z"
+      "published": "2025-12-28T17:38:29Z"
     },
     {
-      "title": "170 000 utan el i Finland",
-      "summary": "Ett passagerarplan med cirka 150 personer ombord, samt ett mindre plan med färre än tio personer, kanat sidledes av banan i den hårda vinden och in i snövallen. Stormen Johannes Avåkningarna skedde i låg hastighet och ingen uppges ha skadats. All flygtrafik till Kittilä, Rovaniemi och Ivalo i Lappland stoppades tillfälligt under kvällen.",
-      "url": "https://svt.se/nyheter/utrikes/80-000-utan-el-i-finland-plan-blaste-av-banan",
+      "title": "Trump och Zelenskyj höll pressträff efter möte i Florida",
+      "summary": "Vid 19. 30 svensk tid anlände Zelenskyj till Trumps Mar - a - Lago för att diskutera den fredsplan som togs fram av Ukraina tillsammans med europeiska ledare. En stor fråga inför mötet var amerikanska säkerhetsgarantier för Ukraina.",
+      "url": "https://svt.se/nyheter/utrikes/trump-och-zelenskyj-haller-presstraff-efter-mote-i-florida",
       "domain": "svt.se",
-      "published": "2025-12-27T19:11:06Z"
-    },
-    {
-      "title": "Ny korruptionshärva i Ukraina",
-      "summary": "Antikorruptionsbyråns detektiver försökte göra en razzia i parlamentet men hindrades av parlamentets säkerhetsvakter. Sedan tidigare pågår en bred utredning om korruption i energisektorn. Utredningarna tvingade nyligen president Volodymyr Zelenskyjs kanslichef Andrij Jermak att avgå.",
-      "url": "https://yle.fi/a/7-10090583?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-27T13:52:59Z"
+      "published": "2025-12-28T21:44:09Z"
     }
   ]
 }
