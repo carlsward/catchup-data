@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-29T07:38:33+00:00",
+  "generated": "2025-12-30T07:27:01+00:00",
   "total_raw": 40,
-  "total_rank": 10,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Inga större genombrott i Ukrainaförhandlingarna",
-      "summary": "Mötet mellan USA: s president Donald Trump och Ukrainas president Volodymyr Zelenskyj avslutades utan några större genombrott. Trump har tidigare varit uppenbart frustrerad över att kriget är svårare att avsluta än han ursprungligen hade tänkt sig, och han har också tagit avstånd från processen. Det är svårt att tro att Vladimir Putin skulle gå med på den senaste versionen av fredsplanen, men han har inte ändrat sin ståndpunkt.",
-      "url": "https://yle.fi/a/7-10090605?origin=rss",
+      "title": "Trump och Netanyahu utbytte smicker och visade enad front",
+      "summary": "Donald Trump och Benjamin Netanyahu utbytte många komplimanger och mycket smicker under presskonferenserna både före och efter sitt besök i Florida. Trump sa att han talade med Israels president Isaac Herzog, som hade lovat att benåda den korrupta israeliska presidenten. Netanyahus besök fortsätter fortfarande i ett par dagar och kommentatorer utesluter inte att det sker en del påtryckningar bakom kulisserna.",
+      "url": "https://yle.fi/a/7-10090653?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-29T03:26:22Z"
+      "published": "2025-12-30T05:16:17Z"
     },
     {
-      "title": "Bert Sundström om mötet mellan Zelenskyj och Trump: ”Inte så konkret",
-      "summary": "Donald Trump och Volodymyr Zelenskyj är överens om att ett fredsavtal för Ukrainakriget är nära. Men det återstår frågor, som till exempel hur det blir med säkerhetsgarantier för Ukraina. Fler frågetecken uppstår när det kommer till andra viktiga delar i den 20 - punktsplan som presidenterna hoppas på att leda till fred, såsom återuppbyggnad, vapenvila och territorium.",
-      "url": "https://svt.se/nyheter/utrikes/bert-sundstrom-om-motet-mellan-trump-och-zelenskyj-inte-sa-varst-konkret",
+      "title": "Uppgifter: CIA har attackerat hamn i Venezuela",
+      "summary": "Attacken ska ha riktats mot en avlägsen kaj som USA misstänkte användes av den kriminella organisationen Tren de Aragua för att lagra narkotika och skeppa den vidare med båt. Inga personer befann sig på platsen vid tillfället och inga dödsoffer rapporterades, enligt källorna. Amerikanska specialförband ska ha bistått underrättelser om operationen mot Venezuela, sade källorna.",
+      "url": "https://svt.se/nyheter/utrikes/uppgifter-cia-har-attackerat-hamn-i-venezuela",
       "domain": "svt.se",
-      "published": "2025-12-29T00:06:37Z"
+      "published": "2025-12-30T02:33:16Z"
+    },
+    {
+      "title": "Får man göra så här med Elisabeth Rehns berättelse?",
+      "summary": "Uppdrag Balkan blandar intervjuer med Elisabeth Rehn med dramatiserade scener där hon spelas av Alma Pöysti. Genren kallas true fiction och väcker frågor om sanning och berättande. Producenten Marina Meinander förtydligar att scenerna är skrivna utgående från situationer Rehn berättat om i intervjuer.",
+      "url": "https://yle.fi/a/7-10090171?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-29T08:57:54Z"
+    },
+    {
+      "title": "Kina övar runt Taiwan: ”En varning",
+      "summary": "De kinesiska styrkorna utförde simulerade attacker mot land - och sjömål, rapporterar Reuters. Peking säger att övningarna kommer att fortsätta under tisdagen. Taiwans president Lai Ching - Tes kallar övningarna en \" militär skrämseltaktik \".",
+      "url": "https://svt.se/nyheter/utrikes/kina-ska-ova-runt-taiwan-en-varning",
+      "domain": "svt.se",
+      "published": "2025-12-29T01:06:03Z"
     },
     {
       "title": "Iranexpert: Kärnprogrammet handlar om överlevnad, inte religiös ideologi",
@@ -44,39 +58,11 @@
       "published": "2025-12-27T19:11:06Z"
     },
     {
-      "title": "Terrorgruppen IS har överlevt och blivit ett ”varumärke",
-      "summary": "Australiens premiärminister säger att det är \" mycket tydligt att detta var en IS - inspirerad attack \" IS har sedan 2019 återuppfunnit sig som en internationell terroristorganisation som förlitar sig på mindre terrorceller, propaganda, stöd och ideologisk vägledning åt andra lokala terrorgrupper i olika delar av världen. Experter är oeniga om hur centralt styrd organisationen är idag. IS Khorasan ( IS - K ) bas i Afghanistan, till mot mål i Iran, Ryssland, Turkiet och Pakistan.",
-      "url": "https://yle.fi/a/7-10090293?origin=rss",
+      "title": "Texas nya valdistrikt väcker ilska bland svarta",
+      "summary": "En tredjedel av invånarna i Fort Worth lever under fattigdomsgränsen. De nya kartorna anses gynna Republikanerna och därför minoriteterna i området upplever att deras röster inte längre räknas. Processen med att rita om valdistrikten kallas för gerrymandering.",
+      "url": "https://yle.fi/a/7-10089888?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-27T11:16:58Z"
-    },
-    {
-      "title": "Zelenskyj och Trump ska träffas igen",
-      "summary": "Ukrainas president Volodymyr Zelenskyj och USA: s president Donald Trump har kommit överens om att träffas på nytt på söndag för att diskutera den amerikanska fredsplanen. Beskedet kommer efter Zelenskj hade ett nästan en timme långt telefonsamtal med de amerikanska sändebuden Steve Witkoff och Jared Kushner på torsdag. Trump backar lite och säger att han tror att det kommer att gå bra med Zelenskij – och med Rysslands president Vladimir Putin.",
-      "url": "https://yle.fi/a/7-10090561?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-26T12:39:47Z"
-    },
-    {
-      "title": "Trump: Attackerat IS-terrorister i Nigeria",
-      "summary": "Flygattackerna ska ha ägt rum i nordvästra delarna av det afrikanska landet. Nigerias utrikesminister Yusuf Maitama Tuggar säger att det var en \" gemensam operation \" riktad mot \" terrorister \" Tuggar sade att operationen hade planerats \" under en längre tid \" och hade använt underrättelseinformation från den nigerianska sidan. I samband med anklagelserna varnade Trump att militära åtgärder kunde sättas in mot Nigeria.",
-      "url": "https://svt.se/nyheter/utrikes/trump-attackerat-is-terrorister-i-nigeria",
-      "domain": "svt.se",
-      "published": "2025-12-26T00:00:18Z"
-    },
-    {
-      "title": "Thailand och Kambodja i nya samtal om vapenvila",
-      "summary": "Thailands premiärminister Charnvirakul insisterar på att Thailand inte kan retirera från områden som landet säkrat. Samtalen om vapenvilan, som inleddes under onsdagen och hålls vid en gränskontroll i den thailändska Chanthaburi - provinsen, förväntas pågå fram till och med lördag. Kambodjas försvarsdepartement anklagade Thailand för att använda stridsflygplan för att bomba Banteay Meanchey - provinsen i gränsregionen och beskrev handlingarna som \" brutala \" och urskillningslösa.",
-      "url": "https://svt.se/nyheter/utrikes/thailand-och-kambodja-i-nya-samtal-om-vapenvila",
-      "domain": "svt.se",
-      "published": "2025-12-25T21:04:36Z"
-    },
-    {
-      "title": "Mette-Marit om åtalet mot sonen Marius: ”Det här fallet måste behandlas i rätten",
-      "summary": "Kronprins Haakon och kronprinsessan Mette - Marit säger att de inte har önskat lägga sig i rättsprocessen. Kronprins Borg Høiby åtalas för totalt 32 brott, inklusive fyra våldtäkter, misshandel i en nära relation, andra våldsbrott, dödshot samt flera trafikförseelser. Han tror inte att det går att förbereda sig på rättegången.",
-      "url": "https://yle.fi/a/7-10090555?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-25T19:55:14Z"
+      "published": "2025-12-27T16:30:10Z"
     }
   ]
 }
