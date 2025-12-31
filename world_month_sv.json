@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-30T07:27:45+00:00",
+  "generated": "2025-12-31T07:27:34+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "På väg till Bulgarien? Nu kan du betala med euro",
+      "summary": "Bulgarien blir det 21: a eurolandet vid tolvslaget på nyårsafton. Omkring hälften av de 6, 7 miljoner bulgarerna är ändå skeptiska till euron. Regeringen i Bulgarien har försökt lugna ner dem som kritiserar euron, särskilt äldre.",
+      "url": "https://yle.fi/a/7-10090701?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-31T07:19:28Z"
+    },
     {
       "title": "Trump och Netanyahu utbytte smicker och visade enad front",
       "summary": "Donald Trump och Benjamin Netanyahu utbytte många komplimanger och mycket smicker under presskonferenserna både före och efter sitt besök i Florida. Trump sa att han talade med Israels president Isaac Herzog, som hade lovat att benåda den korrupta israeliska presidenten. Netanyahus besök fortsätter fortfarande i ett par dagar och kommentatorer utesluter inte att det sker en del påtryckningar bakom kulisserna.",
@@ -23,18 +30,11 @@
       "published": "2025-12-29T08:57:54Z"
     },
     {
-      "title": "Iranexpert: Kärnprogrammet handlar om överlevnad, inte religiös ideologi",
-      "summary": "Iran är övertygat om att landet kämpar för sin självständighet, säger Iranexperten Vali Nasr. Nasr säger att väst ofta misstolkar vad som driver regimen i Iran. Irans kärnenergiprogram har främst fungerat som en förhandlingsbricka för att tvinga väst till förhandlingsbordet.",
-      "url": "https://yle.fi/a/7-10087558?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-28T10:42:37Z"
-    },
-    {
-      "title": "Texas nya valdistrikt väcker ilska bland svarta",
-      "summary": "En tredjedel av invånarna i Fort Worth lever under fattigdomsgränsen. De nya kartorna anses gynna Republikanerna och därför minoriteterna i området upplever att deras röster inte längre räknas. Processen med att rita om valdistrikten kallas för gerrymandering.",
-      "url": "https://yle.fi/a/7-10089888?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-27T16:30:10Z"
+      "title": "Zelenskyj och Trump i möte",
+      "summary": "Putin kräver att få Donbas, och det förstås inte Zelenskyj är rimligt, säger han. Presidenterna kommer att hålla telefonsamtal med europeiska ledare i samband med mötet. Den 20 - punkts fredsplan för Ukraina har omarbetats för att komma närmare Ukrainas krav.",
+      "url": "https://svt.se/nyheter/utrikes/zelenskyj-och-trump-i-samtal-ska-diskutera-fredsplan",
+      "domain": "svt.se",
+      "published": "2025-12-28T17:38:29Z"
     }
   ]
 }
