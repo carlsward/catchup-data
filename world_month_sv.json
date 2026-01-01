@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-31T07:27:34+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-01T07:39:37+00:00",
+  "total_raw": 38,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "På väg till Bulgarien? Nu kan du betala med euro",
-      "summary": "Bulgarien blir det 21: a eurolandet vid tolvslaget på nyårsafton. Omkring hälften av de 6, 7 miljoner bulgarerna är ändå skeptiska till euron. Regeringen i Bulgarien har försökt lugna ner dem som kritiserar euron, särskilt äldre.",
-      "url": "https://yle.fi/a/7-10090701?origin=rss",
+      "title": "Bankrån i Tyskland",
+      "summary": "Tjuvar bröt sig in i Sparkasse filial genom att borra genom en tjock betongvägg. Väl inne bröt de upp runt 3 000 bankfack som innehöll juveler, guld och kontanter. Många kunder samlades utanför banken tisdagen under slagorden \" Släpp in oss!",
+      "url": "https://svt.se/nyheter/utrikes/bankran-i-tyskland-stal-300-miljoner-genom-tunnel",
+      "domain": "svt.se",
+      "published": "2026-01-01T05:03:29Z"
+    },
+    {
+      "title": "Tyskland behöver fler soldater men nya lagen om militärtjänst får hårt motstånd",
+      "summary": "Enligt modell av klimatdemonstrationerna har man runtom i Tyskland protesterat mot den nya lagen. Även om själva militärtjänsten fortfarande förblir frivillig, utgår man från att det i något skede kommer till ett tvång. Både Phillip, född 2010, och Philemon, född 2009, hör till dem som på något sätt kommer att beröras av den ny lagen.",
+      "url": "https://yle.fi/a/7-10089886?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-31T07:19:28Z"
+      "published": "2025-12-31T09:02:37Z"
     },
     {
       "title": "Trump och Netanyahu utbytte smicker och visade enad front",
@@ -23,18 +30,11 @@
       "published": "2025-12-30T05:16:17Z"
     },
     {
-      "title": "Får man göra så här med Elisabeth Rehns berättelse?",
-      "summary": "Uppdrag Balkan blandar intervjuer med Elisabeth Rehn med dramatiserade scener där hon spelas av Alma Pöysti. Genren kallas true fiction och väcker frågor om sanning och berättande. Producenten Marina Meinander förtydligar att scenerna är skrivna utgående från situationer Rehn berättat om i intervjuer.",
-      "url": "https://yle.fi/a/7-10090171?origin=rss",
+      "title": "Europas pensionssystem i kris men ingen vill göra uppoffringar",
+      "summary": "I Frankrike, Tyskland, Spanien och Italien har försöken att höja pensionsåldern eller begränsa förmånerna misslyckats eller motats tillbaka. Allt fler i 30 – 40 - årsåldern tror att länderna inte har råd att finansiera pensionssystemet i framtiden. Trots de höga kostnaderna anser majoriteten i varje undersökt land att den statliga pensionen är för liten.",
+      "url": "https://yle.fi/a/7-10090636?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-29T08:57:54Z"
-    },
-    {
-      "title": "Zelenskyj och Trump i möte",
-      "summary": "Putin kräver att få Donbas, och det förstås inte Zelenskyj är rimligt, säger han. Presidenterna kommer att hålla telefonsamtal med europeiska ledare i samband med mötet. Den 20 - punkts fredsplan för Ukraina har omarbetats för att komma närmare Ukrainas krav.",
-      "url": "https://svt.se/nyheter/utrikes/zelenskyj-och-trump-i-samtal-ska-diskutera-fredsplan",
-      "domain": "svt.se",
-      "published": "2025-12-28T17:38:29Z"
+      "published": "2025-12-29T15:30:27Z"
     }
   ]
 }

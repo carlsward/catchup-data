@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2025-12-31T07:26:49+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-01T07:38:58+00:00",
+  "total_raw": 38,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "På väg till Bulgarien? Nu kan du betala med euro",
-      "summary": "Bulgarien blir det 21: a eurolandet vid tolvslaget på nyårsafton. Omkring hälften av de 6, 7 miljoner bulgarerna är ändå skeptiska till euron. Regeringen i Bulgarien har försökt lugna ner dem som kritiserar euron, särskilt äldre.",
-      "url": "https://yle.fi/a/7-10090701?origin=rss",
+      "title": "Flera döda i explosion på skidorten Crans-Montana i Schweiz",
+      "summary": "Explosionen tros ha orsakats av en brand i den populära baren Le Constellation. På bilder från schweiziska medier syns en byggnad i lågor. Flera räddningsenheter är på plats och räddningsarbetet pågår fortfarande.",
+      "url": "https://yle.fi/a/7-10090735?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-31T07:19:28Z"
+      "published": "2026-01-01T05:51:55Z"
     },
     {
-      "title": "Flera skadade efter tågolycka nära Machu Picchu",
-      "summary": "Den omkomna personen var konduktör på ett av tågen enligt lokala myndigheter. Machu Picchu är en av Latinamerikas största turistattraktioner med i genomsnitt runt 4 500 besökare varje dag. En person har omkommit och minst 40 personer skadats när två tåg frontalkrockade i närheten av inkastaden Machu Machchu i Peru.",
-      "url": "https://svt.se/nyheter/utrikes/flera-skadade-efter-tagolycka-nara-machu-picchu",
+      "title": "Bankrån i Tyskland",
+      "summary": "Tjuvar bröt sig in i Sparkasse filial genom att borra genom en tjock betongvägg. Väl inne bröt de upp runt 3 000 bankfack som innehöll juveler, guld och kontanter. Många kunder samlades utanför banken tisdagen under slagorden \" Släpp in oss!",
+      "url": "https://svt.se/nyheter/utrikes/bankran-i-tyskland-stal-300-miljoner-genom-tunnel",
       "domain": "svt.se",
-      "published": "2025-12-31T01:19:52Z"
+      "published": "2026-01-01T05:03:29Z"
+    },
+    {
+      "title": "SVT:s korrespondent: Ett nytt USA tar form",
+      "summary": "På utrikesfronten har administrationen tydligt stakat ut en kurs där USA inte längre spelar samma internationella roll som supermakt. Säger sig löst åtta krig Samtidigt har USA bombat utpekade \" knarkterrorister \" till havs och många håller andan inför Trumps utlovade upptrappning med attacker inne i Venezuela. Mätningar visar att väljarnas viktigaste fråga är höga priser.",
+      "url": "https://svt.se/nyheter/utrikes/svts-korrespondent-ett-nytt-usa-tar-form",
+      "domain": "svt.se",
+      "published": "2025-12-31T10:18:27Z"
+    },
+    {
+      "title": "Tyskland behöver fler soldater men nya lagen om militärtjänst får hårt motstånd",
+      "summary": "Enligt modell av klimatdemonstrationerna har man runtom i Tyskland protesterat mot den nya lagen. Även om själva militärtjänsten fortfarande förblir frivillig, utgår man från att det i något skede kommer till ett tvång. Både Phillip, född 2010, och Philemon, född 2009, hör till dem som på något sätt kommer att beröras av den ny lagen.",
+      "url": "https://yle.fi/a/7-10089886?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-31T09:02:37Z"
     },
     {
       "title": "Protester i Iran",
@@ -37,32 +51,18 @@
       "published": "2025-12-30T05:16:17Z"
     },
     {
-      "title": "Får man göra så här med Elisabeth Rehns berättelse?",
-      "summary": "Uppdrag Balkan blandar intervjuer med Elisabeth Rehn med dramatiserade scener där hon spelas av Alma Pöysti. Genren kallas true fiction och väcker frågor om sanning och berättande. Producenten Marina Meinander förtydligar att scenerna är skrivna utgående från situationer Rehn berättat om i intervjuer.",
-      "url": "https://yle.fi/a/7-10090171?origin=rss",
+      "title": "Butiker hålls stängda i Teheran",
+      "summary": "Den iranska rialen har nått nya bottennivåer. På den inofficiella marknaden handlades en dollar i helgen för omkring 1, 42 miljoner rial, jämfört med cirka 820 000 för ett år sedan. De kraftiga svängningarna har enligt medier försvårat handeln med importerade varor när både köpare och säljare avvaktar.",
+      "url": "https://svt.se/nyheter/utrikes/butiker-halls-stangda-i-teheran-protester-mot-valutakrisen",
+      "domain": "svt.se",
+      "published": "2025-12-29T21:33:56Z"
+    },
+    {
+      "title": "Europas pensionssystem i kris men ingen vill göra uppoffringar",
+      "summary": "I Frankrike, Tyskland, Spanien och Italien har försöken att höja pensionsåldern eller begränsa förmånerna misslyckats eller motats tillbaka. Allt fler i 30 – 40 - årsåldern tror att länderna inte har råd att finansiera pensionssystemet i framtiden. Trots de höga kostnaderna anser majoriteten i varje undersökt land att den statliga pensionen är för liten.",
+      "url": "https://yle.fi/a/7-10090636?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-29T08:57:54Z"
-    },
-    {
-      "title": "Kina övar runt Taiwan: ”En varning",
-      "summary": "De kinesiska styrkorna utförde simulerade attacker mot land - och sjömål, rapporterar Reuters. Peking säger att övningarna kommer att fortsätta under tisdagen. Taiwans president Lai Ching - Tes kallar övningarna en \" militär skrämseltaktik \".",
-      "url": "https://svt.se/nyheter/utrikes/kina-ska-ova-runt-taiwan-en-varning",
-      "domain": "svt.se",
-      "published": "2025-12-29T01:06:03Z"
-    },
-    {
-      "title": "Trump och Zelenskyj höll pressträff efter möte i Florida",
-      "summary": "Vid 19. 30 svensk tid anlände Zelenskyj till Trumps Mar - a - Lago för att diskutera den fredsplan som togs fram av Ukraina tillsammans med europeiska ledare. En stor fråga inför mötet var amerikanska säkerhetsgarantier för Ukraina.",
-      "url": "https://svt.se/nyheter/utrikes/trump-och-zelenskyj-haller-presstraff-efter-mote-i-florida",
-      "domain": "svt.se",
-      "published": "2025-12-28T21:44:09Z"
-    },
-    {
-      "title": "Zelenskyj och Trump i möte",
-      "summary": "Putin kräver att få Donbas, och det förstås inte Zelenskyj är rimligt, säger han. Presidenterna kommer att hålla telefonsamtal med europeiska ledare i samband med mötet. Den 20 - punkts fredsplan för Ukraina har omarbetats för att komma närmare Ukrainas krav.",
-      "url": "https://svt.se/nyheter/utrikes/zelenskyj-och-trump-i-samtal-ska-diskutera-fredsplan",
-      "domain": "svt.se",
-      "published": "2025-12-28T17:38:29Z"
+      "published": "2025-12-29T15:30:27Z"
     }
   ]
 }
