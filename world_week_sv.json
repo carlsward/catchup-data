@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-01T07:38:58+00:00",
+  "generated": "2026-01-02T07:30:31+00:00",
   "total_raw": 38,
-  "total_rank": 8,
+  "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Flera döda i explosion på skidorten Crans-Montana i Schweiz",
-      "summary": "Explosionen tros ha orsakats av en brand i den populära baren Le Constellation. På bilder från schweiziska medier syns en byggnad i lågor. Flera räddningsenheter är på plats och räddningsarbetet pågår fortfarande.",
+      "title": "Ryssland: Har gett bevis på drönarattacken mot Putins residens till USA",
+      "summary": "Rysslands militär sa på torsdag att man har presenterat bevis för USA på en drönarattack mot Ryssland i början av veckan. På måndagen anklagade Rysslands utrikesminister Sergej Lavrov Ukraina för att ha försökt attackera ett av president Putins residens i Novgorodregionen med 91 långdistansdrönare. Nu säger Ryssland att man bärgat en navigeringsenhet från vrakdelarna efter en nerskjuten drönare och överlämnat den till USA tillsammans med en analys av den data som finns på enheten.",
+      "url": "https://yle.fi/a/7-10090750?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-02T05:00:41Z"
+    },
+    {
+      "title": "2 januari: Nattens nyheter",
+      "summary": "Omkring 40 personer dog när en bar i Schweiz började brinna under nyårsnatten. Polisen har inlett en utredning efter att en man i 30 - årsåldern blivit påkörd av en plogbil i Linköping. Socialminister Jakob Forssmed ( KD ) skriver i en debattartikel på Svenska Dagbladet: \" Det är en ytterligare pusselbit till det förebyggande arbetet för att...",
+      "url": "https://svt.se/nyheter/utrikes/2-januari-nattens-nyheter-opycij",
+      "domain": "svt.se",
+      "published": "2026-01-02T04:25:32Z"
+    },
+    {
+      "title": "Bhutan satsar på kryptovaluta: ”När det gäller bitcoin ligger vi före de flesta…",
+      "summary": "Bhutans läge mitt i Himalaya är perfekt för bitcoinmining. Landet har ett överskott av energi från mängder av vattenkraftverk. På några år har den byggt upp en av världens största statliga bitcoinreserver.",
+      "url": "https://svt.se/nyheter/utrikes/bhutan-satsar-pa-kryptovaluta-nar-det-galler-bitcoin-ligger-vi-fore-de-flesta-lander",
+      "domain": "svt.se",
+      "published": "2026-01-01T20:15:26Z"
+    },
+    {
+      "title": "Kring 40 döda efter brand i en bar på skidorten Crans-Montana i Schweiz",
+      "summary": "Omkring 40 personer dog i en brand och explosion på den schweiziska skidorten Crans - Montana på nyårsdagen. Ytterligare 115 personer har skadats, varav de flesta har allvarliga skador och svåra brännskador, enligt myndigheterna. Myndigheterna har inte gett ut några uppgifter om brandorsaken.",
       "url": "https://yle.fi/a/7-10090735?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-01T05:51:55Z"
-    },
-    {
-      "title": "Bankrån i Tyskland",
-      "summary": "Tjuvar bröt sig in i Sparkasse filial genom att borra genom en tjock betongvägg. Väl inne bröt de upp runt 3 000 bankfack som innehöll juveler, guld och kontanter. Många kunder samlades utanför banken tisdagen under slagorden \" Släpp in oss!",
-      "url": "https://svt.se/nyheter/utrikes/bankran-i-tyskland-stal-300-miljoner-genom-tunnel",
-      "domain": "svt.se",
-      "published": "2026-01-01T05:03:29Z"
     },
     {
       "title": "SVT:s korrespondent: Ett nytt USA tar form",
@@ -37,11 +51,11 @@
       "published": "2025-12-31T09:02:37Z"
     },
     {
-      "title": "Protester i Iran",
-      "summary": "Protesterna mot de kraftigt stigande valutapriserna i Iran fortsätter under tisdagen. Demonstranterna har i huvudsak varit butiksägare, men videoklipp på sociala medier visar att även studenter har anslutit sig till protesterna. På inofficiella marknaden handlades en dollar i helgen för omkring 1, 42 miljoner rial, jämfört med cirka 820 000 för ett år sedan.",
-      "url": "https://svt.se/nyheter/utrikes/protester-i-iran-rekordsvag-valuta-vacker-ilska",
+      "title": "Syntetiska diamanter utmanar traditionella handeln",
+      "summary": "Frågan om ursprunget till de framgrävda diamanterna är ett av skälen till att syntetiska diamanter har ökat i popularitet. Kampen har lett till en kamp om narrativet – De är våra största konkurrenter och har en stor påverkan, säger Ine Tassignon, talesperson för branschorganet AWDC. Industrin lyfter också fram att det går åt stora mängder energi för att ta fram de syntetiska diamanterna.",
+      "url": "https://svt.se/nyheter/utrikes/syntetiska-diamanter-utmanar-traditionella-handeln",
       "domain": "svt.se",
-      "published": "2025-12-30T14:33:55Z"
+      "published": "2025-12-30T16:25:49Z"
     },
     {
       "title": "Trump och Netanyahu utbytte smicker och visade enad front",
@@ -51,11 +65,11 @@
       "published": "2025-12-30T05:16:17Z"
     },
     {
-      "title": "Butiker hålls stängda i Teheran",
-      "summary": "Den iranska rialen har nått nya bottennivåer. På den inofficiella marknaden handlades en dollar i helgen för omkring 1, 42 miljoner rial, jämfört med cirka 820 000 för ett år sedan. De kraftiga svängningarna har enligt medier försvårat handeln med importerade varor när både köpare och säljare avvaktar.",
-      "url": "https://svt.se/nyheter/utrikes/butiker-halls-stangda-i-teheran-protester-mot-valutakrisen",
-      "domain": "svt.se",
-      "published": "2025-12-29T21:33:56Z"
+      "title": "Minst tre döda i översvämningar i Spanien",
+      "summary": "Två kroppar hittades i Illora och Alhaurin el Grande i Andalusien. Det handlade om två män som hade försvunnit i samband med skyfall. En man hittades död cirka tre kilometer från den plats där han hade svepts bort på söndagen vid en flod som svämmat över sina breddar nära Granada.",
+      "url": "https://yle.fi/a/7-10090644?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-29T16:10:55Z"
     },
     {
       "title": "Europas pensionssystem i kris men ingen vill göra uppoffringar",

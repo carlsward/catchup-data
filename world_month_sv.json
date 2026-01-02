@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-01T07:39:37+00:00",
+  "generated": "2026-01-02T07:31:30+00:00",
   "total_raw": 38,
-  "total_rank": 4,
+  "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Bankrån i Tyskland",
-      "summary": "Tjuvar bröt sig in i Sparkasse filial genom att borra genom en tjock betongvägg. Väl inne bröt de upp runt 3 000 bankfack som innehöll juveler, guld och kontanter. Många kunder samlades utanför banken tisdagen under slagorden \" Släpp in oss!",
-      "url": "https://svt.se/nyheter/utrikes/bankran-i-tyskland-stal-300-miljoner-genom-tunnel",
-      "domain": "svt.se",
-      "published": "2026-01-01T05:03:29Z"
+      "title": "Ryssland: Har gett bevis på drönarattacken mot Putins residens till USA",
+      "summary": "Rysslands militär sa på torsdag att man har presenterat bevis för USA på en drönarattack mot Ryssland i början av veckan. På måndagen anklagade Rysslands utrikesminister Sergej Lavrov Ukraina för att ha försökt attackera ett av president Putins residens i Novgorodregionen med 91 långdistansdrönare. Nu säger Ryssland att man bärgat en navigeringsenhet från vrakdelarna efter en nerskjuten drönare och överlämnat den till USA tillsammans med en analys av den data som finns på enheten.",
+      "url": "https://yle.fi/a/7-10090750?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-02T05:00:41Z"
+    },
+    {
+      "title": "Kring 40 döda efter brand i en bar på skidorten Crans-Montana i Schweiz",
+      "summary": "Omkring 40 personer dog i en brand och explosion på den schweiziska skidorten Crans - Montana på nyårsdagen. Ytterligare 115 personer har skadats, varav de flesta har allvarliga skador och svåra brännskador, enligt myndigheterna. Myndigheterna har inte gett ut några uppgifter om brandorsaken.",
+      "url": "https://yle.fi/a/7-10090735?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-01T05:51:55Z"
     },
     {
       "title": "Tyskland behöver fler soldater men nya lagen om militärtjänst får hårt motstånd",
