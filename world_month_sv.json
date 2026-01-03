@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-02T07:31:30+00:00",
-  "total_raw": 38,
+  "generated": "2026-01-03T07:23:44+00:00",
+  "total_raw": 39,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland: Har gett bevis på drönarattacken mot Putins residens till USA",
-      "summary": "Rysslands militär sa på torsdag att man har presenterat bevis för USA på en drönarattack mot Ryssland i början av veckan. På måndagen anklagade Rysslands utrikesminister Sergej Lavrov Ukraina för att ha försökt attackera ett av president Putins residens i Novgorodregionen med 91 långdistansdrönare. Nu säger Ryssland att man bärgat en navigeringsenhet från vrakdelarna efter en nerskjuten drönare och överlämnat den till USA tillsammans med en analys av den data som finns på enheten.",
-      "url": "https://yle.fi/a/7-10090750?origin=rss",
+      "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
+      "summary": "Efter Bosnienkriget för 30 år sedan var det många som återvände från utlandet där de varit som flyktingar. De byggde upp husen igen, men det blev ingen ekonomisk utveckling. De for tillbaka till Österrike, Tyskland, Sverige och de andra länderna där de var som flyktingar men några stannade.",
+      "url": "https://yle.fi/a/7-10090184?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-02T05:00:41Z"
+      "published": "2026-01-03T05:18:20Z"
+    },
+    {
+      "title": "Nästan alla nya bilar som såldes i Norge i fjol var elbilar",
+      "summary": "Elbilar stod för 95, 9 procent av nyregistreringar av bilar i Norge i fjol. Norge är det ledande landet då det gäller att fasa ut bensin - och dieseldrivna fordon. En momsförändring den 1 januari 2026 har sporrat många norrmän att köpa ett nytt fordon.",
+      "url": "https://yle.fi/a/7-10090781?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-02T15:02:06Z"
     },
     {
       "title": "Kring 40 döda efter brand i en bar på skidorten Crans-Montana i Schweiz",
@@ -30,18 +37,11 @@
       "published": "2025-12-31T09:02:37Z"
     },
     {
-      "title": "Trump och Netanyahu utbytte smicker och visade enad front",
-      "summary": "Donald Trump och Benjamin Netanyahu utbytte många komplimanger och mycket smicker under presskonferenserna både före och efter sitt besök i Florida. Trump sa att han talade med Israels president Isaac Herzog, som hade lovat att benåda den korrupta israeliska presidenten. Netanyahus besök fortsätter fortfarande i ett par dagar och kommentatorer utesluter inte att det sker en del påtryckningar bakom kulisserna.",
-      "url": "https://yle.fi/a/7-10090653?origin=rss",
+      "title": "Trump blev ”mycket arg” då Putin berättade om påstådd ukrainsk attack mot Putins…",
+      "summary": "Under en presskonferens på måndag kväll fick USA: s president Donald Trump en fråga om den påstådda ukrainska drönarattacken mot Rysslands president Vladimir Putins residens. Attacken ska ha skett natten till måndagen. Trump svarade att han fick höra om det från Putin själv under ett telefonsamtal på måndagsmorgonen.",
+      "url": "https://yle.fi/a/7-10090657?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-30T05:16:17Z"
-    },
-    {
-      "title": "Europas pensionssystem i kris men ingen vill göra uppoffringar",
-      "summary": "I Frankrike, Tyskland, Spanien och Italien har försöken att höja pensionsåldern eller begränsa förmånerna misslyckats eller motats tillbaka. Allt fler i 30 – 40 - årsåldern tror att länderna inte har råd att finansiera pensionssystemet i framtiden. Trots de höga kostnaderna anser majoriteten i varje undersökt land att den statliga pensionen är för liten.",
-      "url": "https://yle.fi/a/7-10090636?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-29T15:30:27Z"
+      "published": "2025-12-30T07:11:11Z"
     }
   ]
 }

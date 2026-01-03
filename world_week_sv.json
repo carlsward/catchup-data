@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-02T07:30:31+00:00",
-  "total_raw": 38,
+  "generated": "2026-01-03T07:22:45+00:00",
+  "total_raw": 39,
   "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland: Har gett bevis på drönarattacken mot Putins residens till USA",
-      "summary": "Rysslands militär sa på torsdag att man har presenterat bevis för USA på en drönarattack mot Ryssland i början av veckan. På måndagen anklagade Rysslands utrikesminister Sergej Lavrov Ukraina för att ha försökt attackera ett av president Putins residens i Novgorodregionen med 91 långdistansdrönare. Nu säger Ryssland att man bärgat en navigeringsenhet från vrakdelarna efter en nerskjuten drönare och överlämnat den till USA tillsammans med en analys av den data som finns på enheten.",
-      "url": "https://yle.fi/a/7-10090750?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-02T05:00:41Z"
+      "title": "Explosioner i Venezuelas huvudstad",
+      "summary": "Rapporter om höga smällar och explosioner i Venezuelas huvudstad Caracas kommer in från flera nyhetsbyråer på lördagsmorgonen. Minst sju explosioner hördes vid två på natten lokal tid, då var klockan sju på morgonen i Sverige. CNN har medarbetare på plats i huvudstaden på lördag som sett flera explosioner på lördagen.",
+      "url": "https://svt.se/nyheter/utrikes/rapporter-om-hoga-smallar-i-venezuelas-huvudstad",
+      "domain": "svt.se",
+      "published": "2026-01-03T06:32:52Z"
     },
     {
-      "title": "2 januari: Nattens nyheter",
-      "summary": "Omkring 40 personer dog när en bar i Schweiz började brinna under nyårsnatten. Polisen har inlett en utredning efter att en man i 30 - årsåldern blivit påkörd av en plogbil i Linköping. Socialminister Jakob Forssmed ( KD ) skriver i en debattartikel på Svenska Dagbladet: \" Det är en ytterligare pusselbit till det förebyggande arbetet för att...",
-      "url": "https://svt.se/nyheter/utrikes/2-januari-nattens-nyheter-opycij",
+      "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
+      "summary": "Efter Bosnienkriget för 30 år sedan var det många som återvände från utlandet där de varit som flyktingar. De byggde upp husen igen, men det blev ingen ekonomisk utveckling. De for tillbaka till Österrike, Tyskland, Sverige och de andra länderna där de var som flyktingar men några stannade.",
+      "url": "https://yle.fi/a/7-10090184?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-03T05:18:20Z"
+    },
+    {
+      "title": "Nästan alla nya bilar som såldes i Norge i fjol var elbilar",
+      "summary": "Elbilar stod för 95, 9 procent av nyregistreringar av bilar i Norge i fjol. Norge är det ledande landet då det gäller att fasa ut bensin - och dieseldrivna fordon. En momsförändring den 1 januari 2026 har sporrat många norrmän att köpa ett nytt fordon.",
+      "url": "https://yle.fi/a/7-10090781?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-02T15:02:06Z"
+    },
+    {
+      "title": "Antalet döda stiger under protesterna i Iran",
+      "summary": "Sammandrabbningar med säkerhetsstyrkor har rapporterats från flera delar av landet. Våldsamma protester pågick under torsdagen i bland annat huvudstaden Teheran och städerna Lordegan och Marvdasht. Hittills har sex personer dött enligt lokala källor, rapporterar BBC.",
+      "url": "https://svt.se/nyheter/utrikes/antalet-doda-stiger-under-protesterna-i-iran",
       "domain": "svt.se",
-      "published": "2026-01-02T04:25:32Z"
+      "published": "2026-01-02T09:58:29Z"
     },
     {
       "title": "Bhutan satsar på kryptovaluta: ”När det gäller bitcoin ligger vi före de flesta…",
-      "summary": "Bhutans läge mitt i Himalaya är perfekt för bitcoinmining. Landet har ett överskott av energi från mängder av vattenkraftverk. På några år har den byggt upp en av världens största statliga bitcoinreserver.",
+      "summary": "Bhutans läge mitt i Himalaya är perfekt för bitcoinmining. Landet har ett överskott av energi från mängder av vattenkraftverk. På några år har kungadömet byggt upp en av världens största statliga bitcoinreserver.",
       "url": "https://svt.se/nyheter/utrikes/bhutan-satsar-pa-kryptovaluta-nar-det-galler-bitcoin-ligger-vi-fore-de-flesta-lander",
       "domain": "svt.se",
       "published": "2026-01-01T20:15:26Z"
@@ -37,13 +51,6 @@
       "published": "2026-01-01T05:51:55Z"
     },
     {
-      "title": "SVT:s korrespondent: Ett nytt USA tar form",
-      "summary": "På utrikesfronten har administrationen tydligt stakat ut en kurs där USA inte längre spelar samma internationella roll som supermakt. Säger sig löst åtta krig Samtidigt har USA bombat utpekade \" knarkterrorister \" till havs och många håller andan inför Trumps utlovade upptrappning med attacker inne i Venezuela. Mätningar visar att väljarnas viktigaste fråga är höga priser.",
-      "url": "https://svt.se/nyheter/utrikes/svts-korrespondent-ett-nytt-usa-tar-form",
-      "domain": "svt.se",
-      "published": "2025-12-31T10:18:27Z"
-    },
-    {
       "title": "Tyskland behöver fler soldater men nya lagen om militärtjänst får hårt motstånd",
       "summary": "Enligt modell av klimatdemonstrationerna har man runtom i Tyskland protesterat mot den nya lagen. Även om själva militärtjänsten fortfarande förblir frivillig, utgår man från att det i något skede kommer till ett tvång. Både Phillip, född 2010, och Philemon, född 2009, hör till dem som på något sätt kommer att beröras av den ny lagen.",
       "url": "https://yle.fi/a/7-10089886?origin=rss",
@@ -51,32 +58,25 @@
       "published": "2025-12-31T09:02:37Z"
     },
     {
-      "title": "Syntetiska diamanter utmanar traditionella handeln",
-      "summary": "Frågan om ursprunget till de framgrävda diamanterna är ett av skälen till att syntetiska diamanter har ökat i popularitet. Kampen har lett till en kamp om narrativet – De är våra största konkurrenter och har en stor påverkan, säger Ine Tassignon, talesperson för branschorganet AWDC. Industrin lyfter också fram att det går åt stora mängder energi för att ta fram de syntetiska diamanterna.",
-      "url": "https://svt.se/nyheter/utrikes/syntetiska-diamanter-utmanar-traditionella-handeln",
-      "domain": "svt.se",
-      "published": "2025-12-30T16:25:49Z"
+      "title": "På väg till Bulgarien? Nu kan du betala med euro",
+      "summary": "Bulgarien blir det 21: a eurolandet vid tolvslaget på nyårsafton. Omkring hälften av de 6, 7 miljoner bulgarerna är fortfarande skeptiska till euron. Regeringen i Bulgarien har försökt lugna ner dem som kritiserar euron, särskilt äldre.",
+      "url": "https://yle.fi/a/7-10090701?origin=rss",
+      "domain": "yle.fi",
+      "published": "2025-12-31T07:19:28Z"
     },
     {
-      "title": "Trump och Netanyahu utbytte smicker och visade enad front",
-      "summary": "Donald Trump och Benjamin Netanyahu utbytte många komplimanger och mycket smicker under presskonferenserna både före och efter sitt besök i Florida. Trump sa att han talade med Israels president Isaac Herzog, som hade lovat att benåda den korrupta israeliska presidenten. Netanyahus besök fortsätter fortfarande i ett par dagar och kommentatorer utesluter inte att det sker en del påtryckningar bakom kulisserna.",
-      "url": "https://yle.fi/a/7-10090653?origin=rss",
+      "title": "Danmarks statliga post levererar det sista brevet",
+      "summary": "Efter 401 år av statligt ägd postverksamhet i Danmark är brevleveranserna slut vid årsskiftet. I stället fokuseras det på paket eftersom de digitaliserade danskarna köper allt fler varor över nätet. Postnord i Danmark säger att det handlar om ett stort kapitelskifte i postens historia.",
+      "url": "https://yle.fi/a/7-10090670?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-30T05:16:17Z"
+      "published": "2025-12-30T14:08:09Z"
     },
     {
-      "title": "Minst tre döda i översvämningar i Spanien",
-      "summary": "Två kroppar hittades i Illora och Alhaurin el Grande i Andalusien. Det handlade om två män som hade försvunnit i samband med skyfall. En man hittades död cirka tre kilometer från den plats där han hade svepts bort på söndagen vid en flod som svämmat över sina breddar nära Granada.",
-      "url": "https://yle.fi/a/7-10090644?origin=rss",
+      "title": "Trump blev ”mycket arg” då Putin berättade om påstådd ukrainsk attack mot Putins…",
+      "summary": "Under en presskonferens på måndag kväll fick USA: s president Donald Trump en fråga om den påstådda ukrainska drönarattacken mot Rysslands president Vladimir Putins residens. Attacken ska ha skett natten till måndagen. Trump svarade att han fick höra om det från Putin själv under ett telefonsamtal på måndagsmorgonen.",
+      "url": "https://yle.fi/a/7-10090657?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-29T16:10:55Z"
-    },
-    {
-      "title": "Europas pensionssystem i kris men ingen vill göra uppoffringar",
-      "summary": "I Frankrike, Tyskland, Spanien och Italien har försöken att höja pensionsåldern eller begränsa förmånerna misslyckats eller motats tillbaka. Allt fler i 30 – 40 - årsåldern tror att länderna inte har råd att finansiera pensionssystemet i framtiden. Trots de höga kostnaderna anser majoriteten i varje undersökt land att den statliga pensionen är för liten.",
-      "url": "https://yle.fi/a/7-10090636?origin=rss",
-      "domain": "yle.fi",
-      "published": "2025-12-29T15:30:27Z"
+      "published": "2025-12-30T07:11:11Z"
     }
   ]
 }
