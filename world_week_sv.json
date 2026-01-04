@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-03T07:22:45+00:00",
-  "total_raw": 39,
-  "total_rank": 10,
+  "generated": "2026-01-04T07:41:16+00:00",
+  "total_raw": 40,
+  "total_rank": 12,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Explosioner i Venezuelas huvudstad",
-      "summary": "Rapporter om höga smällar och explosioner i Venezuelas huvudstad Caracas kommer in från flera nyhetsbyråer på lördagsmorgonen. Minst sju explosioner hördes vid två på natten lokal tid, då var klockan sju på morgonen i Sverige. CNN har medarbetare på plats i huvudstaden på lördag som sett flera explosioner på lördagen.",
-      "url": "https://svt.se/nyheter/utrikes/rapporter-om-hoga-smallar-i-venezuelas-huvudstad",
+      "title": "Historisk försvarssatsning kan rädda de tyska industrijobben då bilfabriker blir…",
+      "summary": "Bildelstillverkare Schaeffler och teknologiföretaget Helsing går in för att gemensamt tillverka drönare. Produktionen år 2026 förväntas uppgå till mellan 10 000 och 20 000 drönare. Vid behov ska produktionen kunna utökas till 100 000.",
+      "url": "https://yle.fi/a/7-10089647?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-04T06:09:29Z"
+    },
+    {
+      "title": "4 januari: Nattens nyheter",
+      "summary": "I en video publicerad av Vita huset syns den tillfångatagna venezuelanska presidenten gående i högkvarteret till USA: s narkotikapolis, DEA, i New York. I klippet bär han handbojor och lotsas av DEA - agenter. Sveriges utrikesminister Maria Malmer Stenergard skriver: \" Diktatorn Nicolás Maduro saknar demokratisk legitimitet.",
+      "url": "https://svt.se/nyheter/utrikes/4-januari-nattens-nyheter-sn6sq4",
       "domain": "svt.se",
-      "published": "2026-01-03T06:32:52Z"
+      "published": "2026-01-04T04:38:17Z"
+    },
+    {
+      "title": "USA:s attack mot Venezuela",
+      "summary": "USA har bombat mål i Venezuela och tillfångatagit landets president Nicolás Maduro. Kina uppmanar USA att \" omedelbart släppa Maduro \" och \" upphöra med sina ansträngningar att undergräva den venezuelanska regimen \" Minst 40 personer dödades efter att USA tillfångatog Maduro och hans fru Cilia Flores. Maduro ska under natten mot söndagen, svensk tid, ha förts till häktet i New York, rapporterar flera medier.",
+      "url": "https://svt.se/nyheter/utrikes/explosioner-i-venezuela",
+      "domain": "svt.se",
+      "published": "2026-01-03T07:32:17Z"
     },
     {
       "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
@@ -23,6 +37,13 @@
       "published": "2026-01-03T05:18:20Z"
     },
     {
+      "title": "Svenska sjukvården i beredskap efter branden i Crans-Montana",
+      "summary": "Branden bröt ut på en nattklubb i skidorten Crans - Montana i Schweiz. Omkring 50 personer har eller ska skickas till sjukhus i andra närliggande europeiska länder, uppger lokala myndigheter på fredagen. Vardera enhet har meddelat att man är redo att ta emot varsin intensivvårdskrävande patient och upp till två personer som inte kräver intensivvård.",
+      "url": "https://svt.se/nyheter/utrikes/svenska-sjukvarden-i-beredskap-efter-branden-i-crans-montana",
+      "domain": "svt.se",
+      "published": "2026-01-02T20:27:06Z"
+    },
+    {
       "title": "Nästan alla nya bilar som såldes i Norge i fjol var elbilar",
       "summary": "Elbilar stod för 95, 9 procent av nyregistreringar av bilar i Norge i fjol. Norge är det ledande landet då det gäller att fasa ut bensin - och dieseldrivna fordon. En momsförändring den 1 januari 2026 har sporrat många norrmän att köpa ett nytt fordon.",
       "url": "https://yle.fi/a/7-10090781?origin=rss",
@@ -30,18 +51,11 @@
       "published": "2026-01-02T15:02:06Z"
     },
     {
-      "title": "Antalet döda stiger under protesterna i Iran",
-      "summary": "Sammandrabbningar med säkerhetsstyrkor har rapporterats från flera delar av landet. Våldsamma protester pågick under torsdagen i bland annat huvudstaden Teheran och städerna Lordegan och Marvdasht. Hittills har sex personer dött enligt lokala källor, rapporterar BBC.",
-      "url": "https://svt.se/nyheter/utrikes/antalet-doda-stiger-under-protesterna-i-iran",
-      "domain": "svt.se",
-      "published": "2026-01-02T09:58:29Z"
-    },
-    {
-      "title": "Bhutan satsar på kryptovaluta: ”När det gäller bitcoin ligger vi före de flesta…",
-      "summary": "Bhutans läge mitt i Himalaya är perfekt för bitcoinmining. Landet har ett överskott av energi från mängder av vattenkraftverk. På några år har kungadömet byggt upp en av världens största statliga bitcoinreserver.",
-      "url": "https://svt.se/nyheter/utrikes/bhutan-satsar-pa-kryptovaluta-nar-det-galler-bitcoin-ligger-vi-fore-de-flesta-lander",
-      "domain": "svt.se",
-      "published": "2026-01-01T20:15:26Z"
+      "title": "Trump drar tillbaka nationalgardet från Chicago, Los Angeles och Portland",
+      "summary": "Uttalandet kommer efter USA: s högsta domstol förra veckan beslutade att Trumps utplacering av federala trupper i Chicago inte var berättigad. Trump utesluter inte att det igen kan bli aktuellt med nationalgardets närvaro i städerna. Nationalgardet har försvarats med att gardet skyddar federal egendom, myndigheter och främst den amerikanska tull - och migrationspolisen ICE.",
+      "url": "https://yle.fi/a/7-10090733?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-01T13:52:02Z"
     },
     {
       "title": "Kring 40 döda efter brand i en bar på skidorten Crans-Montana i Schweiz",
@@ -65,18 +79,18 @@
       "published": "2025-12-31T07:19:28Z"
     },
     {
-      "title": "Danmarks statliga post levererar det sista brevet",
-      "summary": "Efter 401 år av statligt ägd postverksamhet i Danmark är brevleveranserna slut vid årsskiftet. I stället fokuseras det på paket eftersom de digitaliserade danskarna köper allt fler varor över nätet. Postnord i Danmark säger att det handlar om ett stort kapitelskifte i postens historia.",
-      "url": "https://yle.fi/a/7-10090670?origin=rss",
+      "title": "Israel bannlyser biståndsorganisationer",
+      "summary": "Läkare utan gränser, Oxfam och NRC hindras från att verka i Gaza. Israel införde nya regler för biståndsorganisationer som verkar i Israel och Gaza tidigare i år. Enligt reglerna måste organisationerna i fortsättningen ge listor på alla sina anställda i både Israel och i de ockuperade palestinska områdena till israeliska myndigheter.",
+      "url": "https://yle.fi/a/7-10090695?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-30T14:08:09Z"
+      "published": "2025-12-30T17:07:24Z"
     },
     {
-      "title": "Trump blev ”mycket arg” då Putin berättade om påstådd ukrainsk attack mot Putins…",
-      "summary": "Under en presskonferens på måndag kväll fick USA: s president Donald Trump en fråga om den påstådda ukrainska drönarattacken mot Rysslands president Vladimir Putins residens. Attacken ska ha skett natten till måndagen. Trump svarade att han fick höra om det från Putin själv under ett telefonsamtal på måndagsmorgonen.",
-      "url": "https://yle.fi/a/7-10090657?origin=rss",
+      "title": "Tjuvar borrade sig in i tysk bank och stal för 30 miljoner",
+      "summary": "Tjuvar bröt sig in i en bank och stal kontanter, guld och smycken för ett värde av 30 miljoner euro. Brottet skedde natten till i söndags i staden Gelsenkirchen i Nordrhein - Westfalen i västra Tyskland. Enligt polisen ska tjuvarna ha borrat sin in från ett parkeringsgarage.",
+      "url": "https://yle.fi/a/7-10090694?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-30T07:11:11Z"
+      "published": "2025-12-30T16:46:34Z"
     }
   ]
 }

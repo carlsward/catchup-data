@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-03T07:23:44+00:00",
-  "total_raw": 39,
-  "total_rank": 5,
+  "generated": "2026-01-04T07:42:17+00:00",
+  "total_raw": 40,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Historisk försvarssatsning kan rädda de tyska industrijobben då bilfabriker blir…",
+      "summary": "Bildelstillverkare Schaeffler och teknologiföretaget Helsing går in för att gemensamt tillverka drönare. Produktionen år 2026 förväntas uppgå till mellan 10 000 och 20 000 drönare. Vid behov ska produktionen kunna utökas till 100 000.",
+      "url": "https://yle.fi/a/7-10089647?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-04T06:09:29Z"
+    },
     {
       "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
       "summary": "Efter Bosnienkriget för 30 år sedan var det många som återvände från utlandet där de varit som flyktingar. De byggde upp husen igen, men det blev ingen ekonomisk utveckling. De for tillbaka till Österrike, Tyskland, Sverige och de andra länderna där de var som flyktingar men några stannade.",
@@ -37,11 +44,11 @@
       "published": "2025-12-31T09:02:37Z"
     },
     {
-      "title": "Trump blev ”mycket arg” då Putin berättade om påstådd ukrainsk attack mot Putins…",
-      "summary": "Under en presskonferens på måndag kväll fick USA: s president Donald Trump en fråga om den påstådda ukrainska drönarattacken mot Rysslands president Vladimir Putins residens. Attacken ska ha skett natten till måndagen. Trump svarade att han fick höra om det från Putin själv under ett telefonsamtal på måndagsmorgonen.",
-      "url": "https://yle.fi/a/7-10090657?origin=rss",
+      "title": "Israel bannlyser biståndsorganisationer",
+      "summary": "Läkare utan gränser, Oxfam och NRC hindras från att verka i Gaza. Israel införde nya regler för biståndsorganisationer som verkar i Israel och Gaza tidigare i år. Enligt reglerna måste organisationerna i fortsättningen ge listor på alla sina anställda i både Israel och i de ockuperade palestinska områdena till israeliska myndigheter.",
+      "url": "https://yle.fi/a/7-10090695?origin=rss",
       "domain": "yle.fi",
-      "published": "2025-12-30T07:11:11Z"
+      "published": "2025-12-30T17:07:24Z"
     }
   ]
 }
