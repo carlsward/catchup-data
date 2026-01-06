@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-05T07:42:35+00:00",
-  "total_raw": 40,
-  "total_rank": 8,
+  "generated": "2026-01-06T07:29:04+00:00",
+  "total_raw": 39,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "5 januari: Nattens nyheter",
-      "summary": "Sverige till JVM - final efter straffrysare mot Finland. Det krävdes förlängning och åtta omgångar av straffar innan Anton Frondell kunde sätta det avgörande målet i spelet. Trump hotar att ingripa i fler länder USA: s president Donald Trump talade öppet om i Colombia när han mötte pressen på presidentplanet Air Force One sent i går kväll lokal tid.",
-      "url": "https://svt.se/nyheter/utrikes/5-januari-nattens-nyheter-2hjsjp",
+      "title": "Protesterna i Iran",
+      "summary": "Protesterna började den 28 december när butiksägare i Teheran gick ut på gatorna i ilska över att den iranska rialen var på rekordlåg nivå. Landets ledare har även haft svårigheter att tillhandahålla elektricitet och vatten i hela landet året runt. USA: s president Donald Trump har varnat Irans ledare för att USA kommer till undsättning.",
+      "url": "https://svt.se/nyheter/utrikes/protesterna-i-iran-detta-har-hant-it3sco",
       "domain": "svt.se",
-      "published": "2026-01-05T04:47:58Z"
+      "published": "2026-01-06T07:02:52Z"
     },
     {
-      "title": "Trump hotar att ingripa i fler länder",
-      "summary": "Trump sa att Colombia är sjukt, styrt av en sjuk man som gillar att tillverka kokain och sälja det till USA. Han sa också att Mexiko behöver göra mer för att stoppa narkotikasmugglingen genom landet. Han hänvisade då till den så kallade Monroedoktrinen, utfärdad av president James Monroe, som gick ut på att hålla de europeiska makterna borta från inflytande i Latinamerika.",
-      "url": "https://svt.se/nyheter/utrikes/trump-hotar-att-ingripa-i-fler-lander",
+      "title": "EU utreder Musks chatbot",
+      "summary": "Grok Imagine har blivit bättre på att skapa bilder baserat på användarens så kallade \" prompts \" Efter uppdateringen har dock Grok skapat bilder med sexuellt innehåll med både barn och kvinnor, rapporterar CNBC. EU - kommissionens talesperson Tomas Regnier säger att han \" allvarligt ser över \" det inträffade. Grok har tidigare varit i blåsväder för bland annat uttalanden om förintelsen.",
+      "url": "https://svt.se/nyheter/utrikes/eu-utreder-musks-chatbot",
       "domain": "svt.se",
-      "published": "2026-01-05T03:41:12Z"
+      "published": "2026-01-06T01:44:52Z"
     },
     {
-      "title": "Splittrade besked om Venezuelas styre",
-      "summary": "Venezuelas vicepresident Delcy Rodríguez har nu tagit rollen som ledare i en interimsregering. Trump säger att om hon inte gör det rätta, kommer hon att betala ett mycket högt pris, troligen större än Maduro, enligt Trump. Fredrik Uggla, statsvetare vid Uppsala universitet: – Man vill visa att det är USA som bestämmer och man tycks ha gett henne ganska fasta ramar att hålla sig inom.",
-      "url": "https://svt.se/nyheter/utrikes/splittrade-besked-om-venezuelas-styre-ska-aldrig-bli-en-koloni",
+      "title": "Tim Walz avbryter sin återvalskampanj",
+      "summary": "Tim Walz säger att han inte längre kan ge en politisk kampanj sitt allt. Uttalandet lägger i övrigt mycket fokus på de anklagelser om bedrägeri i delstaten som fått stor uppmärksamhet de senaste veckorna. I en video, som blev viral med hjälp av bland andra Elon Musk och JD Vance, lyfte journalisten fram en skylt där ordet lärande – stavats fel som talande för ett system som enligt honom genomsyras av bedrägeri.",
+      "url": "https://svt.se/nyheter/utrikes/tim-walz-avbryter-sin-atervalskampanj",
       "domain": "svt.se",
-      "published": "2026-01-04T18:03:17Z"
+      "published": "2026-01-05T15:19:10Z"
+    },
+    {
+      "title": "EU:s reaktioner på USA:s ingripande i Venezuela försiktiga och splittrade",
+      "summary": "EU har dämpat reaktionen på USA: s agerande i Venezuela. Många EU - länder hänvisar till Europeiska unionens utrikespolitiska representant Kaja Kallas. Kallas uppmanade till ett fredligt, demokratiskt maktskifte och respekt för folkrätten och FN: s grundfördrag.",
+      "url": "https://yle.fi/a/7-10090849?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-05T13:03:49Z"
+    },
+    {
+      "title": "Mette Frederiksen svarar Trump om Grönland",
+      "summary": "Det är ingen hemlighet att Donald Trump är intresserad av Grönland, som är en del av Danmark. Under söndagen sa den amerikanska presidenten i en intervju med The Atlantic, att USA \" behöver \" Grönland. Han upprepade samma sak lite senare ombord på Air Force One på Grönland.",
+      "url": "https://svt.se/nyheter/utrikes/mette-frederiksen-svarar-trump-om-gronland",
+      "domain": "svt.se",
+      "published": "2026-01-04T19:36:35Z"
     },
     {
       "title": "Elisabeth Rehn fann avrättade män i Bosniens berg",
@@ -35,34 +49,6 @@
       "url": "https://yle.fi/a/7-10090018?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-04T11:15:16Z"
-    },
-    {
-      "title": "Korrespondenterna: Därför attackerar USA Venezuela",
-      "summary": "På lördagen genomförde USA attacker mot Venezuela. President Maduro och hans fru har tillfångatagits. De kommer nu att föras till New York, där de åtalas bland annat för narkotikaterrorism och vapenbrott riktade mot USA.",
-      "url": "https://svt.se/nyheter/utrikes/korrespondenterna-darfor-attackerar-usa-venezuela",
-      "domain": "svt.se",
-      "published": "2026-01-03T17:28:42Z"
-    },
-    {
-      "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
-      "summary": "Efter Bosnienkriget för 30 år sedan var det många som återvände från utlandet där de varit som flyktingar. De byggde upp husen igen, men det blev ingen ekonomisk utveckling. De for tillbaka till Österrike, Tyskland, Sverige och de andra länderna där de var som flyktingar men några stannade.",
-      "url": "https://yle.fi/a/7-10090184?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-03T05:18:20Z"
-    },
-    {
-      "title": "Barens ägare om branden: ”Vi är förkrossade",
-      "summary": "Branden bröt ut under nyårsnatten och orsakades sannolikt av isfacklor som förvarades på champagneflaskor. Den kvinnliga ägaren var själv på platsen då branden bröt ut och fick lindriga brännskador. Minst 40 personer dog i branden och 119 skadades.",
-      "url": "https://yle.fi/a/7-10090789?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-02T20:03:47Z"
-    },
-    {
-      "title": "Sprakande facklor pekas ut som mycket sannolik brandorsak i Schweiz",
-      "summary": "Brandorsaken är ännu inte fastställd, men mycket pekar enligt myndigheterna på att isfacklorna var orsaken. Man har uteslutit att det skulle ha varit fråga om en avsiktlig attack. Minst 40 personer miste livet i branden på nyårsnatten.",
-      "url": "https://yle.fi/a/7-10090784?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-02T16:08:08Z"
     }
   ]
 }

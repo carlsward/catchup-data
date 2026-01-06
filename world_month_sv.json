@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-05T07:43:18+00:00",
-  "total_raw": 40,
-  "total_rank": 4,
+  "generated": "2026-01-06T07:29:37+00:00",
+  "total_raw": 39,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump hotar att ingripa i fler länder",
-      "summary": "Trump sa att Colombia är sjukt, styrt av en sjuk man som gillar att tillverka kokain och sälja det till USA. Han sa också att Mexiko behöver göra mer för att stoppa narkotikasmugglingen genom landet. Han hänvisade då till den så kallade Monroedoktrinen, utfärdad av president James Monroe, som gick ut på att hålla de europeiska makterna borta från inflytande i Latinamerika.",
-      "url": "https://svt.se/nyheter/utrikes/trump-hotar-att-ingripa-i-fler-lander",
+      "title": "Protesterna i Iran",
+      "summary": "Protesterna började den 28 december när butiksägare i Teheran gick ut på gatorna i ilska över att den iranska rialen var på rekordlåg nivå. Landets ledare har även haft svårigheter att tillhandahålla elektricitet och vatten i hela landet året runt. USA: s president Donald Trump har varnat Irans ledare för att USA kommer till undsättning.",
+      "url": "https://svt.se/nyheter/utrikes/protesterna-i-iran-detta-har-hant-it3sco",
       "domain": "svt.se",
-      "published": "2026-01-05T03:41:12Z"
+      "published": "2026-01-06T07:02:52Z"
+    },
+    {
+      "title": "EU:s reaktioner på USA:s ingripande i Venezuela försiktiga och splittrade",
+      "summary": "EU har dämpat reaktionen på USA: s agerande i Venezuela. Många EU - länder hänvisar till Europeiska unionens utrikespolitiska representant Kaja Kallas. Kallas uppmanade till ett fredligt, demokratiskt maktskifte och respekt för folkrätten och FN: s grundfördrag.",
+      "url": "https://yle.fi/a/7-10090849?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-05T13:03:49Z"
     },
     {
       "title": "Elisabeth Rehn fann avrättade män i Bosniens berg",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10090018?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-04T11:15:16Z"
-    },
-    {
-      "title": "30 år efter kriget flyr muslimerna i Banja Luka i Bosnien igen: ”De vill inte bl…",
-      "summary": "Efter Bosnienkriget för 30 år sedan var det många som återvände från utlandet där de varit som flyktingar. De byggde upp husen igen, men det blev ingen ekonomisk utveckling. De for tillbaka till Österrike, Tyskland, Sverige och de andra länderna där de var som flyktingar men några stannade.",
-      "url": "https://yle.fi/a/7-10090184?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-03T05:18:20Z"
-    },
-    {
-      "title": "Sprakande facklor pekas ut som mycket sannolik brandorsak i Schweiz",
-      "summary": "Brandorsaken är ännu inte fastställd, men mycket pekar enligt myndigheterna på att isfacklorna var orsaken. Man har uteslutit att det skulle ha varit fråga om en avsiktlig attack. Minst 40 personer miste livet i branden på nyårsnatten.",
-      "url": "https://yle.fi/a/7-10090784?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-02T16:08:08Z"
     }
   ]
 }
