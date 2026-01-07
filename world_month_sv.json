@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-06T07:29:37+00:00",
+  "generated": "2026-01-07T07:29:35+00:00",
   "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Protesterna i Iran",
-      "summary": "Protesterna började den 28 december när butiksägare i Teheran gick ut på gatorna i ilska över att den iranska rialen var på rekordlåg nivå. Landets ledare har även haft svårigheter att tillhandahålla elektricitet och vatten i hela landet året runt. USA: s president Donald Trump har varnat Irans ledare för att USA kommer till undsättning.",
-      "url": "https://svt.se/nyheter/utrikes/protesterna-i-iran-detta-har-hant-it3sco",
-      "domain": "svt.se",
-      "published": "2026-01-06T07:02:52Z"
+      "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
+      "summary": "AI är bättre på att förutsäga samhällsproblem än människan, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. Hon arbetar för att lösa förtroendekrisen inom demokratin och ser ett problem i denna motsättning inom oss. Gilbert tar dåliga skolresultat som ett exempel, en fråga Storbritannien har brottats med i decennier utan att hitta en fungerande lösning på.",
+      "url": "https://yle.fi/a/7-10088750?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-07T06:01:44Z"
+    },
+    {
+      "title": "Valentina Ilieva bor i plastskjul för att vi ska få färska jordgubbar i februari",
+      "summary": "Huelva, södra Spanien, är hem för tusentals papperslösa invandrare. Industrin är ett enormt maskineri av entreprenörer som alla är beroende av snabb och billig arbetskraft. När bären mognar måste de plockas direkt och för hand, så arbetskraftsbehovet är enormt.",
+      "url": "https://yle.fi/a/7-10089890?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-06T09:30:14Z"
     },
     {
       "title": "EU:s reaktioner på USA:s ingripande i Venezuela försiktiga och splittrade",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10090849?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-05T13:03:49Z"
-    },
-    {
-      "title": "Elisabeth Rehn fann avrättade män i Bosniens berg",
-      "summary": "För att förstå hur grannar kunde vända sig mot varandra måste man förstå drömmen om Jugoslavien och hur det dog. Etniska spänningar före första världskriget lyder dagens Slovenien, Kroatien och Bosnien - Hercegovina under dubbelmonarkin Österrike - Ungern. Under Titos tid flyttar människor fritt inom landet.",
-      "url": "https://yle.fi/a/7-10090018?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-04T11:15:16Z"
     }
   ]
 }
