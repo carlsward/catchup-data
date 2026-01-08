@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-07T07:27:59+00:00",
-  "total_raw": 16,
+  "generated": "2026-01-08T07:27:34+00:00",
+  "total_raw": 21,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Valentina Ilieva bor i plastskjul för att vi ska få färska jordgubbar i februari",
-      "summary": "Huelva, södra Spanien, är hem för tusentals papperslösa invandrare. Industrin är ett enormt maskineri av entreprenörer som alla är beroende av snabb och billig arbetskraft. När bären mognar måste de plockas direkt och för hand, så arbetskraftsbehovet är enormt.",
-      "url": "https://yle.fi/a/7-10089890?origin=rss",
+      "title": "Venezuelaner i exil i Spanien firar Maduros fall",
+      "summary": "Över 200 000 venezuelaner bor i Madrid och firar Nicolás Maduros gripande. Många tolkar flytten som en negativ nyhet, att det är frågan om imperialism och att USA är ute efter naturresurserna i Venezuela. Nadia Tulipano tvingades fly Venezuela 2019 efter att ha fått ett tips om att hon och hennes bror var efterlysta.",
+      "url": "https://yle.fi/a/7-10090904?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-06T09:30:14Z"
+      "published": "2026-01-08T03:37:09Z"
     },
     {
-      "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
-      "summary": "AI är bättre på att förutsäga samhällsproblem än människan, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. Hon arbetar för att lösa förtroendekrisen inom demokratin och ser ett problem i denna motsättning inom oss. Gilbert tar dåliga skolresultat som ett exempel, en fråga Storbritannien har brottats med i decennier utan att hitta en fungerande lösning på.",
-      "url": "https://yle.fi/a/7-10088750?origin=rss",
+      "title": "USA bordade ryskflaggad oljetanker på flykt från Venezuela",
+      "summary": "USA: s kustbevakning har stoppat och bordat ett oljetransportfartyg som tidigare var på väg till Venezuela. Marinera bytte nyligen namn till Marinera och är nu registrerad i Ryssland. Ryssland meddelade nyligen att man skickat en ubåt och flera andra fartyg för att eskortera tankern.",
+      "url": "https://yle.fi/a/7-10090924?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-07T06:01:44Z"
+      "published": "2026-01-07T13:52:57Z"
     },
     {
-      "title": "Chatta med experterna om det spända omvärldsläget",
-      "summary": "Det finns inget som tyder på att händelserna i Venezuela direkt har påverkat grannländerna. Om landet faktiskt faller samman så kan andra länder påverkas negativt. Det är långt kvar och vägen är osäker.",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-experterna-om-det-spanda-omvarldslaget",
+      "title": "Irans president försöker blidka demonstranter efter en veckas dödliga våldsamhet…",
+      "summary": "Irans president Masoud Pezeshkian uppmanar landets säkerhetsstyrkor att inte attackera fredliga demonstranter som protesterar mot det katastrofala ekonomiska läget i Iran. Minst 36 personer, varav fyra barn och en medlem av säkerhetsstyrkorna, har dödats sedan protesterna började. Protesterna hade spridit sig till 27 av Irans 31 provinser, enligt HRANA.",
+      "url": "https://yle.fi/a/7-10090950?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-07T13:39:58Z"
+    },
+    {
+      "title": "Många resenärer fortsatt fast i Amsterdam",
+      "summary": "Både SAS och Finnair har ställt in många avgångar från Amsterdam. Problemet uppstår när det kommer för mycket snö och is på landningsbanan som inte hinner röjas. Det är logistiken på marken som påverkar resorna.",
+      "url": "https://svt.se/nyheter/utrikes/manga-resenarer-fortsatt-fast-i-amsterdam",
       "domain": "svt.se",
-      "published": "2026-01-07T06:08:02Z"
+      "published": "2026-01-07T15:58:04Z"
     },
     {
-      "title": "Analys: Därför kan USA:s anspråk på Grönland splittra Europa mer än Rysslands an…",
-      "summary": "Danmark och Grönland har begärt ett krismöte med USA: s utrikesminister Rubio. De oförblommerade amerikanska kraven på att kontrollera Grönland blottlägger icke desto mindre en geopolitisk kris som riskerar att splittra Europa och väst på ett sätt som kriget i Ukraina hittills inte kunnat göra. Krisen kan också ses som ett lackmustest för hur tungt grundläggande principer som FN: s stadga och den nationella självbestämmanderätten väger då de ställs mot USA.",
-      "url": "https://yle.fi/a/7-10090901?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-07T02:46:12Z"
-    },
-    {
-      "title": "Krismöte i Danmark efter USA:s Grönlandshot",
-      "summary": "Donald Trump sa att han är seriös när det gäller att ta över Grönland. Den tidigare stats - och utrikesministern Carl Bildt säger att USA har många maktmedel till förfogande. Det danska utrikesutskottet kallar till ett möte där man enligt ett pressmededlande ska diskutera \" kungarikets förhållande till USA \" Det är inte säkert att något nytt kommer ut från mötet, som sammankallades \" på extraordinära grunder \", säger TV2: s politiske redaktör Hans Redder.",
-      "url": "https://svt.se/nyheter/utrikes/krismote-i-danmark-efter-usas-gronlandshot",
+      "title": "Donald Trump och Gustavo Petro i samtal: ”Det svänger snabbt",
+      "summary": "Venezuelas president Gustavo Petro säger att han pratade med Donald Trump i telefon. Trump säger att mötet kommer att äga rum i Vita huset i Washington, D. C.",
+      "url": "https://svt.se/nyheter/utrikes/donald-trump-och-gustavo-petro-i-samtal-det-svanger-snabbt",
       "domain": "svt.se",
-      "published": "2026-01-06T09:34:23Z"
+      "published": "2026-01-08T06:50:57Z"
     }
   ]
 }

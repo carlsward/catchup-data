@@ -2,32 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-07T07:29:35+00:00",
+  "generated": "2026-01-08T07:29:30+00:00",
   "total_raw": 39,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Venezuelaner i exil i Spanien firar Maduros fall",
+      "summary": "Över 200 000 venezuelaner bor i Madrid och firar Nicolás Maduros gripande. Många tolkar flytten som en negativ nyhet, att det är frågan om imperialism och att USA är ute efter naturresurserna i Venezuela. Nadia Tulipano tvingades fly Venezuela 2019 efter att ha fått ett tips om att hon och hennes bror var efterlysta.",
+      "url": "https://yle.fi/a/7-10090904?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-08T03:37:09Z"
+    },
+    {
       "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
-      "summary": "AI är bättre på att förutsäga samhällsproblem än människan, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. Hon arbetar för att lösa förtroendekrisen inom demokratin och ser ett problem i denna motsättning inom oss. Gilbert tar dåliga skolresultat som ett exempel, en fråga Storbritannien har brottats med i decennier utan att hitta en fungerande lösning på.",
+      "summary": "AI är ett kraftfullt verktyg för att lösa samhällsproblem, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. De flesta politiska beslut fattas idag på den falska övertygelsen att vi är smartare än vi är. AI kan användas bara om det görs med fullständig öppenhet, säger hon.",
       "url": "https://yle.fi/a/7-10088750?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-07T06:01:44Z"
     },
     {
-      "title": "Valentina Ilieva bor i plastskjul för att vi ska få färska jordgubbar i februari",
-      "summary": "Huelva, södra Spanien, är hem för tusentals papperslösa invandrare. Industrin är ett enormt maskineri av entreprenörer som alla är beroende av snabb och billig arbetskraft. När bären mognar måste de plockas direkt och för hand, så arbetskraftsbehovet är enormt.",
-      "url": "https://yle.fi/a/7-10089890?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-06T09:30:14Z"
+      "title": "Danmark och Grönland begär krismöte med USA",
+      "summary": "Den danska och den grönländska regeringen har kontaktat amerikanska UD för att få till ett eget möte med USA: s utrikesminister. Marco Rubio, den danska utrikesministern Lars Løkke Rasmussen samt henne själv vill prata om att förvärva Grönland. Grönland har 57 000 invånare, cirka 20 000 bor i huvudstaden Nuuk.",
+      "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
+      "domain": "svt.se",
+      "published": "2026-01-06T18:38:08Z"
     },
     {
-      "title": "EU:s reaktioner på USA:s ingripande i Venezuela försiktiga och splittrade",
-      "summary": "EU har dämpat reaktionen på USA: s agerande i Venezuela. Många EU - länder hänvisar till Europeiska unionens utrikespolitiska representant Kaja Kallas. Kallas uppmanade till ett fredligt, demokratiskt maktskifte och respekt för folkrätten och FN: s grundfördrag.",
-      "url": "https://yle.fi/a/7-10090849?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-05T13:03:49Z"
+      "title": "SVT:s profiler svarar på frågor om världsläget",
+      "summary": "Klockan 21 på Trettondagen svarar Fouad Youcefi på frågor från tittarna. Skriv frågor om Venezuela, det oklara världsläget och konsekvenser för Sverige under valåret 2026. Du kommer inte att se din fråga direkt i liverapporten men SVT: s redaktörer tar emot den och gör sedan ett urval beroende på hur många frågor vi hinner besvara.",
+      "url": "https://svt.se/nyheter/utrikes/efter-venezuela-ni-fragar-vi-svarar",
+      "domain": "svt.se",
+      "published": "2026-01-05T15:54:18Z"
     }
   ]
 }

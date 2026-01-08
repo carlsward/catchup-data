@@ -2,14 +2,28 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-07T07:29:02+00:00",
+  "generated": "2026-01-08T07:28:51+00:00",
   "total_raw": 39,
-  "total_rank": 6,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Chatta med experterna om det spända omvärldsläget",
+      "title": "Donald Trump och Gustavo Petro i samtal: ”Det svänger snabbt",
+      "summary": "Venezuelas president Gustavo Petro säger att han pratade med Donald Trump i telefon. Trump säger att mötet kommer att äga rum i Vita huset i Washington, D. C.",
+      "url": "https://svt.se/nyheter/utrikes/donald-trump-och-gustavo-petro-i-samtal-det-svanger-snabbt",
+      "domain": "svt.se",
+      "published": "2026-01-08T06:50:57Z"
+    },
+    {
+      "title": "Venezuelaner i exil i Spanien firar Maduros fall",
+      "summary": "Över 200 000 venezuelaner bor i Madrid och firar Nicolás Maduros gripande. Många tolkar flytten som en negativ nyhet, att det är frågan om imperialism och att USA är ute efter naturresurserna i Venezuela. Nadia Tulipano tvingades fly Venezuela 2019 efter att ha fått ett tips om att hon och hennes bror var efterlysta.",
+      "url": "https://yle.fi/a/7-10090904?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-08T03:37:09Z"
+    },
+    {
+      "title": "Experterna svarade på frågor om det spända omvärldsläget",
       "summary": "Det finns inget som tyder på att händelserna i Venezuela direkt har påverkat grannländerna. Om landet faktiskt faller samman så kan andra länder påverkas negativt. Det är långt kvar och vägen är osäker.",
       "url": "https://svt.se/nyheter/utrikes/chatta-med-experterna-om-det-spanda-omvarldslaget",
       "domain": "svt.se",
@@ -17,38 +31,38 @@
     },
     {
       "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
-      "summary": "AI är bättre på att förutsäga samhällsproblem än människan, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. Hon arbetar för att lösa förtroendekrisen inom demokratin och ser ett problem i denna motsättning inom oss. Gilbert tar dåliga skolresultat som ett exempel, en fråga Storbritannien har brottats med i decennier utan att hitta en fungerande lösning på.",
+      "summary": "AI är ett kraftfullt verktyg för att lösa samhällsproblem, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. De flesta politiska beslut fattas idag på den falska övertygelsen att vi är smartare än vi är. AI kan användas bara om det görs med fullständig öppenhet, säger hon.",
       "url": "https://yle.fi/a/7-10088750?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-07T06:01:44Z"
     },
     {
-      "title": "Valentina Ilieva bor i plastskjul för att vi ska få färska jordgubbar i februari",
-      "summary": "Huelva, södra Spanien, är hem för tusentals papperslösa invandrare. Industrin är ett enormt maskineri av entreprenörer som alla är beroende av snabb och billig arbetskraft. När bären mognar måste de plockas direkt och för hand, så arbetskraftsbehovet är enormt.",
-      "url": "https://yle.fi/a/7-10089890?origin=rss",
+      "title": "Ukrainakoalition möttes i Paris",
+      "summary": "Alexander Stubb representerade Finland vid ett möte för europeiska och västliga ledare i Paris. Han säger att den internationella rättsordningen utmanas på ett sätt som utmanar hela systemets betydelse. Stubb betonar att alla beslut förbereds noggrant i enlighet med nationella processer.",
+      "url": "https://yle.fi/a/7-10090883?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-06T09:30:14Z"
+      "published": "2026-01-06T20:05:29Z"
     },
     {
-      "title": "Protesterna i Iran",
-      "summary": "Protesterna startade den 28 december när butiksägare i Teheran gick ut på gatorna i ilska över att den iranska rialen är på rekordlåg nivå. Regimen skyller bland annat på sanktioner mot Irans kärnenergiprogram, som har pressat ekonomin. Minst 29 demonstranter, fyra barn och två personer från Irans säkerhetsstyrkor, har dödats i vågen av protester, enligt aktivister.",
-      "url": "https://svt.se/nyheter/utrikes/protesterna-i-iran-detta-har-hant-it3sco",
+      "title": "Danmark och Grönland begär krismöte med USA",
+      "summary": "Den danska och den grönländska regeringen har kontaktat amerikanska UD för att få till ett eget möte med USA: s utrikesminister. Marco Rubio, den danska utrikesministern Lars Løkke Rasmussen samt henne själv vill prata om att förvärva Grönland. Grönland har 57 000 invånare, cirka 20 000 bor i huvudstaden Nuuk.",
+      "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
       "domain": "svt.se",
-      "published": "2026-01-06T07:02:52Z"
+      "published": "2026-01-06T18:38:08Z"
     },
     {
-      "title": "Tim Walz avbryter sin återvalskampanj",
-      "summary": "Tim Walz säger att han inte längre kan ge en politisk kampanj sitt allt. Uttalandet lägger i övrigt mycket fokus på de anklagelser om bedrägeri i delstaten som fått stor uppmärksamhet de senaste veckorna. I en video, som blev viral med hjälp av bland andra Elon Musk och JD Vance, lyfte journalisten fram en skylt där ordet lärande – stavats fel som talande för ett system som enligt honom genomsyras av bedrägeri.",
-      "url": "https://svt.se/nyheter/utrikes/tim-walz-avbryter-sin-atervalskampanj",
+      "title": "Därför kanske Colombia står näst på tur",
+      "summary": "Trump har uttryckt att det är en bra idé med militära insatser, även på colombiansk mark, något som fått Colombias president Gustavo Petro att reagera starkt. Se analysen i klippet ovan från SVT: s Tigran Feiler på plats i Colombias huvudstad Bogotá. Även när uttalanden från Trump om att Colombia kanske står näst på tur, har president Trump uttryckt sin önskan att militära insatser ska komma till Colombia.",
+      "url": "https://svt.se/nyheter/utrikes/darfor-star-colombia-kanske-nast-pa-tur",
       "domain": "svt.se",
-      "published": "2026-01-05T15:19:10Z"
+      "published": "2026-01-05T20:17:30Z"
     },
     {
-      "title": "EU:s reaktioner på USA:s ingripande i Venezuela försiktiga och splittrade",
-      "summary": "EU har dämpat reaktionen på USA: s agerande i Venezuela. Många EU - länder hänvisar till Europeiska unionens utrikespolitiska representant Kaja Kallas. Kallas uppmanade till ett fredligt, demokratiskt maktskifte och respekt för folkrätten och FN: s grundfördrag.",
-      "url": "https://yle.fi/a/7-10090849?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-05T13:03:49Z"
+      "title": "SVT:s profiler svarar på frågor om världsläget",
+      "summary": "Klockan 21 på Trettondagen svarar Fouad Youcefi på frågor från tittarna. Skriv frågor om Venezuela, det oklara världsläget och konsekvenser för Sverige under valåret 2026. Du kommer inte att se din fråga direkt i liverapporten men SVT: s redaktörer tar emot den och gör sedan ett urval beroende på hur många frågor vi hinner besvara.",
+      "url": "https://svt.se/nyheter/utrikes/efter-venezuela-ni-fragar-vi-svarar",
+      "domain": "svt.se",
+      "published": "2026-01-05T15:54:18Z"
     }
   ]
 }
