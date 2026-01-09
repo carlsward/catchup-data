@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-08T07:28:51+00:00",
-  "total_raw": 39,
+  "generated": "2026-01-09T07:34:07+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Donald Trump och Gustavo Petro i samtal: ”Det svänger snabbt",
-      "summary": "Venezuelas president Gustavo Petro säger att han pratade med Donald Trump i telefon. Trump säger att mötet kommer att äga rum i Vita huset i Washington, D. C.",
-      "url": "https://svt.se/nyheter/utrikes/donald-trump-och-gustavo-petro-i-samtal-det-svanger-snabbt",
-      "domain": "svt.se",
-      "published": "2026-01-08T06:50:57Z"
+      "title": "Protesterna sprider sig i Iran där internet stängts ned",
+      "summary": "Mashhad är Irans näst största stad med cirka tre miljoner invånare. Det är också Irans högsta ledare Ali Khameneis födelsestad. Videor på X visar stora mängder människor tåga längs olika gator i staden.",
+      "url": "https://yle.fi/a/7-10091059?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-09T04:43:26Z"
     },
     {
-      "title": "Venezuelaner i exil i Spanien firar Maduros fall",
-      "summary": "Över 200 000 venezuelaner bor i Madrid och firar Nicolás Maduros gripande. Många tolkar flytten som en negativ nyhet, att det är frågan om imperialism och att USA är ute efter naturresurserna i Venezuela. Nadia Tulipano tvingades fly Venezuela 2019 efter att ha fått ett tips om att hon och hennes bror var efterlysta.",
-      "url": "https://yle.fi/a/7-10090904?origin=rss",
+      "title": "Två skjutna av federal agent i Portland i USA",
+      "summary": "Två personer, en man och en kvinna, har förts till sjukhus med oklart skadeläge efter en skjutning som involverade federala agenter i Portland i delstaten Oregon. En agent ska ha skjutit i självförsvar medan föraren åkte iväg med en passagerare som enligt departementet skulle vara en illegal invandrare med koppling till ett kriminellt nätverk. Även föraren misstänks vara en gängmedlem.",
+      "url": "https://svt.se/nyheter/utrikes/tva-skjutna-under-protester-i-portland-i-usa",
+      "domain": "svt.se",
+      "published": "2026-01-08T23:57:46Z"
+    },
+    {
+      "title": "Hela Iran utan internet",
+      "summary": "Protesterna riktar sig mot skenande kostnader och sänkt levnadsstandard i Iran. Internet stängdes ner på torsdag, rapporterar Reuters. Irans statskontrollerade media bröt på fredagen tystnaden om demonstrationerna.",
+      "url": "https://svt.se/nyheter/utrikes/hela-iran-utan-internet",
+      "domain": "svt.se",
+      "published": "2026-01-08T17:39:04Z"
+    },
+    {
+      "title": "Trumps utspel om Grönland tvingar Danmark att göra upp med sin egen kolonialism",
+      "summary": "Danmark har anklagat USA för att bedriva påverkanskampanjer för att försöka sälja in tanken på USA: s närvaro på Grönland bland grönlänningarna. Grönland är också oroat för att de eldar på de grönländska krafter som länge verkat för ett självstyre. Att driva in kilar mellan Grönland och Danmark genom att lyfta upp det ojämlika förhållandet mellan det danska kungariket och dess forna koloni kan till viss del ha effekt, säger Peter Stadius, professor i Nordenforskning vid Helsingfors universitet.",
+      "url": "https://yle.fi/a/7-10091007?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-08T03:37:09Z"
+      "published": "2026-01-08T15:35:07Z"
+    },
+    {
+      "title": "Irans president försöker blidka demonstranter efter en veckas dödliga våldsamhet…",
+      "summary": "Irans president Masoud Pezeshkian uppmanar landets säkerhetsstyrkor att inte attackera fredliga demonstranter som protesterar mot det katastrofala ekonomiska läget i Iran. Minst 36 personer, varav fyra barn och en medlem av säkerhetsstyrkorna, har dödats sedan protesterna började. Protesterna hade spridit sig till 27 av Irans 31 provinser, enligt HRANA.",
+      "url": "https://yle.fi/a/7-10090950?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-07T13:39:58Z"
     },
     {
       "title": "Experterna svarade på frågor om det spända omvärldsläget",
@@ -30,18 +51,11 @@
       "published": "2026-01-07T06:08:02Z"
     },
     {
-      "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
-      "summary": "AI är ett kraftfullt verktyg för att lösa samhällsproblem, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. De flesta politiska beslut fattas idag på den falska övertygelsen att vi är smartare än vi är. AI kan användas bara om det görs med fullständig öppenhet, säger hon.",
-      "url": "https://yle.fi/a/7-10088750?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-07T06:01:44Z"
-    },
-    {
-      "title": "Ukrainakoalition möttes i Paris",
-      "summary": "Alexander Stubb representerade Finland vid ett möte för europeiska och västliga ledare i Paris. Han säger att den internationella rättsordningen utmanas på ett sätt som utmanar hela systemets betydelse. Stubb betonar att alla beslut förbereds noggrant i enlighet med nationella processer.",
-      "url": "https://yle.fi/a/7-10090883?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-06T20:05:29Z"
+      "title": "Skakigt omvärldsläge: SVT:s reportrar svarade på frågor",
+      "summary": "USA: s president Donald Trump har sagt att landet behöver Grönland. Frågan är hur långt USA är beredda att gå genomgående. Grönland är en självstyrande del av Danmark och att Danmark liksom USA är med i Nato, säger Regina Svedberg Ågren.",
+      "url": "https://svt.se/nyheter/utrikes/skakigt-omvarldslage-svts-reportrar-svarade-pa-fragor",
+      "domain": "svt.se",
+      "published": "2026-01-06T21:45:40Z"
     },
     {
       "title": "Danmark och Grönland begär krismöte med USA",
@@ -49,20 +63,6 @@
       "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
       "domain": "svt.se",
       "published": "2026-01-06T18:38:08Z"
-    },
-    {
-      "title": "Därför kanske Colombia står näst på tur",
-      "summary": "Trump har uttryckt att det är en bra idé med militära insatser, även på colombiansk mark, något som fått Colombias president Gustavo Petro att reagera starkt. Se analysen i klippet ovan från SVT: s Tigran Feiler på plats i Colombias huvudstad Bogotá. Även när uttalanden från Trump om att Colombia kanske står näst på tur, har president Trump uttryckt sin önskan att militära insatser ska komma till Colombia.",
-      "url": "https://svt.se/nyheter/utrikes/darfor-star-colombia-kanske-nast-pa-tur",
-      "domain": "svt.se",
-      "published": "2026-01-05T20:17:30Z"
-    },
-    {
-      "title": "SVT:s profiler svarar på frågor om världsläget",
-      "summary": "Klockan 21 på Trettondagen svarar Fouad Youcefi på frågor från tittarna. Skriv frågor om Venezuela, det oklara världsläget och konsekvenser för Sverige under valåret 2026. Du kommer inte att se din fråga direkt i liverapporten men SVT: s redaktörer tar emot den och gör sedan ett urval beroende på hur många frågor vi hinner besvara.",
-      "url": "https://svt.se/nyheter/utrikes/efter-venezuela-ni-fragar-vi-svarar",
-      "domain": "svt.se",
-      "published": "2026-01-05T15:54:18Z"
     }
   ]
 }

@@ -2,25 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-08T07:29:30+00:00",
-  "total_raw": 39,
+  "generated": "2026-01-09T07:34:54+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Venezuelaner i exil i Spanien firar Maduros fall",
-      "summary": "Över 200 000 venezuelaner bor i Madrid och firar Nicolás Maduros gripande. Många tolkar flytten som en negativ nyhet, att det är frågan om imperialism och att USA är ute efter naturresurserna i Venezuela. Nadia Tulipano tvingades fly Venezuela 2019 efter att ha fått ett tips om att hon och hennes bror var efterlysta.",
-      "url": "https://yle.fi/a/7-10090904?origin=rss",
+      "title": "Protesterna sprider sig i Iran där internet stängts ned",
+      "summary": "Mashhad är Irans näst största stad med cirka tre miljoner invånare. Det är också Irans högsta ledare Ali Khameneis födelsestad. Videor på X visar stora mängder människor tåga längs olika gator i staden.",
+      "url": "https://yle.fi/a/7-10091059?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-08T03:37:09Z"
+      "published": "2026-01-09T04:43:26Z"
     },
     {
-      "title": "Brittisk expert vill släppa AI lös i den offentliga förvaltningen",
-      "summary": "AI är ett kraftfullt verktyg för att lösa samhällsproblem, säger Laura Gilbert, direktör för AI vid Tony Blair Institute. De flesta politiska beslut fattas idag på den falska övertygelsen att vi är smartare än vi är. AI kan användas bara om det görs med fullständig öppenhet, säger hon.",
-      "url": "https://yle.fi/a/7-10088750?origin=rss",
+      "title": "Trumps utspel om Grönland tvingar Danmark att göra upp med sin egen kolonialism",
+      "summary": "Danmark har anklagat USA för att bedriva påverkanskampanjer för att försöka sälja in tanken på USA: s närvaro på Grönland bland grönlänningarna. Grönland är också oroat för att de eldar på de grönländska krafter som länge verkat för ett självstyre. Att driva in kilar mellan Grönland och Danmark genom att lyfta upp det ojämlika förhållandet mellan det danska kungariket och dess forna koloni kan till viss del ha effekt, säger Peter Stadius, professor i Nordenforskning vid Helsingfors universitet.",
+      "url": "https://yle.fi/a/7-10091007?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-07T06:01:44Z"
+      "published": "2026-01-08T15:35:07Z"
+    },
+    {
+      "title": "Experterna svarade på frågor om det spända omvärldsläget",
+      "summary": "Det finns inget som tyder på att händelserna i Venezuela direkt har påverkat grannländerna. Om landet faktiskt faller samman så kan andra länder påverkas negativt. Det är långt kvar och vägen är osäker.",
+      "url": "https://svt.se/nyheter/utrikes/chatta-med-experterna-om-det-spanda-omvarldslaget",
+      "domain": "svt.se",
+      "published": "2026-01-07T06:08:02Z"
     },
     {
       "title": "Danmark och Grönland begär krismöte med USA",
@@ -28,13 +35,6 @@
       "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
       "domain": "svt.se",
       "published": "2026-01-06T18:38:08Z"
-    },
-    {
-      "title": "SVT:s profiler svarar på frågor om världsläget",
-      "summary": "Klockan 21 på Trettondagen svarar Fouad Youcefi på frågor från tittarna. Skriv frågor om Venezuela, det oklara världsläget och konsekvenser för Sverige under valåret 2026. Du kommer inte att se din fråga direkt i liverapporten men SVT: s redaktörer tar emot den och gör sedan ett urval beroende på hur många frågor vi hinner besvara.",
-      "url": "https://svt.se/nyheter/utrikes/efter-venezuela-ni-fragar-vi-svarar",
-      "domain": "svt.se",
-      "published": "2026-01-05T15:54:18Z"
     }
   ]
 }
