@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-09T07:34:54+00:00",
+  "generated": "2026-01-10T07:24:47+00:00",
   "total_raw": 40,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Protesterna sprider sig i Iran där internet stängts ned",
-      "summary": "Mashhad är Irans näst största stad med cirka tre miljoner invånare. Det är också Irans högsta ledare Ali Khameneis födelsestad. Videor på X visar stora mängder människor tåga längs olika gator i staden.",
-      "url": "https://yle.fi/a/7-10091059?origin=rss",
+      "title": "USA har köpt stora territorier också tidigare",
+      "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
+      "url": "https://yle.fi/a/7-10091038?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-09T04:43:26Z"
+      "published": "2026-01-10T05:52:38Z"
+    },
+    {
+      "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
+      "summary": "En tillräcklig majoritet av EU - länderna stöder avtalet, vilket banar väg för att det kan undertecknas i Paraguay nästa vecka. Italien, som i fjol lyckades förhala avtalet, gav det avgörande stödet till det. Frankrike har lett ett försök att stoppa avtalet, men utan framgång.",
+      "url": "https://yle.fi/a/7-10091083?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-09T16:12:55Z"
     },
     {
       "title": "Trumps utspel om Grönland tvingar Danmark att göra upp med sin egen kolonialism",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10091007?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-08T15:35:07Z"
-    },
-    {
-      "title": "Experterna svarade på frågor om det spända omvärldsläget",
-      "summary": "Det finns inget som tyder på att händelserna i Venezuela direkt har påverkat grannländerna. Om landet faktiskt faller samman så kan andra länder påverkas negativt. Det är långt kvar och vägen är osäker.",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-experterna-om-det-spanda-omvarldslaget",
-      "domain": "svt.se",
-      "published": "2026-01-07T06:08:02Z"
-    },
-    {
-      "title": "Danmark och Grönland begär krismöte med USA",
-      "summary": "Den danska och den grönländska regeringen har kontaktat amerikanska UD för att få till ett eget möte med USA: s utrikesminister. Marco Rubio, den danska utrikesministern Lars Løkke Rasmussen samt henne själv vill prata om att förvärva Grönland. Grönland har 57 000 invånare, cirka 20 000 bor i huvudstaden Nuuk.",
-      "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
-      "domain": "svt.se",
-      "published": "2026-01-06T18:38:08Z"
     }
   ]
 }

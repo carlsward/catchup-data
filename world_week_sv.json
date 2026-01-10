@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-09T07:34:07+00:00",
+  "generated": "2026-01-10T07:24:14+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Protesterna sprider sig i Iran där internet stängts ned",
-      "summary": "Mashhad är Irans näst största stad med cirka tre miljoner invånare. Det är också Irans högsta ledare Ali Khameneis födelsestad. Videor på X visar stora mängder människor tåga längs olika gator i staden.",
-      "url": "https://yle.fi/a/7-10091059?origin=rss",
+      "title": "USA har köpt stora territorier också tidigare",
+      "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
+      "url": "https://yle.fi/a/7-10091038?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-09T04:43:26Z"
+      "published": "2026-01-10T05:52:38Z"
+    },
+    {
+      "title": "Australien utlyser katastrofläge",
+      "summary": "Tre personer var tidigare försvunna i Longwood i Victoria men hittades senare oskadda. Som mest har omkring 90 000 hushåll och företag varit strömlösa i landet. Flera totala eldningsförbud har utfärdats inför att temperaturen förväntas stiga till över 40 grader på lördag.",
+      "url": "https://svt.se/nyheter/utrikes/australien-utlyser-katastroflage",
+      "domain": "svt.se",
+      "published": "2026-01-09T23:41:48Z"
+    },
+    {
+      "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
+      "summary": "En tillräcklig majoritet av EU - länderna stöder avtalet, vilket banar väg för att det kan undertecknas i Paraguay nästa vecka. Italien, som i fjol lyckades förhala avtalet, gav det avgörande stödet till det. Frankrike har lett ett försök att stoppa avtalet, men utan framgång.",
+      "url": "https://yle.fi/a/7-10091083?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-09T16:12:55Z"
     },
     {
       "title": "Två skjutna av federal agent i Portland i USA",
-      "summary": "Två personer, en man och en kvinna, har förts till sjukhus med oklart skadeläge efter en skjutning som involverade federala agenter i Portland i delstaten Oregon. En agent ska ha skjutit i självförsvar medan föraren åkte iväg med en passagerare som enligt departementet skulle vara en illegal invandrare med koppling till ett kriminellt nätverk. Även föraren misstänks vara en gängmedlem.",
+      "summary": "Två personer, en man och en kvinna, har förts till sjukhus med oklart skadeläge efter en skjutning som involverar federala agenter i Portland, Oregon. ICE - agenterna utförde fordonskontroller när en förare \" vapeniserade \" sitt fordon, skriver Homeland Security. En agent ska ha avfyrat skott i självförsvar, medan föraren åkte iväg med en passagerare som enligt departementet skulle vara en illegal invandrare med koppling till ett kriminellt nätverk.",
       "url": "https://svt.se/nyheter/utrikes/tva-skjutna-under-protester-i-portland-i-usa",
       "domain": "svt.se",
       "published": "2026-01-08T23:57:46Z"
     },
     {
-      "title": "Hela Iran utan internet",
-      "summary": "Protesterna riktar sig mot skenande kostnader och sänkt levnadsstandard i Iran. Internet stängdes ner på torsdag, rapporterar Reuters. Irans statskontrollerade media bröt på fredagen tystnaden om demonstrationerna.",
+      "title": "Internet nedsläckt i Iran: ”Farhågan är att regimen ska slå till mot demonstrant…",
+      "summary": "Protesterna riktar sig mot skenande kostnader och sänkt levnadsstandard. Iran stängde ner tillgången till internet och internationella telefonsamtal på torsdag. Det är oklart hur mycket inflytande Reza Pahlavi har men nyhetsbyrån AP rapporterar att det i demonstrationerna förekommer slagord till stöd för shahen – rop som förr om åren har kunnat leda till dödsdomar i Iran.",
       "url": "https://svt.se/nyheter/utrikes/hela-iran-utan-internet",
       "domain": "svt.se",
       "published": "2026-01-08T17:39:04Z"
@@ -35,34 +49,6 @@
       "url": "https://yle.fi/a/7-10091007?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-08T15:35:07Z"
-    },
-    {
-      "title": "Irans president försöker blidka demonstranter efter en veckas dödliga våldsamhet…",
-      "summary": "Irans president Masoud Pezeshkian uppmanar landets säkerhetsstyrkor att inte attackera fredliga demonstranter som protesterar mot det katastrofala ekonomiska läget i Iran. Minst 36 personer, varav fyra barn och en medlem av säkerhetsstyrkorna, har dödats sedan protesterna började. Protesterna hade spridit sig till 27 av Irans 31 provinser, enligt HRANA.",
-      "url": "https://yle.fi/a/7-10090950?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-07T13:39:58Z"
-    },
-    {
-      "title": "Experterna svarade på frågor om det spända omvärldsläget",
-      "summary": "Det finns inget som tyder på att händelserna i Venezuela direkt har påverkat grannländerna. Om landet faktiskt faller samman så kan andra länder påverkas negativt. Det är långt kvar och vägen är osäker.",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-experterna-om-det-spanda-omvarldslaget",
-      "domain": "svt.se",
-      "published": "2026-01-07T06:08:02Z"
-    },
-    {
-      "title": "Skakigt omvärldsläge: SVT:s reportrar svarade på frågor",
-      "summary": "USA: s president Donald Trump har sagt att landet behöver Grönland. Frågan är hur långt USA är beredda att gå genomgående. Grönland är en självstyrande del av Danmark och att Danmark liksom USA är med i Nato, säger Regina Svedberg Ågren.",
-      "url": "https://svt.se/nyheter/utrikes/skakigt-omvarldslage-svts-reportrar-svarade-pa-fragor",
-      "domain": "svt.se",
-      "published": "2026-01-06T21:45:40Z"
-    },
-    {
-      "title": "Danmark och Grönland begär krismöte med USA",
-      "summary": "Den danska och den grönländska regeringen har kontaktat amerikanska UD för att få till ett eget möte med USA: s utrikesminister. Marco Rubio, den danska utrikesministern Lars Løkke Rasmussen samt henne själv vill prata om att förvärva Grönland. Grönland har 57 000 invånare, cirka 20 000 bor i huvudstaden Nuuk.",
-      "url": "https://svt.se/nyheter/utrikes/efter-krismotet-i-danmark-landerna-kraver-mote-med-usa",
-      "domain": "svt.se",
-      "published": "2026-01-06T18:38:08Z"
     }
   ]
 }
