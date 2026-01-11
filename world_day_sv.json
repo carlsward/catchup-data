@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-10T07:23:16+00:00",
-  "total_raw": 25,
+  "generated": "2026-01-11T07:39:04+00:00",
+  "total_raw": 22,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
-      "summary": "En tillräcklig majoritet av EU - länderna stöder avtalet, vilket banar väg för att det kan undertecknas i Paraguay nästa vecka. Italien, som i fjol lyckades förhala avtalet, gav det avgörande stödet till det. Frankrike har lett ett försök att stoppa avtalet, men utan framgång.",
-      "url": "https://yle.fi/a/7-10091083?origin=rss",
+      "title": "Sista vilan bredvid Jim Morrison? Nu lottas Paris mest eftertraktade gravar ut",
+      "summary": "Paris har infört ett begravningslotteri för kyrkogårdar, eller nekrosof som det heter på franska. Den som drar vinstlotten får inte bara en faktura på 4 000 euro – det finns ett krav till. Vinnaren måste rusta upp en övergiven grav på platsen, även om hen inte har någon koppling till familjen som vilar där.",
+      "url": "https://yle.fi/a/7-10089892?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-09T16:12:55Z"
+      "published": "2026-01-10T09:04:19Z"
     },
     {
-      "title": "Protester har förekommit i Iran tidigare",
-      "summary": "Mellanösternexperten säger att Iran sedan nittiotalet har sett protester komma och gå. Atarodi konstaterar att de ekonomiska problemen är svåra och att valutan har kollapsat. Affärsmän kan inte göra finansiella transaktioner med utlandet, bland annat på grund av sanktioner.",
-      "url": "https://yle.fi/a/7-10091014?origin=rss",
+      "title": "Protesterna i Iran: Shahens son i exil uppmanar folket att ockupera stadskärnor",
+      "summary": "Enligt människorättsorganisationer har minst 50 demonstranter dödats. Obekräftade rapporter från sjukhus pekar på att över 200 personer kan ha skjutits ihjäl enbart i huvudstaden Teheran. Exilprinsen Reza Pahlavi har under de senaste dagarna blivit en samlande figur för protesterna.",
+      "url": "https://yle.fi/a/7-10091135?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-09T11:40:15Z"
+      "published": "2026-01-10T12:49:10Z"
     },
     {
-      "title": "USA har köpt stora territorier också tidigare",
-      "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
-      "url": "https://yle.fi/a/7-10091038?origin=rss",
+      "title": "Oceanroddaren Jari Saario i sjönöd på Sydatlanten",
+      "summary": "Den finländska roddaren Jari Saario har hamnat i sjönöd och tvingats kalla på nödhjälp ute på Sydatlanten. Nödropet beror på att Saarios båt Clayton har skadats i ovanligt hård sjögång. Stödtrupperna hade haft kontakt med Saario igen vid niotiden på kvällen finsk tid.",
+      "url": "https://yle.fi/a/7-10091134?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-10T05:52:38Z"
+      "published": "2026-01-10T10:11:11Z"
     },
     {
-      "title": "Minnesstund för offren i branden i Crans-Montana",
-      "summary": "Fredagen den 9 januari är nationell sorgedag för offren som omkom i den allvarliga branden i Crans - Montana. 40 personer dog varav 26 personer var tonåringar, vissa inte mer än 14 – 15 år gamla. Ytterligare 116 personer skadades, varav flera allvarligt, i branden som Schweiz president Guy Parmelin beskrev som en av de värsta tragedierna landet någonsin upplevt.",
-      "url": "https://svt.se/nyheter/utrikes/minnesstund-for-offren-i-branden-i-crans-montana",
+      "title": "Syrien avslutar militär aktivitet i Aleppo",
+      "summary": "SDF säger att Syriens armé inte har kontroll över Sheikh Maksoud. Det är ett av de kurdiska styrkornas sista fästen i staden. Minst 21 personer har dödats i sammandrabbningarna och tiotusentals har flytt staden.",
+      "url": "https://svt.se/nyheter/utrikes/syrien-avslutar-militar-aktivitet-i-aleppo-tiotusentals-har-flytt",
       "domain": "svt.se",
-      "published": "2026-01-09T12:51:00Z"
+      "published": "2026-01-10T16:18:35Z"
     },
     {
-      "title": "Khamenei om demonstranterna: Vill göra Trump nöjd",
-      "summary": "Irans president Ali Khamenei talar i ett tv - sänt tal på fredag. Han säger att demonstranter förstör sina egna gator för att göra ett annat lands president nöjd. Iran har stängt ner internet, vilket landet brukar göra när det uppstår protester och demonstrationer.",
-      "url": "https://svt.se/nyheter/utrikes/khamenei-om-demonstranterna-vill-gora-trump-nojd",
+      "title": "Kina bygger för en ny världsordning",
+      "summary": "Kina vill skapa långsiktiga konkurrensfördelar genom AI, halvledare och grön teknik. Spänningarna i regionen ökar, inte minst gentemot Japan, vars nära band till USA gör landet särskilt känsligt i Pekings säkerhetspolitiska kalkyl. Mötet blir ett högintressant test av var den globala makten – som för tillfället tycks förskjutas österut – är på väg.",
+      "url": "https://svt.se/nyheter/utrikes/kina-bygger-for-en-ny-varldsordning",
       "domain": "svt.se",
-      "published": "2026-01-09T12:09:42Z"
+      "published": "2026-01-10T21:11:56Z"
     }
   ]
 }

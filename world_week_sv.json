@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-10T07:24:14+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-11T07:40:10+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Iran varnar för motangrepp om USA lägger sig i protesterna",
+      "summary": "USA: s president Donald Trump har kommenterat Iran på sin sociala medieplattform Truth Social. I ett inlägg skriver Trump att Iran vill ha frihet, kanske mer än någonsin, och att USA står redo att hjälpa. Enligt källorna har Israel höjt sin beredskap med anledning av möjligheten av en amerikansk intervention för att stödja de protester som pågår i Iran.",
+      "url": "https://yle.fi/a/7-10091156?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-11T07:26:44Z"
+    },
+    {
+      "title": "Iran varnar USA: En attack får konsekvenser",
+      "summary": "Minst 116 personer har dött i protesterna, säger HRANA. Sjukhuspersonal har talat med flera medier och vittnar om dubbelt så höga dödstal och att säkerhetsstyrkorna skjuter skarpt mot demonstranterna. Vita huset har varnat för att agera mot Iran.",
+      "url": "https://svt.se/nyheter/utrikes/iran-varnar-usa-en-attack-far-konsekvenser",
+      "domain": "svt.se",
+      "published": "2026-01-11T06:54:56Z"
+    },
+    {
+      "title": "Syrien avslutar militär aktivitet i Aleppo",
+      "summary": "SDF säger att Syriens armé inte har kontroll över Sheikh Maksoud. Det är ett av de kurdiska styrkornas sista fästen i staden. Minst 21 personer har dödats i sammandrabbningarna och tiotusentals har flytt staden.",
+      "url": "https://svt.se/nyheter/utrikes/syrien-avslutar-militar-aktivitet-i-aleppo-tiotusentals-har-flytt",
+      "domain": "svt.se",
+      "published": "2026-01-10T16:18:35Z"
+    },
     {
       "title": "USA har köpt stora territorier också tidigare",
       "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
       "url": "https://yle.fi/a/7-10091038?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-10T05:52:38Z"
-    },
-    {
-      "title": "Australien utlyser katastrofläge",
-      "summary": "Tre personer var tidigare försvunna i Longwood i Victoria men hittades senare oskadda. Som mest har omkring 90 000 hushåll och företag varit strömlösa i landet. Flera totala eldningsförbud har utfärdats inför att temperaturen förväntas stiga till över 40 grader på lördag.",
-      "url": "https://svt.se/nyheter/utrikes/australien-utlyser-katastroflage",
-      "domain": "svt.se",
-      "published": "2026-01-09T23:41:48Z"
     },
     {
       "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
@@ -30,25 +44,11 @@
       "published": "2026-01-09T16:12:55Z"
     },
     {
-      "title": "Två skjutna av federal agent i Portland i USA",
-      "summary": "Två personer, en man och en kvinna, har förts till sjukhus med oklart skadeläge efter en skjutning som involverar federala agenter i Portland, Oregon. ICE - agenterna utförde fordonskontroller när en förare \" vapeniserade \" sitt fordon, skriver Homeland Security. En agent ska ha avfyrat skott i självförsvar, medan föraren åkte iväg med en passagerare som enligt departementet skulle vara en illegal invandrare med koppling till ett kriminellt nätverk.",
-      "url": "https://svt.se/nyheter/utrikes/tva-skjutna-under-protester-i-portland-i-usa",
-      "domain": "svt.se",
-      "published": "2026-01-08T23:57:46Z"
-    },
-    {
-      "title": "Internet nedsläckt i Iran: ”Farhågan är att regimen ska slå till mot demonstrant…",
-      "summary": "Protesterna riktar sig mot skenande kostnader och sänkt levnadsstandard. Iran stängde ner tillgången till internet och internationella telefonsamtal på torsdag. Det är oklart hur mycket inflytande Reza Pahlavi har men nyhetsbyrån AP rapporterar att det i demonstrationerna förekommer slagord till stöd för shahen – rop som förr om åren har kunnat leda till dödsdomar i Iran.",
-      "url": "https://svt.se/nyheter/utrikes/hela-iran-utan-internet",
-      "domain": "svt.se",
-      "published": "2026-01-08T17:39:04Z"
-    },
-    {
-      "title": "Trumps utspel om Grönland tvingar Danmark att göra upp med sin egen kolonialism",
-      "summary": "Danmark har anklagat USA för att bedriva påverkanskampanjer för att försöka sälja in tanken på USA: s närvaro på Grönland bland grönlänningarna. Grönland är också oroat för att de eldar på de grönländska krafter som länge verkat för ett självstyre. Att driva in kilar mellan Grönland och Danmark genom att lyfta upp det ojämlika förhållandet mellan det danska kungariket och dess forna koloni kan till viss del ha effekt, säger Peter Stadius, professor i Nordenforskning vid Helsingfors universitet.",
-      "url": "https://yle.fi/a/7-10091007?origin=rss",
+      "title": "Protester har förekommit i Iran tidigare",
+      "summary": "Mellanösternexperten säger att Iran sedan nittiotalet har sett protester komma och gå. Atarodi konstaterar att de ekonomiska problemen är svåra och att valutan har kollapsat. Affärsmän kan inte göra finansiella transaktioner med utlandet, bland annat på grund av sanktioner.",
+      "url": "https://yle.fi/a/7-10091014?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-08T15:35:07Z"
+      "published": "2026-01-09T11:40:15Z"
     }
   ]
 }
