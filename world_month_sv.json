@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-11T07:40:45+00:00",
+  "generated": "2026-01-12T07:38:18+00:00",
   "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Iran varnar USA: En attack får konsekvenser",
-      "summary": "Minst 116 personer har dött i protesterna, säger HRANA. Sjukhuspersonal har talat med flera medier och vittnar om dubbelt så höga dödstal och att säkerhetsstyrkorna skjuter skarpt mot demonstranterna. Vita huset har varnat för att agera mot Iran.",
-      "url": "https://svt.se/nyheter/utrikes/iran-varnar-usa-en-attack-far-konsekvenser",
-      "domain": "svt.se",
-      "published": "2026-01-11T06:54:56Z"
+      "title": "Trump säger att Iran vill förhandla: ”Jag tror de är trötta på att få stryk av U…",
+      "summary": "USA: s president Donald Trump sa att Irans regering har tagit kontakt med USA. Han tillade att USA kan känna sig tvunget att gå till attack mot Iran innan mötet blir verklighet. Iran har anklagat USA och Israel för att stödja demonstrationerna och uppvigla till oroligheter och upplopp i Iran.",
+      "url": "https://yle.fi/a/7-10091179?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-12T05:03:10Z"
+    },
+    {
+      "title": "Acrobat har försvarat frontstaden Izium i fyra år och vet vad Ryssland är redo a…",
+      "summary": "Izium är en av huvudbaserna för Ukrainas 3: e stormbrigad. Soldaterna har fört med sig nytt liv till staden och flera kaféer och andra små företag har öppnat för att möta soldaternas behov. Staden är nu i högsta grad en frontstad och har 27 500 invånare jämfört med 35 000 före kriget.",
+      "url": "https://yle.fi/a/7-10090909?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-11T09:58:47Z"
     },
     {
       "title": "USA har köpt stora territorier också tidigare",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10091038?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-10T05:52:38Z"
-    },
-    {
-      "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
-      "summary": "En tillräcklig majoritet av EU - länderna stöder avtalet, vilket banar väg för att det kan undertecknas i Paraguay nästa vecka. Italien, som i fjol lyckades förhala avtalet, gav det avgörande stödet till det. Frankrike har lett ett försök att stoppa avtalet, men utan framgång.",
-      "url": "https://yle.fi/a/7-10091083?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-09T16:12:55Z"
     }
   ]
 }

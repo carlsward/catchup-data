@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-11T07:40:10+00:00",
+  "generated": "2026-01-12T07:37:41+00:00",
   "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Iran varnar för motangrepp om USA lägger sig i protesterna",
-      "summary": "USA: s president Donald Trump har kommenterat Iran på sin sociala medieplattform Truth Social. I ett inlägg skriver Trump att Iran vill ha frihet, kanske mer än någonsin, och att USA står redo att hjälpa. Enligt källorna har Israel höjt sin beredskap med anledning av möjligheten av en amerikansk intervention för att stödja de protester som pågår i Iran.",
-      "url": "https://yle.fi/a/7-10091156?origin=rss",
+      "title": "Trump säger att Iran vill förhandla: ”Jag tror de är trötta på att få stryk av U…",
+      "summary": "USA: s president Donald Trump sa att Irans regering har tagit kontakt med USA. Han tillade att USA kan känna sig tvunget att gå till attack mot Iran innan mötet blir verklighet. Iran har anklagat USA och Israel för att stödja demonstrationerna och uppvigla till oroligheter och upplopp i Iran.",
+      "url": "https://yle.fi/a/7-10091179?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-11T07:26:44Z"
+      "published": "2026-01-12T05:03:10Z"
     },
     {
-      "title": "Iran varnar USA: En attack får konsekvenser",
-      "summary": "Minst 116 personer har dött i protesterna, säger HRANA. Sjukhuspersonal har talat med flera medier och vittnar om dubbelt så höga dödstal och att säkerhetsstyrkorna skjuter skarpt mot demonstranterna. Vita huset har varnat för att agera mot Iran.",
-      "url": "https://svt.se/nyheter/utrikes/iran-varnar-usa-en-attack-far-konsekvenser",
+      "title": "Statsanställda i Iran uppmanas gå med i protester",
+      "summary": "Reza Pahlavi eldar på protestvågen i Iran och manar till folklig resning. Hur mycket inflytande han har nu är osäkert, men nyhetsbyrån AP har tidigare rapporterat att det i demonstrationerna förekommer slagord till stöd för shahen – rop som förr om åren har kunnat leda till dödsdomar i Iran. Efter 12 - dagarsskriget mot Israel i juni anser bedömare att regimen i Teheran är svagare än på mycket länge.",
+      "url": "https://svt.se/nyheter/utrikes/statsanstallda-i-iran-uppmanas-ga-med-i-protester",
       "domain": "svt.se",
-      "published": "2026-01-11T06:54:56Z"
+      "published": "2026-01-12T03:36:09Z"
     },
     {
-      "title": "Syrien avslutar militär aktivitet i Aleppo",
-      "summary": "SDF säger att Syriens armé inte har kontroll över Sheikh Maksoud. Det är ett av de kurdiska styrkornas sista fästen i staden. Minst 21 personer har dödats i sammandrabbningarna och tiotusentals har flytt staden.",
-      "url": "https://svt.se/nyheter/utrikes/syrien-avslutar-militar-aktivitet-i-aleppo-tiotusentals-har-flytt",
+      "title": "SVT:s korrespondenter svarade på frågor om demonstrationerna i Iran",
+      "summary": "Ställ dina frågor om demonstrationerna i Iran Niki • Trump är en affärsman som vill se stark ut för sina väljare. USA kan absolut tänka sig att göra olika mindre och billigare ( mätt i olika resurser ) tillslag mot länder men vill i grund och botten att länder gör som USA vill att de ska göra. Det är inte mitt jobb att ha åsikter om vad som är bra eller dåligt i det avseendet.",
+      "url": "https://svt.se/nyheter/utrikes/stall-dina-fragor-om-demonstrationerna-i-iran",
       "domain": "svt.se",
-      "published": "2026-01-10T16:18:35Z"
+      "published": "2026-01-11T15:34:47Z"
+    },
+    {
+      "title": "Acrobat har försvarat frontstaden Izium i fyra år och vet vad Ryssland är redo a…",
+      "summary": "Izium är en av huvudbaserna för Ukrainas 3: e stormbrigad. Soldaterna har fört med sig nytt liv till staden och flera kaféer och andra små företag har öppnat för att möta soldaternas behov. Staden är nu i högsta grad en frontstad och har 27 500 invånare jämfört med 35 000 före kriget.",
+      "url": "https://yle.fi/a/7-10090909?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-11T09:58:47Z"
+    },
+    {
+      "title": "Kina bygger för en ny världsordning",
+      "summary": "Kina vill skapa långsiktiga konkurrensfördelar genom AI, halvledare och grön teknik. Spänningarna i regionen ökar, inte minst gentemot Japan, vars nära band till USA gör landet särskilt känsligt i Pekings säkerhetspolitiska kalkyl. Mötet blir ett högintressant test av var den globala makten – som för tillfället tycks förskjutas österut – är på väg.",
+      "url": "https://svt.se/nyheter/utrikes/kina-bygger-for-en-ny-varldsordning",
+      "domain": "svt.se",
+      "published": "2026-01-10T21:11:56Z"
     },
     {
       "title": "USA har köpt stora territorier också tidigare",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10091038?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-10T05:52:38Z"
-    },
-    {
-      "title": "EU-länder godkände frihandelsavtalet Mercosur efter 25 år av förhandlingar",
-      "summary": "En tillräcklig majoritet av EU - länderna stöder avtalet, vilket banar väg för att det kan undertecknas i Paraguay nästa vecka. Italien, som i fjol lyckades förhala avtalet, gav det avgörande stödet till det. Frankrike har lett ett försök att stoppa avtalet, men utan framgång.",
-      "url": "https://yle.fi/a/7-10091083?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-09T16:12:55Z"
-    },
-    {
-      "title": "Protester har förekommit i Iran tidigare",
-      "summary": "Mellanösternexperten säger att Iran sedan nittiotalet har sett protester komma och gå. Atarodi konstaterar att de ekonomiska problemen är svåra och att valutan har kollapsat. Affärsmän kan inte göra finansiella transaktioner med utlandet, bland annat på grund av sanktioner.",
-      "url": "https://yle.fi/a/7-10091014?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-09T11:40:15Z"
     }
   ]
 }
