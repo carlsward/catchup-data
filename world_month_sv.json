@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-12T07:38:18+00:00",
-  "total_raw": 39,
+  "generated": "2026-01-13T07:29:05+00:00",
+  "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump säger att Iran vill förhandla: ”Jag tror de är trötta på att få stryk av U…",
-      "summary": "USA: s president Donald Trump sa att Irans regering har tagit kontakt med USA. Han tillade att USA kan känna sig tvunget att gå till attack mot Iran innan mötet blir verklighet. Iran har anklagat USA och Israel för att stödja demonstrationerna och uppvigla till oroligheter och upplopp i Iran.",
-      "url": "https://yle.fi/a/7-10091179?origin=rss",
+      "title": "Österbottniska iranier oroliga för anhöriga under protesterna: ”Det sista jag hö…",
+      "summary": "Iranierna som bor i Österbotten får inte kontakt med släktingar och vänner, förutom några få och sporadiska textmeddelanden som slinker igenom. De två berättar att så gott som all internettrafik ligger nere för fjärde dagen i rad i Iran. Deras släktingar har deltagit i protesterna och situationen förvärrades snabbt.",
+      "url": "https://yle.fi/a/7-10091223?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-12T05:03:10Z"
+      "published": "2026-01-13T04:06:54Z"
+    },
+    {
+      "title": "De amerikanska börserna i gungning efter brottsutredning mot landets centralbank…",
+      "summary": "USA: s justitieministerium inleder en brottsutredning mot Jerome Powell. Terminskontrakt på aktier föll och den amerikanska dollarn tappade i värde efter beskedet. Priset på guld steg med omkring 2 procent, medan silver ökade med drygt 5 procent.",
+      "url": "https://yle.fi/a/7-10091232?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-12T16:15:26Z"
     },
     {
       "title": "Acrobat har försvarat frontstaden Izium i fyra år och vet vad Ryssland är redo a…",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10090909?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-11T09:58:47Z"
-    },
-    {
-      "title": "USA har köpt stora territorier också tidigare",
-      "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
-      "url": "https://yle.fi/a/7-10091038?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-10T05:52:38Z"
     }
   ]
 }

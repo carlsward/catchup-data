@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-12T07:37:41+00:00",
-  "total_raw": 39,
+  "generated": "2026-01-13T07:28:29+00:00",
+  "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump säger att Iran vill förhandla: ”Jag tror de är trötta på att få stryk av U…",
-      "summary": "USA: s president Donald Trump sa att Irans regering har tagit kontakt med USA. Han tillade att USA kan känna sig tvunget att gå till attack mot Iran innan mötet blir verklighet. Iran har anklagat USA och Israel för att stödja demonstrationerna och uppvigla till oroligheter och upplopp i Iran.",
-      "url": "https://yle.fi/a/7-10091179?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-12T05:03:10Z"
+      "title": "13 januari: Nattens nyheter",
+      "summary": "Nora Lindahl har representerat Sverige i VM och OS. Men nu vill hon tävla för Finland istället. Minst två personer har dödats och flera skadats i ryska attacker mot Charkiv, enligt guvernören Oleh Synehubov.",
+      "url": "https://svt.se/nyheter/utrikes/13-januari-nattens-nyheter-t8xfqf",
+      "domain": "svt.se",
+      "published": "2026-01-13T04:27:33Z"
     },
     {
-      "title": "Statsanställda i Iran uppmanas gå med i protester",
-      "summary": "Reza Pahlavi eldar på protestvågen i Iran och manar till folklig resning. Hur mycket inflytande han har nu är osäkert, men nyhetsbyrån AP har tidigare rapporterat att det i demonstrationerna förekommer slagord till stöd för shahen – rop som förr om åren har kunnat leda till dödsdomar i Iran. Efter 12 - dagarsskriget mot Israel i juni anser bedömare att regimen i Teheran är svagare än på mycket länge.",
-      "url": "https://svt.se/nyheter/utrikes/statsanstallda-i-iran-uppmanas-ga-med-i-protester",
+      "title": "Österbottniska iranier oroliga för anhöriga under protesterna: ”Det sista jag hö…",
+      "summary": "Iranierna som bor i Österbotten får inte kontakt med släktingar och vänner, förutom några få och sporadiska textmeddelanden som slinker igenom. De två berättar att så gott som all internettrafik ligger nere för fjärde dagen i rad i Iran. Deras släktingar har deltagit i protesterna och situationen förvärrades snabbt.",
+      "url": "https://yle.fi/a/7-10091223?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-13T04:06:54Z"
+    },
+    {
+      "title": "Mark Rutte om Grönland: Ingen intern kris i Nato",
+      "summary": "Regeringskoalitionen kan inte acceptera detta på något sätt, säger Grönland. Grönland är en del av det danska kungadömet, och därmed en Nato - del. USA kommer att få Grönland på ett eller annat sätt, menar han nu, och en militär aktion har inte uteslutits.",
+      "url": "https://svt.se/nyheter/utrikes/mark-rutte-om-gronland-ingen-intern-kris-i-nato",
       "domain": "svt.se",
-      "published": "2026-01-12T03:36:09Z"
+      "published": "2026-01-12T17:02:06Z"
+    },
+    {
+      "title": "De amerikanska börserna i gungning efter brottsutredning mot landets centralbank…",
+      "summary": "USA: s justitieministerium inleder en brottsutredning mot Jerome Powell. Terminskontrakt på aktier föll och den amerikanska dollarn tappade i värde efter beskedet. Priset på guld steg med omkring 2 procent, medan silver ökade med drygt 5 procent.",
+      "url": "https://yle.fi/a/7-10091232?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-12T16:15:26Z"
     },
     {
       "title": "SVT:s korrespondenter svarade på frågor om demonstrationerna i Iran",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10090909?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-11T09:58:47Z"
-    },
-    {
-      "title": "Kina bygger för en ny världsordning",
-      "summary": "Kina vill skapa långsiktiga konkurrensfördelar genom AI, halvledare och grön teknik. Spänningarna i regionen ökar, inte minst gentemot Japan, vars nära band till USA gör landet särskilt känsligt i Pekings säkerhetspolitiska kalkyl. Mötet blir ett högintressant test av var den globala makten – som för tillfället tycks förskjutas österut – är på väg.",
-      "url": "https://svt.se/nyheter/utrikes/kina-bygger-for-en-ny-varldsordning",
-      "domain": "svt.se",
-      "published": "2026-01-10T21:11:56Z"
-    },
-    {
-      "title": "USA har köpt stora territorier också tidigare",
-      "summary": "Louisianaköpet, som både var det första köpet och ett av de största, gjordes 1803 och fördubblade på papper USA: s storlek. Området köptes av Napoleons Frankrike och omfattade inte bara delar av det som i dag är delstaten Louisiana, utan så gott som hela den mellersta delen av dagens USA, från Mexikanska golfen till Kanada. USA och Danmark kom till slut överens om en summa på 25 miljoner dollar, i dag värt ungefär 600 miljoner dollar.",
-      "url": "https://yle.fi/a/7-10091038?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-10T05:52:38Z"
     }
   ]
 }
