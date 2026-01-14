@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-13T07:27:25+00:00",
-  "total_raw": 18,
+  "generated": "2026-01-14T07:34:43+00:00",
+  "total_raw": 25,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Österbottniska iranier oroliga för anhöriga under protesterna: ”Det sista jag hö…",
-      "summary": "Iranierna som bor i Österbotten får inte kontakt med släktingar och vänner, förutom några få och sporadiska textmeddelanden som slinker igenom. De två berättar att så gott som all internettrafik ligger nere för fjärde dagen i rad i Iran. Deras släktingar har deltagit i protesterna och situationen förvärrades snabbt.",
-      "url": "https://yle.fi/a/7-10091223?origin=rss",
+      "title": "Trumps krav på Grönland hotar Nato i grunden, säger expert inför avgörande möte",
+      "summary": "Danmarks, Grönlands och USA: s utrikesministrar ska mötas i Washington i dag. Danmarks statsminister Mette Frederiksen varnar för att ett övertagande av Grönland kan innebära slutet för Nato. Armida van Rij vid tankesmedjan Centre for European Reform håller med.",
+      "url": "https://yle.fi/a/7-10091218?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-13T04:06:54Z"
+      "published": "2026-01-14T03:30:14Z"
     },
     {
-      "title": "De amerikanska börserna i gungning efter brottsutredning mot landets centralbank…",
-      "summary": "USA: s justitieministerium inleder en brottsutredning mot Jerome Powell. Terminskontrakt på aktier föll och den amerikanska dollarn tappade i värde efter beskedet. Priset på guld steg med omkring 2 procent, medan silver ökade med drygt 5 procent.",
-      "url": "https://yle.fi/a/7-10091232?origin=rss",
+      "title": "Det blir inte lätt för EU att förbjuda importen av rysk gödsel",
+      "summary": "Utrikesministrarna Maria Malmer Stenergard och Elina Valtonen presenterade sina förslag på måndag. Det råder redan importförbud för gödsel, men det finns undantag till regeln. Skärpta sanktioner kan höja livsmedelspriserna EU fattade i fjol beslut om att införa tullar på jordbruksprodukter och gödselmedel från Ryssland och Belarus, som hittills inte omfattats av extra tullar.",
+      "url": "https://yle.fi/a/7-10091314?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-12T16:15:26Z"
+      "published": "2026-01-13T16:00:29Z"
     },
     {
-      "title": "Så här kan Europa sätta stopp för Trumps Grönlandsplaner",
-      "summary": "Grönlands policyanalytiker Maria Martisiute säger att Europa borde ha förberett sig bättre. Hon anser att Danmark, Grönland, EU och Nato borde göra mer för att förhindra att Grönland blir en del av USA. Grönland är öppet för investeringar, men invånarna vill att pengarna ska stärka Grönlands ekonomi, inte till danska, amerikanska eller europeiska företag.",
-      "url": "https://yle.fi/a/7-10091105?origin=rss",
+      "title": "Europaparlamentariker stödjer Natotrupper till Grönland: ”Bra initiativ att stär…",
+      "summary": "Tyskland har öppnat för att skicka europeiska Natotrupper till Grönland. Sveriges socialdemokratiska partiledare Magdalena Andersson sade vid den årliga säkerhetskonferensen i Sälen att hon är villig att skicka svenska soldater dit. Europaparlamentariker Anna - Maja Henriksson ( SFP ) välkomnar det tyska initiativet.",
+      "url": "https://yle.fi/a/7-10091208?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-12T15:08:00Z"
+      "published": "2026-01-13T13:31:58Z"
     },
     {
-      "title": "Mark Rutte om Grönland: Ingen intern kris i Nato",
-      "summary": "Regeringskoalitionen kan inte acceptera detta på något sätt, säger Grönland. Grönland är en del av det danska kungadömet, och därmed en Nato - del. USA kommer att få Grönland på ett eller annat sätt, menar han nu, och en militär aktion har inte uteslutits.",
-      "url": "https://svt.se/nyheter/utrikes/mark-rutte-om-gronland-ingen-intern-kris-i-nato",
+      "title": "Hanif Bali kände ”mikroskopisk strimma hopp”",
+      "summary": "Över 500 personer uppges ha dödats och tusentals personer ska ha gripits. I torsdags släcktes internet ned av regimen och telefonsamtal har inte nått fram. De kan döda och tysta utan att omvärlden är vittne \", säger dokumentärfilmaren Nima Sarvestani.",
+      "url": "https://svt.se/nyheter/utrikes/hanif-bali-kande-mikroskopisk-strimma-hopp-slacktes",
       "domain": "svt.se",
-      "published": "2026-01-12T17:02:06Z"
+      "published": "2026-01-13T08:46:02Z"
     },
     {
-      "title": "Amnesty om protesterna i Iran: Använder jaktammunition",
-      "summary": "Över 500 personer uppges ha dödats i Iran under protesterna som nu pågått i två veckor. Amnesty International arbetar med att dokumentera vad som sker, bland annat genom att prata med personer på plats i Iran. Det är svårt.",
-      "url": "https://svt.se/nyheter/utrikes/amnesty-om-protesterna-i-iran-anvander-jaktammunition",
+      "title": "Experten om USA:s plan för Iran: ”Kommer bomba",
+      "summary": "I ett inlägg på sociala medier skriver USA: s president Donald Trump att man ställer in alla möten med Iran. Han uppmanar demonstranterna att fortsätta protestera och ta över institutioner. Jan Hallenberg, seniorforskare vid Utrikespolitiska institutet, säger att attacken kommer att riktas mot militära baser i landet.",
+      "url": "https://svt.se/nyheter/utrikes/experten-om-usas-plan-for-iran-kommer-bomba",
       "domain": "svt.se",
-      "published": "2026-01-12T19:26:16Z"
+      "published": "2026-01-13T20:42:54Z"
     }
   ]
 }

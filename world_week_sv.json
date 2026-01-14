@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-13T07:28:29+00:00",
+  "generated": "2026-01-14T07:35:59+00:00",
   "total_raw": 40,
-  "total_rank": 6,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "13 januari: Nattens nyheter",
-      "summary": "Nora Lindahl har representerat Sverige i VM och OS. Men nu vill hon tävla för Finland istället. Minst två personer har dödats och flera skadats i ryska attacker mot Charkiv, enligt guvernören Oleh Synehubov.",
-      "url": "https://svt.se/nyheter/utrikes/13-januari-nattens-nyheter-t8xfqf",
+      "title": "Trumps krav på Grönland hotar Nato i grunden, säger expert inför avgörande möte",
+      "summary": "Danmarks, Grönlands och USA: s utrikesministrar ska mötas i Washington i dag. Danmarks statsminister Mette Frederiksen varnar för att ett övertagande av Grönland kan innebära slutet för Nato. Armida van Rij vid tankesmedjan Centre for European Reform håller med.",
+      "url": "https://yle.fi/a/7-10091218?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-14T03:30:14Z"
+    },
+    {
+      "title": "Nato-tungviktaren om Trumps hot om Grönland: ”Jag hade vägrat lyda order",
+      "summary": "Den tidigare generallöjtnanten Ben Hodges säger att en amerikansk erövring av Grönland är osannolikt. Han säger att han skulle bli avskedad omedelbart, men hans ed gäller konstitutionen. Ingen tror på säkerhetsproblemet, eftersom USA redan har möjlighet att ha soldater på Grönland \", uppger han.",
+      "url": "https://svt.se/nyheter/utrikes/nato-tungviktaren-om-trumps-hot-om-gronland-jag-hade-vagrat-lyda-order",
       "domain": "svt.se",
-      "published": "2026-01-13T04:27:33Z"
+      "published": "2026-01-14T01:55:48Z"
+    },
+    {
+      "title": "Experten om USA:s plan för Iran: ”Kommer bomba",
+      "summary": "I ett inlägg på sociala medier skriver USA: s president Donald Trump att man ställer in alla möten med Iran. Han uppmanar demonstranterna att fortsätta protestera och ta över institutioner. Jan Hallenberg, seniorforskare vid Utrikespolitiska institutet, säger att attacken kommer att riktas mot militära baser i landet.",
+      "url": "https://svt.se/nyheter/utrikes/experten-om-usas-plan-for-iran-kommer-bomba",
+      "domain": "svt.se",
+      "published": "2026-01-13T20:42:54Z"
     },
     {
       "title": "Österbottniska iranier oroliga för anhöriga under protesterna: ”Det sista jag hö…",
@@ -23,11 +37,11 @@
       "published": "2026-01-13T04:06:54Z"
     },
     {
-      "title": "Mark Rutte om Grönland: Ingen intern kris i Nato",
-      "summary": "Regeringskoalitionen kan inte acceptera detta på något sätt, säger Grönland. Grönland är en del av det danska kungadömet, och därmed en Nato - del. USA kommer att få Grönland på ett eller annat sätt, menar han nu, och en militär aktion har inte uteslutits.",
-      "url": "https://svt.se/nyheter/utrikes/mark-rutte-om-gronland-ingen-intern-kris-i-nato",
+      "title": "Amnesty om protesterna i Iran: Använder jaktammunition",
+      "summary": "Över 500 personer uppges ha dödats i Iran under protesterna som nu pågått i två veckor. Amnesty International arbetar med att dokumentera vad som sker, bland annat genom att prata med personer på plats i Iran. Det är svårt.",
+      "url": "https://svt.se/nyheter/utrikes/amnesty-om-protesterna-i-iran-anvander-jaktammunition",
       "domain": "svt.se",
-      "published": "2026-01-12T17:02:06Z"
+      "published": "2026-01-12T19:26:16Z"
     },
     {
       "title": "De amerikanska börserna i gungning efter brottsutredning mot landets centralbank…",
@@ -37,18 +51,18 @@
       "published": "2026-01-12T16:15:26Z"
     },
     {
-      "title": "SVT:s korrespondenter svarade på frågor om demonstrationerna i Iran",
-      "summary": "Ställ dina frågor om demonstrationerna i Iran Niki • Trump är en affärsman som vill se stark ut för sina väljare. USA kan absolut tänka sig att göra olika mindre och billigare ( mätt i olika resurser ) tillslag mot länder men vill i grund och botten att länder gör som USA vill att de ska göra. Det är inte mitt jobb att ha åsikter om vad som är bra eller dåligt i det avseendet.",
-      "url": "https://svt.se/nyheter/utrikes/stall-dina-fragor-om-demonstrationerna-i-iran",
-      "domain": "svt.se",
-      "published": "2026-01-11T15:34:47Z"
+      "title": "Stubb om Iran: Våldet måste upphöra",
+      "summary": "President Alexander Stubb kräver att våldet ska upphöra. Han kräver också att alla olagligt gripna demonstranter ska släppas. Siffrorna varierar stort, men enligt olika människorättsorganisationer handlar det om minst hundra döda.",
+      "url": "https://yle.fi/a/7-10091173?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-11T17:12:18Z"
     },
     {
-      "title": "Acrobat har försvarat frontstaden Izium i fyra år och vet vad Ryssland är redo a…",
-      "summary": "Izium är en av huvudbaserna för Ukrainas 3: e stormbrigad. Soldaterna har fört med sig nytt liv till staden och flera kaféer och andra små företag har öppnat för att möta soldaternas behov. Staden är nu i högsta grad en frontstad och har 27 500 invånare jämfört med 35 000 före kriget.",
-      "url": "https://yle.fi/a/7-10090909?origin=rss",
+      "title": "Svensk oppositionsledare öppnar för att skicka soldater till Grönland",
+      "summary": "Kung Carl XVI Gustaf, statsminister Ulf Kristersson ( M ) och oppositionsledaren Magdalena Andersson ( S ) höll sina inledande tal. Det nya är oron för USA när man försvarar folkrätten, som beskrivs som livsviktig för små nationer som Sverige och Finland. Enligt Kristersson strider USA: s militära angrepp i Venezuela mot folkrätten och riskerar att uppmuntra fler länder att agera likadant.",
+      "url": "https://yle.fi/a/7-10091168?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-11T09:58:47Z"
+      "published": "2026-01-11T16:16:32Z"
     }
   ]
 }
