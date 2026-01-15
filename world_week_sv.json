@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-14T07:35:59+00:00",
+  "generated": "2026-01-15T07:29:48+00:00",
   "total_raw": 40,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trumps krav på Grönland hotar Nato i grunden, säger expert inför avgörande möte",
-      "summary": "Danmarks, Grönlands och USA: s utrikesministrar ska mötas i Washington i dag. Danmarks statsminister Mette Frederiksen varnar för att ett övertagande av Grönland kan innebära slutet för Nato. Armida van Rij vid tankesmedjan Centre for European Reform håller med.",
-      "url": "https://yle.fi/a/7-10091218?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-14T03:30:14Z"
+      "title": "Man skjuten i Minneapolis",
+      "summary": "Händelsen inträffade precis en vecka efter att 37 - åriga Renee Good sköts till döds av en ICE - agent i Minneapolis. Demonstranterna ska bland annat ha blockerat en väg och kastat snöbollar mot poliserna, som svarade med distraktionsgranater. Inrikes säkerhetsminister Kristi Noem har lovat \" flera hundra fler federala agenter för att säkerställa ICE: s arbete \" i syfte att säkerställa arbetet med ICE i staden.",
+      "url": "https://svt.se/nyheter/utrikes/man-skjuten-i-minneapolis-nya-protester-mot-ice",
+      "domain": "svt.se",
+      "published": "2026-01-15T06:25:57Z"
     },
     {
-      "title": "Nato-tungviktaren om Trumps hot om Grönland: ”Jag hade vägrat lyda order",
-      "summary": "Den tidigare generallöjtnanten Ben Hodges säger att en amerikansk erövring av Grönland är osannolikt. Han säger att han skulle bli avskedad omedelbart, men hans ed gäller konstitutionen. Ingen tror på säkerhetsproblemet, eftersom USA redan har möjlighet att ha soldater på Grönland \", uppger han.",
-      "url": "https://svt.se/nyheter/utrikes/nato-tungviktaren-om-trumps-hot-om-gronland-jag-hade-vagrat-lyda-order",
+      "title": "Lättnad på Grönland: ”Nu pågår diskussionen inte bara på sociala medier",
+      "summary": "Grönländaren Aqqalu Jerimiassen är ordförande för det lilla grönländska partiet Atássut. Det grönländska självstyret har varit helt oförberedd på det mediala intresset för ön. På onsdagskvällen höll också den grönländska finansministern och vice regeringschefen Múte B Egede presskonferens.",
+      "url": "https://yle.fi/a/7-10091392?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-15T03:30:14Z"
+    },
+    {
+      "title": "Läkare: Hundratals ögonskador bland demonstranterna",
+      "summary": "Upp till 3000 personer har dödats, säger regimkällor och människorättsorganisationen HRANA. Samtidigt talar siffror från oppositionella Iran International om minst 12 000 döda. Läkare berättar för The Guardian om hur flera sjukhus i landet nu är fulla av skottskadade patienter.",
+      "url": "https://svt.se/nyheter/utrikes/lakare-hundratals-ogonskador-bland-demonstranterna",
       "domain": "svt.se",
-      "published": "2026-01-14T01:55:48Z"
+      "published": "2026-01-14T13:28:27Z"
+    },
+    {
+      "title": "USA vill stoppa oljeleveranserna till Kuba",
+      "summary": "Kubas ekonomi är hårt pressad av timslånga strömavbrott, minskad turism och tuffa sanktioner. USA: s president Donald Trump hotar att stoppa leveranserna helt, vilket riskerar att slå ännu hårdare mot den krisdrabbade önationen. Rysslandskännaren Arkady Moshes tror att Moskva kommer att fortsätta ge viss ekonomisk hjälp till Kuba, men utan att riskera en allvarlig konflikt med USA.",
+      "url": "https://yle.fi/a/7-10091281?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-14T10:30:14Z"
     },
     {
       "title": "Experten om USA:s plan för Iran: ”Kommer bomba",
@@ -30,39 +44,11 @@
       "published": "2026-01-13T20:42:54Z"
     },
     {
-      "title": "Österbottniska iranier oroliga för anhöriga under protesterna: ”Det sista jag hö…",
-      "summary": "Iranierna som bor i Österbotten får inte kontakt med släktingar och vänner, förutom några få och sporadiska textmeddelanden som slinker igenom. De två berättar att så gott som all internettrafik ligger nere för fjärde dagen i rad i Iran. Deras släktingar har deltagit i protesterna och situationen förvärrades snabbt.",
-      "url": "https://yle.fi/a/7-10091223?origin=rss",
+      "title": "Det blir inte lätt för EU att förbjuda importen av rysk gödsel",
+      "summary": "Utrikesministrarna Maria Malmer Stenergard och Elina Valtonen presenterade sina förslag på måndag. Det råder redan importförbud för gödsel, men det finns undantag till regeln. Skärpta sanktioner kan höja livsmedelspriserna EU fattade i fjol beslut om att införa tullar på jordbruksprodukter och gödselmedel från Ryssland och Belarus, som hittills inte omfattats av extra tullar.",
+      "url": "https://yle.fi/a/7-10091314?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-13T04:06:54Z"
-    },
-    {
-      "title": "Amnesty om protesterna i Iran: Använder jaktammunition",
-      "summary": "Över 500 personer uppges ha dödats i Iran under protesterna som nu pågått i två veckor. Amnesty International arbetar med att dokumentera vad som sker, bland annat genom att prata med personer på plats i Iran. Det är svårt.",
-      "url": "https://svt.se/nyheter/utrikes/amnesty-om-protesterna-i-iran-anvander-jaktammunition",
-      "domain": "svt.se",
-      "published": "2026-01-12T19:26:16Z"
-    },
-    {
-      "title": "De amerikanska börserna i gungning efter brottsutredning mot landets centralbank…",
-      "summary": "USA: s justitieministerium inleder en brottsutredning mot Jerome Powell. Terminskontrakt på aktier föll och den amerikanska dollarn tappade i värde efter beskedet. Priset på guld steg med omkring 2 procent, medan silver ökade med drygt 5 procent.",
-      "url": "https://yle.fi/a/7-10091232?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-12T16:15:26Z"
-    },
-    {
-      "title": "Stubb om Iran: Våldet måste upphöra",
-      "summary": "President Alexander Stubb kräver att våldet ska upphöra. Han kräver också att alla olagligt gripna demonstranter ska släppas. Siffrorna varierar stort, men enligt olika människorättsorganisationer handlar det om minst hundra döda.",
-      "url": "https://yle.fi/a/7-10091173?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-11T17:12:18Z"
-    },
-    {
-      "title": "Svensk oppositionsledare öppnar för att skicka soldater till Grönland",
-      "summary": "Kung Carl XVI Gustaf, statsminister Ulf Kristersson ( M ) och oppositionsledaren Magdalena Andersson ( S ) höll sina inledande tal. Det nya är oron för USA när man försvarar folkrätten, som beskrivs som livsviktig för små nationer som Sverige och Finland. Enligt Kristersson strider USA: s militära angrepp i Venezuela mot folkrätten och riskerar att uppmuntra fler länder att agera likadant.",
-      "url": "https://yle.fi/a/7-10091168?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-11T16:16:32Z"
+      "published": "2026-01-13T16:00:29Z"
     }
   ]
 }
