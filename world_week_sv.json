@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-15T07:29:48+00:00",
+  "generated": "2026-01-16T07:31:04+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Man skjuten i Minneapolis",
-      "summary": "Händelsen inträffade precis en vecka efter att 37 - åriga Renee Good sköts till döds av en ICE - agent i Minneapolis. Demonstranterna ska bland annat ha blockerat en väg och kastat snöbollar mot poliserna, som svarade med distraktionsgranater. Inrikes säkerhetsminister Kristi Noem har lovat \" flera hundra fler federala agenter för att säkerställa ICE: s arbete \" i syfte att säkerställa arbetet med ICE i staden.",
-      "url": "https://svt.se/nyheter/utrikes/man-skjuten-i-minneapolis-nya-protester-mot-ice",
+      "title": "Grönländsk politiker positiv inför USA-möte",
+      "summary": "Oppositionspolitikemannen Høegh - Dams kritik mot Danmark är nedtonad. Hon säger att det var ett stort framsteg att utrikesminister Vivian Motzfeldt deltog i mötet. Grönland har kritiserats för att vara svagt när det gäller att sätta press på USA: s president.",
+      "url": "https://svt.se/nyheter/utrikes/gronlandsk-politiker-positiv-infor-usa-mote",
       "domain": "svt.se",
-      "published": "2026-01-15T06:25:57Z"
+      "published": "2026-01-16T07:04:40Z"
     },
     {
-      "title": "Lättnad på Grönland: ”Nu pågår diskussionen inte bara på sociala medier",
-      "summary": "Grönländaren Aqqalu Jerimiassen är ordförande för det lilla grönländska partiet Atássut. Det grönländska självstyret har varit helt oförberedd på det mediala intresset för ön. På onsdagskvällen höll också den grönländska finansministern och vice regeringschefen Múte B Egede presskonferens.",
-      "url": "https://yle.fi/a/7-10091392?origin=rss",
+      "title": "Fredspristagaren Machado ger sin medalj åt Trump",
+      "summary": "Den venezuelanska oppositionsledaren och den senaste vinnaren av Nobels fredspris, María Corina Machado, har erbjudit sin Nobelprismedalj till USA: s president Donald Trump. Hon ska ha överräckt medaljen till presidenten vid en privat tillställning i Vita Huset under torsdagen, amerikansk tid. Machado har tidigare tillägnat Trump priset efter att det blev klart att Nobelkommittén tilldelat henne det.",
+      "url": "https://yle.fi/a/7-10091515?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T03:30:14Z"
+      "published": "2026-01-16T04:20:06Z"
+    },
+    {
+      "title": "Machado: Erbjöd Trump min fredsprismedalj",
+      "summary": "Den venezuelanska oppositionsledaren María Corina Machado kallar torsdagens möte med USA: s president Donald Trump för \" bra \" Hon har sedan dess erbjudit sig att dela priset med Trump, ett förslag som Nobelstiftelsen avfärdat. Ett pris som enligt källor till Washington Post lett till att Vita huset avfärdat Machado som ledare i Venezuela – då hon inte gav det direkt till Trump när hon mottog Nobels fredspris 2025.",
+      "url": "https://svt.se/nyheter/utrikes/machado-pa-plats-vid-vita-huset-for-motet-med-donald-trump",
+      "domain": "svt.se",
+      "published": "2026-01-15T17:43:40Z"
+    },
+    {
+      "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
+      "summary": "Journalisten Tara Moshizi säger att den iranska ungdomen vill kunna dansa, skapa film och lyssna på musik. Hon säger att regimen försöker fjärma sin unga befolkning från populärkulturen. I en totalitär stat visar sig inte bara konstnärernas betydelse, utan vilken kraft det finns i ett kulturtörstande folk.",
+      "url": "https://yle.fi/a/7-10091323?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-15T15:18:44Z"
     },
     {
       "title": "Läkare: Hundratals ögonskador bland demonstranterna",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10091281?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-14T10:30:14Z"
-    },
-    {
-      "title": "Experten om USA:s plan för Iran: ”Kommer bomba",
-      "summary": "I ett inlägg på sociala medier skriver USA: s president Donald Trump att man ställer in alla möten med Iran. Han uppmanar demonstranterna att fortsätta protestera och ta över institutioner. Jan Hallenberg, seniorforskare vid Utrikespolitiska institutet, säger att attacken kommer att riktas mot militära baser i landet.",
-      "url": "https://svt.se/nyheter/utrikes/experten-om-usas-plan-for-iran-kommer-bomba",
-      "domain": "svt.se",
-      "published": "2026-01-13T20:42:54Z"
-    },
-    {
-      "title": "Det blir inte lätt för EU att förbjuda importen av rysk gödsel",
-      "summary": "Utrikesministrarna Maria Malmer Stenergard och Elina Valtonen presenterade sina förslag på måndag. Det råder redan importförbud för gödsel, men det finns undantag till regeln. Skärpta sanktioner kan höja livsmedelspriserna EU fattade i fjol beslut om att införa tullar på jordbruksprodukter och gödselmedel från Ryssland och Belarus, som hittills inte omfattats av extra tullar.",
-      "url": "https://yle.fi/a/7-10091314?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-13T16:00:29Z"
     }
   ]
 }

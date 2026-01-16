@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-15T07:30:19+00:00",
+  "generated": "2026-01-16T07:31:39+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Lättnad på Grönland: ”Nu pågår diskussionen inte bara på sociala medier",
-      "summary": "Grönländaren Aqqalu Jerimiassen är ordförande för det lilla grönländska partiet Atássut. Det grönländska självstyret har varit helt oförberedd på det mediala intresset för ön. På onsdagskvällen höll också den grönländska finansministern och vice regeringschefen Múte B Egede presskonferens.",
-      "url": "https://yle.fi/a/7-10091392?origin=rss",
+      "title": "Fredspristagaren Machado ger sin medalj åt Trump",
+      "summary": "Den venezuelanska oppositionsledaren och den senaste vinnaren av Nobels fredspris, María Corina Machado, har erbjudit sin Nobelprismedalj till USA: s president Donald Trump. Hon ska ha överräckt medaljen till presidenten vid en privat tillställning i Vita Huset under torsdagen, amerikansk tid. Machado har tidigare tillägnat Trump priset efter att det blev klart att Nobelkommittén tilldelat henne det.",
+      "url": "https://yle.fi/a/7-10091515?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T03:30:14Z"
+      "published": "2026-01-16T04:20:06Z"
+    },
+    {
+      "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
+      "summary": "Journalisten Tara Moshizi säger att den iranska ungdomen vill kunna dansa, skapa film och lyssna på musik. Hon säger att regimen försöker fjärma sin unga befolkning från populärkulturen. I en totalitär stat visar sig inte bara konstnärernas betydelse, utan vilken kraft det finns i ett kulturtörstande folk.",
+      "url": "https://yle.fi/a/7-10091323?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-15T15:18:44Z"
     },
     {
       "title": "USA vill stoppa oljeleveranserna till Kuba",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10091281?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-14T10:30:14Z"
-    },
-    {
-      "title": "Det blir inte lätt för EU att förbjuda importen av rysk gödsel",
-      "summary": "Utrikesministrarna Maria Malmer Stenergard och Elina Valtonen presenterade sina förslag på måndag. Det råder redan importförbud för gödsel, men det finns undantag till regeln. Skärpta sanktioner kan höja livsmedelspriserna EU fattade i fjol beslut om att införa tullar på jordbruksprodukter och gödselmedel från Ryssland och Belarus, som hittills inte omfattats av extra tullar.",
-      "url": "https://yle.fi/a/7-10091314?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-13T16:00:29Z"
     }
   ]
 }
