@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-16T07:31:39+00:00",
+  "generated": "2026-01-17T07:23:06+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Fredspristagaren Machado ger sin medalj åt Trump",
-      "summary": "Den venezuelanska oppositionsledaren och den senaste vinnaren av Nobels fredspris, María Corina Machado, har erbjudit sin Nobelprismedalj till USA: s president Donald Trump. Hon ska ha överräckt medaljen till presidenten vid en privat tillställning i Vita Huset under torsdagen, amerikansk tid. Machado har tidigare tillägnat Trump priset efter att det blev klart att Nobelkommittén tilldelat henne det.",
-      "url": "https://yle.fi/a/7-10091515?origin=rss",
+      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
+      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
+      "url": "https://yle.fi/a/7-10089909?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-16T04:20:06Z"
+      "published": "2026-01-17T04:00:37Z"
+    },
+    {
+      "title": "Rädsla och revolt i Minnesota: ”Ut med ICE!",
+      "summary": "Minusgrader och bitande vind har inte hindrat demonstranterna från att ta sig ut den här kvällen heller. De flesta demonstrationer har gått fredligt till i Minnesota, men särskilt mot natten har demonstranter och federala myndigheter drabbat samman. Många demonstranter säger att de är rädda för att krutdurken ska explodera, likt 2020 efter mordet på George Floyd.",
+      "url": "https://yle.fi/a/7-10091279?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-16T13:02:33Z"
     },
     {
       "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10091323?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-15T15:18:44Z"
-    },
-    {
-      "title": "USA vill stoppa oljeleveranserna till Kuba",
-      "summary": "Kubas ekonomi är hårt pressad av timslånga strömavbrott, minskad turism och tuffa sanktioner. USA: s president Donald Trump hotar att stoppa leveranserna helt, vilket riskerar att slå ännu hårdare mot den krisdrabbade önationen. Rysslandskännaren Arkady Moshes tror att Moskva kommer att fortsätta ge viss ekonomisk hjälp till Kuba, men utan att riskera en allvarlig konflikt med USA.",
-      "url": "https://yle.fi/a/7-10091281?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-14T10:30:14Z"
     }
   ]
 }

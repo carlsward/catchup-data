@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-16T07:31:04+00:00",
+  "generated": "2026-01-17T07:22:28+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Grönländsk politiker positiv inför USA-möte",
-      "summary": "Oppositionspolitikemannen Høegh - Dams kritik mot Danmark är nedtonad. Hon säger att det var ett stort framsteg att utrikesminister Vivian Motzfeldt deltog i mötet. Grönland har kritiserats för att vara svagt när det gäller att sätta press på USA: s president.",
-      "url": "https://svt.se/nyheter/utrikes/gronlandsk-politiker-positiv-infor-usa-mote",
-      "domain": "svt.se",
-      "published": "2026-01-16T07:04:40Z"
-    },
-    {
-      "title": "Fredspristagaren Machado ger sin medalj åt Trump",
-      "summary": "Den venezuelanska oppositionsledaren och den senaste vinnaren av Nobels fredspris, María Corina Machado, har erbjudit sin Nobelprismedalj till USA: s president Donald Trump. Hon ska ha överräckt medaljen till presidenten vid en privat tillställning i Vita Huset under torsdagen, amerikansk tid. Machado har tidigare tillägnat Trump priset efter att det blev klart att Nobelkommittén tilldelat henne det.",
-      "url": "https://yle.fi/a/7-10091515?origin=rss",
+      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
+      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
+      "url": "https://yle.fi/a/7-10089909?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-16T04:20:06Z"
+      "published": "2026-01-17T04:00:37Z"
     },
     {
-      "title": "Machado: Erbjöd Trump min fredsprismedalj",
-      "summary": "Den venezuelanska oppositionsledaren María Corina Machado kallar torsdagens möte med USA: s president Donald Trump för \" bra \" Hon har sedan dess erbjudit sig att dela priset med Trump, ett förslag som Nobelstiftelsen avfärdat. Ett pris som enligt källor till Washington Post lett till att Vita huset avfärdat Machado som ledare i Venezuela – då hon inte gav det direkt till Trump när hon mottog Nobels fredspris 2025.",
-      "url": "https://svt.se/nyheter/utrikes/machado-pa-plats-vid-vita-huset-for-motet-med-donald-trump",
+      "title": "De ingår i Donald Trumps fredspanel för Gaza",
+      "summary": "USA: s president Donald Trumps så kallade fredspanel för Gaza är klar. Med Trump själv i spetsen ska panelen främst övervaka en teknokratisk palestinsk övergångsregering. Övriga medlemmar är Marc Rowan, chef för ett riskkapitalbolag, och Robert Gabriel, en amerikansk nationell säkerhetsrådgivare.",
+      "url": "https://svt.se/nyheter/utrikes/de-ingar-i-donald-trumps-fredspanel-for-gaza",
       "domain": "svt.se",
-      "published": "2026-01-15T17:43:40Z"
+      "published": "2026-01-16T23:30:54Z"
+    },
+    {
+      "title": "Ryssland erkänner Grönland som danskt",
+      "summary": "Ryska nyhetsbyrån Tass slår fast att Ryssland betraktar Grönland som danskt territorium. President Putins presstalesperson, Dmitrij Peskov, beskriver samtidigt säkerhetsläget kring Grönland som \" extraordinärt \" Uttalandet ses som en direkt passning till USA: s nyligen uttalade ambitioner i regionen. Folketingets talman och tidigare försvarsminister Søren Gade går ut med skarp kritik mot Danmarks närmaste allierade.",
+      "url": "https://svt.se/nyheter/utrikes/ryssland-erkanner-gronland-som-danskt-ses-som-passning-till-usa",
+      "domain": "svt.se",
+      "published": "2026-01-16T14:11:08Z"
+    },
+    {
+      "title": "Rädsla och revolt i Minnesota: ”Ut med ICE!",
+      "summary": "Minusgrader och bitande vind har inte hindrat demonstranterna från att ta sig ut den här kvällen heller. De flesta demonstrationer har gått fredligt till i Minnesota, men särskilt mot natten har demonstranter och federala myndigheter drabbat samman. Många demonstranter säger att de är rädda för att krutdurken ska explodera, likt 2020 efter mordet på George Floyd.",
+      "url": "https://yle.fi/a/7-10091279?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-16T13:02:33Z"
+    },
+    {
+      "title": "Iranier i Finland: ”Vi kallar det inte längre protest",
+      "summary": "Iranska ögonvittnen har berättat hur säkerhetsstyrkor mejar ner demonstranter på gatorna. Exakta siffror för hur många som har dödats är omöjliga att få. Iranierna känner att de har fått nog \", säger räha.",
+      "url": "https://yle.fi/a/7-10091464?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-15T15:20:16Z"
     },
     {
       "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10091323?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-15T15:18:44Z"
-    },
-    {
-      "title": "Läkare: Hundratals ögonskador bland demonstranterna",
-      "summary": "Upp till 3000 personer har dödats, säger regimkällor och människorättsorganisationen HRANA. Samtidigt talar siffror från oppositionella Iran International om minst 12 000 döda. Läkare berättar för The Guardian om hur flera sjukhus i landet nu är fulla av skottskadade patienter.",
-      "url": "https://svt.se/nyheter/utrikes/lakare-hundratals-ogonskador-bland-demonstranterna",
-      "domain": "svt.se",
-      "published": "2026-01-14T13:28:27Z"
-    },
-    {
-      "title": "USA vill stoppa oljeleveranserna till Kuba",
-      "summary": "Kubas ekonomi är hårt pressad av timslånga strömavbrott, minskad turism och tuffa sanktioner. USA: s president Donald Trump hotar att stoppa leveranserna helt, vilket riskerar att slå ännu hårdare mot den krisdrabbade önationen. Rysslandskännaren Arkady Moshes tror att Moskva kommer att fortsätta ge viss ekonomisk hjälp till Kuba, men utan att riskera en allvarlig konflikt med USA.",
-      "url": "https://yle.fi/a/7-10091281?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-14T10:30:14Z"
     }
   ]
 }

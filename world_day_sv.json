@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-16T07:30:06+00:00",
-  "total_raw": 16,
+  "generated": "2026-01-17T07:21:21+00:00",
+  "total_raw": 31,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
-      "summary": "Journalisten Tara Moshizi säger att den iranska ungdomen vill kunna dansa, skapa film och lyssna på musik. Hon säger att regimen försöker fjärma sin unga befolkning från populärkulturen. I en totalitär stat visar sig inte bara konstnärernas betydelse, utan vilken kraft det finns i ett kulturtörstande folk.",
-      "url": "https://yle.fi/a/7-10091323?origin=rss",
+      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
+      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
+      "url": "https://yle.fi/a/7-10089909?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T15:18:44Z"
+      "published": "2026-01-17T04:00:37Z"
     },
     {
-      "title": "Iranier i Finland: ”Vi kallar det inte längre protest",
-      "summary": "Iranska ögonvittnen har berättat hur säkerhetsstyrkor mejar ner demonstranter på gatorna. Exakta siffror för hur många som har dödats är omöjliga att få. Iranierna känner att de har fått nog \", säger räha.",
-      "url": "https://yle.fi/a/7-10091464?origin=rss",
+      "title": "Rädsla och revolt i Minnesota: ”Ut med ICE!",
+      "summary": "Minusgrader och bitande vind har inte hindrat demonstranterna från att ta sig ut den här kvällen heller. De flesta demonstrationer har gått fredligt till i Minnesota, men särskilt mot natten har demonstranter och federala myndigheter drabbat samman. Många demonstranter säger att de är rädda för att krutdurken ska explodera, likt 2020 efter mordet på George Floyd.",
+      "url": "https://yle.fi/a/7-10091279?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T15:20:16Z"
+      "published": "2026-01-16T13:02:33Z"
     },
     {
-      "title": "Naturresurser värda miljarder väntar",
-      "summary": "Grönland sitter på världens största reserver av färskvatten i form av is. En amerikansk tankesmedja uppskattade nyligen värdet på naturresurserna till fem tusen miljarder dollar. För att bli en stor och pålitlig spelare på marknaden måste man ha ett jämnt flöde av produkter ut och pengar in.",
-      "url": "https://yle.fi/a/7-10090969?origin=rss",
+      "title": "Analys: Har Trump blivit galen? Nej, det här borde vi ha sett komma",
+      "summary": "I Donald Trumps värld handlar allt om makt och styrka – hans egen moral är den enda gränsen för hans inflytande. Trump har tydligt flyttat fokus till utrikespolitiken. Efter en lyckad amerikansk militär operation i Venezuela fick Trump blodad tand och lyfte fram sin fixa idé om att göra Grönland amerikanskt.",
+      "url": "https://yle.fi/a/7-10091387?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T15:37:11Z"
+      "published": "2026-01-17T04:58:02Z"
     },
     {
-      "title": "Efter toppmötet om Grönland: USA kan höja tonen",
-      "summary": "Vita huset vill fortfarande kontrollera Grönland, vilket varken ön eller Danmark går med på. Danmarks utrikesminister Lars Løkke Rasmussen kommenterade mötet på onsdag. Grönlandsfrågan är fortfarande aktuell SVT: s utrikesreporter Regina Svedberg Ågren, på plats i Köpenhamn, säger att danskarna andas ut tillfälligt efter mötet.",
-      "url": "https://svt.se/nyheter/utrikes/efter-toppmotet-om-gronland-usa-kan-hoja-tonen",
+      "title": "Ryssland erkänner Grönland som danskt",
+      "summary": "Ryska nyhetsbyrån Tass slår fast att Ryssland betraktar Grönland som danskt territorium. President Putins presstalesperson, Dmitrij Peskov, beskriver samtidigt säkerhetsläget kring Grönland som \" extraordinärt \" Uttalandet ses som en direkt passning till USA: s nyligen uttalade ambitioner i regionen. Folketingets talman och tidigare försvarsminister Søren Gade går ut med skarp kritik mot Danmarks närmaste allierade.",
+      "url": "https://svt.se/nyheter/utrikes/ryssland-erkanner-gronland-som-danskt-ses-som-passning-till-usa",
       "domain": "svt.se",
-      "published": "2026-01-15T08:32:39Z"
+      "published": "2026-01-16T14:11:08Z"
     },
     {
-      "title": "Machado: Erbjöd Trump min fredsprismedalj",
-      "summary": "Den venezuelanska oppositionsledaren María Corina Machado kallar torsdagens möte med USA: s president Donald Trump för \" bra \" Hon har sedan dess erbjudit sig att dela priset med Trump, ett förslag som Nobelstiftelsen avfärdat. Ett pris som enligt källor till Washington Post lett till att Vita huset avfärdat Machado som ledare i Venezuela – då hon inte gav det direkt till Trump när hon mottog Nobels fredspris 2025.",
-      "url": "https://svt.se/nyheter/utrikes/machado-pa-plats-vid-vita-huset-for-motet-med-donald-trump",
+      "title": "Chatta med SVT om protesterna och våldet i Iran",
+      "summary": "Är det kaotiskt på Imam Khomeini flygplatsen? Vet ni? Många försöker flyga ut ur landet samtidigt?",
+      "url": "https://svt.se/nyheter/utrikes/chatta-med-svt-om-protesterna-och-valdet-i-iran",
       "domain": "svt.se",
-      "published": "2026-01-15T17:43:40Z"
+      "published": "2026-01-16T12:33:28Z"
     }
   ]
 }
