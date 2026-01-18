@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-17T07:22:28+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-18T07:37:34+00:00",
+  "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Trump straffar Finland och andra för stöd till Grönland",
+      "summary": "Donald Trump hotar Finland och sju andra länder med strafftullar över Grönlandsfrågan. Syftet med strategin är att genom ekonomiska, diplomatiska och politiska påtryckningar tvinga motparten att gå med på nya förhandlingar. Under Trumps första presidentperiod från 2017 till 2021 förknippades strategin främst med Iran, men samma logik användes mot länder som Nordkorea, Kina, Venezuela och Kuba.",
+      "url": "https://yle.fi/a/7-10091611?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-18T03:59:44Z"
+    },
+    {
+      "title": "Syriens armé i offensiv mot kurdiska fästen",
+      "summary": "Syriens militär säger att den har intagit staden al - Tabqa i Rapaprovinsen. Damaskus hotar att bomba områden där kurdiska styrkor finns. Kurdiska styrkor meddelade sent på fredagen att de retirerar från områden vid Aleppo och Deir Hafer sedan hot om attacker utfärdats av regeringen.",
+      "url": "https://svt.se/nyheter/utrikes/syriens-arme-i-offensiv-mot-kurdiska-fasten",
+      "domain": "svt.se",
+      "published": "2026-01-18T00:28:16Z"
+    },
+    {
+      "title": "Senaste nytt om USA och Grönland",
+      "summary": "USA: s president Donald Trump hotar gång på gång med att köpa Grönland av säkerhetsskäl. Han ska nu införa strafftullar mot en rad olika länder, inklusive Sverige, som motsätter sig hans planer. Här kan du följa senaste nytt om utvecklingen i vår liverapport.",
+      "url": "https://svt.se/nyheter/utrikes/senaste-nytt-om-usa-och-gronland",
+      "domain": "svt.se",
+      "published": "2026-01-17T17:07:13Z"
+    },
     {
       "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
       "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
@@ -16,39 +37,18 @@
       "published": "2026-01-17T04:00:37Z"
     },
     {
-      "title": "De ingår i Donald Trumps fredspanel för Gaza",
-      "summary": "USA: s president Donald Trumps så kallade fredspanel för Gaza är klar. Med Trump själv i spetsen ska panelen främst övervaka en teknokratisk palestinsk övergångsregering. Övriga medlemmar är Marc Rowan, chef för ett riskkapitalbolag, och Robert Gabriel, en amerikansk nationell säkerhetsrådgivare.",
-      "url": "https://svt.se/nyheter/utrikes/de-ingar-i-donald-trumps-fredspanel-for-gaza",
-      "domain": "svt.se",
-      "published": "2026-01-16T23:30:54Z"
-    },
-    {
-      "title": "Ryssland erkänner Grönland som danskt",
-      "summary": "Ryska nyhetsbyrån Tass slår fast att Ryssland betraktar Grönland som danskt territorium. President Putins presstalesperson, Dmitrij Peskov, beskriver samtidigt säkerhetsläget kring Grönland som \" extraordinärt \" Uttalandet ses som en direkt passning till USA: s nyligen uttalade ambitioner i regionen. Folketingets talman och tidigare försvarsminister Søren Gade går ut med skarp kritik mot Danmarks närmaste allierade.",
-      "url": "https://svt.se/nyheter/utrikes/ryssland-erkanner-gronland-som-danskt-ses-som-passning-till-usa",
-      "domain": "svt.se",
-      "published": "2026-01-16T14:11:08Z"
-    },
-    {
-      "title": "Rädsla och revolt i Minnesota: ”Ut med ICE!",
-      "summary": "Minusgrader och bitande vind har inte hindrat demonstranterna från att ta sig ut den här kvällen heller. De flesta demonstrationer har gått fredligt till i Minnesota, men särskilt mot natten har demonstranter och federala myndigheter drabbat samman. Många demonstranter säger att de är rädda för att krutdurken ska explodera, likt 2020 efter mordet på George Floyd.",
-      "url": "https://yle.fi/a/7-10091279?origin=rss",
+      "title": "Kanadas premiärminister Carney: Kina mer pålitlig partner än USA",
+      "summary": "Kina förväntas sänka avgifterna på kanadensisk rapsolja från 85 procent till 15 procent senast den 1 mars. Kanada har gått med på att initialt beskatta 49 000 kinesiska elfordon enligt principen \" mest gynnad nation \" Det här kan jämföras med den tull som införts av den förra premiärministern Justin Trudeaus regering 2024. Carney är den första kanadensiska ledaren som besöker Kina på nästan ett decennium.",
+      "url": "https://yle.fi/a/7-10091556?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-16T13:02:33Z"
+      "published": "2026-01-16T15:42:00Z"
     },
     {
-      "title": "Iranier i Finland: ”Vi kallar det inte längre protest",
-      "summary": "Iranska ögonvittnen har berättat hur säkerhetsstyrkor mejar ner demonstranter på gatorna. Exakta siffror för hur många som har dödats är omöjliga att få. Iranierna känner att de har fått nog \", säger räha.",
-      "url": "https://yle.fi/a/7-10091464?origin=rss",
+      "title": "Protesterna i Iran ser ut att avta",
+      "summary": "Enligt anonyma invånare i Teheran har inga demonstrationer förekommit i staden sedan söndagen. Invånarna uppger att polis och säkerhetsstyrkor patrullerar gatorna och drönare flyger över staden med jämna mellanrum. Också den Norgebaserade människorättsorganisationen Hengaw uppger enligt sina källor att situationen har lugnat ner sig i de flesta städer som tidigare sett demonstrationer.",
+      "url": "https://yle.fi/a/7-10091554?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-15T15:20:16Z"
-    },
-    {
-      "title": "Kommentar: Då den iranska ungdomen spelar White Stripes på gatan märks det varfö…",
-      "summary": "Journalisten Tara Moshizi säger att den iranska ungdomen vill kunna dansa, skapa film och lyssna på musik. Hon säger att regimen försöker fjärma sin unga befolkning från populärkulturen. I en totalitär stat visar sig inte bara konstnärernas betydelse, utan vilken kraft det finns i ett kulturtörstande folk.",
-      "url": "https://yle.fi/a/7-10091323?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-15T15:18:44Z"
+      "published": "2026-01-16T13:14:38Z"
     }
   ]
 }

@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-17T07:21:21+00:00",
+  "generated": "2026-01-18T07:36:26+00:00",
   "total_raw": 31,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
-      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
-      "url": "https://yle.fi/a/7-10089909?origin=rss",
+      "title": "I Spanien bor unga med mamma och pappa tills de fyller 30: ”Här är allt bra utom…",
+      "summary": "I Spanien bor unga kvar i pojk - och flickrummen tills de fyller 30. Eurostat visar att ungdomsarbetslösheten är högst i Europa, över 25 procent. Att bo hemma är inte en fråga om tradition eller att det är bekvämt.",
+      "url": "https://yle.fi/a/7-10089430?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-17T04:00:37Z"
+      "published": "2026-01-17T09:07:52Z"
     },
     {
-      "title": "Rädsla och revolt i Minnesota: ”Ut med ICE!",
-      "summary": "Minusgrader och bitande vind har inte hindrat demonstranterna från att ta sig ut den här kvällen heller. De flesta demonstrationer har gått fredligt till i Minnesota, men särskilt mot natten har demonstranter och federala myndigheter drabbat samman. Många demonstranter säger att de är rädda för att krutdurken ska explodera, likt 2020 efter mordet på George Floyd.",
-      "url": "https://yle.fi/a/7-10091279?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-16T13:02:33Z"
-    },
-    {
-      "title": "Analys: Har Trump blivit galen? Nej, det här borde vi ha sett komma",
-      "summary": "I Donald Trumps värld handlar allt om makt och styrka – hans egen moral är den enda gränsen för hans inflytande. Trump har tydligt flyttat fokus till utrikespolitiken. Efter en lyckad amerikansk militär operation i Venezuela fick Trump blodad tand och lyfte fram sin fixa idé om att göra Grönland amerikanskt.",
-      "url": "https://yle.fi/a/7-10091387?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-17T04:58:02Z"
-    },
-    {
-      "title": "Ryssland erkänner Grönland som danskt",
-      "summary": "Ryska nyhetsbyrån Tass slår fast att Ryssland betraktar Grönland som danskt territorium. President Putins presstalesperson, Dmitrij Peskov, beskriver samtidigt säkerhetsläget kring Grönland som \" extraordinärt \" Uttalandet ses som en direkt passning till USA: s nyligen uttalade ambitioner i regionen. Folketingets talman och tidigare försvarsminister Søren Gade går ut med skarp kritik mot Danmarks närmaste allierade.",
-      "url": "https://svt.se/nyheter/utrikes/ryssland-erkanner-gronland-som-danskt-ses-som-passning-till-usa",
+      "title": "Senaste nytt om USA och Grönland",
+      "summary": "USA: s president Donald Trump hotar gång på gång med att köpa Grönland av säkerhetsskäl. Han ska nu införa strafftullar mot en rad olika länder, inklusive Sverige, som motsätter sig hans planer. Här kan du följa senaste nytt om utvecklingen i vår liverapport.",
+      "url": "https://svt.se/nyheter/utrikes/senaste-nytt-om-usa-och-gronland",
       "domain": "svt.se",
-      "published": "2026-01-16T14:11:08Z"
+      "published": "2026-01-17T17:07:13Z"
     },
     {
-      "title": "Chatta med SVT om protesterna och våldet i Iran",
-      "summary": "Är det kaotiskt på Imam Khomeini flygplatsen? Vet ni? Många försöker flyga ut ur landet samtidigt?",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-svt-om-protesterna-och-valdet-i-iran",
+      "title": "Analys: Trump straffar Finland och andra för stöd till Grönland",
+      "summary": "Donald Trump hotar Finland och sju andra länder med strafftullar över Grönlandsfrågan. Syftet med strategin är att genom ekonomiska, diplomatiska och politiska påtryckningar tvinga motparten att gå med på nya förhandlingar. Under Trumps första presidentperiod från 2017 till 2021 förknippades strategin främst med Iran, men samma logik användes mot länder som Nordkorea, Kina, Venezuela och Kuba.",
+      "url": "https://yle.fi/a/7-10091611?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-18T03:59:44Z"
+    },
+    {
+      "title": "Iranska aktivister oroliga: regimen planerar permanent internetblockad",
+      "summary": "Efter 200 timmars blockad syns en liten uppgång i internetanvändningen. Iranierna befarar att den nuvarande internetblockaden kan bli bestående. Filterwatch säger att den traditionella masscensuren kan ge vika för en \" absolut digital isolering \" Regimen tros nu utveckla systemet ytterligare för att även övervaka inkommande och utgående internettrafik, spionera på individer samt blockera enskilda webbplatser och VPN - tjänster.",
+      "url": "https://yle.fi/a/7-10091589?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-17T10:59:57Z"
+    },
+    {
+      "title": "Kylan griper tag om strömlöst Kiev: ”Är en del av kampen",
+      "summary": "Ryssland har riktat in sig på Ukrainas energiinfrastruktur sedan invasionen för fyra år sedan. Huvudstaden Kiev, som ligger en bit från fronten, har drabbats hårt av attacker i januari. Sedan en attack i onsdags, tusentals hushåll strömlösa och skolstarten har skjutits upp till februari.",
+      "url": "https://svt.se/nyheter/utrikes/kylan-griper-tag-om-stromlost-kiev-ar-en-del-av-kampen",
       "domain": "svt.se",
-      "published": "2026-01-16T12:33:28Z"
+      "published": "2026-01-17T21:01:41Z"
     }
   ]
 }
