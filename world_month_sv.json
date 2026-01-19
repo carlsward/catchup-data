@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-18T07:38:08+00:00",
+  "generated": "2026-01-19T07:38:15+00:00",
   "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Försöken att blidka Trump rinner ut i sanden",
+      "summary": "Donald Trump har under sitt första år gått fram som en ångvält med hårda tullar, kontroversiella migrationsbeslut och ifrågasättande av internationella överenskommelser. USA: s europeiska allierade har försökt navigera relationen med Trump med diplomati, kompromisser och försiktiga eftergifter. Att EU låter bli att svara med samma mått motiverades med viljan att hålla USA engagerat i det transatlantiska samarbetet och Nato.",
+      "url": "https://yle.fi/a/7-10091646?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-19T04:45:14Z"
+    },
     {
       "title": "Analys: Trump straffar Finland och andra för stöd till Grönland",
       "summary": "Donald Trump hotar Finland och sju andra länder med strafftullar över Grönlandsfrågan. Syftet med strategin är att genom ekonomiska, diplomatiska och politiska påtryckningar tvinga motparten att gå med på nya förhandlingar. Under Trumps första presidentperiod från 2017 till 2021 förknippades strategin främst med Iran, men samma logik användes mot länder som Nordkorea, Kina, Venezuela och Kuba.",
@@ -16,18 +23,11 @@
       "published": "2026-01-18T03:59:44Z"
     },
     {
-      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
-      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
-      "url": "https://yle.fi/a/7-10089909?origin=rss",
+      "title": "Arga kommentarer till Trumps tullhotelser: ”Befängt och barnsligt",
+      "summary": "USA: s president Donald Trumps hot om strafftullar innebär med största sannolikhet att handelsavtalet mellan USA och EU kollapsar, skriver Sveriges tidigare stats - och utrikesminister Carl Bildt på X. Utrikesministeriet i Helsingfors befarar att handeln kan vara i fara. Trump har kommit med olika typer av tullhot mot flera länder tidigare, så den här situationen kom inte som en överraskning, säger utrikesministern.",
+      "url": "https://yle.fi/a/7-10091603?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-17T04:00:37Z"
-    },
-    {
-      "title": "Kanadas premiärminister Carney: Kina mer pålitlig partner än USA",
-      "summary": "Kina förväntas sänka avgifterna på kanadensisk rapsolja från 85 procent till 15 procent senast den 1 mars. Kanada har gått med på att initialt beskatta 49 000 kinesiska elfordon enligt principen \" mest gynnad nation \" Det här kan jämföras med den tull som införts av den förra premiärministern Justin Trudeaus regering 2024. Carney är den första kanadensiska ledaren som besöker Kina på nästan ett decennium.",
-      "url": "https://yle.fi/a/7-10091556?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-16T15:42:00Z"
+      "published": "2026-01-17T17:38:10Z"
     }
   ]
 }

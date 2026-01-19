@@ -3,27 +3,27 @@
   "language": "sv",
   "span": "month",
   "days": 30,
-  "generated": "2026-01-18T07:38:08+00:00",
+  "generated": "2026-01-19T07:38:15+00:00",
   "total_candidates": 39,
   "total_selected": 3,
   "utc_range": {
-    "min": 1768569278,
-    "max": 1768718979
+    "min": 1768667607,
+    "max": 1768807639
   },
   "per_day": [
     {
       "day_index": 0,
-      "candidates": 7,
+      "candidates": 6,
       "selected": 1
     },
     {
       "day_index": 1,
-      "candidates": 27,
+      "candidates": 25,
       "selected": 1
     },
     {
       "day_index": 2,
-      "candidates": 5,
+      "candidates": 8,
       "selected": 1
     },
     {

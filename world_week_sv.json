@@ -2,12 +2,33 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-18T07:37:34+00:00",
+  "generated": "2026-01-19T07:37:43+00:00",
   "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Försöken att blidka Trump rinner ut i sanden",
+      "summary": "Donald Trump har under sitt första år gått fram som en ångvält med hårda tullar, kontroversiella migrationsbeslut och ifrågasättande av internationella överenskommelser. USA: s europeiska allierade har försökt navigera relationen med Trump med diplomati, kompromisser och försiktiga eftergifter. Att EU låter bli att svara med samma mått motiverades med viljan att hålla USA engagerat i det transatlantiska samarbetet och Nato.",
+      "url": "https://yle.fi/a/7-10091646?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-19T04:45:14Z"
+    },
+    {
+      "title": "Vapenvila när kurdiska styrkor besegrats i Syrien",
+      "summary": "Interimspresident Ahmed al - Sharaa hävdar att kurdiska styrkor numera ingår i Syriens armé. Han hävdar att kurder ska överlämna områden i Dayr al - Zawr och Raqqa. Kurdiska ledare i Syrien bekräftade på distans att de godkänner avtalet.",
+      "url": "https://svt.se/nyheter/utrikes/vapenvila-nar-kurdiska-styrkor-besegrats-i-syrien",
+      "domain": "svt.se",
+      "published": "2026-01-18T23:47:16Z"
+    },
+    {
+      "title": "Klas Eklund om Grönland: ”Viktigt att EU inte backar",
+      "summary": "Relationen mellan USA och Europa är enligt flera experter och bedömare frostigare än på länge. Den dominerande konflikten dem emellan är USA: s alla utspel om att man ska erövra Grönland. Nordenchef Anna Wieslander, Nordenchef vid tankesmedjan Atlantic Council, kallar situationen akut och säger i Agenda att Europa nu är ordentligt pressad från två håll.",
+      "url": "https://svt.se/nyheter/utrikes/klas-eklund-om-gronland-viktigt-att-eu-inte-backar",
+      "domain": "svt.se",
+      "published": "2026-01-18T22:23:18Z"
+    },
     {
       "title": "Analys: Trump straffar Finland och andra för stöd till Grönland",
       "summary": "Donald Trump hotar Finland och sju andra länder med strafftullar över Grönlandsfrågan. Syftet med strategin är att genom ekonomiska, diplomatiska och politiska påtryckningar tvinga motparten att gå med på nya förhandlingar. Under Trumps första presidentperiod från 2017 till 2021 förknippades strategin främst med Iran, men samma logik användes mot länder som Nordkorea, Kina, Venezuela och Kuba.",
@@ -16,39 +37,18 @@
       "published": "2026-01-18T03:59:44Z"
     },
     {
-      "title": "Syriens armé i offensiv mot kurdiska fästen",
-      "summary": "Syriens militär säger att den har intagit staden al - Tabqa i Rapaprovinsen. Damaskus hotar att bomba områden där kurdiska styrkor finns. Kurdiska styrkor meddelade sent på fredagen att de retirerar från områden vid Aleppo och Deir Hafer sedan hot om attacker utfärdats av regeringen.",
-      "url": "https://svt.se/nyheter/utrikes/syriens-arme-i-offensiv-mot-kurdiska-fasten",
+      "title": "Kylan griper tag om strömlöst Kiev: ”Är en del av kampen",
+      "summary": "Ryssland har riktat in sig på Ukrainas energiinfrastruktur sedan invasionen för fyra år sedan. Huvudstaden Kiev, som ligger en bit från fronten, har drabbats hårt av attacker i januari. Sedan en attack i onsdags, tusentals hushåll strömlösa och skolstarten har skjutits upp till februari.",
+      "url": "https://svt.se/nyheter/utrikes/kylan-griper-tag-om-stromlost-kiev-ar-en-del-av-kampen",
       "domain": "svt.se",
-      "published": "2026-01-18T00:28:16Z"
+      "published": "2026-01-17T21:01:41Z"
     },
     {
-      "title": "Senaste nytt om USA och Grönland",
-      "summary": "USA: s president Donald Trump hotar gång på gång med att köpa Grönland av säkerhetsskäl. Han ska nu införa strafftullar mot en rad olika länder, inklusive Sverige, som motsätter sig hans planer. Här kan du följa senaste nytt om utvecklingen i vår liverapport.",
-      "url": "https://svt.se/nyheter/utrikes/senaste-nytt-om-usa-och-gronland",
-      "domain": "svt.se",
-      "published": "2026-01-17T17:07:13Z"
-    },
-    {
-      "title": "Per Hellberg har spelat i Stockholms tunnelbana i 60 år: ”Finnarna har blivit vä…",
-      "summary": "Per Hellberg började ta upp sin gitarr på tunnelbanan i mitten av sextiotalet. Vid den tiden var förebilderna äldre killar, som Kenta och Stoffe. Han letar efter en lokal för en slags teaterföreställning.",
-      "url": "https://yle.fi/a/7-10089909?origin=rss",
+      "title": "Arga kommentarer till Trumps tullhotelser: ”Befängt och barnsligt",
+      "summary": "USA: s president Donald Trumps hot om strafftullar innebär med största sannolikhet att handelsavtalet mellan USA och EU kollapsar, skriver Sveriges tidigare stats - och utrikesminister Carl Bildt på X. Utrikesministeriet i Helsingfors befarar att handeln kan vara i fara. Trump har kommit med olika typer av tullhot mot flera länder tidigare, så den här situationen kom inte som en överraskning, säger utrikesministern.",
+      "url": "https://yle.fi/a/7-10091603?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-17T04:00:37Z"
-    },
-    {
-      "title": "Kanadas premiärminister Carney: Kina mer pålitlig partner än USA",
-      "summary": "Kina förväntas sänka avgifterna på kanadensisk rapsolja från 85 procent till 15 procent senast den 1 mars. Kanada har gått med på att initialt beskatta 49 000 kinesiska elfordon enligt principen \" mest gynnad nation \" Det här kan jämföras med den tull som införts av den förra premiärministern Justin Trudeaus regering 2024. Carney är den första kanadensiska ledaren som besöker Kina på nästan ett decennium.",
-      "url": "https://yle.fi/a/7-10091556?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-16T15:42:00Z"
-    },
-    {
-      "title": "Protesterna i Iran ser ut att avta",
-      "summary": "Enligt anonyma invånare i Teheran har inga demonstrationer förekommit i staden sedan söndagen. Invånarna uppger att polis och säkerhetsstyrkor patrullerar gatorna och drönare flyger över staden med jämna mellanrum. Också den Norgebaserade människorättsorganisationen Hengaw uppger enligt sina källor att situationen har lugnat ner sig i de flesta städer som tidigare sett demonstrationer.",
-      "url": "https://yle.fi/a/7-10091554?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-16T13:14:38Z"
+      "published": "2026-01-17T17:38:10Z"
     }
   ]
 }
