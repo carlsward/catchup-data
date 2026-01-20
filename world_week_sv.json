@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-19T07:37:43+00:00",
-  "total_raw": 39,
+  "generated": "2026-01-20T07:33:06+00:00",
+  "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Analys: Försöken att blidka Trump rinner ut i sanden",
-      "summary": "Donald Trump har under sitt första år gått fram som en ångvält med hårda tullar, kontroversiella migrationsbeslut och ifrågasättande av internationella överenskommelser. USA: s europeiska allierade har försökt navigera relationen med Trump med diplomati, kompromisser och försiktiga eftergifter. Att EU låter bli att svara med samma mått motiverades med viljan att hålla USA engagerat i det transatlantiska samarbetet och Nato.",
-      "url": "https://yle.fi/a/7-10091646?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-19T04:45:14Z"
+      "title": "Trump är faktiskt ingen diktator, tröstar sig kallsvettigt Europa",
+      "summary": "Dean Obeidallah: Kongressen är en jämbördig kraft med en annan vilja. Han säger att Trump inte är någon oinskränkt diktator. Han testar helt klart gränserna för vad en president får göra.",
+      "url": "https://svt.se/nyheter/utrikes/trump-ar-faktiskt-ingen-diktator-trostar-sig-kallsvettigt-europa",
+      "domain": "svt.se",
+      "published": "2026-01-20T05:01:38Z"
     },
     {
-      "title": "Vapenvila när kurdiska styrkor besegrats i Syrien",
-      "summary": "Interimspresident Ahmed al - Sharaa hävdar att kurdiska styrkor numera ingår i Syriens armé. Han hävdar att kurder ska överlämna områden i Dayr al - Zawr och Raqqa. Kurdiska ledare i Syrien bekräftade på distans att de godkänner avtalet.",
-      "url": "https://svt.se/nyheter/utrikes/vapenvila-nar-kurdiska-styrkor-besegrats-i-syrien",
+      "title": "Kommentar: Ett år efter att Donald Trump svors in är han fartblind",
+      "summary": "Donald Trump är känd för sitt ohälsosamma sovschema, vilket innebär att man ofta får vakna till ett nytt utspel på sociala medier. Under Trumps första mandatperiod ledde hans nyckfulla beteende till avhopp inom de egna leden. Hittills har inga tungviktare hoppat av under Trumps andra mandatperiod – och inget tyder på att den nuvarande försvarsministern Pete Hegseth kommer att sätta några som helst gränser för presidenten.",
+      "url": "https://yle.fi/a/7-10091724?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-20T04:13:15Z"
+    },
+    {
+      "title": "Chatta med SVT:s korrespondent om Grönlandskrisen",
+      "summary": "Marco Rubio har beskrivits som en av de etablerade republikaner som förstår riskerna med och har kapaciteten att bromsa Donald Trump. Varför ser vi då inget sådant motstånd, handlar det om brist på faktisk makt, politiska incitament, eller en medveten strategi att inte agera? Anna • Hur har man tagit nyheten att Trump tog emot och behöll fredspriset?",
+      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-korrespondent-om-gronlandskrisen",
       "domain": "svt.se",
-      "published": "2026-01-18T23:47:16Z"
+      "published": "2026-01-19T18:11:35Z"
+    },
+    {
+      "title": "Mitt i det oändliga inbördeskriget ordnar Myanmar val: ”Militären talar alltid v…",
+      "summary": "Mer än hälften av Mae Sots befolkning är flyktingar från det långa brutala inbördeskriget i Myanmar. Den största gruppen är karenfolket, som började fly över gränsen redan på slutet av 1940 - talet. Pastor Robert Htwe, som leder karenflyktingarnas organisation Karen Refugee Committee i Thailand, är själv ett barn av kriget.",
+      "url": "https://yle.fi/a/7-10090329?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-19T09:05:14Z"
     },
     {
       "title": "Klas Eklund om Grönland: ”Viktigt att EU inte backar",
@@ -30,25 +44,11 @@
       "published": "2026-01-18T22:23:18Z"
     },
     {
-      "title": "Analys: Trump straffar Finland och andra för stöd till Grönland",
-      "summary": "Donald Trump hotar Finland och sju andra länder med strafftullar över Grönlandsfrågan. Syftet med strategin är att genom ekonomiska, diplomatiska och politiska påtryckningar tvinga motparten att gå med på nya förhandlingar. Under Trumps första presidentperiod från 2017 till 2021 förknippades strategin främst med Iran, men samma logik användes mot länder som Nordkorea, Kina, Venezuela och Kuba.",
-      "url": "https://yle.fi/a/7-10091611?origin=rss",
+      "title": "Dansk oro över att USA är både vän och fiende: ”Vi måste förvänta oss att USA sp…",
+      "summary": "Danmark oroade sig för att USA försökte få danska kolleger på Grönland att lämna ut information om militära anläggningar, hamnar och flygbaser på Grönland. De amerikanska kontakterna skedde informellt och utan att man involverade Köpenhamn, vilket USA borde ha gjort, eftersom det gällde ett allierat land inom militäralliansen Nato. Den 16 januari 2025 bad det danska försvarsministeriet om information – och danska kontaktpersoner som kunde ge USA relevant information om grönländska förhållanden.",
+      "url": "https://yle.fi/a/7-10091642?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-18T03:59:44Z"
-    },
-    {
-      "title": "Kylan griper tag om strömlöst Kiev: ”Är en del av kampen",
-      "summary": "Ryssland har riktat in sig på Ukrainas energiinfrastruktur sedan invasionen för fyra år sedan. Huvudstaden Kiev, som ligger en bit från fronten, har drabbats hårt av attacker i januari. Sedan en attack i onsdags, tusentals hushåll strömlösa och skolstarten har skjutits upp till februari.",
-      "url": "https://svt.se/nyheter/utrikes/kylan-griper-tag-om-stromlost-kiev-ar-en-del-av-kampen",
-      "domain": "svt.se",
-      "published": "2026-01-17T21:01:41Z"
-    },
-    {
-      "title": "Arga kommentarer till Trumps tullhotelser: ”Befängt och barnsligt",
-      "summary": "USA: s president Donald Trumps hot om strafftullar innebär med största sannolikhet att handelsavtalet mellan USA och EU kollapsar, skriver Sveriges tidigare stats - och utrikesminister Carl Bildt på X. Utrikesministeriet i Helsingfors befarar att handeln kan vara i fara. Trump har kommit med olika typer av tullhot mot flera länder tidigare, så den här situationen kom inte som en överraskning, säger utrikesministern.",
-      "url": "https://yle.fi/a/7-10091603?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-17T17:38:10Z"
+      "published": "2026-01-18T20:34:52Z"
     }
   ]
 }

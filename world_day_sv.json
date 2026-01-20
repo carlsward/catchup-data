@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-19T07:36:45+00:00",
-  "total_raw": 24,
+  "generated": "2026-01-20T07:32:00+00:00",
+  "total_raw": 27,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Eldupphör i Syrien mellan regeringen och kurdiskledda SDF",
-      "summary": "Syriens regering och den kurdiskledda styrkan SDF har ingått ett eldupphör. SDF spelade en viktig roll då Islamiska staten i Syrien besegrades militärt. I mars 2025 ingick SDF och regeringen i Damaskus ett avtal som gjorde det möjligt för SDF att integreras i den syriska staten och en ny nationell militär.",
-      "url": "https://yle.fi/a/7-10091652?origin=rss",
+      "title": "Kommentar: Ett år efter att Donald Trump svors in är han fartblind",
+      "summary": "Donald Trump är känd för sitt ohälsosamma sovschema, vilket innebär att man ofta får vakna till ett nytt utspel på sociala medier. Under Trumps första mandatperiod ledde hans nyckfulla beteende till avhopp inom de egna leden. Hittills har inga tungviktare hoppat av under Trumps andra mandatperiod – och inget tyder på att den nuvarande försvarsministern Pete Hegseth kommer att sätta några som helst gränser för presidenten.",
+      "url": "https://yle.fi/a/7-10091724?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-19T06:31:55Z"
+      "published": "2026-01-20T04:13:15Z"
     },
     {
-      "title": "Analys: Försöken att blidka Trump rinner ut i sanden",
-      "summary": "Donald Trump har under sitt första år gått fram som en ångvält med hårda tullar, kontroversiella migrationsbeslut och ifrågasättande av internationella överenskommelser. USA: s europeiska allierade har försökt navigera relationen med Trump med diplomati, kompromisser och försiktiga eftergifter. Att EU låter bli att svara med samma mått motiverades med viljan att hålla USA engagerat i det transatlantiska samarbetet och Nato.",
-      "url": "https://yle.fi/a/7-10091646?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-19T04:45:14Z"
-    },
-    {
-      "title": "Europa överväger nästa motdrag efter Trumps tullhot",
-      "summary": "Danmarks utrikesminister Lars Løkke Rasmussen sa att Trumps meddelande var en överraskning. Tyska regeringen lät meddela att Berlin har noterat Trumps meddelande och ett lämpligt svar koordineras tillsammans med europeiska partners. EU - parlamentets två största grupper EPP och S & D - gruppen lovade att stoppa överenskommelsen om ekonomiskt tvång.",
-      "url": "https://yle.fi/a/7-10091622?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-18T10:58:56Z"
-    },
-    {
-      "title": "Klas Eklund om Grönland: ”Viktigt att EU inte backar",
-      "summary": "Relationen mellan USA och Europa är enligt flera experter och bedömare frostigare än på länge. Den dominerande konflikten dem emellan är USA: s alla utspel om att man ska erövra Grönland. Nordenchef Anna Wieslander, Nordenchef vid tankesmedjan Atlantic Council, kallar situationen akut och säger i Agenda att Europa nu är ordentligt pressad från två håll.",
-      "url": "https://svt.se/nyheter/utrikes/klas-eklund-om-gronland-viktigt-att-eu-inte-backar",
+      "title": "Chatta med SVT:s korrespondent om Grönlandskrisen",
+      "summary": "Marco Rubio har beskrivits som en av de etablerade republikaner som förstår riskerna med och har kapaciteten att bromsa Donald Trump. Varför ser vi då inget sådant motstånd, handlar det om brist på faktisk makt, politiska incitament, eller en medveten strategi att inte agera? Anna • Hur har man tagit nyheten att Trump tog emot och behöll fredspriset?",
+      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-korrespondent-om-gronlandskrisen",
       "domain": "svt.se",
-      "published": "2026-01-18T22:23:18Z"
+      "published": "2026-01-19T18:11:35Z"
     },
     {
-      "title": "Uppgifter: EU överväger hämndtullar mot USA",
-      "summary": "EU: s ledare har kallats till ett extrainsatt toppmöte för att diskutera hur man ska svara på Grönlandsfrågan. Statsminister Ulf Kristersson säger att situationen i dag är annorlunda än när Trump införde tullar mot ett 60 - tal länder 2025. Magdalena Andersson ( S ) kallar Trumps agerande oansvarigt då det utmanar relationen mellan USA och Europa samt Nato.",
-      "url": "https://svt.se/nyheter/utrikes/roster-for-handelsbazooka-hojs-nar-eu-ska-svara-trump",
+      "title": "Mitt i det oändliga inbördeskriget ordnar Myanmar val: ”Militären talar alltid v…",
+      "summary": "Mer än hälften av Mae Sots befolkning är flyktingar från det långa brutala inbördeskriget i Myanmar. Den största gruppen är karenfolket, som började fly över gränsen redan på slutet av 1940 - talet. Pastor Robert Htwe, som leder karenflyktingarnas organisation Karen Refugee Committee i Thailand, är själv ett barn av kriget.",
+      "url": "https://yle.fi/a/7-10090329?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-19T09:05:14Z"
+    },
+    {
+      "title": "Det här är EU:s vapen om det blir handelskrig med USA",
+      "summary": "EU förbereder ett svar på den amerikanska presidenten Donald Trumps hot om höjda tullar. Under de kommande dagarna blir det klart om situationen kan trappas ner eller om EU står inför ett handelskrig med USA. EU har en lång lista på tullar som EU kan ta i bruk i protest mot USA: s politik.",
+      "url": "https://yle.fi/a/7-10091696?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-19T16:05:12Z"
+    },
+    {
+      "title": "Turerna kring Trump och Grönland",
+      "summary": "Har inte sett hur Victor Orban - som är en stor Trumpvän - ställer sig till de här hoten. Har inte heller sett någon kommentar av Orban på senaste utvecklingen med tullhoten. Det finns flera uttalanden från politiker och rapporter i media om att hoten kring Grönland är uppblåsta.",
+      "url": "https://svt.se/nyheter/utrikes/turerna-kring-trump-och-gronland-chatta-med-svts-utrikesreportrar",
       "domain": "svt.se",
-      "published": "2026-01-18T12:52:52Z"
+      "published": "2026-01-19T11:24:22Z"
     }
   ]
 }
