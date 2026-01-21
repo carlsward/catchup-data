@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-20T07:33:06+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-21T07:31:56+00:00",
+  "total_raw": 38,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump är faktiskt ingen diktator, tröstar sig kallsvettigt Europa",
-      "summary": "Dean Obeidallah: Kongressen är en jämbördig kraft med en annan vilja. Han säger att Trump inte är någon oinskränkt diktator. Han testar helt klart gränserna för vad en president får göra.",
-      "url": "https://svt.se/nyheter/utrikes/trump-ar-faktiskt-ingen-diktator-trostar-sig-kallsvettigt-europa",
+      "title": "I fokus: Pengarna bakom maktspelet",
+      "summary": "Grönland är ett potentiellt nybyggarområde för USA, mycket på grund av öns tillgång till sällsynta jordartsmetaller. Den amerikanske miljardären Ronald Lauder skulle skriva under ett avtal om att köpa ön. Frågan är dock om siffran egentligen spelar någon roll.",
+      "url": "https://svt.se/nyheter/utrikes/i-fokus-pengarna-bakom-maktspelet-vad-ar-gronland-vart",
       "domain": "svt.se",
-      "published": "2026-01-20T05:01:38Z"
+      "published": "2026-01-21T05:34:10Z"
+    },
+    {
+      "title": "Amerikaner sågar Trumps Grönlandsplaner: ”Det blir bara galnare och galnare",
+      "summary": "USA: s president Donald Trump är fast besluten vid sin idé om att köpa Grönland. Reidan Fredstrom förstår inte varifrån Trump har fått sin idé och varför han inte förstår att autonoma området inte är till salu. Ralph Nix har tagit sig ut för att demonstrera, främst mot polismyndigheten ICE men också mot att Donald Trump enligt honom monterar ner den amerikanska demokratin.",
+      "url": "https://yle.fi/a/7-10091781?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-21T03:48:35Z"
+    },
+    {
+      "title": "Ett år med Trump",
+      "summary": "Vad skulle krävas för att EU skulle ta till sig några av de vapen de har jämfört med att bara prata om att de har dem men inte använda dem? Lars: Är det inte så enkelt som USA: s aktion i Venezuela skapade utrymme för både Kina och Ryssland att rättfärdiga attacker mot Ukraina och Taiwan? Tror inte många säger säkert ja här i Washington i dag.",
+      "url": "https://svt.se/nyheter/utrikes/ett-ar-med-trump-chatta-med-svts-korrespondenter-om-varldslaget",
+      "domain": "svt.se",
+      "published": "2026-01-20T14:39:22Z"
     },
     {
       "title": "Kommentar: Ett år efter att Donald Trump svors in är han fartblind",
@@ -23,32 +37,18 @@
       "published": "2026-01-20T04:13:15Z"
     },
     {
-      "title": "Chatta med SVT:s korrespondent om Grönlandskrisen",
-      "summary": "Marco Rubio har beskrivits som en av de etablerade republikaner som förstår riskerna med och har kapaciteten att bromsa Donald Trump. Varför ser vi då inget sådant motstånd, handlar det om brist på faktisk makt, politiska incitament, eller en medveten strategi att inte agera? Anna • Hur har man tagit nyheten att Trump tog emot och behöll fredspriset?",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-korrespondent-om-gronlandskrisen",
-      "domain": "svt.se",
-      "published": "2026-01-19T18:11:35Z"
-    },
-    {
-      "title": "Mitt i det oändliga inbördeskriget ordnar Myanmar val: ”Militären talar alltid v…",
-      "summary": "Mer än hälften av Mae Sots befolkning är flyktingar från det långa brutala inbördeskriget i Myanmar. Den största gruppen är karenfolket, som började fly över gränsen redan på slutet av 1940 - talet. Pastor Robert Htwe, som leder karenflyktingarnas organisation Karen Refugee Committee i Thailand, är själv ett barn av kriget.",
-      "url": "https://yle.fi/a/7-10090329?origin=rss",
+      "title": "Stubb i Davos: ”Grönlandsfrågan är svårast för mig hittills som president",
+      "summary": "Under de kommande dagarna, med start i kväll, kommer världens politiska och ekonomiska elit att samlas i Davos. Bland de cirka 3 000 deltagarna hittar man statsöverhuvuden, politiker, verkställande direktörer för storföretag och chefer för en lång rad internationella organisationer. Hit hör EU - kommissionens ordförande Ursula von der Leyen, Kinas vice premiärminister He Lifeng, Natos generalsekreterare Mark Rutte samt Nvidias, världens högst värderade bolag, verkställande direktör Jensen Huang.",
+      "url": "https://yle.fi/a/7-10091686?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-19T09:05:14Z"
+      "published": "2026-01-19T17:07:19Z"
     },
     {
-      "title": "Klas Eklund om Grönland: ”Viktigt att EU inte backar",
-      "summary": "Relationen mellan USA och Europa är enligt flera experter och bedömare frostigare än på länge. Den dominerande konflikten dem emellan är USA: s alla utspel om att man ska erövra Grönland. Nordenchef Anna Wieslander, Nordenchef vid tankesmedjan Atlantic Council, kallar situationen akut och säger i Agenda att Europa nu är ordentligt pressad från två håll.",
-      "url": "https://svt.se/nyheter/utrikes/klas-eklund-om-gronland-viktigt-att-eu-inte-backar",
-      "domain": "svt.se",
-      "published": "2026-01-18T22:23:18Z"
-    },
-    {
-      "title": "Dansk oro över att USA är både vän och fiende: ”Vi måste förvänta oss att USA sp…",
-      "summary": "Danmark oroade sig för att USA försökte få danska kolleger på Grönland att lämna ut information om militära anläggningar, hamnar och flygbaser på Grönland. De amerikanska kontakterna skedde informellt och utan att man involverade Köpenhamn, vilket USA borde ha gjort, eftersom det gällde ett allierat land inom militäralliansen Nato. Den 16 januari 2025 bad det danska försvarsministeriet om information – och danska kontaktpersoner som kunde ge USA relevant information om grönländska förhållanden.",
-      "url": "https://yle.fi/a/7-10091642?origin=rss",
+      "title": "Nya åtal mot norska kronprinsessans son",
+      "summary": "Norska kronprinsessans son Marius Borg Høiby åtalas nu för brott mot besöksförbud och grovt narkotikabrott. Han står sedan tidigare åtalad för tiotals brott, bland annat fyra våldtäkter, misshandel i en nära relation, andra våldsbrott och dödshot. Besöksförbud som han nu åtalas för att ha brutit mot hade utfärdats för att skydda en kvinna som han missänks ha utsatt för sexuella kränkningar, grov kroppslig kränkning och hotelser.",
+      "url": "https://yle.fi/a/7-10091730?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-18T20:34:52Z"
+      "published": "2026-01-19T16:48:50Z"
     }
   ]
 }

@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-20T07:33:41+00:00",
-  "total_raw": 40,
+  "generated": "2026-01-21T07:32:31+00:00",
+  "total_raw": 38,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Amerikaner sågar Trumps Grönlandsplaner: ”Det blir bara galnare och galnare",
+      "summary": "USA: s president Donald Trump är fast besluten vid sin idé om att köpa Grönland. Reidan Fredstrom förstår inte varifrån Trump har fått sin idé och varför han inte förstår att autonoma området inte är till salu. Ralph Nix har tagit sig ut för att demonstrera, främst mot polismyndigheten ICE men också mot att Donald Trump enligt honom monterar ner den amerikanska demokratin.",
+      "url": "https://yle.fi/a/7-10091781?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-21T03:48:35Z"
+    },
     {
       "title": "Kommentar: Ett år efter att Donald Trump svors in är han fartblind",
       "summary": "Donald Trump är känd för sitt ohälsosamma sovschema, vilket innebär att man ofta får vakna till ett nytt utspel på sociala medier. Under Trumps första mandatperiod ledde hans nyckfulla beteende till avhopp inom de egna leden. Hittills har inga tungviktare hoppat av under Trumps andra mandatperiod – och inget tyder på att den nuvarande försvarsministern Pete Hegseth kommer att sätta några som helst gränser för presidenten.",
@@ -16,18 +23,11 @@
       "published": "2026-01-20T04:13:15Z"
     },
     {
-      "title": "Chatta med SVT:s korrespondent om Grönlandskrisen",
-      "summary": "Marco Rubio har beskrivits som en av de etablerade republikaner som förstår riskerna med och har kapaciteten att bromsa Donald Trump. Varför ser vi då inget sådant motstånd, handlar det om brist på faktisk makt, politiska incitament, eller en medveten strategi att inte agera? Anna • Hur har man tagit nyheten att Trump tog emot och behöll fredspriset?",
-      "url": "https://svt.se/nyheter/utrikes/chatta-med-svts-korrespondent-om-gronlandskrisen",
-      "domain": "svt.se",
-      "published": "2026-01-19T18:11:35Z"
-    },
-    {
-      "title": "Dansk oro över att USA är både vän och fiende: ”Vi måste förvänta oss att USA sp…",
-      "summary": "Danmark oroade sig för att USA försökte få danska kolleger på Grönland att lämna ut information om militära anläggningar, hamnar och flygbaser på Grönland. De amerikanska kontakterna skedde informellt och utan att man involverade Köpenhamn, vilket USA borde ha gjort, eftersom det gällde ett allierat land inom militäralliansen Nato. Den 16 januari 2025 bad det danska försvarsministeriet om information – och danska kontaktpersoner som kunde ge USA relevant information om grönländska förhållanden.",
-      "url": "https://yle.fi/a/7-10091642?origin=rss",
+      "title": "Stubb i Davos: ”Grönlandsfrågan är svårast för mig hittills som president",
+      "summary": "Under de kommande dagarna, med start i kväll, kommer världens politiska och ekonomiska elit att samlas i Davos. Bland de cirka 3 000 deltagarna hittar man statsöverhuvuden, politiker, verkställande direktörer för storföretag och chefer för en lång rad internationella organisationer. Hit hör EU - kommissionens ordförande Ursula von der Leyen, Kinas vice premiärminister He Lifeng, Natos generalsekreterare Mark Rutte samt Nvidias, världens högst värderade bolag, verkställande direktör Jensen Huang.",
+      "url": "https://yle.fi/a/7-10091686?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-18T20:34:52Z"
+      "published": "2026-01-19T17:07:19Z"
     }
   ]
 }
