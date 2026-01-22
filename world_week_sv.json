@@ -2,53 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-21T07:31:56+00:00",
+  "generated": "2026-01-22T07:36:18+00:00",
   "total_raw": 38,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "I fokus: Pengarna bakom maktspelet",
-      "summary": "Grönland är ett potentiellt nybyggarområde för USA, mycket på grund av öns tillgång till sällsynta jordartsmetaller. Den amerikanske miljardären Ronald Lauder skulle skriva under ett avtal om att köpa ön. Frågan är dock om siffran egentligen spelar någon roll.",
-      "url": "https://svt.se/nyheter/utrikes/i-fokus-pengarna-bakom-maktspelet-vad-ar-gronland-vart",
+      "title": "Trump talar om Grönlandsavtal som ska ”gälla för evigt”",
+      "summary": "USA: s president Donald Trump verkar backa efter att ha krävt att USA skulle få äga Grönland inför ett stort antal världsledare i Davos. Enligt Trump är ramverket mycket gynnsam för USA, men också för Natos andra medlemsländer, om det blir verklighet. I en intervju med CNN säger han ändå att överenskommelsen, om den blir verklighet, kommer att gälla ” för evigt –.",
+      "url": "https://yle.fi/a/7-10091887?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-22T03:40:42Z"
+    },
+    {
+      "title": "Källor: USA kan få begränsade områden på Grönland",
+      "summary": "USA: s president Donald Trump meddelade att man kommit överens om ett ramverk till ett framtida avtal gällande Grönland och hela den arktiska regionen. Ett par timmar senare berättade tre högt uppsatta tjänstemän för The New York Times att ett förslag om att USA ska få kontroll över begränsade landområden på Grönland har diskuterats. Enligt uppgifterna handlar det om avgränsade områden där USA skulle kunna etablera militär närvaro – och initiativet skulle ha drivits av Rutte.",
+      "url": "https://svt.se/nyheter/utrikes/kallor-usa-kan-na-ramavtal-om-gronland-far-begransade-omraden",
       "domain": "svt.se",
-      "published": "2026-01-21T05:34:10Z"
+      "published": "2026-01-22T01:45:31Z"
     },
     {
-      "title": "Amerikaner sågar Trumps Grönlandsplaner: ”Det blir bara galnare och galnare",
-      "summary": "USA: s president Donald Trump är fast besluten vid sin idé om att köpa Grönland. Reidan Fredstrom förstår inte varifrån Trump har fått sin idé och varför han inte förstår att autonoma området inte är till salu. Ralph Nix har tagit sig ut för att demonstrera, främst mot polismyndigheten ICE men också mot att Donald Trump enligt honom monterar ner den amerikanska demokratin.",
-      "url": "https://yle.fi/a/7-10091781?origin=rss",
+      "title": "Analys: Trump ser Grönland som en isbit",
+      "summary": "Under sitt tal i Davos hänvisade Donald Trump upprepade gånger till andra världskriget. Han beklagade sig över att USA gav bort Grönland när kriget tog slut 1945. Trump är inte säker på ifall Natoländerna skulle komma till USA: s undsättning om det skulle behövas.",
+      "url": "https://yle.fi/a/7-10091876?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-21T03:48:35Z"
+      "published": "2026-01-21T17:00:14Z"
     },
     {
-      "title": "Ett år med Trump",
-      "summary": "Vad skulle krävas för att EU skulle ta till sig några av de vapen de har jämfört med att bara prata om att de har dem men inte använda dem? Lars: Är det inte så enkelt som USA: s aktion i Venezuela skapade utrymme för både Kina och Ryssland att rättfärdiga attacker mot Ukraina och Taiwan? Tror inte många säger säkert ja här i Washington i dag.",
-      "url": "https://svt.se/nyheter/utrikes/ett-ar-med-trump-chatta-med-svts-korrespondenter-om-varldslaget",
+      "title": "Kristersson om Grönlandskrisen: EU bör inte hota med ”handelsbazooka” just nu",
+      "summary": "Enligt uppgift hade Kristersson inte planerat att delta, men till följd av säkerhetsläget har han lagt om sina planer. Under onsdagen betonade Kristersson vikten av att vara på plats och föra samtal. På frågan om hur EU ska agera mot USA efter Trumps senaste tullhot kopplat till Grönland svarar statsministern: – Det finns många saker att göra och jag utesluter ingenting just nu.",
+      "url": "https://svt.se/nyheter/utrikes/kristersson-m-haller-presstraff-i-davos",
       "domain": "svt.se",
-      "published": "2026-01-20T14:39:22Z"
+      "published": "2026-01-21T07:39:30Z"
     },
     {
-      "title": "Kommentar: Ett år efter att Donald Trump svors in är han fartblind",
-      "summary": "Donald Trump är känd för sitt ohälsosamma sovschema, vilket innebär att man ofta får vakna till ett nytt utspel på sociala medier. Under Trumps första mandatperiod ledde hans nyckfulla beteende till avhopp inom de egna leden. Hittills har inga tungviktare hoppat av under Trumps andra mandatperiod – och inget tyder på att den nuvarande försvarsministern Pete Hegseth kommer att sätta några som helst gränser för presidenten.",
-      "url": "https://yle.fi/a/7-10091724?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-20T04:13:15Z"
+      "title": "En person död efter ny tågolycka i Spanien",
+      "summary": "Olyckan inträffade i staden Gelida nära Barcelona på tisdag kväll. Tåget spårade ur när det krockade med en mur som kollapsat. 37 personer ska ha skadats, varav fyra allvarligt.",
+      "url": "https://svt.se/nyheter/utrikes/minst-15-skadade-efter-tagolycka-i-spanien",
+      "domain": "svt.se",
+      "published": "2026-01-20T21:15:50Z"
     },
     {
-      "title": "Stubb i Davos: ”Grönlandsfrågan är svårast för mig hittills som president",
-      "summary": "Under de kommande dagarna, med start i kväll, kommer världens politiska och ekonomiska elit att samlas i Davos. Bland de cirka 3 000 deltagarna hittar man statsöverhuvuden, politiker, verkställande direktörer för storföretag och chefer för en lång rad internationella organisationer. Hit hör EU - kommissionens ordförande Ursula von der Leyen, Kinas vice premiärminister He Lifeng, Natos generalsekreterare Mark Rutte samt Nvidias, världens högst värderade bolag, verkställande direktör Jensen Huang.",
-      "url": "https://yle.fi/a/7-10091686?origin=rss",
+      "title": "EU:s jordbrukare vill stoppa handelsavtal i sista minuten",
+      "summary": "Mercosuravtalet är mellan EU och de så kallade Mercosurländerna Brasilien, Argentina, Paraguay och Uruguay. Avtalet skulle kunna skapa världens största frihandelszon med över 700 miljoner invånare. Omkring 80 procent av livsmedelsproduktionen i Finland är inhemsk idag.",
+      "url": "https://yle.fi/a/7-10091440?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-19T17:07:19Z"
-    },
-    {
-      "title": "Nya åtal mot norska kronprinsessans son",
-      "summary": "Norska kronprinsessans son Marius Borg Høiby åtalas nu för brott mot besöksförbud och grovt narkotikabrott. Han står sedan tidigare åtalad för tiotals brott, bland annat fyra våldtäkter, misshandel i en nära relation, andra våldsbrott och dödshot. Besöksförbud som han nu åtalas för att ha brutit mot hade utfärdats för att skydda en kvinna som han missänks ha utsatt för sexuella kränkningar, grov kroppslig kränkning och hotelser.",
-      "url": "https://yle.fi/a/7-10091730?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-19T16:48:50Z"
+      "published": "2026-01-20T07:26:53Z"
     }
   ]
 }
