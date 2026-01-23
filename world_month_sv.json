@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-22T07:36:49+00:00",
-  "total_raw": 38,
+  "generated": "2026-01-23T07:32:02+00:00",
+  "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump talar om Grönlandsavtal som ska ”gälla för evigt”",
-      "summary": "USA: s president Donald Trump verkar backa efter att ha krävt att USA skulle få äga Grönland inför ett stort antal världsledare i Davos. Enligt Trump är ramverket mycket gynnsam för USA, men också för Natos andra medlemsländer, om det blir verklighet. I en intervju med CNN säger han ändå att överenskommelsen, om den blir verklighet, kommer att gälla ” för evigt –.",
-      "url": "https://yle.fi/a/7-10091887?origin=rss",
+      "title": "Orpo om Grönlandskrisen: De fem senaste dagarna har lämnat spår",
+      "summary": "Petteri Orpo säger att den akuta krisen kunde avvärjas, men att osäkerheten kring den transatlantiska relationens framtid består. Bakgrunden var USA: s president Donald Trumps hot om nya tullar mot Europa och de fortsatta kraven på att ta kontrollen över Grönland. EU: s ordförande Ursula von der Leyen sade krishanteringen byggde på beslutsamhet, samarbete, beredskap och europeisk enighet.",
+      "url": "https://yle.fi/a/7-10091970?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-22T03:40:42Z"
+      "published": "2026-01-23T03:33:25Z"
+    },
+    {
+      "title": "Svenska tonåringar mördar för struntsummor i gängkrigen på spanska solkusten",
+      "summary": "Timo Virtanen från Centralkriminalpolisen är nordisk sambandsperson. Han har sett rekryteringen av unga minderåriga som så kallade lejda mördare har fått fäste här. Virtanen räknar med att det finns ungefär 160 internationella gäng på solkusten.",
+      "url": "https://yle.fi/a/7-10088051?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-22T08:58:56Z"
     },
     {
       "title": "Analys: Trump ser Grönland som en isbit",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10091876?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-21T17:00:14Z"
-    },
-    {
-      "title": "EU:s jordbrukare vill stoppa handelsavtal i sista minuten",
-      "summary": "Mercosuravtalet är mellan EU och de så kallade Mercosurländerna Brasilien, Argentina, Paraguay och Uruguay. Avtalet skulle kunna skapa världens största frihandelszon med över 700 miljoner invånare. Omkring 80 procent av livsmedelsproduktionen i Finland är inhemsk idag.",
-      "url": "https://yle.fi/a/7-10091440?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-20T07:26:53Z"
     }
   ]
 }
