@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-24T07:25:58+00:00",
+  "generated": "2026-01-25T07:42:55+00:00",
   "total_raw": 39,
-  "total_rank": 7,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Pojke död i hajattack i Sydney",
-      "summary": "Pojken var och badade med sina vänner och hoppade från klippor i närheten av stranden Shark beach i Vaucluse i Sydney på söndagen. Han attackerades av vad myndigheterna tror var en tjurhaj. Pojken fick svåra skador i benen och har vårdats på sjukhus sedan dess.",
-      "url": "https://svt.se/nyheter/utrikes/pojke-dod-i-hajattack-i-sydney",
+      "title": "Trumps migrationspolitik är en fajt båda partier vill ha",
+      "summary": "Donald Trump bar också bilder och namn på personer som gripits av federala migrationsmyndigheter. Minnesota har varit i fokus för den konservativa sidan på grund av uppmärksammade fall av omfattande välfärdsfusk. Konservativa röster var snabba att koppla detta till demokratiska partiet, ofta med anklagelser om att politiker sett mellan fingrarna eller till och med möjliggjort bedrägerier för att vinna röster ur den somaliska diasporan.",
+      "url": "https://svt.se/nyheter/utrikes/trumps-migrationspolitik-ar-en-fajt-bada-partier-vill-ha",
       "domain": "svt.se",
-      "published": "2026-01-24T04:46:02Z"
+      "published": "2026-01-25T06:48:31Z"
+    },
+    {
+      "title": "Bara fem procent av judarna överlevde Förintelsen i Litauen",
+      "summary": "Litauerna själva var offer för en brutal rysk - sovjetisk ockupation som började under andra världskriget. Det har länge varit relativt lite känt om de över 200 000 judiska dödsoffren under den fyraåriga tyska ockupationen trots att de uppskattas ha varit tre gånger fler än de litauer som dödades under hela den femtioåriga sovjetockupationen. Ett nytt museum om judendomens historia i Litauen försöker nu visa hur stort det judiska inslaget i Litauen var och att en del litauer deltog i Förintelsen.",
+      "url": "https://yle.fi/a/7-10089840?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-25T04:00:30Z"
+    },
+    {
+      "title": "SAS ställer in flygresor till USA på grund av storm",
+      "summary": "Avgångarna gäller i första hand de från Köpenhamn, som de flesta svenskar som ska till USA reser via. Förutom New York kommer även sträckan till Atlanta att ställas in under lördagen. Östkusten förväntas få den största nederbörden under söndag och måndag.",
+      "url": "https://svt.se/nyheter/utrikes/sas-staller-in-flygresor-till-usa",
+      "domain": "svt.se",
+      "published": "2026-01-24T11:18:16Z"
     },
     {
       "title": "I Myanmar gömmer sig folket i djungeln medan juntan ordnar fuskval",
@@ -23,11 +37,11 @@
       "published": "2026-01-24T04:03:37Z"
     },
     {
-      "title": "Femåring togs av ICE",
-      "summary": "Fredagen den 23 januari har även utsetts till en sorgedag i Minnesota. Staten går ut i storstrejk. Butiker, restauranger, museer och annan verksamhet i Minnesota kommer att hålla stängt under dagen.",
-      "url": "https://svt.se/nyheter/utrikes/femaring-togs-av-ice-minnesota-strejkar",
+      "title": "USA: 140 miljoner varnas för jättelik vinterstorm",
+      "summary": "Landets flygtrafik påverkas starkt. På lördagen var drygt 3 000 flygningar inställda eller försenade och under söndagen förväntas 5 000 flighter ställas in. I Chicago stängdes skolorna på fredag och från städer som Austin i Texas och Memphis i Tennessee kommer varningar om hårt väder.",
+      "url": "https://svt.se/nyheter/utrikes/usa-rustar-for-snoovader-forbered-er",
       "domain": "svt.se",
-      "published": "2026-01-23T15:34:52Z"
+      "published": "2026-01-23T19:12:27Z"
     },
     {
       "title": "Oro i Baltikum: ”USA:s agerande i Grönlandsfrågan visar att Nato kan splittras",
@@ -35,27 +49,6 @@
       "url": "https://yle.fi/a/7-10091817?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-23T09:06:22Z"
-    },
-    {
-      "title": "Amerikansk tidigare toppmilitär: Europa måste sluta vara rädda för Putin",
-      "summary": "Ben Hodges säger att Europa måste bli tydligare och agera än mer enigt för att stödja Ukraina och sätta press på Ryssland. Han pekar på att EU - länderna tillsammans med Norge, Storbritannien och sin allierade Kanada – gemensamt har större befolkning, ekonomi, militära förmågor och industri – gemensamt. Han är tveksam till att det kommer att bli någon vapenvila eller fredsavtal i närtid med hänvisning till att Ryssland inte är intresserad.",
-      "url": "https://svt.se/nyheter/utrikes/amerikansk-tidigare-toppmilitar-europa-maste-sluta-vara-radda-for-putin",
-      "domain": "svt.se",
-      "published": "2026-01-22T19:41:52Z"
-    },
-    {
-      "title": "Svenska tonåringar mördar för struntsummor i gängkrigen på spanska solkusten",
-      "summary": "Timo Virtanen från Centralkriminalpolisen är nordisk sambandsperson. Han har sett rekryteringen av unga minderåriga som så kallade lejda mördare har fått fäste här. Virtanen räknar med att det finns ungefär 160 internationella gäng på solkusten.",
-      "url": "https://yle.fi/a/7-10088051?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-22T08:58:56Z"
-    },
-    {
-      "title": "Analys: Trump ser Grönland som en isbit",
-      "summary": "Under sitt tal i Davos hänvisade Donald Trump upprepade gånger till andra världskriget. Han beklagade sig över att USA gav bort Grönland när kriget tog slut 1945. Trump är inte säker på ifall Natoländerna skulle komma till USA: s undsättning om det skulle behövas.",
-      "url": "https://yle.fi/a/7-10091876?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-21T17:00:14Z"
     }
   ]
 }
