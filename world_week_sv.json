@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-25T07:42:55+00:00",
-  "total_raw": 39,
-  "total_rank": 6,
+  "generated": "2026-01-26T07:44:46+00:00",
+  "total_raw": 38,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Trump: Pretti bar ”mycket farligt vapen",
+      "summary": "Ex - Minister för inrikes säkerhet säger att Alex Pretti sköts i självförsvar. Påstådd agent hittade vapnet i mannens byxlinning, och för bort det från platsen. Trump vill inte svara på om han tycker att polisen som sköt Pretti gjorde rätt, men öppnar för att så småningom dra tillbaka migration och gränspolis från Minneapolis.",
+      "url": "https://svt.se/nyheter/utrikes/trump-pretti-bar-mycket-farligt-vapen",
+      "domain": "svt.se",
+      "published": "2026-01-26T04:32:51Z"
+    },
+    {
+      "title": "Finländsk 12-åring fördes till en uppfostringsanstalt i Kenya: ”Vi blev slagna m…",
+      "summary": "Uppfostringsanstalten är en stor affärsverksamhet i Östafrika. Danska Jasmin Osman lurades av sina föräldrar som föreslog en semesterresa till Uganda. Hon hölls nästan konstant fastkedjad, ibland utomhus i kylan, och bränd med en glödande pinne.",
+      "url": "https://yle.fi/a/7-10091765?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-26T04:30:14Z"
+    },
     {
       "title": "Trumps migrationspolitik är en fajt båda partier vill ha",
       "summary": "Donald Trump bar också bilder och namn på personer som gripits av federala migrationsmyndigheter. Minnesota har varit i fokus för den konservativa sidan på grund av uppmärksammade fall av omfattande välfärdsfusk. Konservativa röster var snabba att koppla detta till demokratiska partiet, ofta med anklagelser om att politiker sett mellan fingrarna eller till och med möjliggjort bedrägerier för att vinna röster ur den somaliska diasporan.",
@@ -23,11 +37,11 @@
       "published": "2026-01-25T04:00:30Z"
     },
     {
-      "title": "SAS ställer in flygresor till USA på grund av storm",
-      "summary": "Avgångarna gäller i första hand de från Köpenhamn, som de flesta svenskar som ska till USA reser via. Förutom New York kommer även sträckan till Atlanta att ställas in under lördagen. Östkusten förväntas få den största nederbörden under söndag och måndag.",
-      "url": "https://svt.se/nyheter/utrikes/sas-staller-in-flygresor-till-usa",
+      "title": "Iran säger sig vilja svara med ett fullskaligt krig",
+      "summary": "Flera stora flygbolag pausar trafiken till Dubai och USA har skickat örlogsfartyg till Mellanöstern. Iran och dess regimföreträdare säger sig ha högsta beredskap med fingret på avtryckaren. Det här kan mycket möjligt vara det stora slaget mellan den iranska regimen och dess absoluta fiende USA – eller så är det en upptrappning där stora ord leder till en försoning.",
+      "url": "https://svt.se/nyheter/utrikes/iran-sager-sig-vilja-svara-med-ett-fullskaligt-krig",
       "domain": "svt.se",
-      "published": "2026-01-24T11:18:16Z"
+      "published": "2026-01-24T22:38:00Z"
     },
     {
       "title": "I Myanmar gömmer sig folket i djungeln medan juntan ordnar fuskval",
@@ -37,18 +51,11 @@
       "published": "2026-01-24T04:03:37Z"
     },
     {
-      "title": "USA: 140 miljoner varnas för jättelik vinterstorm",
-      "summary": "Landets flygtrafik påverkas starkt. På lördagen var drygt 3 000 flygningar inställda eller försenade och under söndagen förväntas 5 000 flighter ställas in. I Chicago stängdes skolorna på fredag och från städer som Austin i Texas och Memphis i Tennessee kommer varningar om hårt väder.",
-      "url": "https://svt.se/nyheter/utrikes/usa-rustar-for-snoovader-forbered-er",
-      "domain": "svt.se",
-      "published": "2026-01-23T19:12:27Z"
-    },
-    {
-      "title": "Oro i Baltikum: ”USA:s agerande i Grönlandsfrågan visar att Nato kan splittras",
-      "summary": "USA: s president Donald Trumps hot om strafftullar mot Finland och sju andra länder verkar ha varit droppen för många Nato - länder. Estlands tidigare underrättelsechef Rainer Saks säger att Grönlandsfrågan visar att det största säkerhetshotet för norra Europa nu är – och att Trumps linje är mycket allvarligare än ett politiskt spel. Saks uppskattar att det kan ta Ryssland tio år att återuppbygga sin militära potential till den nivå armén hade före det fullskaliga kriget i Ukraina.",
-      "url": "https://yle.fi/a/7-10091817?origin=rss",
+      "title": "Britter och polacker upprörda över Trumps kommentarer om Natotrupper i Afghanist…",
+      "summary": "Den brittiske premiärministern Keir Starmer påpekade att 457 brittiska soldater stupade i Afghanistan och att Trumps ord var \" förolämpande och motbjudande \". Han antydde också att Trump borde be om ursäkt. Harry stred i Afghanistan i två omgångar åren 2007 – 2008 och 2012 – 2013.",
+      "url": "https://yle.fi/a/7-10092034?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-23T09:06:22Z"
+      "published": "2026-01-23T19:15:47Z"
     }
   ]
 }
