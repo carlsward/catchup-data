@@ -2,60 +2,53 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-26T07:44:46+00:00",
-  "total_raw": 38,
-  "total_rank": 7,
+  "generated": "2026-01-27T07:37:20+00:00",
+  "total_raw": 40,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Trump: Pretti bar ”mycket farligt vapen",
-      "summary": "Ex - Minister för inrikes säkerhet säger att Alex Pretti sköts i självförsvar. Påstådd agent hittade vapnet i mannens byxlinning, och för bort det från platsen. Trump vill inte svara på om han tycker att polisen som sköt Pretti gjorde rätt, men öppnar för att så småningom dra tillbaka migration och gränspolis från Minneapolis.",
-      "url": "https://svt.se/nyheter/utrikes/trump-pretti-bar-mycket-farligt-vapen",
+      "title": "Analys: Därför ändrar Trump strategi i Minneapolis",
+      "summary": "Donald Trump meddelade att han har talat med Minnesotas demokratiska guvernör Tim Walz och Minneapolis demokratiska borgmästare Jacob Frey. Trump har länge varit på kollisionskurs över migrationsräderna och dödsskjutningarna i staden. Det största tecknet på en kursändring är uppgifterna om att gränspolisen Border Patrol Gregory Bovino ska skickas tillbaka till sitt tidigare jobb i Kalifornien.",
+      "url": "https://yle.fi/a/7-10092161?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-27T05:06:26Z"
+    },
+    {
+      "title": "Uppgifter: Gränspolisens ”överbefälhavare” Gregory Bovino avsätts",
+      "summary": "Gregory Bovino har de senaste sju månaderna utfört räder med den federala gränspolisen i städer som Chicago, Charlotte och New Orleans. Han har fått titeln \" överbefälhavare \" av ministern för inrikes säkerhet, Kristi Noem, och av andra tjänstemän som står nära president Trump. Under sitt arbete har han rest med ett filmteam, och blivit igenkänd inom MAGA - rörelsen via sociala medier.",
+      "url": "https://svt.se/nyheter/utrikes/uppgifter-granspolisens-overbefalhavare-gregory-bovino-avsatts",
       "domain": "svt.se",
-      "published": "2026-01-26T04:32:51Z"
+      "published": "2026-01-27T01:47:38Z"
     },
     {
-      "title": "Finländsk 12-åring fördes till en uppfostringsanstalt i Kenya: ”Vi blev slagna m…",
-      "summary": "Uppfostringsanstalten är en stor affärsverksamhet i Östafrika. Danska Jasmin Osman lurades av sina föräldrar som föreslog en semesterresa till Uganda. Hon hölls nästan konstant fastkedjad, ibland utomhus i kylan, och bränd med en glödande pinne.",
-      "url": "https://yle.fi/a/7-10091765?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-26T04:30:14Z"
-    },
-    {
-      "title": "Trumps migrationspolitik är en fajt båda partier vill ha",
-      "summary": "Donald Trump bar också bilder och namn på personer som gripits av federala migrationsmyndigheter. Minnesota har varit i fokus för den konservativa sidan på grund av uppmärksammade fall av omfattande välfärdsfusk. Konservativa röster var snabba att koppla detta till demokratiska partiet, ofta med anklagelser om att politiker sett mellan fingrarna eller till och med möjliggjort bedrägerier för att vinna röster ur den somaliska diasporan.",
-      "url": "https://svt.se/nyheter/utrikes/trumps-migrationspolitik-ar-en-fajt-bada-partier-vill-ha",
+      "title": "Efter dödsskjutningen",
+      "summary": "Ett inlägg på X, från den republikanska biträdande distriktsåklagare i Kalifornien, har väckt stark kritik. Vapenlobbyn National Rifle Association, som står bakom Donald Trump i de flesta fall, kritiserar nu uttalandet. Gun Owners of America uttryckte sitt missnöje mot Essaylis inlägg: \" Det andra tillägget skyddar amerikaners rättigheter att beväpna sig när de demonstrerar – en rättighet som den federala regeringen inte får inskränka.",
+      "url": "https://svt.se/nyheter/utrikes/efter-dodsskjutningen-ovantad-kritik-fran-usas-vapenlobby",
       "domain": "svt.se",
-      "published": "2026-01-25T06:48:31Z"
+      "published": "2026-01-26T19:06:02Z"
     },
     {
-      "title": "Bara fem procent av judarna överlevde Förintelsen i Litauen",
-      "summary": "Litauerna själva var offer för en brutal rysk - sovjetisk ockupation som började under andra världskriget. Det har länge varit relativt lite känt om de över 200 000 judiska dödsoffren under den fyraåriga tyska ockupationen trots att de uppskattas ha varit tre gånger fler än de litauer som dödades under hela den femtioåriga sovjetockupationen. Ett nytt museum om judendomens historia i Litauen försöker nu visa hur stort det judiska inslaget i Litauen var och att en del litauer deltog i Förintelsen.",
-      "url": "https://yle.fi/a/7-10089840?origin=rss",
+      "title": "USA vill tjäna stora pengar på Venezuelas olja, men det kan redan vara för sent",
+      "summary": "USA har arbetat vidare på sina planer på att återuppliva de potentiella oljeinkomsterna från Venezuela efter interventionen i början av året. Den amerikanska presidenten Donald Trumps förhoppning var att de stora amerikanska oljebolagen skulle kasta sig över möjligheten att göra stora investeringar i landet med världens största oljereserver. Men det går trögt.",
+      "url": "https://yle.fi/a/7-10091466?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-25T04:00:30Z"
+      "published": "2026-01-26T09:01:47Z"
     },
     {
-      "title": "Iran säger sig vilja svara med ett fullskaligt krig",
-      "summary": "Flera stora flygbolag pausar trafiken till Dubai och USA har skickat örlogsfartyg till Mellanöstern. Iran och dess regimföreträdare säger sig ha högsta beredskap med fingret på avtryckaren. Det här kan mycket möjligt vara det stora slaget mellan den iranska regimen och dess absoluta fiende USA – eller så är det en upptrappning där stora ord leder till en försoning.",
-      "url": "https://svt.se/nyheter/utrikes/iran-sager-sig-vilja-svara-med-ett-fullskaligt-krig",
-      "domain": "svt.se",
-      "published": "2026-01-24T22:38:00Z"
-    },
-    {
-      "title": "I Myanmar gömmer sig folket i djungeln medan juntan ordnar fuskval",
-      "summary": "Rebellsoldaten Saw Nya Wah, 42, säger att segern är den mest hedervärda och viktiga segern under hans 23 år i den etniska armén. Gränshandeln, stadens livsnerv, har kollapsat sedan den dåvarande juntan tog över 1990. Omkring en tredjedel av de 3 000 invånarna är kvar och många fruktar att striderna återvänder till staden.",
-      "url": "https://yle.fi/a/7-10091456?origin=rss",
+      "title": "Hotet om Grönland blev en välkommen vändpunkt för Europa, säger forskare",
+      "summary": "Talet bidrog starkt till att Obama samma år tilldelades Nobels fredspris för sina insatser för internationell diplomati och sin vision om en kärnvapenfri värld. Upprepade gånger har Trump påmint amerikanerna, och Norges statsledning, om att Obama fick fredspriset utan att göra något. Talet liknade en amerikansk skilsmässoansökan från Europa.",
+      "url": "https://yle.fi/a/7-10092071?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-24T04:03:37Z"
+      "published": "2026-01-25T16:31:00Z"
     },
     {
-      "title": "Britter och polacker upprörda över Trumps kommentarer om Natotrupper i Afghanist…",
-      "summary": "Den brittiske premiärministern Keir Starmer påpekade att 457 brittiska soldater stupade i Afghanistan och att Trumps ord var \" förolämpande och motbjudande \". Han antydde också att Trump borde be om ursäkt. Harry stred i Afghanistan i två omgångar åren 2007 – 2008 och 2012 – 2013.",
-      "url": "https://yle.fi/a/7-10092034?origin=rss",
+      "title": "Det här vet vi nu om dödsskjutningen i Minnesota",
+      "summary": "Alex Pretti sköts på lördagen av federala immigrationsagenter i Minneapolis i USA. Han var en intensivvårdssjukskötare på ett lokalt veteransjukhus. Mordet har utlöst nya protester och stark kritik från lokala tjänstemän som bestrider Trumpadministrationens snabba påståenden om att Pretti hade för avsikt att skada federala agenter.",
+      "url": "https://yle.fi/a/7-10092067?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-23T19:15:47Z"
+      "published": "2026-01-25T12:32:46Z"
     }
   ]
 }
