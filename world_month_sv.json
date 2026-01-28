@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-27T07:37:55+00:00",
+  "generated": "2026-01-28T07:34:57+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "EU-parlamentariker varnar: Trump kan stänga av Finlands molntjänster",
+      "summary": "Finland måste snarast minska sitt beroende av amerikanska teknologijättar som Microsoft, Amazon och Google. Det kräver EU - parlamentarikern Aura Salla i en intervju med Svenska Yle. Salla är särskilt oroad över att Folkpensionsanstalten ( FPA ) från och med nästa år flyttar uppgifter om finländarnas sociala förmåner och hälsouppgifter till amerikanska molntjänster.",
+      "url": "https://yle.fi/a/7-10092193?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-28T04:25:18Z"
+    },
     {
       "title": "Analys: Därför ändrar Trump strategi i Minneapolis",
       "summary": "Donald Trump meddelade att han har talat med Minnesotas demokratiska guvernör Tim Walz och Minneapolis demokratiska borgmästare Jacob Frey. Trump har länge varit på kollisionskurs över migrationsräderna och dödsskjutningarna i staden. Det största tecknet på en kursändring är uppgifterna om att gränspolisen Border Patrol Gregory Bovino ska skickas tillbaka till sitt tidigare jobb i Kalifornien.",
@@ -16,18 +23,11 @@
       "published": "2026-01-27T05:06:26Z"
     },
     {
-      "title": "USA vill tjäna stora pengar på Venezuelas olja, men det kan redan vara för sent",
-      "summary": "USA har arbetat vidare på sina planer på att återuppliva de potentiella oljeinkomsterna från Venezuela efter interventionen i början av året. Den amerikanska presidenten Donald Trumps förhoppning var att de stora amerikanska oljebolagen skulle kasta sig över möjligheten att göra stora investeringar i landet med världens största oljereserver. Men det går trögt.",
-      "url": "https://yle.fi/a/7-10091466?origin=rss",
+      "title": "USA-experten Oscar Winberg om dödsskjutningarna i Minnesota: ”Det finns en medve…",
+      "summary": "Oscar Winberg: Administrationen agerar som en fascistisk administration. Han säger att agenterna är beväpnade paramilitära styrkor som griper människor på ett väldigt våldsamt sätt. Winberg säger att det är ett Orwellskt sätt att ta sig an den här krisen.",
+      "url": "https://yle.fi/a/7-10092069?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-26T09:01:47Z"
-    },
-    {
-      "title": "Hotet om Grönland blev en välkommen vändpunkt för Europa, säger forskare",
-      "summary": "Talet bidrog starkt till att Obama samma år tilldelades Nobels fredspris för sina insatser för internationell diplomati och sin vision om en kärnvapenfri värld. Upprepade gånger har Trump påmint amerikanerna, och Norges statsledning, om att Obama fick fredspriset utan att göra något. Talet liknade en amerikansk skilsmässoansökan från Europa.",
-      "url": "https://yle.fi/a/7-10092071?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-25T16:31:00Z"
+      "published": "2026-01-26T12:15:38Z"
     }
   ]
 }
