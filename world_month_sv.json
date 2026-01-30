@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-29T07:59:15+00:00",
+  "generated": "2026-01-30T07:59:15+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Helikopterpiloten Peter Wiis sågar Trumps ”deal”: Grönland är ingen guldgruva",
-      "summary": "Grönland har en guldgruva, en gruva för anortosit och en för rubiner. Den första gruvan på Grönland öppnades redan på 1800 - talet. En handfull gruvor har stängts ner och i dag bryts det aktivt på tre ställen.",
-      "url": "https://yle.fi/a/7-10091800?origin=rss",
+      "title": "Ny forskning: Rysslands patriotiska fostran skapar lydnad men inte övertygelse",
+      "summary": "Ny doktorsavhandling vid Helsingfors universitet visar hur den statliga patriotismen har blivit en social norm som tvingas på eleverna genom hot och övertalning. Många av de militärpatriotiska programmen är dåligt anpassade till dagens unga generation eftersom metoderna är både gammaldags och auktoritära. Vissa texter är hämtade direkt från det gamla sovjetiska systemet där man bara ersatt kommunism med patriotism.",
+      "url": "https://yle.fi/a/7-10091846?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-29T04:28:50Z"
+      "published": "2026-01-30T04:20:43Z"
+    },
+    {
+      "title": "Norra Thailand har världens sämsta luftkvalitet",
+      "summary": "Thailands ris -, majs - och sockerrörsodlingar producerar 114 miljoner ton skörderester per år. För många bönder är den snabbaste lösningen att bränna allt - biokol - ett miljövänligt kol som binder koldioxid. Biochar Life har byggt upp en tydlig affärsmodell kring sin ugn.",
+      "url": "https://yle.fi/a/7-10090330?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-29T08:49:27Z"
     },
     {
       "title": "Vad hände på riktigt i Iran då internet släcktes?",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10092169?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-28T13:48:17Z"
-    },
-    {
-      "title": "Videorna visar ICE-agenternas brutala metoder i Minneapolis",
-      "summary": "Agenterna stormar bostäder och griper även små barn Federala agenter har gripit människor i deras hem i tillslag i hela Minneapolisområdet. Ögonvittnen uppger att agenterna stoppar dem godtyckligt på gatan enligt tv - kanalen NBC News. De flesta agenter lyder under ministeriet för inrikes säkerhet ( DHS ) Majoriteten tillhör migrations - och tullmyndigheten ICE, som under Trumps mandatperiod har vuxit till att bli USA: s i särklass största brottsbekämpande myndighet.",
-      "url": "https://yle.fi/a/7-10092172?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-27T14:21:33Z"
     }
   ]
 }

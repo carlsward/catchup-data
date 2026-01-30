@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-29T07:58:39+00:00",
+  "generated": "2026-01-30T07:58:43+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Bill Gates om Europas techoro: ”Var säker fram till nyligen",
-      "summary": "Stora delar av den europeiska digitala infrastrukturen drivs via amerikansk it - teknologi och molntjänster. I Sverige använder sig flera myndigheter, kommuner och företag av amerikanska molntjänster, och experter har varnat för Sveriges sårbarhet om exempelvis Microsoft skulle stängas ner. Debatten lyftes på nytt i samband med att relationen mellan USA och Danmark blev allt mer ansträngd.",
-      "url": "https://svt.se/nyheter/utrikes/bill-gates-om-europas-techoro-var-saker-fram-till-nyligen",
-      "domain": "svt.se",
-      "published": "2026-01-29T05:00:13Z"
+      "title": "Ny forskning: Rysslands patriotiska fostran skapar lydnad men inte övertygelse",
+      "summary": "Ny doktorsavhandling vid Helsingfors universitet visar hur den statliga patriotismen har blivit en social norm som tvingas på eleverna genom hot och övertalning. Många av de militärpatriotiska programmen är dåligt anpassade till dagens unga generation eftersom metoderna är både gammaldags och auktoritära. Vissa texter är hämtade direkt från det gamla sovjetiska systemet där man bara ersatt kommunism med patriotism.",
+      "url": "https://yle.fi/a/7-10091846?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-30T04:20:43Z"
     },
     {
-      "title": "Helikopterpiloten Peter Wiis sågar Trumps ”deal”: Grönland är ingen guldgruva",
-      "summary": "Grönland har en guldgruva, en gruva för anortosit och en för rubiner. Den första gruvan på Grönland öppnades redan på 1800 - talet. En handfull gruvor har stängts ner och i dag bryts det aktivt på tre ställen.",
-      "url": "https://yle.fi/a/7-10091800?origin=rss",
+      "title": "Kaos och censuranklagelser skakar ”nya” Tiktok i USA",
+      "summary": "Rapporter om felmeddelanden började strömma in dagar efter att Tiktok officiellt bröts loss från sina kinesiska ägare och landade hos en grupp Trump - vänliga investerare. Över 600 000 felanmälningar registrerades första dagarna enligt driftövervakande bolaget Downdetector. Användarna upptäckte att deras videor fick noll visningar, att sökfunktioner låste sig och att gamla klipp loopades i flödet.",
+      "url": "https://svt.se/nyheter/utrikes/kaos-och-censuranklagelser-skakar-nya-tiktok-i-usa",
+      "domain": "svt.se",
+      "published": "2026-01-30T02:24:17Z"
+    },
+    {
+      "title": "Irans revolutionsgarde terrorlistas",
+      "summary": "Irans inrikesminister och riksåklagare, 13 andra personer och sex organisationer och företag straffas med anledning av den senaste tidens våld mot demonstranter. Ytterligare 4 personer och 6 företag straffas på grund av Irans drönarhjälp till Rysslands krig i Ukraina. Sveriges utrikesminister Maria Malmer Stenergard ser fram emot att det också blir en terrorlistning.",
+      "url": "https://svt.se/nyheter/utrikes/irans-revolutionsgarde-terrorlistas-ckjgwx",
+      "domain": "svt.se",
+      "published": "2026-01-29T15:00:43Z"
+    },
+    {
+      "title": "Norra Thailand har världens sämsta luftkvalitet",
+      "summary": "Thailands ris -, majs - och sockerrörsodlingar producerar 114 miljoner ton skörderester per år. För många bönder är den snabbaste lösningen att bränna allt - biokol - ett miljövänligt kol som binder koldioxid. Biochar Life har byggt upp en tydlig affärsmodell kring sin ugn.",
+      "url": "https://yle.fi/a/7-10090330?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-29T04:28:50Z"
+      "published": "2026-01-29T08:49:27Z"
     },
     {
       "title": "Dödligt Nipah-virus väcker oro i Sydostasien",
-      "summary": "Nipah är inte ett luftburet virus och det finns inget fungerande botemedel. Viruset kan överföras från djur, ofta fladdermöss eller grisar, till människor. Det kan även sprida sig via livsmedel som blivit förorenade av fladdermöss och färsk juice från dadelpalmer tros vara en källa.",
+      "summary": "Flygpassagerare screenas för feber när de kliver av i Indien. Malaysia och Nepal har infört särskilda kontroller av passagerare som flyger från Västbengalen Indien. Nipah - viruset finns främst bland fladdermöss, som själva inte blir sjuka.",
       "url": "https://svt.se/nyheter/utrikes/dodligt-nipah-virus-vacker-oro-i-sydostasien",
       "domain": "svt.se",
       "published": "2026-01-28T19:27:01Z"
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10092169?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-28T13:48:17Z"
-    },
-    {
-      "title": "Växande kritik inom Republikanerna: ”Trovärdigheten står på spel",
-      "summary": "Sedan Trumpadministrationen begärde en ICE - insats till delstaten Minnesota har två personer skjutits till döds av federala agenter. Som en följd har debatten i landet skruvats upp och från flera håll kommer krav på en grundlig utredning. En stor del av kritiken kommer från Demokraternas håll, men missnöjet har även brett ut sig inom Republikanerna.",
-      "url": "https://svt.se/nyheter/utrikes/vaxande-kritik-inom-republikanerna-trovardigheten-star-pa-spel",
-      "domain": "svt.se",
-      "published": "2026-01-27T18:56:29Z"
-    },
-    {
-      "title": "Videorna visar ICE-agenternas brutala metoder i Minneapolis",
-      "summary": "Agenterna stormar bostäder och griper även små barn Federala agenter har gripit människor i deras hem i tillslag i hela Minneapolisområdet. Ögonvittnen uppger att agenterna stoppar dem godtyckligt på gatan enligt tv - kanalen NBC News. De flesta agenter lyder under ministeriet för inrikes säkerhet ( DHS ) Majoriteten tillhör migrations - och tullmyndigheten ICE, som under Trumps mandatperiod har vuxit till att bli USA: s i särklass största brottsbekämpande myndighet.",
-      "url": "https://yle.fi/a/7-10092172?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-27T14:21:33Z"
     }
   ]
 }
