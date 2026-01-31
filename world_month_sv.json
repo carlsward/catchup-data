@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-30T07:59:15+00:00",
+  "generated": "2026-01-31T07:54:28+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ny forskning: Rysslands patriotiska fostran skapar lydnad men inte övertygelse",
-      "summary": "Ny doktorsavhandling vid Helsingfors universitet visar hur den statliga patriotismen har blivit en social norm som tvingas på eleverna genom hot och övertalning. Många av de militärpatriotiska programmen är dåligt anpassade till dagens unga generation eftersom metoderna är både gammaldags och auktoritära. Vissa texter är hämtade direkt från det gamla sovjetiska systemet där man bara ersatt kommunism med patriotism.",
-      "url": "https://yle.fi/a/7-10091846?origin=rss",
+      "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
+      "summary": "Ekonomiskt uppsving har gett upphov till hårda nationalistiska stämningar, särskilt bland unga kineser. Kina anser att Taiwan är ett upproriskt landskap som onekligen är en del av moderlandet. Xi har sagt att han föredrar en fredlig återförening, men han har inte uteslutit en militär ockupation ifall taiwaneserna vägrar att foga sig.",
+      "url": "https://yle.fi/a/7-10091028?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-30T04:20:43Z"
+      "published": "2026-01-31T04:49:32Z"
+    },
+    {
+      "title": "Därför borde du lämna Google och Microsoft bakom dig",
+      "summary": "Många använder amerikanska teknikjättar dagligen, men det finns gott om europeiska alternativ. Den geopolitiska situationen med Donald Trumps oberäkneliga politik har fått fler att ifrågasätta sitt beroende av amerikansk teknik. Dataetisk rådgivare Pernille Tranberg är dataetisk rådgivare och medgrundare av den ideella organisationen Dataethics i Danmark.",
+      "url": "https://yle.fi/a/7-10092400?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-30T14:55:21Z"
     },
     {
       "title": "Norra Thailand har världens sämsta luftkvalitet",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10090330?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-29T08:49:27Z"
-    },
-    {
-      "title": "Vad hände på riktigt i Iran då internet släcktes?",
-      "summary": "Den 8 januari ströp regimen i Iran åtkomsten till internet och isolerade landet från omvärlden. Mobiltelefoner och satellittjänster fungerade hackigt. I detta kommunikationsmörker slog säkerhetsstyrkorna till för att kväsa demonstrationer som spridit sig till hela landet.",
-      "url": "https://yle.fi/a/7-10092169?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-28T13:48:17Z"
     }
   ]
 }

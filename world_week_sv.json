@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-30T07:58:43+00:00",
+  "generated": "2026-01-31T07:53:58+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ny forskning: Rysslands patriotiska fostran skapar lydnad men inte övertygelse",
-      "summary": "Ny doktorsavhandling vid Helsingfors universitet visar hur den statliga patriotismen har blivit en social norm som tvingas på eleverna genom hot och övertalning. Många av de militärpatriotiska programmen är dåligt anpassade till dagens unga generation eftersom metoderna är både gammaldags och auktoritära. Vissa texter är hämtade direkt från det gamla sovjetiska systemet där man bara ersatt kommunism med patriotism.",
-      "url": "https://yle.fi/a/7-10091846?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-30T04:20:43Z"
+      "title": "USA stänger ned igen",
+      "summary": "Klockan 06. 00 svensk tid stängde delar av statsapparaten i USA ned – igen. Ett budgetpaket avsett att hålla den federala statens verksamhet öppen röstades förvisso igenom i senaten under natten mot lördagen, men hann inte tas hela vägen i mål.",
+      "url": "https://svt.se/nyheter/utrikes/usa-stanger-ned-igen-trots-overenskommelse",
+      "domain": "svt.se",
+      "published": "2026-01-31T05:29:57Z"
     },
     {
-      "title": "Kaos och censuranklagelser skakar ”nya” Tiktok i USA",
-      "summary": "Rapporter om felmeddelanden började strömma in dagar efter att Tiktok officiellt bröts loss från sina kinesiska ägare och landade hos en grupp Trump - vänliga investerare. Över 600 000 felanmälningar registrerades första dagarna enligt driftövervakande bolaget Downdetector. Användarna upptäckte att deras videor fick noll visningar, att sökfunktioner låste sig och att gamla klipp loopades i flödet.",
-      "url": "https://svt.se/nyheter/utrikes/kaos-och-censuranklagelser-skakar-nya-tiktok-i-usa",
+      "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
+      "summary": "Ekonomiskt uppsving har gett upphov till hårda nationalistiska stämningar, särskilt bland unga kineser. Kina anser att Taiwan är ett upproriskt landskap som onekligen är en del av moderlandet. Xi har sagt att han föredrar en fredlig återförening, men han har inte uteslutit en militär ockupation ifall taiwaneserna vägrar att foga sig.",
+      "url": "https://yle.fi/a/7-10091028?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-31T04:49:32Z"
+    },
+    {
+      "title": "Därför borde du lämna Google och Microsoft bakom dig",
+      "summary": "Många använder amerikanska teknikjättar dagligen, men det finns gott om europeiska alternativ. Den geopolitiska situationen med Donald Trumps oberäkneliga politik har fått fler att ifrågasätta sitt beroende av amerikansk teknik. Dataetisk rådgivare Pernille Tranberg är dataetisk rådgivare och medgrundare av den ideella organisationen Dataethics i Danmark.",
+      "url": "https://yle.fi/a/7-10092400?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-30T14:55:21Z"
+    },
+    {
+      "title": "Kevin Warsh blir ny Fed-chef",
+      "summary": "Kevin Warsh förväntas efterträda Jerome Powell, vars mandatperiod löper ut i maj. Han satt i Feds styrelse under åren 2006 – 2011 och blev med sina då 35 år den yngsta personen som någonsin tjänstgjort i styrelsen. Han var även ekonomisk rådgivare till Trump under den förra presidentperioden och har länge setts som en av presidentens favoriter till posten som ny Fed - chef.",
+      "url": "https://svt.se/nyheter/utrikes/kevin-warsh-blir-ny-fed-chef",
       "domain": "svt.se",
-      "published": "2026-01-30T02:24:17Z"
+      "published": "2026-01-30T12:20:52Z"
     },
     {
       "title": "Irans revolutionsgarde terrorlistas",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10090330?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-29T08:49:27Z"
-    },
-    {
-      "title": "Dödligt Nipah-virus väcker oro i Sydostasien",
-      "summary": "Flygpassagerare screenas för feber när de kliver av i Indien. Malaysia och Nepal har infört särskilda kontroller av passagerare som flyger från Västbengalen Indien. Nipah - viruset finns främst bland fladdermöss, som själva inte blir sjuka.",
-      "url": "https://svt.se/nyheter/utrikes/dodligt-nipah-virus-vacker-oro-i-sydostasien",
-      "domain": "svt.se",
-      "published": "2026-01-28T19:27:01Z"
-    },
-    {
-      "title": "Vad hände på riktigt i Iran då internet släcktes?",
-      "summary": "Den 8 januari ströp regimen i Iran åtkomsten till internet och isolerade landet från omvärlden. Mobiltelefoner och satellittjänster fungerade hackigt. I detta kommunikationsmörker slog säkerhetsstyrkorna till för att kväsa demonstrationer som spridit sig till hela landet.",
-      "url": "https://yle.fi/a/7-10092169?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-28T13:48:17Z"
     }
   ]
 }
