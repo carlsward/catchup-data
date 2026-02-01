@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-31T07:54:28+00:00",
+  "generated": "2026-02-01T08:21:05+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Här får Ukrainas äldre flyktingar ett värdigt liv",
+      "summary": "Efter nästan fyra år av krig är den ukrainska statens resurser begränsade. Många har hittat nya hem eller bor hos släktingar eller vänner. Arkitekten Olha Kleitman har organiserat en grupp som driver ett äldreboende i utkanten av Charkiv.",
+      "url": "https://yle.fi/a/7-10091904?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-01T04:48:03Z"
+    },
     {
       "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
       "summary": "Ekonomiskt uppsving har gett upphov till hårda nationalistiska stämningar, särskilt bland unga kineser. Kina anser att Taiwan är ett upproriskt landskap som onekligen är en del av moderlandet. Xi har sagt att han föredrar en fredlig återförening, men han har inte uteslutit en militär ockupation ifall taiwaneserna vägrar att foga sig.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10092400?origin=rss",
       "domain": "yle.fi",
       "published": "2026-01-30T14:55:21Z"
-    },
-    {
-      "title": "Norra Thailand har världens sämsta luftkvalitet",
-      "summary": "Thailands ris -, majs - och sockerrörsodlingar producerar 114 miljoner ton skörderester per år. För många bönder är den snabbaste lösningen att bränna allt - biokol - ett miljövänligt kol som binder koldioxid. Biochar Life har byggt upp en tydlig affärsmodell kring sin ugn.",
-      "url": "https://yle.fi/a/7-10090330?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-29T08:49:27Z"
     }
   ]
 }

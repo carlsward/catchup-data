@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-01-31T07:53:58+00:00",
+  "generated": "2026-02-01T08:20:30+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "USA stänger ned igen",
-      "summary": "Klockan 06. 00 svensk tid stängde delar av statsapparaten i USA ned – igen. Ett budgetpaket avsett att hålla den federala statens verksamhet öppen röstades förvisso igenom i senaten under natten mot lördagen, men hann inte tas hela vägen i mål.",
-      "url": "https://svt.se/nyheter/utrikes/usa-stanger-ned-igen-trots-overenskommelse",
+      "title": "Gränsövergången i Rafah ska öppnas",
+      "summary": "Gränsövergången mellan Gaza och Egypten öppnas för första gången på över ett och ett halvt år. Endast människor och inga varor, inklusive humanitärt bistånd, kommer att tillåtas passera. Det är oklart hur många människor som kommer att få lämna och komma in per dag.",
+      "url": "https://svt.se/nyheter/utrikes/gransovergangen-i-rafah-ska-oppna-pa-sondag-palestinier-kan-lamna-gaza",
       "domain": "svt.se",
-      "published": "2026-01-31T05:29:57Z"
+      "published": "2026-02-01T04:52:47Z"
+    },
+    {
+      "title": "Här får Ukrainas äldre flyktingar ett värdigt liv",
+      "summary": "Efter nästan fyra år av krig är den ukrainska statens resurser begränsade. Många har hittat nya hem eller bor hos släktingar eller vänner. Arkitekten Olha Kleitman har organiserat en grupp som driver ett äldreboende i utkanten av Charkiv.",
+      "url": "https://yle.fi/a/7-10091904?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-01T04:48:03Z"
+    },
+    {
+      "title": "Oppositionen i exil: Så vill de leda Ryssland efter Putin",
+      "summary": "Europaparlamentet uteslöt Ryssland efter annekteringen av Krim 2014. Flera prominenta figurer ur den ryska exiloppositionen kandiderar för att vara med. En tredjedel av de utvalda representerar nationella minoriteter och urfolk.",
+      "url": "https://svt.se/nyheter/utrikes/oppositionen-i-exil-sa-vill-de-leda-ryssland-efter-putin",
+      "domain": "svt.se",
+      "published": "2026-01-31T17:23:27Z"
     },
     {
       "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/kevin-warsh-blir-ny-fed-chef",
       "domain": "svt.se",
       "published": "2026-01-30T12:20:52Z"
-    },
-    {
-      "title": "Irans revolutionsgarde terrorlistas",
-      "summary": "Irans inrikesminister och riksåklagare, 13 andra personer och sex organisationer och företag straffas med anledning av den senaste tidens våld mot demonstranter. Ytterligare 4 personer och 6 företag straffas på grund av Irans drönarhjälp till Rysslands krig i Ukraina. Sveriges utrikesminister Maria Malmer Stenergard ser fram emot att det också blir en terrorlistning.",
-      "url": "https://svt.se/nyheter/utrikes/irans-revolutionsgarde-terrorlistas-ckjgwx",
-      "domain": "svt.se",
-      "published": "2026-01-29T15:00:43Z"
-    },
-    {
-      "title": "Norra Thailand har världens sämsta luftkvalitet",
-      "summary": "Thailands ris -, majs - och sockerrörsodlingar producerar 114 miljoner ton skörderester per år. För många bönder är den snabbaste lösningen att bränna allt - biokol - ett miljövänligt kol som binder koldioxid. Biochar Life har byggt upp en tydlig affärsmodell kring sin ugn.",
-      "url": "https://yle.fi/a/7-10090330?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-29T08:49:27Z"
     }
   ]
 }
