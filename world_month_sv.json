@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-01T08:21:05+00:00",
-  "total_raw": 40,
-  "total_rank": 3,
+  "generated": "2026-02-02T08:12:54+00:00",
+  "total_raw": 38,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "USA använder energi som maktmedel och det drabbar också Europa",
+      "summary": "Den amerikanska presidenten har länge raljerat mot vindkraft. I sitt långa tal hävdade han också felaktigt att Kina bara säljer vindmöllor. Retoriken hänger ihop med att Trump i det handelsavtal som nåddes med unionen förra sommaren krävde att EU köper olja, flytande gas ( LNG ) och kärnteknologi av USA till ett värde av 750 miljarder dollar under en treårsperiod.",
+      "url": "https://yle.fi/a/7-10092198?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-02T04:07:39Z"
+    },
     {
       "title": "Här får Ukrainas äldre flyktingar ett värdigt liv",
       "summary": "Efter nästan fyra år av krig är den ukrainska statens resurser begränsade. Många har hittat nya hem eller bor hos släktingar eller vänner. Arkitekten Olha Kleitman har organiserat en grupp som driver ett äldreboende i utkanten av Charkiv.",
@@ -23,11 +30,11 @@
       "published": "2026-01-31T04:49:32Z"
     },
     {
-      "title": "Därför borde du lämna Google och Microsoft bakom dig",
-      "summary": "Många använder amerikanska teknikjättar dagligen, men det finns gott om europeiska alternativ. Den geopolitiska situationen med Donald Trumps oberäkneliga politik har fått fler att ifrågasätta sitt beroende av amerikansk teknik. Dataetisk rådgivare Pernille Tranberg är dataetisk rådgivare och medgrundare av den ideella organisationen Dataethics i Danmark.",
-      "url": "https://yle.fi/a/7-10092400?origin=rss",
+      "title": "Marko Ahtisaari har träffat Epstein och fördömer hans handlingar",
+      "summary": "Marko Ahtisaari nämns i e - postkommunikation mellan kapitalinvesteraren Joi Ito och Jeffrey Epstein. Ito skulle ha kommit överens om ett möte den 24 november 2013, enligt meddelandena. Han skriver i textmeddelandet att mötet var kort och inte ledde till någon fortsatt kontakt eller samarbete.",
+      "url": "https://yle.fi/a/7-10092428?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-30T14:55:21Z"
+      "published": "2026-01-30T21:24:56Z"
     }
   ]
 }

@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-01T08:20:30+00:00",
-  "total_raw": 40,
-  "total_rank": 6,
+  "generated": "2026-02-02T08:12:12+00:00",
+  "total_raw": 38,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Gränsövergången i Rafah ska öppnas",
-      "summary": "Gränsövergången mellan Gaza och Egypten öppnas för första gången på över ett och ett halvt år. Endast människor och inga varor, inklusive humanitärt bistånd, kommer att tillåtas passera. Det är oklart hur många människor som kommer att få lämna och komma in per dag.",
-      "url": "https://svt.se/nyheter/utrikes/gransovergangen-i-rafah-ska-oppna-pa-sondag-palestinier-kan-lamna-gaza",
+      "title": "Nu öppnar gränsövergången i Rafah –”Otroligt skört",
+      "summary": "Gaza Gränsen har varit nästan helt stängd sedan maj 2024. Det är inte många människor som till en början kommer att tillåtas passera varje dygn, 150 personer kommer att kunna passera ut och 50 kommer att passera in i Gaza dagligen. Många hjälporganisationer ser öppnandet som ett momentum för att förbättra den humanitära situationen i Gaza, säger Stina Blomgren, på CNN: s Mellanösternreporter i Kairo i Egypten.",
+      "url": "https://svt.se/nyheter/utrikes/nu-oppnar-gransovergangen-i-rafah-otroligt-skort",
       "domain": "svt.se",
-      "published": "2026-02-01T04:52:47Z"
+      "published": "2026-02-02T07:14:06Z"
+    },
+    {
+      "title": "USA använder energi som maktmedel och det drabbar också Europa",
+      "summary": "Den amerikanska presidenten har länge raljerat mot vindkraft. I sitt långa tal hävdade han också felaktigt att Kina bara säljer vindmöllor. Retoriken hänger ihop med att Trump i det handelsavtal som nåddes med unionen förra sommaren krävde att EU köper olja, flytande gas ( LNG ) och kärnteknologi av USA till ett värde av 750 miljarder dollar under en treårsperiod.",
+      "url": "https://yle.fi/a/7-10092198?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-02T04:07:39Z"
+    },
+    {
+      "title": "Kritiken mot norska kronprinsessan: ”Obegripligt",
+      "summary": "Norska hovet sade då att de träffats med flera personer närvarande. Kronprinsessan bad om ursäkt och menade att hon inte hade varit medveten om allvaret i hans kriminella handlingar. Nysläppta dokument visar tonen i kontakten mellan Mette - Marit och Epstein som \" flörtig och intim \" De visar en vänskap med Epstein, som tre år innan dess att kronprinsessan upprättade vänskapen, dömd för övergrepp mot minderåriga, säger Harald Stanghelle till NRK.",
+      "url": "https://svt.se/nyheter/utrikes/kritiken-mot-norska-kronprinsessan-obegripligt",
+      "domain": "svt.se",
+      "published": "2026-02-01T18:29:27Z"
     },
     {
       "title": "Här får Ukrainas äldre flyktingar ett värdigt liv",
@@ -37,18 +51,11 @@
       "published": "2026-01-31T04:49:32Z"
     },
     {
-      "title": "Därför borde du lämna Google och Microsoft bakom dig",
-      "summary": "Många använder amerikanska teknikjättar dagligen, men det finns gott om europeiska alternativ. Den geopolitiska situationen med Donald Trumps oberäkneliga politik har fått fler att ifrågasätta sitt beroende av amerikansk teknik. Dataetisk rådgivare Pernille Tranberg är dataetisk rådgivare och medgrundare av den ideella organisationen Dataethics i Danmark.",
-      "url": "https://yle.fi/a/7-10092400?origin=rss",
+      "title": "Marko Ahtisaari har träffat Epstein och fördömer hans handlingar",
+      "summary": "Marko Ahtisaari nämns i e - postkommunikation mellan kapitalinvesteraren Joi Ito och Jeffrey Epstein. Ito skulle ha kommit överens om ett möte den 24 november 2013, enligt meddelandena. Han skriver i textmeddelandet att mötet var kort och inte ledde till någon fortsatt kontakt eller samarbete.",
+      "url": "https://yle.fi/a/7-10092428?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-30T14:55:21Z"
-    },
-    {
-      "title": "Kevin Warsh blir ny Fed-chef",
-      "summary": "Kevin Warsh förväntas efterträda Jerome Powell, vars mandatperiod löper ut i maj. Han satt i Feds styrelse under åren 2006 – 2011 och blev med sina då 35 år den yngsta personen som någonsin tjänstgjort i styrelsen. Han var även ekonomisk rådgivare till Trump under den förra presidentperioden och har länge setts som en av presidentens favoriter till posten som ny Fed - chef.",
-      "url": "https://svt.se/nyheter/utrikes/kevin-warsh-blir-ny-fed-chef",
-      "domain": "svt.se",
-      "published": "2026-01-30T12:20:52Z"
+      "published": "2026-01-30T21:24:56Z"
     }
   ]
 }
