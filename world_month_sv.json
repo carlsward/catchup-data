@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-02T08:12:54+00:00",
+  "generated": "2026-02-03T08:06:29+00:00",
   "total_raw": 38,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "USA och Indien överens om nytt handelsavtal",
+      "summary": "USA: s president Donald Trump meddelade via sin sociala medieplattform Truth Social att USA och Indien kommit överens om ett handelsavtal. Trump gav få detaljer, men enligt inlägget kommer USA att sänka handelstullarna för Indien till 18 procent från tidigare 25 procent. Trump hävdar också i sitt inlägg att Indien har åtagit sig att köpa mer olja från USA och möjligen Venezuela efter att ha gått med på att sluta köpa rysk olja.",
+      "url": "https://yle.fi/a/7-10092549?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-03T04:05:16Z"
+    },
     {
       "title": "USA använder energi som maktmedel och det drabbar också Europa",
       "summary": "Den amerikanska presidenten har länge raljerat mot vindkraft. I sitt långa tal hävdade han också felaktigt att Kina bara säljer vindmöllor. Retoriken hänger ihop med att Trump i det handelsavtal som nåddes med unionen förra sommaren krävde att EU köper olja, flytande gas ( LNG ) och kärnteknologi av USA till ett värde av 750 miljarder dollar under en treårsperiod.",
@@ -23,18 +30,11 @@
       "published": "2026-02-01T04:48:03Z"
     },
     {
-      "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
-      "summary": "Ekonomiskt uppsving har gett upphov till hårda nationalistiska stämningar, särskilt bland unga kineser. Kina anser att Taiwan är ett upproriskt landskap som onekligen är en del av moderlandet. Xi har sagt att han föredrar en fredlig återförening, men han har inte uteslutit en militär ockupation ifall taiwaneserna vägrar att foga sig.",
-      "url": "https://yle.fi/a/7-10091028?origin=rss",
+      "title": "Jeffrey Epstein ville ha assistent från Finland år 2018",
+      "summary": "Den dömda sexualbrottslingen Jeffrey Epstein söker en assistent i Finland. I maj 2019 skickar en ung kvinna ett Skype - meddelande till honom: \" Hej, söker du fortfarande en assistent? Yle känner till vem den unga kvinnan är.",
+      "url": "https://yle.fi/a/7-10092450?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-31T04:49:32Z"
-    },
-    {
-      "title": "Marko Ahtisaari har träffat Epstein och fördömer hans handlingar",
-      "summary": "Marko Ahtisaari nämns i e - postkommunikation mellan kapitalinvesteraren Joi Ito och Jeffrey Epstein. Ito skulle ha kommit överens om ett möte den 24 november 2013, enligt meddelandena. Han skriver i textmeddelandet att mötet var kort och inte ledde till någon fortsatt kontakt eller samarbete.",
-      "url": "https://yle.fi/a/7-10092428?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-30T21:24:56Z"
+      "published": "2026-01-31T16:40:06Z"
     }
   ]
 }

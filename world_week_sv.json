@@ -2,15 +2,29 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-02T08:12:12+00:00",
+  "generated": "2026-02-03T08:05:43+00:00",
   "total_raw": 38,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Bonusprinsens” missbruk känt sedan länge",
+      "summary": "Norska Se og Hør visste redan 2017 att Marius Borg Høiby hade tagit kokain på festival. Då valde man inte att publicera. Vi menade att det var en privatsak och att han mest gjorde sig själv illa, säger Ulf André Andersen, tidigare chefredaktör för tidningen.",
+      "url": "https://svt.se/nyheter/utrikes/bonusprinsens-missbruk-kant-sedan-lange-tidning-anklagar-polisen-for-sarbehandling",
+      "domain": "svt.se",
+      "published": "2026-02-03T04:46:20Z"
+    },
+    {
+      "title": "USA och Indien överens om nytt handelsavtal",
+      "summary": "USA: s president Donald Trump meddelade via sin sociala medieplattform Truth Social att USA och Indien kommit överens om ett handelsavtal. Trump gav få detaljer, men enligt inlägget kommer USA att sänka handelstullarna för Indien till 18 procent från tidigare 25 procent. Trump hävdar också i sitt inlägg att Indien har åtagit sig att köpa mer olja från USA och möjligen Venezuela efter att ha gått med på att sluta köpa rysk olja.",
+      "url": "https://yle.fi/a/7-10092549?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-03T04:05:16Z"
+    },
+    {
       "title": "Nu öppnar gränsövergången i Rafah –”Otroligt skört",
-      "summary": "Gaza Gränsen har varit nästan helt stängd sedan maj 2024. Det är inte många människor som till en början kommer att tillåtas passera varje dygn, 150 personer kommer att kunna passera ut och 50 kommer att passera in i Gaza dagligen. Många hjälporganisationer ser öppnandet som ett momentum för att förbättra den humanitära situationen i Gaza, säger Stina Blomgren, på CNN: s Mellanösternreporter i Kairo i Egypten.",
+      "summary": "Gaza Gränsen har varit nästan helt stängd sedan maj 2024. Upp till 150 personer kan passera ut varje dag. Varje patient kan ta med sig två släktingar ut, medan 50 personer tillåts resa in varje dag, uppger en tjänsteman med kännedom om diskussionerna.",
       "url": "https://svt.se/nyheter/utrikes/nu-oppnar-gransovergangen-i-rafah-otroligt-skort",
       "domain": "svt.se",
       "published": "2026-02-02T07:14:06Z"
@@ -24,7 +38,7 @@
     },
     {
       "title": "Kritiken mot norska kronprinsessan: ”Obegripligt",
-      "summary": "Norska hovet sade då att de träffats med flera personer närvarande. Kronprinsessan bad om ursäkt och menade att hon inte hade varit medveten om allvaret i hans kriminella handlingar. Nysläppta dokument visar tonen i kontakten mellan Mette - Marit och Epstein som \" flörtig och intim \" De visar en vänskap med Epstein, som tre år innan dess att kronprinsessan upprättade vänskapen, dömd för övergrepp mot minderåriga, säger Harald Stanghelle till NRK.",
+      "summary": "Norska kronprinsessan Mette - Marit träffade Jeffrey Epstein flera gånger. Kronprinsessan bad om ursäkt och menade att hon inte hade varit medveten om allvaret i hans kriminella handlingar. Men i de nya dokumenten uppenbarar sig en annan bild: \" De visar en vänskap med Epstein, som tre år innan dess att kronprinsessan upprättat vänskapen, blivit dömd för övergrepp mot minderåriga \" Journalisten Harald Stanghelle ställer sig frågande kring varför hovet inte satte stopp för kontakten mellan paret.",
       "url": "https://svt.se/nyheter/utrikes/kritiken-mot-norska-kronprinsessan-obegripligt",
       "domain": "svt.se",
       "published": "2026-02-01T18:29:27Z"
@@ -37,25 +51,18 @@
       "published": "2026-02-01T04:48:03Z"
     },
     {
-      "title": "Oppositionen i exil: Så vill de leda Ryssland efter Putin",
-      "summary": "Europaparlamentet uteslöt Ryssland efter annekteringen av Krim 2014. Flera prominenta figurer ur den ryska exiloppositionen kandiderar för att vara med. En tredjedel av de utvalda representerar nationella minoriteter och urfolk.",
-      "url": "https://svt.se/nyheter/utrikes/oppositionen-i-exil-sa-vill-de-leda-ryssland-efter-putin",
-      "domain": "svt.se",
-      "published": "2026-01-31T17:23:27Z"
+      "title": "Jeffrey Epstein ville ha assistent från Finland år 2018",
+      "summary": "Den dömda sexualbrottslingen Jeffrey Epstein söker en assistent i Finland. I maj 2019 skickar en ung kvinna ett Skype - meddelande till honom: \" Hej, söker du fortfarande en assistent? Yle känner till vem den unga kvinnan är.",
+      "url": "https://yle.fi/a/7-10092450?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-01-31T16:40:06Z"
     },
     {
-      "title": "Kina pressar med både vapenskrammel och propaganda för att kuva Taiwan",
-      "summary": "Ekonomiskt uppsving har gett upphov till hårda nationalistiska stämningar, särskilt bland unga kineser. Kina anser att Taiwan är ett upproriskt landskap som onekligen är en del av moderlandet. Xi har sagt att han föredrar en fredlig återförening, men han har inte uteslutit en militär ockupation ifall taiwaneserna vägrar att foga sig.",
-      "url": "https://yle.fi/a/7-10091028?origin=rss",
+      "title": "200 döda när gruva kollapsade i Kongo",
+      "summary": "Minst 200 människor har dött efter att en gruva i Demokratiska republiken Kongo kollapsar. Olyckan inträffade redan i onsdags utanför Rubaya och berodde på ett jordskred som orsakades av kraftiga regn. Myndigheterna har stoppat all gruvdrift i området och beordrat invånarna som byggt skydd nära gruvan att evakuera.",
+      "url": "https://yle.fi/a/7-10092437?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-01-31T04:49:32Z"
-    },
-    {
-      "title": "Marko Ahtisaari har träffat Epstein och fördömer hans handlingar",
-      "summary": "Marko Ahtisaari nämns i e - postkommunikation mellan kapitalinvesteraren Joi Ito och Jeffrey Epstein. Ito skulle ha kommit överens om ett möte den 24 november 2013, enligt meddelandena. Han skriver i textmeddelandet att mötet var kort och inte ledde till någon fortsatt kontakt eller samarbete.",
-      "url": "https://yle.fi/a/7-10092428?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-01-30T21:24:56Z"
+      "published": "2026-01-31T12:07:50Z"
     }
   ]
 }
