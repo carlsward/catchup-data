@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-04T08:03:29+00:00",
-  "total_raw": 37,
+  "generated": "2026-02-05T08:05:09+00:00",
+  "total_raw": 36,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "4 februari: Nattens nyheter",
-      "summary": "Biskop Andreas Holmberg anser att KD: s migrationspolitik inte är förenlig med kristna värderingar. Ett kristet kärnvärde är gästfrihet, säger Holmberg i Aktuellt. Ingen person ska ha skadats fysiskt.",
-      "url": "https://svt.se/nyheter/utrikes/4-februari-nattens-nyheter-tr563f",
+      "title": "Larm om kapprustning när kärnvapenavtal löper ut",
+      "summary": "För första gången på årtionden får länderna med världens största kärnvapenarsenaler göra vad de vill. 1991 Startfördraget, det första gemensamma nedrustningsavtalet, slöts. Sedan dess har avtalen avlöst varandra som i en stafett.",
+      "url": "https://svt.se/nyheter/utrikes/larm-om-kapprustning-nar-karnvapenavtal-loper-ut",
       "domain": "svt.se",
-      "published": "2026-02-04T04:31:11Z"
+      "published": "2026-02-05T05:35:38Z"
     },
     {
-      "title": "Experter: Trump stirrar sig blind på Grönland fast Alaska är viktigare för USA:s…",
-      "summary": "När det gäller Ryssland och Kina ligger Alaska vid en strategisk knutpunkt för tillgången till Arktis, säger Andreas Östhagen, forskningschef vid Fridtjof Nansens Institutt, ett oberoende norskt forskningsinstitut som forskar bland annat i Arktis. Han påminner om att Alaska är platsen där USA möter Ryssland direkt. På vintern när isen fryser i Berings sund kan man gå mellan USA och Ryssland, säger han.",
-      "url": "https://yle.fi/a/7-10092373?origin=rss",
+      "title": "Det sista kärnvapenavtalet mellan USA och Ryssland har löpt ut",
+      "summary": "Nya Start - avtalet löpte ut vid midnatt. Det betyder att det inte längre finns något avtal som begränsar antalet strategiska kärnvapen i världen. Detta är en \" allvarlig stund för internationell fred och säkerhet \", säger FN: s generalsekreterare António Guterres.",
+      "url": "https://yle.fi/a/7-10092732?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-04T03:30:14Z"
+      "published": "2026-02-05T04:29:01Z"
+    },
+    {
+      "title": "Räsänen i Washington: Jag använde min yttrandefrihet men blev föremål för polisu…",
+      "summary": "Kristdemokraternas riksdagsledamot Päivi Räsänen har utfrågats i USA: s kongress om yttrandefriheten i Europa. Utfrågningen i representanthusets justitieutskott gick under namnet: \" Europas hot mot amerikansk yttrandefrihet och innovation. I sitt framförande sa Räsänänen att Finland är en demokrati som utgår från rättsstatsprincipen och grundläggande friheter.",
+      "url": "https://yle.fi/a/7-10092720?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-04T18:14:48Z"
+    },
+    {
+      "title": "Svensk diplomat bodde i Epsteins lägenhet",
+      "summary": "Lisa Svensson har haft en lång karriär med toppjobb både i Sverige och utomlands. För närvarande är hon stationerad vid Sveriges ständiga representation i Genève. Jeffrey Epstein dömdes för sexköp av minderårig 2008.",
+      "url": "https://svt.se/nyheter/utrikes/svensk-diplomat-bodde-i-epsteins-lagenhet",
+      "domain": "svt.se",
+      "published": "2026-02-04T16:32:03Z"
+    },
+    {
+      "title": "Män i tidigare maktpositioner i flera länder påverkas av förra veckans Epsteinfi…",
+      "summary": "Hillary Clinton ska vittna den 26 februari, medan hennes man Bill Clinton gör det följande dag. Paret har tidigare nekat till att vittna, men representanthuset har pressat på och på tisdagen konstaterade James Comer, ordförande för representanthusets tillsynskommitté, att paret hade kapitulerat helt. Det blir första gången kongressen förhör en tidigare president som vittne.",
+      "url": "https://yle.fi/a/7-10092631?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-03T21:30:27Z"
     },
     {
       "title": "Bonusprinsen” nekar till våldtäkter",
@@ -28,27 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/bonusprinsen-nekar-till-valdtakter-film-pa-overgrepp-visades-i-ratten",
       "domain": "svt.se",
       "published": "2026-02-03T16:17:56Z"
-    },
-    {
-      "title": "Japans frysta demensmiljarder varning också för Finland",
-      "summary": "Japans åldrande befolkning sitter på en betydande del av landets förmögenhet i form av sparpengar och värdepapper. Många av dem drabbas av demens eller andra kognitiva nedsättningar. Statens regler är stela när det gäller förmyndarskap, och bankerna har regler för att skydda mot bedrägeri och missbruk.",
-      "url": "https://yle.fi/a/7-10091984?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-03T08:05:31Z"
-    },
-    {
-      "title": "Bonusprinsen Marius häktas misstänkt för nya brott",
-      "summary": "Polisen tror att brotten begicks under helgen. Marius Borg Høiby är den norska kronprinsessan Mette Marits son från ett tidigare förhållande. Han står inför nästan 40 åtal, bland annat fyra våldtäkter mot fyra olika kvinnor, misshandel i nära relation mot en tidigare sambo, brott mot besöksförbud och narkotikabrott.",
-      "url": "https://svt.se/nyheter/utrikes/bonusprinsen-marius-gripen",
-      "domain": "svt.se",
-      "published": "2026-02-02T12:21:31Z"
-    },
-    {
-      "title": "Norska kungligheter och högt uppsatta politiker dras allt djupare in i Epsteinhä…",
-      "summary": "Flera viktiga norska institutioner dras nu in i Epsteinhärvan. Det norska kungahuset befinner sig i fritt fall efter nya uppgifter om hur nära kontakt kronprinsessan Mette - Marit hade med sexbrottslingen Jeffrey Epstein. Bland de tre miljoner nya dokument som släpptes i fredags finns mejl mellan Epstein och konprinsessan som visar att hon bott i hans villa i Palm Beach.",
-      "url": "https://yle.fi/a/7-10092499?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-02T10:50:50Z"
     }
   ]
 }

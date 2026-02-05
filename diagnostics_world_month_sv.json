@@ -3,12 +3,12 @@
   "language": "sv",
   "span": "month",
   "days": 30,
-  "generated": "2026-02-04T08:04:00+00:00",
-  "total_candidates": 37,
+  "generated": "2026-02-05T08:05:40+00:00",
+  "total_candidates": 36,
   "total_selected": 3,
   "utc_range": {
-    "min": 1770029450,
-    "max": 1770181545
+    "min": 1770114100,
+    "max": 1770274605
   },
   "per_day": [
     {
@@ -18,12 +18,12 @@
     },
     {
       "day_index": 1,
-      "candidates": 26,
+      "candidates": 19,
       "selected": 1
     },
     {
       "day_index": 2,
-      "candidates": 6,
+      "candidates": 12,
       "selected": 1
     },
     {
@@ -163,6 +163,7 @@
     }
   ],
   "per_domain_selected": {
-    "yle.fi": 3
+    "svt.se": 2,
+    "yle.fi": 1
   }
 }

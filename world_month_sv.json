@@ -2,32 +2,32 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-04T08:04:00+00:00",
-  "total_raw": 37,
+  "generated": "2026-02-05T08:05:40+00:00",
+  "total_raw": 36,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Experter: Trump stirrar sig blind på Grönland fast Alaska är viktigare för USA:s…",
-      "summary": "När det gäller Ryssland och Kina ligger Alaska vid en strategisk knutpunkt för tillgången till Arktis, säger Andreas Östhagen, forskningschef vid Fridtjof Nansens Institutt, ett oberoende norskt forskningsinstitut som forskar bland annat i Arktis. Han påminner om att Alaska är platsen där USA möter Ryssland direkt. På vintern när isen fryser i Berings sund kan man gå mellan USA och Ryssland, säger han.",
-      "url": "https://yle.fi/a/7-10092373?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-04T03:30:14Z"
+      "title": "Larm om kapprustning när kärnvapenavtal löper ut",
+      "summary": "För första gången på årtionden får länderna med världens största kärnvapenarsenaler göra vad de vill. 1991 Startfördraget, det första gemensamma nedrustningsavtalet, slöts. Sedan dess har avtalen avlöst varandra som i en stafett.",
+      "url": "https://svt.se/nyheter/utrikes/larm-om-kapprustning-nar-karnvapenavtal-loper-ut",
+      "domain": "svt.se",
+      "published": "2026-02-05T05:35:38Z"
     },
     {
-      "title": "Japans frysta demensmiljarder varning också för Finland",
-      "summary": "Japans åldrande befolkning sitter på en betydande del av landets förmögenhet i form av sparpengar och värdepapper. Många av dem drabbas av demens eller andra kognitiva nedsättningar. Statens regler är stela när det gäller förmyndarskap, och bankerna har regler för att skydda mot bedrägeri och missbruk.",
-      "url": "https://yle.fi/a/7-10091984?origin=rss",
+      "title": "Räsänen i Washington: Jag använde min yttrandefrihet men blev föremål för polisu…",
+      "summary": "Kristdemokraternas riksdagsledamot Päivi Räsänen har utfrågats i USA: s kongress om yttrandefriheten i Europa. Utfrågningen i representanthusets justitieutskott gick under namnet: \" Europas hot mot amerikansk yttrandefrihet och innovation. I sitt framförande sa Räsänänen att Finland är en demokrati som utgår från rättsstatsprincipen och grundläggande friheter.",
+      "url": "https://yle.fi/a/7-10092720?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-03T08:05:31Z"
+      "published": "2026-02-04T18:14:48Z"
     },
     {
-      "title": "Norska kungligheter och högt uppsatta politiker dras allt djupare in i Epsteinhä…",
-      "summary": "Flera viktiga norska institutioner dras nu in i Epsteinhärvan. Det norska kungahuset befinner sig i fritt fall efter nya uppgifter om hur nära kontakt kronprinsessan Mette - Marit hade med sexbrottslingen Jeffrey Epstein. Bland de tre miljoner nya dokument som släpptes i fredags finns mejl mellan Epstein och konprinsessan som visar att hon bott i hans villa i Palm Beach.",
-      "url": "https://yle.fi/a/7-10092499?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-02T10:50:50Z"
+      "title": "Bonusprinsen” nekar till våldtäkter",
+      "summary": "Marius Borg Høiby står inför 38 åtalspunkter, inklusive våldtäkt, misshandel i nära relation, kvinnofridskränkning, skadegörelse, våld, brott mot besöksförbud, dödshot, grovt narkotikabrott och trafikförseelser. Den 29 - årige sonen till Norges kronprinsessa Mette - Marit och affärsmannen Morten Borg är den enda i familjen som inte har någon kunglig titel. Han misstänks också för att ha filmat ett antal kvinnors underliv utan deras vetskap eller samtycke.",
+      "url": "https://svt.se/nyheter/utrikes/bonusprinsen-nekar-till-valdtakter-film-pa-overgrepp-visades-i-ratten",
+      "domain": "svt.se",
+      "published": "2026-02-03T16:17:56Z"
     }
   ]
 }
