@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-05T08:05:09+00:00",
-  "total_raw": 36,
+  "generated": "2026-02-06T08:03:28+00:00",
+  "total_raw": 38,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Larm om kapprustning när kärnvapenavtal löper ut",
-      "summary": "För första gången på årtionden får länderna med världens största kärnvapenarsenaler göra vad de vill. 1991 Startfördraget, det första gemensamma nedrustningsavtalet, slöts. Sedan dess har avtalen avlöst varandra som i en stafett.",
-      "url": "https://svt.se/nyheter/utrikes/larm-om-kapprustning-nar-karnvapenavtal-loper-ut",
+      "title": "Spänt läge när USA och Iran möts: ”Högt tonläge",
+      "summary": "Irans utrikesminister landar i Oman där mötet med en amerikansk delegation förväntas äga rum på fredag. Fokus har förskjutits från kritik mot Irans maktstruktur till kärnteknik, säger Gilda Hamidi - Nia. Hon påpekar att landet har helt olika förhandlingsstilar.",
+      "url": "https://svt.se/nyheter/utrikes/spant-lage-nar-usa-och-iran-mots-hogt-tonlage",
       "domain": "svt.se",
-      "published": "2026-02-05T05:35:38Z"
+      "published": "2026-02-06T06:52:23Z"
     },
     {
-      "title": "Det sista kärnvapenavtalet mellan USA och Ryssland har löpt ut",
-      "summary": "Nya Start - avtalet löpte ut vid midnatt. Det betyder att det inte längre finns något avtal som begränsar antalet strategiska kärnvapen i världen. Detta är en \" allvarlig stund för internationell fred och säkerhet \", säger FN: s generalsekreterare António Guterres.",
-      "url": "https://yle.fi/a/7-10092732?origin=rss",
+      "title": "Mind leder generation Z i kampen om äkta demokrati i Thailand",
+      "summary": "Aktivist Mind deltog i protesterna hösten 2020. Armén hade formellt gett ifrån sig makten, men tusentals demonstranter greps. Mind har i dag femton åtal mot sig själva på grund av sitt engagemang, bland annat för majestätsbrott.",
+      "url": "https://yle.fi/a/7-10090331?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-05T04:29:01Z"
+      "published": "2026-02-06T04:10:51Z"
+    },
+    {
+      "title": "Marius Borg Høiby frågades ut om sexuella preferenser",
+      "summary": "Marius Borg Høiby, son till norska kronprinsessan Mette - Marit, är misstänkt för 38 brott, varav fyra våldtäkter. Åklagaren frågade också om han hade gjort överenskommelser med någon om att kunna ha sex eller utföra sexuella handlingar när personen sover. På onsdagens förhör sa han att han inte ligger med kvinnor som inte är vakna.",
+      "url": "https://svt.se/nyheter/utrikes/marius-borg-hoiby-fragades-ut-om-sexuella-preferenser",
+      "domain": "svt.se",
+      "published": "2026-02-05T12:56:52Z"
+    },
+    {
+      "title": "Farage skakar om makten i London och det kan vara dåliga nyheter för Ukraina",
+      "summary": "På två år har Reform UK gått från att vara ett protestparti till att dominera opinionsundersökningarna. Undersökningar visar att närmare en tredjedel av britterna skulle rösta på partiet om parlamentsvalet ordnades. Nigel Farage, en av arkitekterna bakom Storbritanniens utträde, har avradikaliserat sitt varumärke.",
+      "url": "https://yle.fi/a/7-10092376?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-05T09:02:17Z"
     },
     {
       "title": "Räsänen i Washington: Jag använde min yttrandefrihet men blev föremål för polisu…",
@@ -35,20 +49,6 @@
       "url": "https://svt.se/nyheter/utrikes/svensk-diplomat-bodde-i-epsteins-lagenhet",
       "domain": "svt.se",
       "published": "2026-02-04T16:32:03Z"
-    },
-    {
-      "title": "Män i tidigare maktpositioner i flera länder påverkas av förra veckans Epsteinfi…",
-      "summary": "Hillary Clinton ska vittna den 26 februari, medan hennes man Bill Clinton gör det följande dag. Paret har tidigare nekat till att vittna, men representanthuset har pressat på och på tisdagen konstaterade James Comer, ordförande för representanthusets tillsynskommitté, att paret hade kapitulerat helt. Det blir första gången kongressen förhör en tidigare president som vittne.",
-      "url": "https://yle.fi/a/7-10092631?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-03T21:30:27Z"
-    },
-    {
-      "title": "Bonusprinsen” nekar till våldtäkter",
-      "summary": "Marius Borg Høiby står inför 38 åtalspunkter, inklusive våldtäkt, misshandel i nära relation, kvinnofridskränkning, skadegörelse, våld, brott mot besöksförbud, dödshot, grovt narkotikabrott och trafikförseelser. Den 29 - årige sonen till Norges kronprinsessa Mette - Marit och affärsmannen Morten Borg är den enda i familjen som inte har någon kunglig titel. Han misstänks också för att ha filmat ett antal kvinnors underliv utan deras vetskap eller samtycke.",
-      "url": "https://svt.se/nyheter/utrikes/bonusprinsen-nekar-till-valdtakter-film-pa-overgrepp-visades-i-ratten",
-      "domain": "svt.se",
-      "published": "2026-02-03T16:17:56Z"
     }
   ]
 }

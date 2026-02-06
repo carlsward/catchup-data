@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-05T08:05:40+00:00",
-  "total_raw": 36,
+  "generated": "2026-02-06T08:04:01+00:00",
+  "total_raw": 38,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Larm om kapprustning när kärnvapenavtal löper ut",
-      "summary": "För första gången på årtionden får länderna med världens största kärnvapenarsenaler göra vad de vill. 1991 Startfördraget, det första gemensamma nedrustningsavtalet, slöts. Sedan dess har avtalen avlöst varandra som i en stafett.",
-      "url": "https://svt.se/nyheter/utrikes/larm-om-kapprustning-nar-karnvapenavtal-loper-ut",
-      "domain": "svt.se",
-      "published": "2026-02-05T05:35:38Z"
+      "title": "Mind leder generation Z i kampen om äkta demokrati i Thailand",
+      "summary": "Aktivist Mind deltog i protesterna hösten 2020. Armén hade formellt gett ifrån sig makten, men tusentals demonstranter greps. Mind har i dag femton åtal mot sig själva på grund av sitt engagemang, bland annat för majestätsbrott.",
+      "url": "https://yle.fi/a/7-10090331?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-06T04:10:51Z"
+    },
+    {
+      "title": "Farage skakar om makten i London och det kan vara dåliga nyheter för Ukraina",
+      "summary": "På två år har Reform UK gått från att vara ett protestparti till att dominera opinionsundersökningarna. Undersökningar visar att närmare en tredjedel av britterna skulle rösta på partiet om parlamentsvalet ordnades. Nigel Farage, en av arkitekterna bakom Storbritanniens utträde, har avradikaliserat sitt varumärke.",
+      "url": "https://yle.fi/a/7-10092376?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-05T09:02:17Z"
     },
     {
       "title": "Räsänen i Washington: Jag använde min yttrandefrihet men blev föremål för polisu…",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10092720?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-04T18:14:48Z"
-    },
-    {
-      "title": "Bonusprinsen” nekar till våldtäkter",
-      "summary": "Marius Borg Høiby står inför 38 åtalspunkter, inklusive våldtäkt, misshandel i nära relation, kvinnofridskränkning, skadegörelse, våld, brott mot besöksförbud, dödshot, grovt narkotikabrott och trafikförseelser. Den 29 - årige sonen till Norges kronprinsessa Mette - Marit och affärsmannen Morten Borg är den enda i familjen som inte har någon kunglig titel. Han misstänks också för att ha filmat ett antal kvinnors underliv utan deras vetskap eller samtycke.",
-      "url": "https://svt.se/nyheter/utrikes/bonusprinsen-nekar-till-valdtakter-film-pa-overgrepp-visades-i-ratten",
-      "domain": "svt.se",
-      "published": "2026-02-03T16:17:56Z"
     }
   ]
 }
