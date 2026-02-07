@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-06T08:02:27+00:00",
-  "total_raw": 19,
+  "generated": "2026-02-07T07:55:37+00:00",
+  "total_raw": 27,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Farage skakar om makten i London och det kan vara dåliga nyheter för Ukraina",
-      "summary": "På två år har Reform UK gått från att vara ett protestparti till att dominera opinionsundersökningarna. Undersökningar visar att närmare en tredjedel av britterna skulle rösta på partiet om parlamentsvalet ordnades. Nigel Farage, en av arkitekterna bakom Storbritanniens utträde, har avradikaliserat sitt varumärke.",
-      "url": "https://yle.fi/a/7-10092376?origin=rss",
+      "title": "Allt kraftigare högervindar väntas i Japan efter helgens parlamentsval",
+      "summary": "Premiärminister Sanae Takaichi har bara suttit på posten sedan oktober 2025. Hon har visat sig vara mycket populär bland många väljare, till skillnad från en rad av sina företrädare. Hennes popularitetssiffror ligger på omkring 70 procent i de senaste mätningarna.",
+      "url": "https://yle.fi/a/7-10092758?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-05T09:02:17Z"
+      "published": "2026-02-07T05:00:32Z"
     },
     {
-      "title": "Mind leder generation Z i kampen om äkta demokrati i Thailand",
-      "summary": "Aktivist Mind deltog i protesterna hösten 2020. Armén hade formellt gett ifrån sig makten, men tusentals demonstranter greps. Mind har i dag femton åtal mot sig själva på grund av sitt engagemang, bland annat för majestätsbrott.",
-      "url": "https://yle.fi/a/7-10090331?origin=rss",
+      "title": "Familjen Tucker följde den amerikanska drömmen till Texas",
+      "summary": "USA: s befolkningscentrum rör sig allt mer mot sydväst, en utveckling som drivs av jobb, mildare klimat och lägre levnadskostnader. Flytten märks tydligt i städer som Princeton, som har vuxit explosionsartat under de senaste åren. I dag har staden omkring 50 000 invånare, och den har i flera år hört till de städer som procentuellt växer snabbast i hela landet.",
+      "url": "https://yle.fi/a/7-10090647?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-06T04:10:51Z"
+      "published": "2026-02-07T03:42:11Z"
     },
     {
-      "title": "Nytt fångutbyte mellan Ukraina och Ryssland",
-      "summary": "314 fångar – 157 ukrainare och 157 ryssar – ska friges. Det är den första frigivningen av fångar på fem månader, säger USA: s specialsändebud Steve Witkoff. Witkoffs resultat uppnåddes genom samtal som har varit detaljerade och produktiva, säger han.",
-      "url": "https://yle.fi/a/7-10092766?origin=rss",
+      "title": "Så gör amerikanska komiker humor av Epsteinfilerna: ”Är det här ett jobberbjudan…",
+      "summary": "Komikern Trevor Noah var konferencier för Grammygalan förra helgen. Han skämtade om USA: s president Donald Trumps relation till Jeffrey Epstein. Trump vidhåller att han inte har något med Epstein att göra, utan hotar i ett inlägg på Truth Social att stämma Noah på grund av Grammyskämtet.",
+      "url": "https://yle.fi/a/7-10092847?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-05T13:31:57Z"
+      "published": "2026-02-06T17:15:40Z"
     },
     {
-      "title": "Marius Borg Høiby frågades ut om sexuella preferenser",
-      "summary": "Marius Borg Høiby, son till norska kronprinsessan Mette - Marit, är misstänkt för 38 brott, varav fyra våldtäkter. Åklagaren frågade också om han hade gjort överenskommelser med någon om att kunna ha sex eller utföra sexuella handlingar när personen sover. På onsdagens förhör sa han att han inte ligger med kvinnor som inte är vakna.",
-      "url": "https://svt.se/nyheter/utrikes/marius-borg-hoiby-fragades-ut-om-sexuella-preferenser",
+      "title": "På plats: Hon bar sitt barnbarn över Gazagränsen",
+      "summary": "Öppnandet av gränsövergången mellan Gaza och Egypten blev mer av en rännil än en öppen kran. Hittills har endast ett fåtal sjuka och skadade patienter tillåtits resa ut ur Gaza. Asmaa Samir, 12 år, har inte träffat sin pappa och sina systrar på två år.",
+      "url": "https://svt.se/nyheter/utrikes/pa-plats-hon-bar-sitt-barnbarn-over-gazagransen",
       "domain": "svt.se",
-      "published": "2026-02-05T12:56:52Z"
+      "published": "2026-02-07T01:55:45Z"
     },
     {
-      "title": "Spänt läge när USA och Iran möts: ”Högt tonläge",
-      "summary": "Irans utrikesminister landar i Oman där mötet med en amerikansk delegation förväntas äga rum på fredag. Fokus har förskjutits från kritik mot Irans maktstruktur till kärnteknik, säger Gilda Hamidi - Nia. Hon påpekar att landet har helt olika förhandlingsstilar.",
-      "url": "https://svt.se/nyheter/utrikes/spant-lage-nar-usa-och-iran-mots-hogt-tonlage",
+      "title": "EU-kommissionen: Tiktok bryter mot lagen",
+      "summary": "EU - kommissionen har sedan mars 2024 undersökt Tiktok för förmodat brott rörande skydd av främst barn och unga enligt dataskyddslagen DSA. Kommissionen anser att appen inte på ett adekvat sätt har utvärderat hur dess beroendeframkallande verktyg kan skada användare fysiskt och psykiskt – bland dem minderåriga och sårbara vuxna. Det är särskilt Tiktoks belönande funktion att ständigt matas – matas – med nytt innehåll som får användare att scrolla och sätta hjärnan på ” autopilot ” Utredningen framhäver också bristande åldersverifiering, som kan leda till att minderåriga exponeras för olämpligt material, som ett problem.",
+      "url": "https://svt.se/nyheter/utrikes/eu-kommissionen-tiktok-bryter-mot-lagen-ar-beroendeframkallande",
       "domain": "svt.se",
-      "published": "2026-02-06T06:52:23Z"
+      "published": "2026-02-06T19:10:02Z"
     }
   ]
 }

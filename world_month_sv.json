@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-06T08:04:01+00:00",
-  "total_raw": 38,
+  "generated": "2026-02-07T07:57:07+00:00",
+  "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Allt kraftigare högervindar väntas i Japan efter helgens parlamentsval",
+      "summary": "Premiärminister Sanae Takaichi har bara suttit på posten sedan oktober 2025. Hon har visat sig vara mycket populär bland många väljare, till skillnad från en rad av sina företrädare. Hennes popularitetssiffror ligger på omkring 70 procent i de senaste mätningarna.",
+      "url": "https://yle.fi/a/7-10092758?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-07T05:00:32Z"
+    },
     {
       "title": "Mind leder generation Z i kampen om äkta demokrati i Thailand",
       "summary": "Aktivist Mind deltog i protesterna hösten 2020. Armén hade formellt gett ifrån sig makten, men tusentals demonstranter greps. Mind har i dag femton åtal mot sig själva på grund av sitt engagemang, bland annat för majestätsbrott.",
@@ -16,18 +23,11 @@
       "published": "2026-02-06T04:10:51Z"
     },
     {
-      "title": "Farage skakar om makten i London och det kan vara dåliga nyheter för Ukraina",
-      "summary": "På två år har Reform UK gått från att vara ett protestparti till att dominera opinionsundersökningarna. Undersökningar visar att närmare en tredjedel av britterna skulle rösta på partiet om parlamentsvalet ordnades. Nigel Farage, en av arkitekterna bakom Storbritanniens utträde, har avradikaliserat sitt varumärke.",
-      "url": "https://yle.fi/a/7-10092376?origin=rss",
+      "title": "Norges tidigare statsminister Thorbjørn Jagland utreds för grov korruption",
+      "summary": "Thorbjørn Jagland misstänks för grov korruption, rapporterar NRK. Ekokrim undersöker om Jagland fick fördelar medan han var generalsekreterare för Europarådet och ordförande för norska Nobelkommittén. Jagland har ännu inte själv gett någon kommentar om utredningen mot honom.",
+      "url": "https://yle.fi/a/7-10092813?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-05T09:02:17Z"
-    },
-    {
-      "title": "Räsänen i Washington: Jag använde min yttrandefrihet men blev föremål för polisu…",
-      "summary": "Kristdemokraternas riksdagsledamot Päivi Räsänen har utfrågats i USA: s kongress om yttrandefriheten i Europa. Utfrågningen i representanthusets justitieutskott gick under namnet: \" Europas hot mot amerikansk yttrandefrihet och innovation. I sitt framförande sa Räsänänen att Finland är en demokrati som utgår från rättsstatsprincipen och grundläggande friheter.",
-      "url": "https://yle.fi/a/7-10092720?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-04T18:14:48Z"
+      "published": "2026-02-05T20:19:56Z"
     }
   ]
 }
