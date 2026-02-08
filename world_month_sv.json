@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-07T07:57:07+00:00",
+  "generated": "2026-02-08T08:25:49+00:00",
   "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Många afrikanska män luras till sin död i Rysslands krig mot Ukraina",
+      "summary": "Martin Macharia Mburu reste från Kenya till Ryssland för att arbeta som chaufför. Han skrev på ett kontrakt på ryska och fick tre dagars militärträning. Hans fru Grace Gathoni blev chockad och rädd efter att ha läst om kriget.",
+      "url": "https://yle.fi/a/7-10091202?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-08T03:29:12Z"
+    },
     {
       "title": "Allt kraftigare högervindar väntas i Japan efter helgens parlamentsval",
       "summary": "Premiärminister Sanae Takaichi har bara suttit på posten sedan oktober 2025. Hon har visat sig vara mycket populär bland många väljare, till skillnad från en rad av sina företrädare. Hennes popularitetssiffror ligger på omkring 70 procent i de senaste mätningarna.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10090331?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-06T04:10:51Z"
-    },
-    {
-      "title": "Norges tidigare statsminister Thorbjørn Jagland utreds för grov korruption",
-      "summary": "Thorbjørn Jagland misstänks för grov korruption, rapporterar NRK. Ekokrim undersöker om Jagland fick fördelar medan han var generalsekreterare för Europarådet och ordförande för norska Nobelkommittén. Jagland har ännu inte själv gett någon kommentar om utredningen mot honom.",
-      "url": "https://yle.fi/a/7-10092813?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-05T20:19:56Z"
     }
   ]
 }

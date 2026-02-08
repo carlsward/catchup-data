@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-07T07:56:35+00:00",
+  "generated": "2026-02-08T08:25:15+00:00",
   "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Stor markbrand i Norge",
+      "summary": "Branden bröt ut vid 16 - tiden på lördag eftermiddag och har sedan spridit sig snabbt. Polisen säger att det började med att någon lekt med en tändare. Släckningsarbetet har försvårats av att det råder mycket starka vindar på omkring 12 m / s och det är också mycket torrt i området.",
+      "url": "https://svt.se/nyheter/utrikes/stor-markbrand-i-norge-40-personer-evakuerade",
+      "domain": "svt.se",
+      "published": "2026-02-08T06:19:43Z"
+    },
+    {
+      "title": "Många afrikanska män luras till sin död i Rysslands krig mot Ukraina",
+      "summary": "Martin Macharia Mburu reste från Kenya till Ryssland för att arbeta som chaufför. Han skrev på ett kontrakt på ryska och fick tre dagars militärträning. Hans fru Grace Gathoni blev chockad och rädd efter att ha läst om kriget.",
+      "url": "https://yle.fi/a/7-10091202?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-08T03:29:12Z"
+    },
     {
       "title": "Allt kraftigare högervindar väntas i Japan efter helgens parlamentsval",
       "summary": "Premiärminister Sanae Takaichi har bara suttit på posten sedan oktober 2025. Hon har visat sig vara mycket populär bland många väljare, till skillnad från en rad av sina företrädare. Hennes popularitetssiffror ligger på omkring 70 procent i de senaste mätningarna.",
@@ -35,20 +49,6 @@
       "url": "https://yle.fi/a/7-10090331?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-06T04:10:51Z"
-    },
-    {
-      "title": "Norges tidigare statsminister Thorbjørn Jagland utreds för grov korruption",
-      "summary": "Thorbjørn Jagland misstänks för grov korruption, rapporterar NRK. Ekokrim undersöker om Jagland fick fördelar medan han var generalsekreterare för Europarådet och ordförande för norska Nobelkommittén. Jagland har ännu inte själv gett någon kommentar om utredningen mot honom.",
-      "url": "https://yle.fi/a/7-10092813?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-05T20:19:56Z"
-    },
-    {
-      "title": "Vittnesmål från israeliska soldater: Mänskliga sköldar användes i Gaza",
-      "summary": "Påverkansgruppen Breaking the silence besökte Sverige för att dela med sig av sina berättelser om sin tjänstgöring i Gaza. De kallar soldaterna för Sebastian och Ori –. De vill vara anonyma eftersom de annars riskerar att hamna i fara, säger de.",
-      "url": "https://svt.se/nyheter/utrikes/vittnesmal-fran-israeliska-soldater-manskliga-skoldar-anvandes-i-gaza",
-      "domain": "svt.se",
-      "published": "2026-02-05T17:11:17Z"
     }
   ]
 }
