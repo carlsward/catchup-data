@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-08T08:25:49+00:00",
+  "generated": "2026-02-09T08:15:46+00:00",
   "total_raw": 40,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Förlossningsskadade mammor vill bli opererade i Sverige, men finländska läkare ä…",
+      "summary": "I Sverige behandlas förlossningsskador med kirurgi i bäckenbotten med lägre tröskel och rutinmässigt. Vår granskning visar att finländska gynekologer är återhållsamma med den här typen av kirurgi. Vissa uttrycker till och med oro över att svenska läkare opererar alltför lättvindigt.",
+      "url": "https://yle.fi/a/7-10091869?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-09T04:12:47Z"
+    },
     {
       "title": "Många afrikanska män luras till sin död i Rysslands krig mot Ukraina",
       "summary": "Martin Macharia Mburu reste från Kenya till Ryssland för att arbeta som chaufför. Han skrev på ett kontrakt på ryska och fick tre dagars militärträning. Hans fru Grace Gathoni blev chockad och rädd efter att ha läst om kriget.",
@@ -23,11 +30,11 @@
       "published": "2026-02-07T05:00:32Z"
     },
     {
-      "title": "Mind leder generation Z i kampen om äkta demokrati i Thailand",
-      "summary": "Aktivist Mind deltog i protesterna hösten 2020. Armén hade formellt gett ifrån sig makten, men tusentals demonstranter greps. Mind har i dag femton åtal mot sig själva på grund av sitt engagemang, bland annat för majestätsbrott.",
-      "url": "https://yle.fi/a/7-10090331?origin=rss",
+      "title": "Vita huset publicerade video där Obama avbildas som apa",
+      "summary": "En video där USA: s tidigare president Barack Obama och hans fru avbildas som apor delades på presidentplattform Truth Social. Sedan togs den bort och förklarades med att det var en anställd som klantat sig. Trump kommenterade saken med att han personligen inte tittade ända fram till slutet av videon där paret Obama förekommer utan tittade bara på diskussionen om eventuellt valfusk i början av den.",
+      "url": "https://yle.fi/a/7-10092889?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-06T04:10:51Z"
+      "published": "2026-02-06T19:02:59Z"
     }
   ]
 }
