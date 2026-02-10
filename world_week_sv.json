@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-09T08:15:02+00:00",
+  "generated": "2026-02-10T08:22:40+00:00",
   "total_raw": 40,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Politiker gripen",
-      "summary": "Juan Pablo Guanipa \" kidnappad \" i huvudstaden Caracas, säger oppositionsledaren. Hon kräver att han friges omedelbart. Den 61 - årige före detta vice ordföranden i Venezuelas parlament frigavs tillsammans med två andra oppositionspolitiker.",
-      "url": "https://svt.se/nyheter/utrikes/politiker-gripen-timmar-efter-att-ha-frigivits",
+      "title": "Tre fallgropar när du söker i Epstein-filerna",
+      "summary": "Den norska kronprinsessan Mette - Marit har bett om ursäkt, den brittiska premiärministern Keir Starmers stabschef har avgått och det brittiska prinsparet har uttalat sig om tidigare prins Andrew. Allt efter granskningar av nysläppta Epstein - filer. Det finns dock vissa söktermer som gör det lättare att hitta vissa intressanta dokument: - Söktermen FD - 302 leder till förhör med vittnen från FBI: s utredningar av Jeffrey Epstein.",
+      "url": "https://svt.se/nyheter/utrikes/tre-fallgropar-nar-du-soker-i-epstein-filerna",
       "domain": "svt.se",
-      "published": "2026-02-09T06:55:42Z"
+      "published": "2026-02-10T04:56:58Z"
+    },
+    {
+      "title": "Trump hotar Europas säkerhet: Behöver vi egna kärnvapen?",
+      "summary": "Nordiska kärnvapen kan man glömma för stunden, säger Stefan Forss, docent vid Försvarshögskolan med över 40 års erfarenhet av kärnvapenforskning. Sverige hade ett kärnvapenprogram fram till 1970 - talet och skulle tekniskt kunna återuppta arbetet, men hindren är många. Det handlar inte bara om teknik och kommandokedjor, utan om att samtliga nordiska länder är bundna av icke - spridningsavtalet ( NPT ) Rent juridiskt stänger det dörren för egna program.",
+      "url": "https://yle.fi/a/7-10092601?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-10T03:30:14Z"
+    },
+    {
+      "title": "Demokratikämpen Jimmy Lai döms till 20 års fängelse: ”Drakoniskt",
+      "summary": "EU kritiserar domen och uppmanar till ett omedelbart och villkorslöst frigivande av Jimmy Lai. Lai har anklagats för att ha samarbetat med utländska krafter i strid med den hårt kritiserade nationella säkerhetslagen i Hongkong 2020. Familjen Lai kallar straffet för \" drakoniskt \" och \" grymt \" Straffet väcker starka reaktioner från Lais familj.",
+      "url": "https://svt.se/nyheter/utrikes/jimmy-lai-doms-till-20-ars-fangelse-drakoniskt",
+      "domain": "svt.se",
+      "published": "2026-02-09T05:53:36Z"
     },
     {
       "title": "Förlossningsskadade mammor vill bli opererade i Sverige, men finländska läkare ä…",
@@ -23,18 +37,18 @@
       "published": "2026-02-09T04:12:47Z"
     },
     {
+      "title": "Mammor med förlossningsskador åker till Sverige för vård: ”Det kändes som om inä…",
+      "summary": "Finland är känt för att vara bra på att förebygga förlossningsskador. I Sverige talar man inte öppet om besvär i underlivet efter en förlossning. Många har känt sig ensamma och upplever att vården inte tar dem på allvar.",
+      "url": "https://yle.fi/a/7-10090936?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-08T14:02:37Z"
+    },
+    {
       "title": "Iran kritiserar Trump",
       "summary": "Donald Trump säger att samtalen mellan USA och Iran har gått bra. Irans utrikesminister kallar samtalen \" en bra start \" Han säger att Iran ser fram emot vidare förhandlingar. Det finns ännu inget bestämt datum för nästa möte.",
       "url": "https://svt.se/nyheter/utrikes/iran-kritiserar-trump-ger-inte-upp-urananrikning",
       "domain": "svt.se",
       "published": "2026-02-08T13:35:01Z"
-    },
-    {
-      "title": "Många afrikanska män luras till sin död i Rysslands krig mot Ukraina",
-      "summary": "Martin Macharia Mburu reste från Kenya till Ryssland för att arbeta som chaufför. Han skrev på ett kontrakt på ryska och fick tre dagars militärträning. Hans fru Grace Gathoni blev chockad och rädd efter att ha läst om kriget.",
-      "url": "https://yle.fi/a/7-10091202?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-08T03:29:12Z"
     },
     {
       "title": "Smuggelballonger från Belarus stänger flygplats i Vilnius",
@@ -44,18 +58,11 @@
       "published": "2026-02-07T19:47:24Z"
     },
     {
-      "title": "Allt kraftigare högervindar väntas i Japan efter helgens parlamentsval",
-      "summary": "Premiärminister Sanae Takaichi har bara suttit på posten sedan oktober 2025. Hon har visat sig vara mycket populär bland många väljare, till skillnad från en rad av sina företrädare. Hennes popularitetssiffror ligger på omkring 70 procent i de senaste mätningarna.",
-      "url": "https://yle.fi/a/7-10092758?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-07T05:00:32Z"
-    },
-    {
-      "title": "Vita huset publicerade video där Obama avbildas som apa",
-      "summary": "En video där USA: s tidigare president Barack Obama och hans fru avbildas som apor delades på presidentplattform Truth Social. Sedan togs den bort och förklarades med att det var en anställd som klantat sig. Trump kommenterade saken med att han personligen inte tittade ända fram till slutet av videon där paret Obama förekommer utan tittade bara på diskussionen om eventuellt valfusk i början av den.",
-      "url": "https://yle.fi/a/7-10092889?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-06T19:02:59Z"
+      "title": "Premiärministerns ilska efter OS-protesterna: ”Italiens fiender",
+      "summary": "Omkring 5 000 personer deltog i lördagens anti - olympiska demonstration i Milano. Demonstranterna protesterade mot omfattande avverkning av träd för bygget av OS - anläggningarna. Rutten för demonstrationen passerade inga olympiska arenor eller anläggningar.",
+      "url": "https://svt.se/nyheter/utrikes/protester-pa-os-kastade-fyrverkerier-mot-polis",
+      "domain": "svt.se",
+      "published": "2026-02-07T17:49:13Z"
     }
   ]
 }
