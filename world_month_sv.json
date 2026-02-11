@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-10T08:23:21+00:00",
-  "total_raw": 40,
+  "generated": "2026-02-11T08:19:28+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Europa kan inte stå på egna ben och därför behandlar vi Trump med silkesvantar,…",
+      "summary": "Stephan Bierling är professor i internationell politik vid universitetet i Regensburg. Under Donald Trumps första fyra år som president var de amerikanska soldaterna stationerade i Tyskland ett ständigt återkommande tema. Att räkna med någon lojalitet från Trumps sida är ändå helt onödigt.",
+      "url": "https://yle.fi/a/7-10092503?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-11T03:30:14Z"
+    },
     {
       "title": "Trump hotar Europas säkerhet: Behöver vi egna kärnvapen?",
       "summary": "Nordiska kärnvapen kan man glömma för stunden, säger Stefan Forss, docent vid Försvarshögskolan med över 40 års erfarenhet av kärnvapenforskning. Sverige hade ett kärnvapenprogram fram till 1970 - talet och skulle tekniskt kunna återuppta arbetet, men hindren är många. Det handlar inte bara om teknik och kommandokedjor, utan om att samtliga nordiska länder är bundna av icke - spridningsavtalet ( NPT ) Rent juridiskt stänger det dörren för egna program.",
@@ -16,25 +23,18 @@
       "published": "2026-02-10T03:30:14Z"
     },
     {
-      "title": "Förlossningsskadade mammor vill bli opererade i Sverige, men finländska läkare ä…",
-      "summary": "I Sverige behandlas förlossningsskador med kirurgi i bäckenbotten med lägre tröskel och rutinmässigt. Vår granskning visar att finländska gynekologer är återhållsamma med den här typen av kirurgi. Vissa uttrycker till och med oro över att svenska läkare opererar alltför lättvindigt.",
-      "url": "https://yle.fi/a/7-10091869?origin=rss",
+      "title": "Arktis smältande is öppnar nya sjövägar och trappar upp säkerhetshoten",
+      "summary": "I takt med att isen smälter på grund av klimatförändringen kommer Alaska, Berings hav och Berings sund att spela en allt större roll när det gäller fartygstrafik i området. Trafiken längs den ryska kusten av sundet domineras av tankfartyg, bulkfartyg och fartyg som transporterar rysk flytande naturgas, LNG, till asiatiska marknader. USA gör en rekordinvestering på nästan 25 miljarder dollar i kustbevakningen.",
+      "url": "https://yle.fi/a/7-10092649?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-09T04:12:47Z"
+      "published": "2026-02-09T08:55:17Z"
     },
     {
-      "title": "Mammor med förlossningsskador åker till Sverige för vård: ”Det kändes som om inä…",
-      "summary": "Finland är känt för att vara bra på att förebygga förlossningsskador. I Sverige talar man inte öppet om besvär i underlivet efter en förlossning. Många har känt sig ensamma och upplever att vården inte tar dem på allvar.",
-      "url": "https://yle.fi/a/7-10090936?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-08T14:02:37Z"
-    },
-    {
-      "title": "Smuggelballonger från Belarus stänger flygplats i Vilnius",
-      "summary": "Flera stängsel har byggts och ett antal gränspassager har stängts. Den senaste huvudvärken för Lettland, Litauen och Polen är väderballonger som dyker upp på den belarusiska sidan av gränsen och färdas högt och snabbt med vinden om nätterna. Litauen, vars huvudstad Vilnius bara ligger omkring 35 kilometer från gränsen, är värst drabbade.",
-      "url": "https://svt.se/nyheter/utrikes/smuggelballonger-fran-belarus-stanger-flygplats-i-vilnius-oro-for-hybridkrig",
+      "title": "Iran kritiserar Trump",
+      "summary": "Donald Trump säger att samtalen mellan USA och Iran har gått bra. Irans utrikesminister kallar samtalen \" en bra start \" Han säger att Iran ser fram emot vidare förhandlingar. Det finns ännu inget bestämt datum för nästa möte.",
+      "url": "https://svt.se/nyheter/utrikes/iran-kritiserar-trump-ger-inte-upp-urananrikning",
       "domain": "svt.se",
-      "published": "2026-02-07T19:47:24Z"
+      "published": "2026-02-08T13:35:01Z"
     }
   ]
 }
