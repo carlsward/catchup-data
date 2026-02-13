@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-12T08:14:55+00:00",
+  "generated": "2026-02-13T08:12:26+00:00",
   "total_raw": 38,
-  "total_rank": 8,
+  "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Intern kritik efter mord och mordförsök i Moskva: ”Prestigeförlust",
-      "summary": "Dådet mot Aleksejev är det senaste i ett par uppmärksammade mord eller mordförsök mot ryska militärtoppar. I ett uppmärksammat fall har Ukraina tagit på sig ansvaret, i december 2024, när den ryska generalen Igor Kirillov mördades. Ukraina har motsatt sig Rysslands anklagelser, som i fallet med Aleksejevs död.",
-      "url": "https://svt.se/nyheter/utrikes/intern-kritik-efter-mord-och-mordforsok-i-moskva-prestigeforlust",
-      "domain": "svt.se",
-      "published": "2026-02-12T06:22:48Z"
+      "title": "Ingen går säker när Xi rensar i militären med hård hand",
+      "summary": "General Zhang Youxia och Liu Zhenli anklagas för att ha undergrävt arméns ledarskapsstruktur. Zhang misstänks också ha läckt information till USA om Kinas kärnvapenprogram, men de här uppgifterna har inte verifierats. Det har också förekommit spekulationer om att en militärkupp planerats, och att den senaste utrensningen skulle vara ett direkt resultat av det.",
+      "url": "https://yle.fi/a/7-10092368?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-13T05:30:20Z"
     },
     {
-      "title": "18-årig kvinna bakom skolskjutningen i Kanada",
-      "summary": "18 - åringen begick självmord i samband med skjutningen. Hennes mamma, bror och mor hittades döda i hemmet nära skolan i Tumbler Ridge provinsen British Columbia. Polisen korrigerade senare antalet offer till nio i stället för de tidigare rapporterade tio.",
-      "url": "https://yle.fi/a/7-10093171?origin=rss",
+      "title": "Experten: Fortsatt låst längs fronten",
+      "summary": "Om en dryg vecka har det gått exakt fyra år sedan Ryssland inledde sitt fullskaliga invasionskrig mot Ukraina. Ett krig som fastnat i ett dödläge längs en drygt 100 mil lång frontlinje. Enligt Jörgen Elfving, militärexpert och tidigare överstelöjtnant vid Försvarshögskolan, är det just nu rasar strider och fronten rör sig.",
+      "url": "https://svt.se/nyheter/utrikes/experten-fortsatt-last-langs-fronten-ryska-bombningar-har-inte-knackt-ukrainarna",
+      "domain": "svt.se",
+      "published": "2026-02-13T01:06:46Z"
+    },
+    {
+      "title": "Underättelseuppgifter: Kim Jong-un har valt sin tonårsdotter till efterträdare",
+      "summary": "Kim Ju - ae har dykt upp offentligt för första gången vid ett test av en långdistansmissil i november 2022. Spekulationerna om hennes politiska framtid intensifierades förra månaden när hon tillsammans med sina föräldrar besökte Kumsusan Palace of the Sun i Pyongyang. Vissa experter ser det här besöket som det tydligaste tecknet hittills på att hon har valts till arvtagare.",
+      "url": "https://yle.fi/a/7-10093250?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-12T03:24:59Z"
+      "published": "2026-02-12T17:15:41Z"
+    },
+    {
+      "title": "Försvarsministern: Får vänja oss vid USA:s lägre engagemang i Nato",
+      "summary": "Försvarsminister Pål Jonson kommer att närvara vid torsdagens Natomöte. Det är första gången en amerikansk minister har missat mötet sedan försvarsminister Pete Hegseths frånvaro för tre år sedan. USA: s vicepresident JD Vance höll ett uppmärksammat tal med en ny och hårdare ton mot europeiska allierade för ett år sedan om Europa.",
+      "url": "https://svt.se/nyheter/utrikes/forsvarsministern-far-vanja-oss-med-usas-lagre-engagemang-i-nato",
+      "domain": "svt.se",
+      "published": "2026-02-12T10:05:15Z"
+    },
+    {
+      "title": "Här är tyskarnas knep för att hålla nere elräkningen",
+      "summary": "På grund av obetalda räkningar har 12 000 hushåll i Berlin fått elen avstängd under det senaste året. Det är dubbelt så många som för två år sedan, säger ved och kol försäljaren Dirk Kögler som har fått uppsving i verksamheten i takt med de höga energipriserna. Det genomsnittliga elnätspriset i Tyskland under 2025 är 4, 1 kronor per kWh.",
+      "url": "https://svt.se/nyheter/utrikes/har-ar-tyskarnas-knep-for-att-haller-nere-elrakningen",
+      "domain": "svt.se",
+      "published": "2026-02-11T21:40:30Z"
     },
     {
       "title": "Starmer kämpar men ”krisen i Storbritannien är långt ifrån över",
@@ -28,41 +49,6 @@
       "url": "https://yle.fi/a/7-10093111?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-11T11:00:14Z"
-    },
-    {
-      "title": "Nio döda efter masskjutning i Kanada",
-      "summary": "Nio personer dödades i skottlossningen, inklusive den misstänkta skytten. Sex personer hittades döda i en skola, fem barn och en lärare. Ytterligare två hittades i en bostad, som polisen bedömer har koppling till händelsen.",
-      "url": "https://svt.se/nyheter/utrikes/tio-doda-efter-skottlossning-i-kanada",
-      "domain": "svt.se",
-      "published": "2026-02-11T02:34:59Z"
-    },
-    {
-      "title": "Tv-stjärnans mamma försvunnen",
-      "summary": "Nancy Guthrie anmäldes saknad från sitt hem i Tucson, Arizona för nio dagar sedan. Hennes dotter Savannah är mångårigt ankare för tv - kanalen NBC. Kraven kommer från personer som säger sig vara inblandade i försvinnandet men polisen har inte uttalat sig om uppgifternas trovärdighet.",
-      "url": "https://svt.se/nyheter/utrikes/tv-stjarnans-mamma-forsvunnen-fbi-delar-bild-pa-mojlig-kidnappare",
-      "domain": "svt.se",
-      "published": "2026-02-10T21:55:43Z"
-    },
-    {
-      "title": "Efter Venezuela siktar USA på Kuba, men regimen där är svårare att knäcka",
-      "summary": "När USA ingrep i Venezuela i januari hade amerikanerna kontakt med personer inom den venezuelanska regimen. USA sägs nu aktivt söka \" insiders \" också inom maktapparaten i Kuba för att få bort den kommunistiska regimen. Statsvetenskapliga institutionen på Uppsala universitet säger att det verkar som om amerikanarna har fått blodad tand och vill åstadkomma något liknande i Kuba.",
-      "url": "https://yle.fi/a/7-10092765?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-10T18:07:25Z"
-    },
-    {
-      "title": "Politiker gripen",
-      "summary": "Juan Pablo Guanipa \" kidnappad \" i huvudstaden Caracas, säger oppositionsledaren. Hon kräver att han friges omedelbart. Den 61 - årige före detta vice ordföranden i Venezuelas parlament frigavs tillsammans med två andra oppositionspolitiker.",
-      "url": "https://svt.se/nyheter/utrikes/politiker-gripen-timmar-efter-att-ha-frigivits",
-      "domain": "svt.se",
-      "published": "2026-02-09T06:55:42Z"
-    },
-    {
-      "title": "Demokratikämpen Jimmy Lai döms till 20 års fängelse: ”Drakoniskt",
-      "summary": "EU kritiserar domen och uppmanar till ett omedelbart och villkorslöst frigivande av Jimmy Lai. Lai har anklagats för att ha samarbetat med utländska krafter i strid med den hårt kritiserade nationella säkerhetslagen i Hongkong 2020. Familjen Lai kallar straffet för \" drakoniskt \" och \" grymt \" Straffet väcker starka reaktioner från Lais familj.",
-      "url": "https://svt.se/nyheter/utrikes/jimmy-lai-doms-till-20-ars-fangelse-drakoniskt",
-      "domain": "svt.se",
-      "published": "2026-02-09T05:53:36Z"
     }
   ]
 }
