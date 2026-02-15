@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-14T08:00:59+00:00",
-  "total_raw": 39,
+  "generated": "2026-02-15T08:14:13+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "I de vitas stad Orania i Sydafrika bor inga svarta",
+      "summary": "Orania är en afrikaanerstad i den torra Karoo regionen i centrala Sydafrika. Teologen Carel Boshoff, svärson till Hendrik Verwoerd, är mest känd som arkitekten bakom apartheidsystemet. Staden är i omvärlden ofta känd som.",
+      "url": "https://yle.fi/a/7-10091199?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-15T04:30:14Z"
+    },
     {
       "title": "Kinas emigranter hyllas efter årtionden av skam",
       "summary": "I Kina är Fujian berömt för sitt högklassiga te, och kunderna är villiga att betala höga priser för eftertraktade sorter. Många ättlingar till emigranter har blivit intresserade av förfädrarnas hemtrakter. Många kineser flydde när Japan ockuperade en stor del av Kina på 1930 - talet.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10093250?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-12T17:15:41Z"
-    },
-    {
-      "title": "Finland borde försvara sexuella rättigheter bättre, visar rapport",
-      "summary": "Statsminister Petteri Orpo ansåg att Finland borde ha deltagit eftersom det ligger i linje med regeringens utrikespolitik, men att det var minister Tavio som ensam fattade beslutet. Enligt Plan International Finland är detta ett exempel på hur splittringen gällande jämställdhetsfrågor ser ut inom regeringen. Jämlikhet och sexuella och reproduktiva rättigheter möter starkt motstånd internationellt sett, berättar Senni Martikainen, expert på internationell utveckling.",
-      "url": "https://yle.fi/a/7-10093040?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-11T18:13:05Z"
     }
   ]
 }
