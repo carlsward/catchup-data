@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-15T08:14:13+00:00",
+  "generated": "2026-02-16T08:14:00+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Arktis kan bli isfritt redan 2032",
+      "summary": "Uppvärmningen i Arktis sker dubbelt så snabbt som i resten av världen. Regionen kan få sin första isfria sommar redan 2032. Smältande is är förödande för Arktis känsliga natur, men det öppnar också upp för nya handelsrutter och utvinning av värdefulla råvaror.",
+      "url": "https://yle.fi/a/7-10093292?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-16T07:54:40Z"
+    },
     {
       "title": "I de vitas stad Orania i Sydafrika bor inga svarta",
       "summary": "Orania är en afrikaanerstad i den torra Karoo regionen i centrala Sydafrika. Teologen Carel Boshoff, svärson till Hendrik Verwoerd, är mest känd som arkitekten bakom apartheidsystemet. Staden är i omvärlden ofta känd som.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10092368?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-13T05:30:20Z"
-    },
-    {
-      "title": "Underättelseuppgifter: Kim Jong-un har valt sin tonårsdotter till efterträdare",
-      "summary": "Kim Ju - ae har dykt upp offentligt för första gången vid ett test av en långdistansmissil i november 2022. Spekulationerna om hennes politiska framtid intensifierades förra månaden när hon tillsammans med sina föräldrar besökte Kumsusan Palace of the Sun i Pyongyang. Vissa experter ser det här besöket som det tydligaste tecknet hittills på att hon har valts till arvtagare.",
-      "url": "https://yle.fi/a/7-10093250?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-12T17:15:41Z"
     }
   ]
 }

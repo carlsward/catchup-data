@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-15T08:13:28+00:00",
+  "generated": "2026-02-16T08:13:15+00:00",
   "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Arktis kan bli isfritt redan 2032",
+      "summary": "Uppvärmningen i Arktis sker dubbelt så snabbt som i resten av världen. Regionen kan få sin första isfria sommar redan 2032. Smältande is är förödande för Arktis känsliga natur, men det öppnar också upp för nya handelsrutter och utvinning av värdefulla råvaror.",
+      "url": "https://yle.fi/a/7-10093292?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-16T07:54:40Z"
+    },
+    {
+      "title": "16 februari: Nattens nyheter",
+      "summary": "Martin Nordqvist till final i big air i slopestyle. Tre Kronors motståndare möter Lettland i OS kvartsfinaler. Det är en match som Sverige bara ska vinna \", säger Jonas Andersson, SVT: s Jonas Andersson.",
+      "url": "https://svt.se/nyheter/utrikes/16-februari-nattens-nyheter-2invq9",
+      "domain": "svt.se",
+      "published": "2026-02-16T04:47:05Z"
+    },
     {
       "title": "Minister: Iran redo att kompromissa för att nå ett kärnenergiavtal",
       "summary": "USA: s president Donald Trump har hotat attacker mot Iran om ett avtal om att begränsa dess kärntekniska program inte kan nås. Under lördagen uttryckte president Trump en önskan om en överenskommelse men att det var \" mycket svårt att göra \" en med Iran. Majid Takht - Ravanchi, Irans vice utrikesminister, säger att bollen ligger på den amerikanska planhalvan.",
@@ -37,11 +51,11 @@
       "published": "2026-02-14T06:05:36Z"
     },
     {
-      "title": "Här skjuts svensk-amerikanska Jessica Meirs upp i rymden",
-      "summary": "Astronaut Marcus Wandt: \" Det är spänning och man känner att det är här man ska vara och ingen annanstans \" Uppdraget leds av Nasa i samarbete med Space X på Internationella rymdstationen, ISS. Jessica Meir har suttit i en två veckor lång obligatorisk karantän på ISS. 2019 blev hon Sveriges första kvinnliga astronaut, och den första att utföra en rymdpromenad där endast kvinnor deltog i det åtta månader långa uppdraget.",
-      "url": "https://svt.se/nyheter/utrikes/folj-svenska-jessica-meirs-vag-mot-rymden-svt-sander",
+      "title": "Ny Münchenkonferens",
+      "summary": "Förra året riktade USA: s vicepresident Vance skarp kritik mot Europa under säkerhetskonferensens första dag. Hotet jag oroas mest över vad gäller Europa är inte Ryssland, Kina eller någon annan extern aktör \", sade Vance. Tyskland har svängt Frankrike och Storbritannien har samordnat sin kärnvapenpolitik sedan 80 - talet.",
+      "url": "https://svt.se/nyheter/utrikes/ny-munchenkonferens-karnvapenavskrackning-i-europa-en-av-fragorna",
       "domain": "svt.se",
-      "published": "2026-02-13T09:49:01Z"
+      "published": "2026-02-13T21:29:28Z"
     },
     {
       "title": "Ingen går säker när Xi rensar i militären med hård hand",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10092368?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-13T05:30:20Z"
-    },
-    {
-      "title": "Trump hävde fundamentet för USA:s utsläppsregler",
-      "summary": "President Donald Trumps administration ogiltigförklarade ett dokument som länge legat som grund för USA: s åtgärder mot klimatförändringen. Beslutet fattades av den amerikanska miljömyndighetens chef Lee Zeldin, som Trump utnämnde i fjol, sade torsdagens beslut är den största avregleringsåtgärden i Amerikas historia. Klimatgrupper beskrev det som den enskilt största attacken i USA - historien mot klimatarbetet.",
-      "url": "https://yle.fi/a/7-10093260?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-12T20:16:26Z"
-    },
-    {
-      "title": "Underättelseuppgifter: Kim Jong-un har valt sin tonårsdotter till efterträdare",
-      "summary": "Kim Ju - ae har dykt upp offentligt för första gången vid ett test av en långdistansmissil i november 2022. Spekulationerna om hennes politiska framtid intensifierades förra månaden när hon tillsammans med sina föräldrar besökte Kumsusan Palace of the Sun i Pyongyang. Vissa experter ser det här besöket som det tydligaste tecknet hittills på att hon har valts till arvtagare.",
-      "url": "https://yle.fi/a/7-10093250?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-12T17:15:41Z"
     }
   ]
 }
