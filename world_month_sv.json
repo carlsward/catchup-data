@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-16T08:14:00+00:00",
+  "generated": "2026-02-17T08:07:44+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Arktis kan bli isfritt redan 2032",
-      "summary": "Uppvärmningen i Arktis sker dubbelt så snabbt som i resten av världen. Regionen kan få sin första isfria sommar redan 2032. Smältande is är förödande för Arktis känsliga natur, men det öppnar också upp för nya handelsrutter och utvinning av värdefulla råvaror.",
-      "url": "https://yle.fi/a/7-10093292?origin=rss",
+      "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
+      "summary": "Leena Maria Linnus är chef för Europaparlamentets förbindelsekontor i London. Konkret arbetar kontoret med att bygga broar mellan ledamöter i Europaparlamentet och representanter för underhuset och överhuset i Westminster. Den brittiska Labourregeringen som tillträdde efter valet 2024 har försökt förbättra relationen till EU inom många områden.",
+      "url": "https://yle.fi/a/7-10093272?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-16T07:54:40Z"
+      "published": "2026-02-17T04:17:40Z"
+    },
+    {
+      "title": "USA och Ungern öste komplimanger över varandra under toppmöte i Budapest",
+      "summary": "Den amerikanske utrikesministern Marco Rubio träffade den ungerska premiärministern Péter Szijjártó och Ungerns premiärminister Viktor Orbán under måndagen. Rubio lovordade det historiskt goda förhållande som Ungern och USA har i nuläget. Han lyfte också fram att man blivit inbjuden att bli en del av Trumps fredsråd som ett exempel på detta.",
+      "url": "https://yle.fi/a/7-10093417?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-16T12:49:27Z"
     },
     {
       "title": "I de vitas stad Orania i Sydafrika bor inga svarta",
@@ -23,18 +30,11 @@
       "published": "2026-02-15T04:30:14Z"
     },
     {
-      "title": "Kinas emigranter hyllas efter årtionden av skam",
-      "summary": "I Kina är Fujian berömt för sitt högklassiga te, och kunderna är villiga att betala höga priser för eftertraktade sorter. Många ättlingar till emigranter har blivit intresserade av förfädrarnas hemtrakter. Många kineser flydde när Japan ockuperade en stor del av Kina på 1930 - talet.",
-      "url": "https://yle.fi/a/7-10093039?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-14T06:05:36Z"
-    },
-    {
-      "title": "Ingen går säker när Xi rensar i militären med hård hand",
-      "summary": "General Zhang Youxia och Liu Zhenli anklagas för att ha undergrävt arméns ledarskapsstruktur. Zhang misstänks också ha läckt information till USA om Kinas kärnvapenprogram, men de här uppgifterna har inte verifierats. Det har också förekommit spekulationer om att en militärkupp planerats, och att den senaste utrensningen skulle vara ett direkt resultat av det.",
-      "url": "https://yle.fi/a/7-10092368?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-13T05:30:20Z"
+      "title": "Experter: Navalnyj dog med sällsynt gift i kroppen",
+      "summary": "Ryssland hävdade att Aleksej Navalnyj dog av naturliga orsaker. Men med tanke på epibatidinets toxicitet och de rapporterade symtomen var förgiftning. Giftet finns naturligt i den ecuadorianska pilgiftsgrodan men kan också framställas i laboratorium.",
+      "url": "https://svt.se/nyheter/utrikes/experter-navalnyj-dog-med-sallsynt-gift-i-kroppen",
+      "domain": "svt.se",
+      "published": "2026-02-14T12:57:34Z"
     }
   ]
 }
