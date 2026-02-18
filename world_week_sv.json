@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-17T08:07:01+00:00",
-  "total_raw": 40,
-  "total_rank": 8,
+  "generated": "2026-02-18T08:10:28+00:00",
+  "total_raw": 39,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Unga tyskar protesterar mot värnplikt och pensionspaket",
+      "summary": "Många är besvikna över pensionspaketet som medför nya kostnader på över 100 miljarder euro. Många unga i förbundskansler Friedrich Merz parti Kristdemokraterna protesterar mot att det är de som får betala kostnaderna. Niklas Asikoglu fyller snart 18 och kan på så sätt ställa upp i det bayerska kommunalvalet i början av mars.",
+      "url": "https://yle.fi/a/7-10092106?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-18T05:00:14Z"
+    },
+    {
+      "title": "Kriget i Ukraina har blivit dödligare för civila",
+      "summary": "Under 2025 har skadorna och dödsfallen ökat igen jämfört med de två föregående åren. Drönare och robotattacker stod för hälften av skadorna på civila under 2025. Ryssland har ökat användningen av långdistansvapen sedan i juni.",
+      "url": "https://svt.se/nyheter/utrikes/kriget-i-ukraina-har-blivit-dodligare-for-civila",
+      "domain": "svt.se",
+      "published": "2026-02-18T04:42:19Z"
+    },
+    {
+      "title": "Så hamnade Frankrikes radikala politiska grupper i fokus efter 23-årings död",
+      "summary": "VARNING: GRAFISKT INNEHÅLL. Quentin Deranque, 23 år, blev ihjälslagen vid en demonstration i Lyon i Frankrike. Dödsmisshandeln inträffade under en föreläsning där EU - parlamentarikern Rima Hassan från vänsterpartiet LFI höll en föreläsning.",
+      "url": "https://svt.se/nyheter/utrikes/sa-hamnade-frankrikes-radikala-politiska-grupper-i-fokus-efter-23-arings-dod",
+      "domain": "svt.se",
+      "published": "2026-02-17T19:02:36Z"
+    },
     {
       "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
       "summary": "Leena Maria Linnus är chef för Europaparlamentets förbindelsekontor i London. Konkret arbetar kontoret med att bygga broar mellan ledamöter i Europaparlamentet och representanter för underhuset och överhuset i Westminster. Den brittiska Labourregeringen som tillträdde efter valet 2024 har försökt förbättra relationen till EU inom många områden.",
       "url": "https://yle.fi/a/7-10093272?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-17T04:17:40Z"
-    },
-    {
-      "title": "Här har inte ens de rika rinnande vatten: ”Det är helt värdelöst",
-      "summary": "Sedan flera år tillbaka måste de flesta människor på Madagaskar hämta sitt dricksvatten vid vattenstationer, utplacerade runt storstäderna och på landsbygden. De som inte orkar bära dunkarna själva betalar unga vattenbärare att göra jobbet. 500 Ariary, alltså runt en krona, för tio liter vatten.",
-      "url": "https://svt.se/nyheter/utrikes/har-har-inte-ens-de-rika-rinnande-vatten-det-ar-helt-vardelost",
-      "domain": "svt.se",
-      "published": "2026-02-17T02:28:49Z"
     },
     {
       "title": "Ungern och Slovakien i bråk med Ukraina om rysk olja",
@@ -37,32 +51,11 @@
       "published": "2026-02-16T12:49:27Z"
     },
     {
-      "title": "Minister: Iran redo att kompromissa för att nå ett kärnenergiavtal",
-      "summary": "USA: s president Donald Trump har hotat attacker mot Iran om ett avtal om att begränsa dess kärntekniska program inte kan nås. Under lördagen uttryckte president Trump en önskan om en överenskommelse men att det var \" mycket svårt att göra \" en med Iran. Majid Takht - Ravanchi, Irans vice utrikesminister, säger att bollen ligger på den amerikanska planhalvan.",
-      "url": "https://svt.se/nyheter/utrikes/minister-iran-ar-redo-att-kompromissa-for-na-ett-karnenergiavtal",
+      "title": "Höga kostnader och dyrare öl",
+      "summary": "Den brittiska regeringen har haft kaosartade veckor efter de nya Epsteindokumenten. Men kritiken mot Keir Starmer och hans ministrar är bredare än så. Kritiken har varit hård efter att höjda sociala avgifter, minimilöner och förändrade kommersiella fastighetsskatter höjt kostnaderna kraftigt för hotell - och restaurangbranschen.",
+      "url": "https://svt.se/nyheter/utrikes/hoga-kostnader-och-dyrare-ol-brittiska-pubarna-pressas",
       "domain": "svt.se",
-      "published": "2026-02-15T07:08:22Z"
-    },
-    {
-      "title": "I de vitas stad Orania i Sydafrika bor inga svarta",
-      "summary": "Orania är en afrikaanerstad i den torra Karoo regionen i centrala Sydafrika. Teologen Carel Boshoff, svärson till Hendrik Verwoerd, är mest känd som arkitekten bakom apartheidsystemet. Staden är i omvärlden ofta känd som.",
-      "url": "https://yle.fi/a/7-10091199?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-15T04:30:14Z"
-    },
-    {
-      "title": "Gisèle Pelicot om öppna rättegången: ”Aldrig ångrat mig",
-      "summary": "Gisèle Pelicot säger att hon först ville det, men att hon själv tvekade. Hon och exmaken var där för att han misstänktes för att ha filmat under kvinnors kjolar i en mataffär. Hon togs åt sidan, och en polis berättade att han behövde visa något som hon inte skulle tycka om.",
-      "url": "https://svt.se/nyheter/utrikes/gisele-pelicot-om-oppna-rattegangen-aldrig-angrat-mig",
-      "domain": "svt.se",
-      "published": "2026-02-14T20:03:59Z"
-    },
-    {
-      "title": "Experter: Navalnyj dog med sällsynt gift i kroppen",
-      "summary": "Ryssland hävdade att Aleksej Navalnyj dog av naturliga orsaker. Men med tanke på epibatidinets toxicitet och de rapporterade symtomen var förgiftning. Giftet finns naturligt i den ecuadorianska pilgiftsgrodan men kan också framställas i laboratorium.",
-      "url": "https://svt.se/nyheter/utrikes/experter-navalnyj-dog-med-sallsynt-gift-i-kroppen",
-      "domain": "svt.se",
-      "published": "2026-02-14T12:57:34Z"
+      "published": "2026-02-15T21:12:33Z"
     }
   ]
 }

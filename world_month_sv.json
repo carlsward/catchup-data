@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-17T08:07:44+00:00",
-  "total_raw": 40,
+  "generated": "2026-02-18T08:11:11+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Unga tyskar protesterar mot värnplikt och pensionspaket",
+      "summary": "Många är besvikna över pensionspaketet som medför nya kostnader på över 100 miljarder euro. Många unga i förbundskansler Friedrich Merz parti Kristdemokraterna protesterar mot att det är de som får betala kostnaderna. Niklas Asikoglu fyller snart 18 och kan på så sätt ställa upp i det bayerska kommunalvalet i början av mars.",
+      "url": "https://yle.fi/a/7-10092106?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-18T05:00:14Z"
+    },
     {
       "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
       "summary": "Leena Maria Linnus är chef för Europaparlamentets förbindelsekontor i London. Konkret arbetar kontoret med att bygga broar mellan ledamöter i Europaparlamentet och representanter för underhuset och överhuset i Westminster. Den brittiska Labourregeringen som tillträdde efter valet 2024 har försökt förbättra relationen till EU inom många områden.",
@@ -23,18 +30,11 @@
       "published": "2026-02-16T12:49:27Z"
     },
     {
-      "title": "I de vitas stad Orania i Sydafrika bor inga svarta",
-      "summary": "Orania är en afrikaanerstad i den torra Karoo regionen i centrala Sydafrika. Teologen Carel Boshoff, svärson till Hendrik Verwoerd, är mest känd som arkitekten bakom apartheidsystemet. Staden är i omvärlden ofta känd som.",
-      "url": "https://yle.fi/a/7-10091199?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-15T04:30:14Z"
-    },
-    {
-      "title": "Experter: Navalnyj dog med sällsynt gift i kroppen",
-      "summary": "Ryssland hävdade att Aleksej Navalnyj dog av naturliga orsaker. Men med tanke på epibatidinets toxicitet och de rapporterade symtomen var förgiftning. Giftet finns naturligt i den ecuadorianska pilgiftsgrodan men kan också framställas i laboratorium.",
-      "url": "https://svt.se/nyheter/utrikes/experter-navalnyj-dog-med-sallsynt-gift-i-kroppen",
+      "title": "Höga kostnader och dyrare öl",
+      "summary": "Den brittiska regeringen har haft kaosartade veckor efter de nya Epsteindokumenten. Men kritiken mot Keir Starmer och hans ministrar är bredare än så. Kritiken har varit hård efter att höjda sociala avgifter, minimilöner och förändrade kommersiella fastighetsskatter höjt kostnaderna kraftigt för hotell - och restaurangbranschen.",
+      "url": "https://svt.se/nyheter/utrikes/hoga-kostnader-och-dyrare-ol-brittiska-pubarna-pressas",
       "domain": "svt.se",
-      "published": "2026-02-14T12:57:34Z"
+      "published": "2026-02-15T21:12:33Z"
     }
   ]
 }
