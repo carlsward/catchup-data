@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-18T08:11:11+00:00",
+  "generated": "2026-02-19T08:09:32+00:00",
   "total_raw": 39,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Unga tyskar protesterar mot värnplikt och pensionspaket",
-      "summary": "Många är besvikna över pensionspaketet som medför nya kostnader på över 100 miljarder euro. Många unga i förbundskansler Friedrich Merz parti Kristdemokraterna protesterar mot att det är de som får betala kostnaderna. Niklas Asikoglu fyller snart 18 och kan på så sätt ställa upp i det bayerska kommunalvalet i början av mars.",
-      "url": "https://yle.fi/a/7-10092106?origin=rss",
+      "title": "Plånboken viktigare än personligheten för Trumps väljare i Pennsylvania",
+      "summary": "Matt Flinchbaugh har varit krögare i 25 år och äger restaurangen Flinchy ' s sedan 23 år tillbaka. År 2019 var Trumps näst sista år, och året innan coronapandemin ställde till det för företag världen över. Lagstiftningen innebär nya sätt att räkna hur övertid beskattas, och att anställda genom särskilda undantag kan dra av upp till 25 000 dollar på de dricks de förtjänar i sin deklaration.",
+      "url": "https://yle.fi/a/7-10093262?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-18T05:00:14Z"
+      "published": "2026-02-19T04:00:14Z"
+    },
+    {
+      "title": "Rysslands skuggflotta och tjock is ökar riskerna på Östersjön: ”Vi har en skrämm…",
+      "summary": "Det tjocka istäcket i Finska viken skapar huvudbry för den ryska industrin och statskassan. Skuggflottan som fraktar sanktionsbelagd rysk olja står delvis stilla då köande fartyg väntar på att de fulltsysselsatta isbrytarna ska öppna upp farlederna från de ryska oljehamnarna. Transportministeriet har uppmanat rederierna att ta hänsyn till omständigheterna då de fattar beslut om sina frakttidtabeller.",
+      "url": "https://yle.fi/a/7-10093579?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-18T16:39:19Z"
     },
     {
       "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10093272?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-17T04:17:40Z"
-    },
-    {
-      "title": "USA och Ungern öste komplimanger över varandra under toppmöte i Budapest",
-      "summary": "Den amerikanske utrikesministern Marco Rubio träffade den ungerska premiärministern Péter Szijjártó och Ungerns premiärminister Viktor Orbán under måndagen. Rubio lovordade det historiskt goda förhållande som Ungern och USA har i nuläget. Han lyfte också fram att man blivit inbjuden att bli en del av Trumps fredsråd som ett exempel på detta.",
-      "url": "https://yle.fi/a/7-10093417?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-16T12:49:27Z"
-    },
-    {
-      "title": "Höga kostnader och dyrare öl",
-      "summary": "Den brittiska regeringen har haft kaosartade veckor efter de nya Epsteindokumenten. Men kritiken mot Keir Starmer och hans ministrar är bredare än så. Kritiken har varit hård efter att höjda sociala avgifter, minimilöner och förändrade kommersiella fastighetsskatter höjt kostnaderna kraftigt för hotell - och restaurangbranschen.",
-      "url": "https://svt.se/nyheter/utrikes/hoga-kostnader-och-dyrare-ol-brittiska-pubarna-pressas",
-      "domain": "svt.se",
-      "published": "2026-02-15T21:12:33Z"
     }
   ]
 }
