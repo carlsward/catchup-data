@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-19T08:09:01+00:00",
-  "total_raw": 39,
+  "generated": "2026-02-20T08:04:55+00:00",
+  "total_raw": 40,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Gazas framtid på spel i Washington",
-      "summary": "Medlemsländerna har samlat ihop minst fem miljarder dollar och Indonesien står redo att skicka tusentals soldater till de internationella stabiliseringsstyrkorna. Gaza Vapenvilan som inleddes i oktober var det första steget i den fredsplan som hittills inneburit att Hamas gisslan utväxlats mot palestinska fångar. Kritik har riktats mot att rådets mandat vuxit från att omfatta Gaza till oroshärdar världen över, och att Trump har som ambition att ersätta FN.",
-      "url": "https://svt.se/nyheter/utrikes/gazas-framtid-pa-spel-i-washington",
+      "title": "Kungliga experten om anklagelserna: Finns mer att förklara",
+      "summary": "Andrew Mountbatten - Windsor greps i Sandringham och Windsor. Ex - prinsen har hela tiden nekat till brott. Nu har andra anklagelser rullats fram mot honom.",
+      "url": "https://svt.se/nyheter/utrikes/kungliga-experten-om-anklagelserna-finns-mer-att-forklara-aven-fran-hovet",
       "domain": "svt.se",
-      "published": "2026-02-19T05:11:14Z"
+      "published": "2026-02-20T07:12:53Z"
+    },
+    {
+      "title": "Besviken på USA och rädd för beroende av Kina försöker Thailand gå sin egen väg",
+      "summary": "Thailand befinner sig i sitt svåraste diplomatiska läge på generationer. Landets mål är att vara neutralt mellan USA och Kina, men samtidigt bli en mellanstor makt i en multipolär värld. Kina är Thailands största handelspartner och länderna har djupa historiska och kulturella band.",
+      "url": "https://yle.fi/a/7-10090332?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-20T04:45:18Z"
+    },
+    {
+      "title": "Tidigare prinsen Andrew Mountbatten-Windsor gripen",
+      "summary": "Andrew Mountbatten - Windsor har kopplingar till utredningen om Jeffrey Epstein. Ex - prinsen har hela tiden nekat till alla anklagelser. På torsdag, på sin 66 - årsdag, greps han av polis, misstänkt för tjänstefel.",
+      "url": "https://svt.se/nyheter/utrikes/polis-vid-tidigare-prins-andrews-bostad",
+      "domain": "svt.se",
+      "published": "2026-02-19T09:57:58Z"
     },
     {
       "title": "Plånboken viktigare än personligheten för Trumps väljare i Pennsylvania",
@@ -30,25 +44,11 @@
       "published": "2026-02-18T16:39:19Z"
     },
     {
-      "title": "Kriget i Ukraina har blivit dödligare för civila",
-      "summary": "Under 2025 har skadorna och dödsfallen ökat igen jämfört med de två föregående åren. Drönare och robotattacker stod för hälften av skadorna på civila under 2025. Ryssland har ökat användningen av långdistansvapen sedan i juni.",
-      "url": "https://svt.se/nyheter/utrikes/kriget-i-ukraina-har-blivit-dodligare-for-civila",
+      "title": "EU utreder AI-boten Grok",
+      "summary": "Målet i Los Angeles är det första i en rad liknande rättegångar planerade under 2026. Till en början anklagades fyra techjättar för att medvetet utforma sina plattformar att vara beroendeframkallande och skadliga för barn och unga. Sedan dess Snapchats ägare Snap och Tiktok har ingått en förlikning inför rättegången.",
+      "url": "https://svt.se/nyheter/utrikes/eu-utreder-ai-boten-grok-kan-straffas-med-boter",
       "domain": "svt.se",
-      "published": "2026-02-18T04:42:19Z"
-    },
-    {
-      "title": "Så hamnade Frankrikes radikala politiska grupper i fokus efter 23-årings död",
-      "summary": "Den 23 - åriga högernationalistiska aktivisten Quentin Deranque blev ihjälslagen vid en ytterhögerdemonstration i Lyon, Frankrike. Dödsmisshandeln ska ha skett under en protest mot en universitetskonferens, där EU - parlamentarikern Rima Hassan från vänsterpartiet LFI höll en föreläsning. Videor från händelsen visar hur han misshandlas av flera personer och får motta flera sparkar mot huvudet.",
-      "url": "https://svt.se/nyheter/utrikes/sa-hamnade-frankrikes-radikala-politiska-grupper-i-fokus-efter-23-arings-dod",
-      "domain": "svt.se",
-      "published": "2026-02-17T19:02:36Z"
-    },
-    {
-      "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
-      "summary": "Leena Maria Linnus är chef för Europaparlamentets förbindelsekontor i London. Konkret arbetar kontoret med att bygga broar mellan ledamöter i Europaparlamentet och representanter för underhuset och överhuset i Westminster. Den brittiska Labourregeringen som tillträdde efter valet 2024 har försökt förbättra relationen till EU inom många områden.",
-      "url": "https://yle.fi/a/7-10093272?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-17T04:17:40Z"
+      "published": "2026-02-18T12:53:33Z"
     }
   ]
 }

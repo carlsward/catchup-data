@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-19T08:09:32+00:00",
-  "total_raw": 39,
+  "generated": "2026-02-20T08:05:28+00:00",
+  "total_raw": 40,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Besviken på USA och rädd för beroende av Kina försöker Thailand gå sin egen väg",
+      "summary": "Thailand befinner sig i sitt svåraste diplomatiska läge på generationer. Landets mål är att vara neutralt mellan USA och Kina, men samtidigt bli en mellanstor makt i en multipolär värld. Kina är Thailands största handelspartner och länderna har djupa historiska och kulturella band.",
+      "url": "https://yle.fi/a/7-10090332?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-20T04:45:18Z"
+    },
     {
       "title": "Plånboken viktigare än personligheten för Trumps väljare i Pennsylvania",
       "summary": "Matt Flinchbaugh har varit krögare i 25 år och äger restaurangen Flinchy ' s sedan 23 år tillbaka. År 2019 var Trumps näst sista år, och året innan coronapandemin ställde till det för företag världen över. Lagstiftningen innebär nya sätt att räkna hur övertid beskattas, och att anställda genom särskilda undantag kan dra av upp till 25 000 dollar på de dricks de förtjänar i sin deklaration.",
@@ -21,13 +28,6 @@
       "url": "https://yle.fi/a/7-10093579?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-18T16:39:19Z"
-    },
-    {
-      "title": "Från brexit till nystart: Finländare på toppost bygger broar mellan Bryssel och…",
-      "summary": "Leena Maria Linnus är chef för Europaparlamentets förbindelsekontor i London. Konkret arbetar kontoret med att bygga broar mellan ledamöter i Europaparlamentet och representanter för underhuset och överhuset i Westminster. Den brittiska Labourregeringen som tillträdde efter valet 2024 har försökt förbättra relationen till EU inom många områden.",
-      "url": "https://yle.fi/a/7-10093272?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-17T04:17:40Z"
     }
   ]
 }
