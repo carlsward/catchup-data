@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-20T08:05:28+00:00",
-  "total_raw": 40,
-  "total_rank": 3,
+  "generated": "2026-02-21T07:56:12+00:00",
+  "total_raw": 38,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
+      "summary": "Serhij Zjadan är en av Ukrainas mest kända författare och musiker. Han säger att kriget har lett till att ukrainarna upptäcker sin egen kultur. Zjadans hemstad Charkiv ligger bara 20 kilometer från fronten.",
+      "url": "https://yle.fi/a/7-10092303?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-21T04:00:29Z"
+    },
     {
       "title": "Besviken på USA och rädd för beroende av Kina försöker Thailand gå sin egen väg",
       "summary": "Thailand befinner sig i sitt svåraste diplomatiska läge på generationer. Landets mål är att vara neutralt mellan USA och Kina, men samtidigt bli en mellanstor makt i en multipolär värld. Kina är Thailands största handelspartner och länderna har djupa historiska och kulturella band.",
@@ -23,11 +30,11 @@
       "published": "2026-02-19T04:00:14Z"
     },
     {
-      "title": "Rysslands skuggflotta och tjock is ökar riskerna på Östersjön: ”Vi har en skrämm…",
-      "summary": "Det tjocka istäcket i Finska viken skapar huvudbry för den ryska industrin och statskassan. Skuggflottan som fraktar sanktionsbelagd rysk olja står delvis stilla då köande fartyg väntar på att de fulltsysselsatta isbrytarna ska öppna upp farlederna från de ryska oljehamnarna. Transportministeriet har uppmanat rederierna att ta hänsyn till omständigheterna då de fattar beslut om sina frakttidtabeller.",
-      "url": "https://yle.fi/a/7-10093579?origin=rss",
+      "title": "Trumps fredsråd för Gaza håller sitt första möte på torsdag",
+      "summary": "Den amerikanska presidenten Donald Trumps internationella fredsråd för Gaza ska hålla sitt första möte i Washington på torsdag. Länderna har redan lovat att delta med över fem miljarder dollar till återuppbyggnaden av Gaza och till humanitärt stöd. Ingen konkret plan för det här har dock offentliggjorts enligt Vita husets talesperson Karoline Leavitt.",
+      "url": "https://yle.fi/a/7-10093629?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-18T16:39:19Z"
+      "published": "2026-02-18T19:28:49Z"
     }
   ]
 }
