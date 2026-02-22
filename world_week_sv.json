@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-21T07:55:31+00:00",
+  "generated": "2026-02-22T08:07:32+00:00",
   "total_raw": 38,
-  "total_rank": 7,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Tiktok-rykten om fejkad snö",
+      "summary": "En användare på sociala medier visar upp ett experiment med snöbollar. Det går ut på att snöbollar inte börjar droppa vatten vid kontakt med en tändare och det tas som bevis för att det snarare rör sig om plast. Det har sedan tidigare avfärdats av faktagranskare, och flera experter säger till SVT att det är ett helt normalt snöbollsbeteende.",
+      "url": "https://svt.se/nyheter/utrikes/tiktok-rykten-om-fejkad-sno-bevisas-genom-snobollstest",
+      "domain": "svt.se",
+      "published": "2026-02-22T06:29:36Z"
+    },
+    {
+      "title": "Pakistan slår till mot gränsregion",
+      "summary": "I ett inlägg på X säger Pakistans informationsdepartement att attackerna riktar sig mot kända tillhåll för terrorgrupperna TTP och IS. Två soldater uppges ha dödats i självmordsattacken mot en säkerhetskonvoj timmar innan. I ett uttalande efter nattens attacker säger det afghanska talibanstyret att \" dussintals \" civila har dödats och skadats.",
+      "url": "https://svt.se/nyheter/utrikes/pakistanska-attacker-i-gransomrade",
+      "domain": "svt.se",
+      "published": "2026-02-22T02:27:40Z"
+    },
+    {
+      "title": "Efter uppmärksammade mordet",
+      "summary": "23 - åriga Quentin Deranque misshandlades till döds av flera personer i samband med en ytterhögerdemonstration i Lyon för en dryg vecka sedan. Elva personer har gripits misstänkt för inblandning, varav flera har kopplingar till en vänsterradikal grupp. Händelsen har lett till ökade politiska spänningar på nationell nivå och när marschen anordnades var det under övervakning av såväl kravallpolis som landets militära polisstyrka.",
+      "url": "https://svt.se/nyheter/utrikes/efter-uppmarksammade-mordet-ytterhogern-marscherade-i-frankrike",
+      "domain": "svt.se",
+      "published": "2026-02-21T21:26:18Z"
+    },
     {
       "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
       "summary": "Serhij Zjadan är en av Ukrainas mest kända författare och musiker. Han säger att kriget har lett till att ukrainarna upptäcker sin egen kultur. Zjadans hemstad Charkiv ligger bara 20 kilometer från fronten.",
       "url": "https://yle.fi/a/7-10092303?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-21T04:00:29Z"
-    },
-    {
-      "title": "Andrewskandalen",
-      "summary": "Vad mer som avslöjas om Andrew och hans familjemedlemmar kommer att vara avgörande för kungahusets framtid. Journalisten Rachel Bowie och hovkommentator Richard Fitzwilliam säger att gripandet väcker frågor om vilka i hovet som kände till Andrews misstänkta brott. Om det framkommer att kungahuset gjort sig skyldig till någon form av mörkläggning kan det bli monarkins undergång, enligt Bowie.",
-      "url": "https://svt.se/nyheter/utrikes/andrewskandalen-dodsstoten-eller-mojlighet-till-ett-nytt-kungahus",
-      "domain": "svt.se",
-      "published": "2026-02-21T01:05:30Z"
     },
     {
       "title": "USA:s högsta domstol stoppar Trumps tullar",
@@ -37,25 +51,18 @@
       "published": "2026-02-20T04:45:18Z"
     },
     {
-      "title": "Exprinsen Andrew greps",
-      "summary": "Andrew Mountbatten - Windsor, kung Charles lillebror och tidigare prins i Storbritannien, på sin egen födelsedag på torsdag. Brittisk polis bekräftar att de inlett en utredning om tjänstefel kring en man i 60 - årsåldern. Polisen genomför husrannsakan på exprinsens Sandringham och Windsor hem.",
-      "url": "https://svt.se/nyheter/utrikes/ex-prinsen-andrew-gripen-kopplingarna-till-epstein-utredningen",
-      "domain": "svt.se",
-      "published": "2026-02-19T19:42:59Z"
+      "title": "Hamas reser sig ur krigsspillrorna",
+      "summary": "Gazabor säger Hamas har återtagit kontrollen över mer än 90 procent av de områden där gruppen är närvarande. Hamas polis och säkerhetstjänster har återvänt till gatorna, kontrollerar brottslighet och förföljer de som gruppen stämplar som kollaboratörer. Hamas kräver också avgifter som få har råd med.",
+      "url": "https://yle.fi/a/7-10093667?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-19T13:57:58Z"
     },
     {
-      "title": "Plånboken viktigare än personligheten för Trumps väljare i Pennsylvania",
-      "summary": "Matt Flinchbaugh har varit krögare i 25 år och äger restaurangen Flinchy ' s sedan 23 år tillbaka. År 2019 var Trumps näst sista år, och året innan coronapandemin ställde till det för företag världen över. Lagstiftningen innebär nya sätt att räkna hur övertid beskattas, och att anställda genom särskilda undantag kan dra av upp till 25 000 dollar på de dricks de förtjänar i sin deklaration.",
-      "url": "https://yle.fi/a/7-10093262?origin=rss",
+      "title": "Kommentar: Medierna måste bli bättre på att förklara vad som skiljer journalisti…",
+      "summary": "Jonas Jungar är Yles representant i Opinionsnämnden för massmedier. Han säger att Journalistreglerna, liksom Yles egna etiska regler, är alltför osynliga för publiken. Jungar: Förtroende skapas på nytt varje dag och genom varje enskild publicering.",
+      "url": "https://yle.fi/a/7-10093604?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-19T04:00:14Z"
-    },
-    {
-      "title": "Trumps fredsråd för Gaza håller sitt första möte på torsdag",
-      "summary": "Den amerikanska presidenten Donald Trumps internationella fredsråd för Gaza ska hålla sitt första möte i Washington på torsdag. Länderna har redan lovat att delta med över fem miljarder dollar till återuppbyggnaden av Gaza och till humanitärt stöd. Ingen konkret plan för det här har dock offentliggjorts enligt Vita husets talesperson Karoline Leavitt.",
-      "url": "https://yle.fi/a/7-10093629?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-18T19:28:49Z"
+      "published": "2026-02-19T10:40:58Z"
     }
   ]
 }

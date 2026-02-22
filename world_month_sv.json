@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-21T07:56:12+00:00",
+  "generated": "2026-02-22T08:08:15+00:00",
   "total_raw": 38,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Tiktok-rykten om fejkad snö",
+      "summary": "En användare på sociala medier visar upp ett experiment med snöbollar. Det går ut på att snöbollar inte börjar droppa vatten vid kontakt med en tändare och det tas som bevis för att det snarare rör sig om plast. Det har sedan tidigare avfärdats av faktagranskare, och flera experter säger till SVT att det är ett helt normalt snöbollsbeteende.",
+      "url": "https://svt.se/nyheter/utrikes/tiktok-rykten-om-fejkad-sno-bevisas-genom-snobollstest",
+      "domain": "svt.se",
+      "published": "2026-02-22T06:29:36Z"
+    },
     {
       "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
       "summary": "Serhij Zjadan är en av Ukrainas mest kända författare och musiker. Han säger att kriget har lett till att ukrainarna upptäcker sin egen kultur. Zjadans hemstad Charkiv ligger bara 20 kilometer från fronten.",
@@ -23,18 +30,11 @@
       "published": "2026-02-20T04:45:18Z"
     },
     {
-      "title": "Plånboken viktigare än personligheten för Trumps väljare i Pennsylvania",
-      "summary": "Matt Flinchbaugh har varit krögare i 25 år och äger restaurangen Flinchy ' s sedan 23 år tillbaka. År 2019 var Trumps näst sista år, och året innan coronapandemin ställde till det för företag världen över. Lagstiftningen innebär nya sätt att räkna hur övertid beskattas, och att anställda genom särskilda undantag kan dra av upp till 25 000 dollar på de dricks de förtjänar i sin deklaration.",
-      "url": "https://yle.fi/a/7-10093262?origin=rss",
+      "title": "Hamas reser sig ur krigsspillrorna",
+      "summary": "Gazabor säger Hamas har återtagit kontrollen över mer än 90 procent av de områden där gruppen är närvarande. Hamas polis och säkerhetstjänster har återvänt till gatorna, kontrollerar brottslighet och förföljer de som gruppen stämplar som kollaboratörer. Hamas kräver också avgifter som få har råd med.",
+      "url": "https://yle.fi/a/7-10093667?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-19T04:00:14Z"
-    },
-    {
-      "title": "Trumps fredsråd för Gaza håller sitt första möte på torsdag",
-      "summary": "Den amerikanska presidenten Donald Trumps internationella fredsråd för Gaza ska hålla sitt första möte i Washington på torsdag. Länderna har redan lovat att delta med över fem miljarder dollar till återuppbyggnaden av Gaza och till humanitärt stöd. Ingen konkret plan för det här har dock offentliggjorts enligt Vita husets talesperson Karoline Leavitt.",
-      "url": "https://yle.fi/a/7-10093629?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-18T19:28:49Z"
+      "published": "2026-02-19T13:57:58Z"
     }
   ]
 }
