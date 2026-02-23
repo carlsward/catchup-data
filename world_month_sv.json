@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-22T08:08:15+00:00",
-  "total_raw": 38,
+  "generated": "2026-02-23T08:13:38+00:00",
+  "total_raw": 37,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tiktok-rykten om fejkad snö",
-      "summary": "En användare på sociala medier visar upp ett experiment med snöbollar. Det går ut på att snöbollar inte börjar droppa vatten vid kontakt med en tändare och det tas som bevis för att det snarare rör sig om plast. Det har sedan tidigare avfärdats av faktagranskare, och flera experter säger till SVT att det är ett helt normalt snöbollsbeteende.",
-      "url": "https://svt.se/nyheter/utrikes/tiktok-rykten-om-fejkad-sno-bevisas-genom-snobollstest",
-      "domain": "svt.se",
-      "published": "2026-02-22T06:29:36Z"
+      "title": "Våldsvåg i Mexiko efter att känd kartelledare dödats av militären",
+      "summary": "Nemesio Oseguera Cervantes död har lett till oroligheter i ett tjugotal mexikanska städer. Kartellen Jalisco nueva generación, som han grundade i början av 2000 - talet, smugglar kokain, metamfetamin och fentanyl till USA, och transporterar migranterna in i landet. 14 personer, inklusive sju personer i nationalgardet, har än så länge dödats enligt rapporter från lokala myndigheter i delstaterna.",
+      "url": "https://yle.fi/a/7-10093843?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-23T04:30:27Z"
+    },
+    {
+      "title": "Med religionen som verktyg satsar Ryssland på mjuk makt i Afrika",
+      "summary": "Ryska intressen har funnits i Afrika sedan länge. Sovjetunionen stödde avkolonialiseringen och bistod nya oberoende stater under kalla kriget. När kommunismen kollapsade och Ryssland öppnade sig mot väst, försvagades banden med Afrika.",
+      "url": "https://yle.fi/a/7-10093566?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-22T08:50:14Z"
     },
     {
       "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10090332?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-20T04:45:18Z"
-    },
-    {
-      "title": "Hamas reser sig ur krigsspillrorna",
-      "summary": "Gazabor säger Hamas har återtagit kontrollen över mer än 90 procent av de områden där gruppen är närvarande. Hamas polis och säkerhetstjänster har återvänt till gatorna, kontrollerar brottslighet och förföljer de som gruppen stämplar som kollaboratörer. Hamas kräver också avgifter som få har råd med.",
-      "url": "https://yle.fi/a/7-10093667?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-19T13:57:58Z"
     }
   ]
 }

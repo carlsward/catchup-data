@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-22T08:07:32+00:00",
-  "total_raw": 38,
+  "generated": "2026-02-23T08:12:52+00:00",
+  "total_raw": 37,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tiktok-rykten om fejkad snö",
-      "summary": "En användare på sociala medier visar upp ett experiment med snöbollar. Det går ut på att snöbollar inte börjar droppa vatten vid kontakt med en tändare och det tas som bevis för att det snarare rör sig om plast. Det har sedan tidigare avfärdats av faktagranskare, och flera experter säger till SVT att det är ett helt normalt snöbollsbeteende.",
-      "url": "https://svt.se/nyheter/utrikes/tiktok-rykten-om-fejkad-sno-bevisas-genom-snobollstest",
+      "title": "Ebba rekryterades av Epsteins svenska medhjälpare",
+      "summary": "År 1990 stoppades Ebba P Karlsson av en man i Kungsträdgården i Stockholm. Han var modellscout och lovade henne jobb. Hon bestämde sig nu för att göra karriär som modell i Frankrike.",
+      "url": "https://svt.se/nyheter/utrikes/ebba-rekryterades-av-epsteins-svenska-medhjalpare",
       "domain": "svt.se",
-      "published": "2026-02-22T06:29:36Z"
+      "published": "2026-02-23T04:59:53Z"
     },
     {
-      "title": "Pakistan slår till mot gränsregion",
-      "summary": "I ett inlägg på X säger Pakistans informationsdepartement att attackerna riktar sig mot kända tillhåll för terrorgrupperna TTP och IS. Två soldater uppges ha dödats i självmordsattacken mot en säkerhetskonvoj timmar innan. I ett uttalande efter nattens attacker säger det afghanska talibanstyret att \" dussintals \" civila har dödats och skadats.",
-      "url": "https://svt.se/nyheter/utrikes/pakistanska-attacker-i-gransomrade",
-      "domain": "svt.se",
-      "published": "2026-02-22T02:27:40Z"
+      "title": "Våldsvåg i Mexiko efter att känd kartelledare dödats av militären",
+      "summary": "Nemesio Oseguera Cervantes död har lett till oroligheter i ett tjugotal mexikanska städer. Kartellen Jalisco nueva generación, som han grundade i början av 2000 - talet, smugglar kokain, metamfetamin och fentanyl till USA, och transporterar migranterna in i landet. 14 personer, inklusive sju personer i nationalgardet, har än så länge dödats enligt rapporter från lokala myndigheter i delstaterna.",
+      "url": "https://yle.fi/a/7-10093843?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-23T04:30:27Z"
     },
     {
-      "title": "Efter uppmärksammade mordet",
-      "summary": "23 - åriga Quentin Deranque misshandlades till döds av flera personer i samband med en ytterhögerdemonstration i Lyon för en dryg vecka sedan. Elva personer har gripits misstänkt för inblandning, varav flera har kopplingar till en vänsterradikal grupp. Händelsen har lett till ökade politiska spänningar på nationell nivå och när marschen anordnades var det under övervakning av såväl kravallpolis som landets militära polisstyrka.",
-      "url": "https://svt.se/nyheter/utrikes/efter-uppmarksammade-mordet-ytterhogern-marscherade-i-frankrike",
+      "title": "Ryska massdöden vid fronten",
+      "summary": "Den oberoende ryska nyhetssajten Mediazona försöker tillsammans med BBC Russia att föra statistik över stupade ryska soldater i Ukraina. Enligt deras beräkning rör det sig nu om över 300 000, inte inkluderat skadade eller saknade. Enligt ukrainska beräkningar är siffran högre än så men det är svårt att göra en objektiv bedömning.",
+      "url": "https://svt.se/nyheter/utrikes/ryska-massdoden-vid-fronten-de-kartlagger-doda-soldater",
       "domain": "svt.se",
-      "published": "2026-02-21T21:26:18Z"
+      "published": "2026-02-22T15:27:21Z"
+    },
+    {
+      "title": "Med religionen som verktyg satsar Ryssland på mjuk makt i Afrika",
+      "summary": "Ryska intressen har funnits i Afrika sedan länge. Sovjetunionen stödde avkolonialiseringen och bistod nya oberoende stater under kalla kriget. När kommunismen kollapsade och Ryssland öppnade sig mot väst, försvagades banden med Afrika.",
+      "url": "https://yle.fi/a/7-10093566?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-22T08:50:14Z"
+    },
+    {
+      "title": "Fyra år sedan stora invasionen",
+      "summary": "Det har gått fyra år sedan en journalist stod på ett tak i Kiev och av en slump fångades på film när de första bomberna slog till. Bilderna rullade in i CNN: s livesändning, som råkade vara igång precis när kriget i Ukraina bröt ut, och fick snabb spridning. Otaliga bilder och videor har sedan dess chockat omvärlden, och visat krigets händelseutveckling samtidigt som de gett ansikten till offren.",
+      "url": "https://svt.se/nyheter/utrikes/fyra-ar-sedan-stora-invasionen-avgorande-ogonblick-fran-krigets-ukraina",
+      "domain": "svt.se",
+      "published": "2026-02-21T14:43:17Z"
     },
     {
       "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
@@ -37,11 +51,11 @@
       "published": "2026-02-21T04:00:29Z"
     },
     {
-      "title": "USA:s högsta domstol stoppar Trumps tullar",
-      "summary": "Den amerikanska konstitutionen kräver att tullar och skatter måste godkännas av kongressen. Donald Trump använde sig av 1977 års lag för att förklara nationellt nödläge. Högsta domstolen slog fast att Trump använde lagen på ett felaktigt sätt.",
-      "url": "https://svt.se/nyheter/utrikes/usas-hogsta-domstol-stoppar-trumps-tullar",
-      "domain": "svt.se",
-      "published": "2026-02-20T17:17:41Z"
+      "title": "Stor oro i länder vid Persiska viken inför Trumps hot mot Iran",
+      "summary": "Susanne Dahlgren, chef för Finlands Mellanösterninstitut i Beirut, säger att det råder stor oro över USA: s hot om en militär intervention i Iran. Dahlgren säger att den så kallade Venezuelamodellen, att kidnappa landets ledare och sätta in en styrd ny ledning, inte fungerar. Hon menar att Irans hot om att stänga Hormuzsundet kommer att påverka ekonomin i olika länder vid Persiska viken mycket negativt.",
+      "url": "https://yle.fi/a/7-10093752?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-20T15:51:01Z"
     },
     {
       "title": "Besviken på USA och rädd för beroende av Kina försöker Thailand gå sin egen väg",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10090332?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-20T04:45:18Z"
-    },
-    {
-      "title": "Hamas reser sig ur krigsspillrorna",
-      "summary": "Gazabor säger Hamas har återtagit kontrollen över mer än 90 procent av de områden där gruppen är närvarande. Hamas polis och säkerhetstjänster har återvänt till gatorna, kontrollerar brottslighet och förföljer de som gruppen stämplar som kollaboratörer. Hamas kräver också avgifter som få har råd med.",
-      "url": "https://yle.fi/a/7-10093667?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-19T13:57:58Z"
-    },
-    {
-      "title": "Kommentar: Medierna måste bli bättre på att förklara vad som skiljer journalisti…",
-      "summary": "Jonas Jungar är Yles representant i Opinionsnämnden för massmedier. Han säger att Journalistreglerna, liksom Yles egna etiska regler, är alltför osynliga för publiken. Jungar: Förtroende skapas på nytt varje dag och genom varje enskild publicering.",
-      "url": "https://yle.fi/a/7-10093604?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-19T10:40:58Z"
     }
   ]
 }
