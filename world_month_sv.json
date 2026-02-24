@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-23T08:13:38+00:00",
-  "total_raw": 37,
-  "total_rank": 4,
+  "generated": "2026-02-24T08:07:31+00:00",
+  "total_raw": 39,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: EU-stödet avgör Ukrainas överlevnad trots Ungerns motstånd och interna s…",
+      "summary": "När europeiska ledare samlas i Kiev är det utan nya beslut om sanktioner eller finansiering. För Ukraina, som befinner sig i ett existentiellt krig, blir skillnaden mellan löften och leveranser inte bara en fråga om symbolik utan om överlevnad. Det växande trovärdighetsproblemet kommer med stora risker för Ukrainas säkerhet i ett läge där Ryssland inte tvekar att angripa civila mål och kritisk infrastruktur.",
+      "url": "https://yle.fi/a/7-10093498?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-24T04:00:16Z"
+    },
     {
       "title": "Våldsvåg i Mexiko efter att känd kartelledare dödats av militären",
       "summary": "Nemesio Oseguera Cervantes död har lett till oroligheter i ett tjugotal mexikanska städer. Kartellen Jalisco nueva generación, som han grundade i början av 2000 - talet, smugglar kokain, metamfetamin och fentanyl till USA, och transporterar migranterna in i landet. 14 personer, inklusive sju personer i nationalgardet, har än så länge dödats enligt rapporter från lokala myndigheter i delstaterna.",
@@ -21,20 +28,6 @@
       "url": "https://yle.fi/a/7-10093566?origin=rss",
       "domain": "yle.fi",
       "published": "2026-02-22T08:50:14Z"
-    },
-    {
-      "title": "Kriget i Ukraina är också en kamp om kultur och identitet",
-      "summary": "Serhij Zjadan är en av Ukrainas mest kända författare och musiker. Han säger att kriget har lett till att ukrainarna upptäcker sin egen kultur. Zjadans hemstad Charkiv ligger bara 20 kilometer från fronten.",
-      "url": "https://yle.fi/a/7-10092303?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-21T04:00:29Z"
-    },
-    {
-      "title": "Besviken på USA och rädd för beroende av Kina försöker Thailand gå sin egen väg",
-      "summary": "Thailand befinner sig i sitt svåraste diplomatiska läge på generationer. Landets mål är att vara neutralt mellan USA och Kina, men samtidigt bli en mellanstor makt i en multipolär värld. Kina är Thailands största handelspartner och länderna har djupa historiska och kulturella band.",
-      "url": "https://yle.fi/a/7-10090332?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-20T04:45:18Z"
     }
   ]
 }
