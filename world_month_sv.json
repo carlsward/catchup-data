@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-24T08:07:31+00:00",
+  "generated": "2026-02-25T08:08:15+00:00",
   "total_raw": 39,
   "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Analys: Trumps tal till nationen ett rekordlångt hyllningstal, men köper väljarn…",
+      "summary": "Den längsta State of the Union talet i USA: s historia höll Donald Trump till manus. Det var närmast ett rekordlångt hyllningstal av Trump, till Donald Trump. Han hävdade att han hade drivit igenom de största skattelättnaderna i amerikansk historia.",
+      "url": "https://yle.fi/a/7-10093499?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-25T06:15:17Z"
+    },
     {
       "title": "Analys: EU-stödet avgör Ukrainas överlevnad trots Ungerns motstånd och interna s…",
       "summary": "När europeiska ledare samlas i Kiev är det utan nya beslut om sanktioner eller finansiering. För Ukraina, som befinner sig i ett existentiellt krig, blir skillnaden mellan löften och leveranser inte bara en fråga om symbolik utan om överlevnad. Det växande trovärdighetsproblemet kommer med stora risker för Ukrainas säkerhet i ett läge där Ryssland inte tvekar att angripa civila mål och kritisk infrastruktur.",
@@ -16,18 +23,11 @@
       "published": "2026-02-24T04:00:16Z"
     },
     {
-      "title": "Våldsvåg i Mexiko efter att känd kartelledare dödats av militären",
-      "summary": "Nemesio Oseguera Cervantes död har lett till oroligheter i ett tjugotal mexikanska städer. Kartellen Jalisco nueva generación, som han grundade i början av 2000 - talet, smugglar kokain, metamfetamin och fentanyl till USA, och transporterar migranterna in i landet. 14 personer, inklusive sju personer i nationalgardet, har än så länge dödats enligt rapporter från lokala myndigheter i delstaterna.",
-      "url": "https://yle.fi/a/7-10093843?origin=rss",
+      "title": "Stubb och Macron vill se tuffare tag mot Ryssland inför anfallskrigets årsdag",
+      "summary": "Stöd till Ukraina står högt på dagordningen i samband med president Alexander Stubbs besök i Paris. Stubb träffar Frankrikes president Emmanuel Macron i Élyséepalatset för diskussioner som kresar kring bekämpningen av Rysslands skuggflotta, arktisk säkerhet och stärkandet av Europas försvar. EU - länderna förväntas fatta ett slutligt beslut om 90 miljarder euro i lån för att trygga Ukrainas finansiella behov under de kommande två åren.",
+      "url": "https://yle.fi/a/7-10093854?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-23T04:30:27Z"
-    },
-    {
-      "title": "Med religionen som verktyg satsar Ryssland på mjuk makt i Afrika",
-      "summary": "Ryska intressen har funnits i Afrika sedan länge. Sovjetunionen stödde avkolonialiseringen och bistod nya oberoende stater under kalla kriget. När kommunismen kollapsade och Ryssland öppnade sig mot väst, försvagades banden med Afrika.",
-      "url": "https://yle.fi/a/7-10093566?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-22T08:50:14Z"
+      "published": "2026-02-23T10:53:16Z"
     }
   ]
 }

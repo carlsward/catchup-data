@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-24T08:06:59+00:00",
+  "generated": "2026-02-25T08:07:42+00:00",
   "total_raw": 39,
   "total_rank": 6,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "24 februari: Nattens nyheter",
-      "summary": "Fyra personer under 18 år har gripits misstänkt för inblandning i dödsskjutningen i Eskilstuna. Minst fem personer, varav ett barn, har skadats i ryska attacker mot den ukrainska staden Zaporizjzja. I dag har det gått fyra år sedan den fullskaliga ryska invasionen inleddes.",
-      "url": "https://svt.se/nyheter/utrikes/24-februari-nattens-nyheter-ix5xde",
+      "title": "Donald Trump höll rekordlångt tal till nationen i natt",
+      "summary": "Presidenten talade i 108 minuter – åtta minuter längre än när han talade inför kongressen förra året. Talet hade det officiella temat för Amerika 250 år: Starkt, välmående och respekterat. Trump tog också upp sina handelstullar, som nyligen ogiltigförklarades av den högsta domstolen, och hävdade att i stort sett alla länder och företag vill ha kvar avtalen.",
+      "url": "https://svt.se/nyheter/utrikes/donald-trump-holl-rekordlangt-tal-till-nationen-i-natt",
       "domain": "svt.se",
-      "published": "2026-02-24T04:25:30Z"
+      "published": "2026-02-25T06:35:26Z"
+    },
+    {
+      "title": "Analys: Trumps tal till nationen ett rekordlångt hyllningstal, men köper väljarn…",
+      "summary": "Den längsta State of the Union talet i USA: s historia höll Donald Trump till manus. Det var närmast ett rekordlångt hyllningstal av Trump, till Donald Trump. Han hävdade att han hade drivit igenom de största skattelättnaderna i amerikansk historia.",
+      "url": "https://yle.fi/a/7-10093499?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-25T06:15:17Z"
+    },
+    {
+      "title": "Efter fyra år av krig",
+      "summary": "Efter fyra år av krig – fråga Stefan Johansson i chatten här nedan. Kommer fler länder inom BRICS + att ansluta sig militärt om Ukraina lyckas tränga tillbaka Ryssland? Tror du att vi måste tro på fred, absolut, men finns det något konkret och positivt just nu?",
+      "url": "https://svt.se/nyheter/utrikes/efter-fyra-ar-av-krig-stall-din-fraga-till-svts-korrespondenter",
+      "domain": "svt.se",
+      "published": "2026-02-24T15:17:34Z"
     },
     {
       "title": "Analys: EU-stödet avgör Ukrainas överlevnad trots Ungerns motstånd och interna s…",
@@ -23,32 +37,18 @@
       "published": "2026-02-24T04:00:16Z"
     },
     {
-      "title": "Fullt kaos i Mexiko efter kartelledarens död",
-      "summary": "Jalisco Nueva Generación har svarat militärt efter att myndigheterna i Mexiko dödat ledaren Nemesio Rubén Oseguera Cervantes. Enligt uppgift har kartellen blockerat vägar med brinnande fordon på över 250 platser i ett 20 - tal delstater. Som följd av kaoset har flera flyg till Mexiko ställts in och man har valt att skjuta upp två fotbollsmatcher i landets högstaliga på herr - och damsidan.",
-      "url": "https://svt.se/nyheter/utrikes/fullt-kaos-i-mexiko-efter-kartelledarens-dod",
+      "title": "Bakslag för EU: Ungern och Slovakien blockerar stödpaket till Ukraina",
+      "summary": "EU: s utrikeschef Kaja Kallas uttryckte sin besvikelse över att EU inte lyckades enas om ett tjugonde sanktionspaket mot Ryssland. Oljeledningen Druzhba är en av världens längsta oljeledningar. Leveranserna av rysk olja till Ungern och Slovakien har legat nere sedan den 27 januari efter en drönarattack.",
+      "url": "https://svt.se/nyheter/utrikes/bakslag-for-eu-ungern-och-slovakien-blockerar-stodpaket-till-ukraina",
       "domain": "svt.se",
-      "published": "2026-02-23T10:00:45Z"
+      "published": "2026-02-23T15:57:28Z"
     },
     {
-      "title": "Våldsvåg i Mexiko efter att känd kartelledare dödats av militären",
-      "summary": "Nemesio Oseguera Cervantes död har lett till oroligheter i ett tjugotal mexikanska städer. Kartellen Jalisco nueva generación, som han grundade i början av 2000 - talet, smugglar kokain, metamfetamin och fentanyl till USA, och transporterar migranterna in i landet. 14 personer, inklusive sju personer i nationalgardet, har än så länge dödats enligt rapporter från lokala myndigheter i delstaterna.",
-      "url": "https://yle.fi/a/7-10093843?origin=rss",
+      "title": "Stubb och Macron vill se tuffare tag mot Ryssland inför anfallskrigets årsdag",
+      "summary": "Stöd till Ukraina står högt på dagordningen i samband med president Alexander Stubbs besök i Paris. Stubb träffar Frankrikes president Emmanuel Macron i Élyséepalatset för diskussioner som kresar kring bekämpningen av Rysslands skuggflotta, arktisk säkerhet och stärkandet av Europas försvar. EU - länderna förväntas fatta ett slutligt beslut om 90 miljarder euro i lån för att trygga Ukrainas finansiella behov under de kommande två åren.",
+      "url": "https://yle.fi/a/7-10093854?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-23T04:30:27Z"
-    },
-    {
-      "title": "Ryska massdöden vid fronten",
-      "summary": "Den oberoende ryska nyhetssajten Mediazona försöker tillsammans med BBC Russia att föra statistik över stupade ryska soldater i Ukraina. Enligt deras beräkning rör det sig nu om över 300 000, inte inkluderat skadade eller saknade. Enligt ukrainska beräkningar är siffran högre än så men det är svårt att göra en objektiv bedömning.",
-      "url": "https://svt.se/nyheter/utrikes/ryska-massdoden-vid-fronten-de-kartlagger-doda-soldater",
-      "domain": "svt.se",
-      "published": "2026-02-22T15:27:21Z"
-    },
-    {
-      "title": "Med religionen som verktyg satsar Ryssland på mjuk makt i Afrika",
-      "summary": "Ryska intressen har funnits i Afrika sedan länge. Sovjetunionen stödde avkolonialiseringen och bistod nya oberoende stater under kalla kriget. När kommunismen kollapsade och Ryssland öppnade sig mot väst, försvagades banden med Afrika.",
-      "url": "https://yle.fi/a/7-10093566?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-22T08:50:14Z"
+      "published": "2026-02-23T10:53:16Z"
     }
   ]
 }
