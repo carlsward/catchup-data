@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-25T08:07:42+00:00",
+  "generated": "2026-02-26T08:05:59+00:00",
   "total_raw": 39,
-  "total_rank": 6,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Så rekryterar Wagnergruppen sabotörer i Europa: ”Bygg en bomb och få betalt i kr…",
+      "summary": "Holger Roonemaa, en estnisk journalist som var med och skapade profilen, säger att det inte var en person som fick erbjudandet, utan en påhittad karaktär. Han säger att ryska paramilitära Wagnergruppen har fått en central roll i att rekrytera utsatta människor i Europa. Det handlar om allt från att slå till mot ukrainska hjälpsändningar till att utföra mordbränder.",
+      "url": "https://yle.fi/a/7-10093857?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-26T04:10:14Z"
+    },
+    {
+      "title": "Så lever ukrainare på ryskkontrollerade områden",
+      "summary": "Mykola Osytjenko flydde från Donetsk till Mariupol när Ryssland invaderade. Idag driver han en blogg där han berättar hur ukrainare egentligen lever i ockuperade områden. Han håller även en livestream på Tiktok där folk kan ringa in.",
+      "url": "https://svt.se/nyheter/utrikes/sa-lever-ukrainare-pa-ryskkontrollerade-omraden",
+      "domain": "svt.se",
+      "published": "2026-02-26T01:57:02Z"
+    },
     {
       "title": "Donald Trump höll rekordlångt tal till nationen i natt",
       "summary": "Presidenten talade i 108 minuter – åtta minuter längre än när han talade inför kongressen förra året. Talet hade det officiella temat för Amerika 250 år: Starkt, välmående och respekterat. Trump tog också upp sina handelstullar, som nyligen ogiltigförklarades av den högsta domstolen, och hävdade att i stort sett alla länder och företag vill ha kvar avtalen.",
@@ -37,18 +51,18 @@
       "published": "2026-02-24T04:00:16Z"
     },
     {
-      "title": "Bakslag för EU: Ungern och Slovakien blockerar stödpaket till Ukraina",
-      "summary": "EU: s utrikeschef Kaja Kallas uttryckte sin besvikelse över att EU inte lyckades enas om ett tjugonde sanktionspaket mot Ryssland. Oljeledningen Druzhba är en av världens längsta oljeledningar. Leveranserna av rysk olja till Ungern och Slovakien har legat nere sedan den 27 januari efter en drönarattack.",
-      "url": "https://svt.se/nyheter/utrikes/bakslag-for-eu-ungern-och-slovakien-blockerar-stodpaket-till-ukraina",
+      "title": "Brittney från Kanada strider vid fronten i Ukraina: ”Älskar faran",
+      "summary": "Enligt en källa till Defense Post från mitten av 2025 har mer än 8000 utlänningar tagit värvning i Ukrainas markstyrkor. Nu, drygt ett halvår senare, tyder mycket på att det antalet är mycket lägre. En som ändå väljer att stanna kvar är kapten Brittney Shki - Giizis.",
+      "url": "https://svt.se/nyheter/utrikes/brittney-fran-kanada-strider-vid-fronten-i-ukraina-alskar-faran",
       "domain": "svt.se",
-      "published": "2026-02-23T15:57:28Z"
+      "published": "2026-02-23T22:14:29Z"
     },
     {
-      "title": "Stubb och Macron vill se tuffare tag mot Ryssland inför anfallskrigets årsdag",
-      "summary": "Stöd till Ukraina står högt på dagordningen i samband med president Alexander Stubbs besök i Paris. Stubb träffar Frankrikes president Emmanuel Macron i Élyséepalatset för diskussioner som kresar kring bekämpningen av Rysslands skuggflotta, arktisk säkerhet och stärkandet av Europas försvar. EU - länderna förväntas fatta ett slutligt beslut om 90 miljarder euro i lån för att trygga Ukrainas finansiella behov under de kommande två åren.",
-      "url": "https://yle.fi/a/7-10093854?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-23T10:53:16Z"
+      "title": "Ny amerikansk attack mot påstådd ”knarkbåt” i Karibien",
+      "summary": "Tre personer ombord på X: s fartyg uppges ha dödats, säger militären. Under de senaste månaderna har USA upprepade gånger attackerat båtar som den amerikanska regeringen påstår är delaktiga i narkotikasmuggling i Stilla havet och Karibiska havet. Ingen ur den amerikanska styrkan skadades i attacken, säger militärkommandot.",
+      "url": "https://svt.se/nyheter/utrikes/ny-amerikansk-attack-mot-pastadd-knarkbat-i-karibien",
+      "domain": "svt.se",
+      "published": "2026-02-23T19:05:29Z"
     }
   ]
 }

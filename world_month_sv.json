@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-25T08:08:15+00:00",
+  "generated": "2026-02-26T08:06:43+00:00",
   "total_raw": 39,
-  "total_rank": 3,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Så rekryterar Wagnergruppen sabotörer i Europa: ”Bygg en bomb och få betalt i kr…",
+      "summary": "Holger Roonemaa, en estnisk journalist som var med och skapade profilen, säger att det inte var en person som fick erbjudandet, utan en påhittad karaktär. Han säger att ryska paramilitära Wagnergruppen har fått en central roll i att rekrytera utsatta människor i Europa. Det handlar om allt från att slå till mot ukrainska hjälpsändningar till att utföra mordbränder.",
+      "url": "https://yle.fi/a/7-10093857?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-26T04:10:14Z"
+    },
     {
       "title": "Analys: Trumps tal till nationen ett rekordlångt hyllningstal, men köper väljarn…",
       "summary": "Den längsta State of the Union talet i USA: s historia höll Donald Trump till manus. Det var närmast ett rekordlångt hyllningstal av Trump, till Donald Trump. Han hävdade att han hade drivit igenom de största skattelättnaderna i amerikansk historia.",
@@ -23,11 +30,11 @@
       "published": "2026-02-24T04:00:16Z"
     },
     {
-      "title": "Stubb och Macron vill se tuffare tag mot Ryssland inför anfallskrigets årsdag",
-      "summary": "Stöd till Ukraina står högt på dagordningen i samband med president Alexander Stubbs besök i Paris. Stubb träffar Frankrikes president Emmanuel Macron i Élyséepalatset för diskussioner som kresar kring bekämpningen av Rysslands skuggflotta, arktisk säkerhet och stärkandet av Europas försvar. EU - länderna förväntas fatta ett slutligt beslut om 90 miljarder euro i lån för att trygga Ukrainas finansiella behov under de kommande två åren.",
-      "url": "https://yle.fi/a/7-10093854?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-23T10:53:16Z"
+      "title": "Brittney från Kanada strider vid fronten i Ukraina: ”Älskar faran",
+      "summary": "Enligt en källa till Defense Post från mitten av 2025 har mer än 8000 utlänningar tagit värvning i Ukrainas markstyrkor. Nu, drygt ett halvår senare, tyder mycket på att det antalet är mycket lägre. En som ändå väljer att stanna kvar är kapten Brittney Shki - Giizis.",
+      "url": "https://svt.se/nyheter/utrikes/brittney-fran-kanada-strider-vid-fronten-i-ukraina-alskar-faran",
+      "domain": "svt.se",
+      "published": "2026-02-23T22:14:29Z"
     }
   ]
 }
