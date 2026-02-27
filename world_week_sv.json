@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-26T08:05:59+00:00",
-  "total_raw": 39,
+  "generated": "2026-02-27T08:02:01+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Så rekryterar Wagnergruppen sabotörer i Europa: ”Bygg en bomb och få betalt i kr…",
-      "summary": "Holger Roonemaa, en estnisk journalist som var med och skapade profilen, säger att det inte var en person som fick erbjudandet, utan en påhittad karaktär. Han säger att ryska paramilitära Wagnergruppen har fått en central roll i att rekrytera utsatta människor i Europa. Det handlar om allt från att slå till mot ukrainska hjälpsändningar till att utföra mordbränder.",
-      "url": "https://yle.fi/a/7-10093857?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-26T04:10:14Z"
+      "title": "Nya tider får västerländska ledare att besöka Kinas Xi Jinping",
+      "summary": "Tysklands förbundskansler Friedrich Merz är på besök i Kina för att träffa landets president Xi Jinping. Syftet med mötet är att fördjupa ländernas \" strategiska partnerskap \", säger Merz. Kina vill stå i centrum för världspolitiken, säger Nationellt kunskapscentrum om Kina.",
+      "url": "https://svt.se/nyheter/utrikes/nya-tider-far-vasterlandska-ledare-att-besoka-kinas-xi-jinping",
+      "domain": "svt.se",
+      "published": "2026-02-27T03:45:16Z"
     },
     {
-      "title": "Så lever ukrainare på ryskkontrollerade områden",
-      "summary": "Mykola Osytjenko flydde från Donetsk till Mariupol när Ryssland invaderade. Idag driver han en blogg där han berättar hur ukrainare egentligen lever i ockuperade områden. Han håller även en livestream på Tiktok där folk kan ringa in.",
-      "url": "https://svt.se/nyheter/utrikes/sa-lever-ukrainare-pa-ryskkontrollerade-omraden",
+      "title": "AI-företaget Anthropic säger nej till amerikanska militärens krav på autonoma dö…",
+      "summary": "Anthropic VD Dario Amodei säger att de gärna fortsätter arbeta med USA: s militär på sina villkor. Han säger att om militären väljer att inte arbeta med Anthropics kommer de att se över en \" smidig övergång till en annan partner \" Detta kan få både affärsmässiga och politiska konsekvenser som sträcker sig bortom dem. Om företaget klassas som en leveranskedjerisk, innebär det att de måste rensa alla spår av sin AI - mjukvara från statliga enheter.",
+      "url": "https://yle.fi/a/7-10094060?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-27T03:20:01Z"
+    },
+    {
+      "title": "Kärnteknikprogrammet ”slogs ut”",
+      "summary": "Konflikten mellan USA och Iran Enligt USA försöker Iran bygga upp kärnprogrammet på nytt. På torsdag hålls samtal i Genève om ett nytt kärnenergiavtal mellan länderna. Den senaste tiden har USA trappat upp sin närvaro i Mellanöstern, bland annat med världens största hangarfartyg.",
+      "url": "https://svt.se/nyheter/utrikes/karnteknikprogrammet-slogs-ut-darfor-fortsatter-usa-att-pressa",
       "domain": "svt.se",
-      "published": "2026-02-26T01:57:02Z"
+      "published": "2026-02-26T19:59:20Z"
+    },
+    {
+      "title": "Kubas regim på fallrepet",
+      "summary": "För tjugo år sedan var Fidel Castro fortfarande Kubas president. Castros politik var ökänt förtryckande och fattigdomen påtaglig. Nivån på sjukvård och utbildning hölls ändå på en relativt hög nivå.",
+      "url": "https://yle.fi/a/7-10093985?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-26T08:39:46Z"
+    },
+    {
+      "title": "Klimatförändringen slår hårt mot pingvinerna i Antarktis",
+      "summary": "Forskare har upptäckt att ruggning, en naturlig, årlig händelse kan hota kejsarpingvinernas existens när Antarktis förändras på grund av klimatförändringen. Forskare som spårar pingvinerna i området med hjälp av satellitbilder rapporterar nu att de inte längre kan hitta en stor del av fåglarna och att de är rädda för att tusentals pingviner redan kan ha frusit ihjäl. Pingviner är bland de mest hotade djuren i världen och kan utrotas före slutet av århundradet.",
+      "url": "https://yle.fi/a/7-10094041?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-25T18:49:14Z"
     },
     {
       "title": "Donald Trump höll rekordlångt tal till nationen i natt",
@@ -30,39 +51,18 @@
       "published": "2026-02-25T06:35:26Z"
     },
     {
-      "title": "Analys: Trumps tal till nationen ett rekordlångt hyllningstal, men köper väljarn…",
-      "summary": "Den längsta State of the Union talet i USA: s historia höll Donald Trump till manus. Det var närmast ett rekordlångt hyllningstal av Trump, till Donald Trump. Han hävdade att han hade drivit igenom de största skattelättnaderna i amerikansk historia.",
-      "url": "https://yle.fi/a/7-10093499?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-25T06:15:17Z"
-    },
-    {
-      "title": "Efter fyra år av krig",
-      "summary": "Efter fyra år av krig – fråga Stefan Johansson i chatten här nedan. Kommer fler länder inom BRICS + att ansluta sig militärt om Ukraina lyckas tränga tillbaka Ryssland? Tror du att vi måste tro på fred, absolut, men finns det något konkret och positivt just nu?",
-      "url": "https://svt.se/nyheter/utrikes/efter-fyra-ar-av-krig-stall-din-fraga-till-svts-korrespondenter",
+      "title": "Viral video påstås visa Epsteins partner på fri fot",
+      "summary": "Ett Fortnite - konto har presenterats i ett klipp som påstås visa Jeffrey Epsteins partner Ghislaine Maxwell rulla många varv i sociala medier. Det har spekulerats att Maxwell har släppts fri tack vare sina mäktiga vänner. Verktyg som jämför ansikten och bedömer likheterna säger att det verkligen är Maxwell som syns i klippet.",
+      "url": "https://svt.se/nyheter/utrikes/viral-video-pastas-visa-epsteins-partner-pa-fri-fot-har-ar-bevisen-som-avslojar-bluffen",
       "domain": "svt.se",
-      "published": "2026-02-24T15:17:34Z"
+      "published": "2026-02-24T19:48:43Z"
     },
     {
-      "title": "Analys: EU-stödet avgör Ukrainas överlevnad trots Ungerns motstånd och interna s…",
-      "summary": "När europeiska ledare samlas i Kiev är det utan nya beslut om sanktioner eller finansiering. För Ukraina, som befinner sig i ett existentiellt krig, blir skillnaden mellan löften och leveranser inte bara en fråga om symbolik utan om överlevnad. Det växande trovärdighetsproblemet kommer med stora risker för Ukrainas säkerhet i ett läge där Ryssland inte tvekar att angripa civila mål och kritisk infrastruktur.",
-      "url": "https://yle.fi/a/7-10093498?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-24T04:00:16Z"
-    },
-    {
-      "title": "Brittney från Kanada strider vid fronten i Ukraina: ”Älskar faran",
-      "summary": "Enligt en källa till Defense Post från mitten av 2025 har mer än 8000 utlänningar tagit värvning i Ukrainas markstyrkor. Nu, drygt ett halvår senare, tyder mycket på att det antalet är mycket lägre. En som ändå väljer att stanna kvar är kapten Brittney Shki - Giizis.",
-      "url": "https://svt.se/nyheter/utrikes/brittney-fran-kanada-strider-vid-fronten-i-ukraina-alskar-faran",
+      "title": "Så mår Ryssland efter fyra år av krig",
+      "summary": "Ryssland inledde sin fullskaliga invasion i Ukraina den 24 februari. Sedan dess har landet utfört attacker mot grannen. Johan Norberg, Rysslandskännare och forskningsledare på Totalförsvarets forskningsinstitut ( FOI ) anser att samtalen i Ryssland har tagit en vändning på senare tid.",
+      "url": "https://svt.se/nyheter/utrikes/sa-mar-ryssland-efter-fyra-ar-av-krig",
       "domain": "svt.se",
-      "published": "2026-02-23T22:14:29Z"
-    },
-    {
-      "title": "Ny amerikansk attack mot påstådd ”knarkbåt” i Karibien",
-      "summary": "Tre personer ombord på X: s fartyg uppges ha dödats, säger militären. Under de senaste månaderna har USA upprepade gånger attackerat båtar som den amerikanska regeringen påstår är delaktiga i narkotikasmuggling i Stilla havet och Karibiska havet. Ingen ur den amerikanska styrkan skadades i attacken, säger militärkommandot.",
-      "url": "https://svt.se/nyheter/utrikes/ny-amerikansk-attack-mot-pastadd-knarkbat-i-karibien",
-      "domain": "svt.se",
-      "published": "2026-02-23T19:05:29Z"
+      "published": "2026-02-24T19:24:56Z"
     }
   ]
 }

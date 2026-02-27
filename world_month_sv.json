@@ -2,39 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-26T08:06:43+00:00",
-  "total_raw": 39,
+  "generated": "2026-02-27T08:02:37+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Så rekryterar Wagnergruppen sabotörer i Europa: ”Bygg en bomb och få betalt i kr…",
-      "summary": "Holger Roonemaa, en estnisk journalist som var med och skapade profilen, säger att det inte var en person som fick erbjudandet, utan en påhittad karaktär. Han säger att ryska paramilitära Wagnergruppen har fått en central roll i att rekrytera utsatta människor i Europa. Det handlar om allt från att slå till mot ukrainska hjälpsändningar till att utföra mordbränder.",
-      "url": "https://yle.fi/a/7-10093857?origin=rss",
+      "title": "AI-företaget Anthropic säger nej till amerikanska militärens krav på autonoma dö…",
+      "summary": "Anthropic VD Dario Amodei säger att de gärna fortsätter arbeta med USA: s militär på sina villkor. Han säger att om militären väljer att inte arbeta med Anthropics kommer de att se över en \" smidig övergång till en annan partner \" Detta kan få både affärsmässiga och politiska konsekvenser som sträcker sig bortom dem. Om företaget klassas som en leveranskedjerisk, innebär det att de måste rensa alla spår av sin AI - mjukvara från statliga enheter.",
+      "url": "https://yle.fi/a/7-10094060?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-26T04:10:14Z"
+      "published": "2026-02-27T03:20:01Z"
     },
     {
-      "title": "Analys: Trumps tal till nationen ett rekordlångt hyllningstal, men köper väljarn…",
-      "summary": "Den längsta State of the Union talet i USA: s historia höll Donald Trump till manus. Det var närmast ett rekordlångt hyllningstal av Trump, till Donald Trump. Han hävdade att han hade drivit igenom de största skattelättnaderna i amerikansk historia.",
-      "url": "https://yle.fi/a/7-10093499?origin=rss",
+      "title": "Kubas regim på fallrepet",
+      "summary": "För tjugo år sedan var Fidel Castro fortfarande Kubas president. Castros politik var ökänt förtryckande och fattigdomen påtaglig. Nivån på sjukvård och utbildning hölls ändå på en relativt hög nivå.",
+      "url": "https://yle.fi/a/7-10093985?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-25T06:15:17Z"
+      "published": "2026-02-26T08:39:46Z"
     },
     {
-      "title": "Analys: EU-stödet avgör Ukrainas överlevnad trots Ungerns motstånd och interna s…",
-      "summary": "När europeiska ledare samlas i Kiev är det utan nya beslut om sanktioner eller finansiering. För Ukraina, som befinner sig i ett existentiellt krig, blir skillnaden mellan löften och leveranser inte bara en fråga om symbolik utan om överlevnad. Det växande trovärdighetsproblemet kommer med stora risker för Ukrainas säkerhet i ett läge där Ryssland inte tvekar att angripa civila mål och kritisk infrastruktur.",
-      "url": "https://yle.fi/a/7-10093498?origin=rss",
+      "title": "Klimatförändringen slår hårt mot pingvinerna i Antarktis",
+      "summary": "Forskare har upptäckt att ruggning, en naturlig, årlig händelse kan hota kejsarpingvinernas existens när Antarktis förändras på grund av klimatförändringen. Forskare som spårar pingvinerna i området med hjälp av satellitbilder rapporterar nu att de inte längre kan hitta en stor del av fåglarna och att de är rädda för att tusentals pingviner redan kan ha frusit ihjäl. Pingviner är bland de mest hotade djuren i världen och kan utrotas före slutet av århundradet.",
+      "url": "https://yle.fi/a/7-10094041?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-24T04:00:16Z"
+      "published": "2026-02-25T18:49:14Z"
     },
     {
-      "title": "Brittney från Kanada strider vid fronten i Ukraina: ”Älskar faran",
-      "summary": "Enligt en källa till Defense Post från mitten av 2025 har mer än 8000 utlänningar tagit värvning i Ukrainas markstyrkor. Nu, drygt ett halvår senare, tyder mycket på att det antalet är mycket lägre. En som ändå väljer att stanna kvar är kapten Brittney Shki - Giizis.",
-      "url": "https://svt.se/nyheter/utrikes/brittney-fran-kanada-strider-vid-fronten-i-ukraina-alskar-faran",
+      "title": "Så mår Ryssland efter fyra år av krig",
+      "summary": "Ryssland inledde sin fullskaliga invasion i Ukraina den 24 februari. Sedan dess har landet utfört attacker mot grannen. Johan Norberg, Rysslandskännare och forskningsledare på Totalförsvarets forskningsinstitut ( FOI ) anser att samtalen i Ryssland har tagit en vändning på senare tid.",
+      "url": "https://svt.se/nyheter/utrikes/sa-mar-ryssland-efter-fyra-ar-av-krig",
       "domain": "svt.se",
-      "published": "2026-02-23T22:14:29Z"
+      "published": "2026-02-24T19:24:56Z"
     }
   ]
 }
