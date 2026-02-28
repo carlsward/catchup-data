@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-27T08:02:37+00:00",
+  "generated": "2026-02-28T07:42:26+00:00",
   "total_raw": 40,
-  "total_rank": 4,
+  "total_rank": 3,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Möt tre kvinnor som förnyar Georgiens urgamla vinkultur",
+      "summary": "Georgien anses vara en av världens äldsta vinproducerande kulturer. Vin har odlats i över 8 000 år. Landets vinindustri har länge varit en mansdominerad arena.",
+      "url": "https://yle.fi/a/7-10092687?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-28T04:00:03Z"
+    },
     {
       "title": "AI-företaget Anthropic säger nej till amerikanska militärens krav på autonoma dö…",
       "summary": "Anthropic VD Dario Amodei säger att de gärna fortsätter arbeta med USA: s militär på sina villkor. Han säger att om militären väljer att inte arbeta med Anthropics kommer de att se över en \" smidig övergång till en annan partner \" Detta kan få både affärsmässiga och politiska konsekvenser som sträcker sig bortom dem. Om företaget klassas som en leveranskedjerisk, innebär det att de måste rensa alla spår av sin AI - mjukvara från statliga enheter.",
@@ -16,25 +23,11 @@
       "published": "2026-02-27T03:20:01Z"
     },
     {
-      "title": "Kubas regim på fallrepet",
-      "summary": "För tjugo år sedan var Fidel Castro fortfarande Kubas president. Castros politik var ökänt förtryckande och fattigdomen påtaglig. Nivån på sjukvård och utbildning hölls ändå på en relativt hög nivå.",
-      "url": "https://yle.fi/a/7-10093985?origin=rss",
+      "title": "EU lanserar miljardverktyg för östgränsen efter Rysslands anfallskrig",
+      "summary": "EU har lanserat ett nytt finansieringsverktyg på 28 miljarder euro för att stödja östliga gränsregioner. Initiativet riktar sig till Finland, Estland, Lettland, Litauen, Polen, Slovakien, Ungern, Rumänien och Bulgarien. Verktyget gör det möjligt att erbjuda lån till medlemsländerna på förmånligare villkor, i kombination med EU: s sammanhållningsfonder.",
+      "url": "https://yle.fi/a/7-10094100?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-26T08:39:46Z"
-    },
-    {
-      "title": "Klimatförändringen slår hårt mot pingvinerna i Antarktis",
-      "summary": "Forskare har upptäckt att ruggning, en naturlig, årlig händelse kan hota kejsarpingvinernas existens när Antarktis förändras på grund av klimatförändringen. Forskare som spårar pingvinerna i området med hjälp av satellitbilder rapporterar nu att de inte längre kan hitta en stor del av fåglarna och att de är rädda för att tusentals pingviner redan kan ha frusit ihjäl. Pingviner är bland de mest hotade djuren i världen och kan utrotas före slutet av århundradet.",
-      "url": "https://yle.fi/a/7-10094041?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-25T18:49:14Z"
-    },
-    {
-      "title": "Så mår Ryssland efter fyra år av krig",
-      "summary": "Ryssland inledde sin fullskaliga invasion i Ukraina den 24 februari. Sedan dess har landet utfört attacker mot grannen. Johan Norberg, Rysslandskännare och forskningsledare på Totalförsvarets forskningsinstitut ( FOI ) anser att samtalen i Ryssland har tagit en vändning på senare tid.",
-      "url": "https://svt.se/nyheter/utrikes/sa-mar-ryssland-efter-fyra-ar-av-krig",
-      "domain": "svt.se",
-      "published": "2026-02-24T19:24:56Z"
+      "published": "2026-02-26T17:30:14Z"
     }
   ]
 }
