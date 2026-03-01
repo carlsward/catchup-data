@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-28T07:42:26+00:00",
-  "total_raw": 40,
-  "total_rank": 3,
+  "generated": "2026-03-01T08:13:21+00:00",
+  "total_raw": 37,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Anders Mård skriver om vardagen i krigets Ryssland: ”Det finns inga möjligheter…",
+      "summary": "Journalisten och författaren Anders Mård besökte Ryssland vid årsskiftet. Hans bok Rysk dagbok – anteckningar från Putins Ryssland 2022 – 2025. Mård hoppas kunna bidra till att förstå det ryska folket, speciellt vi i Finland.",
+      "url": "https://yle.fi/a/7-10094117?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-01T05:13:01Z"
+    },
     {
       "title": "Möt tre kvinnor som förnyar Georgiens urgamla vinkultur",
       "summary": "Georgien anses vara en av världens äldsta vinproducerande kulturer. Vin har odlats i över 8 000 år. Landets vinindustri har länge varit en mansdominerad arena.",
@@ -23,11 +30,11 @@
       "published": "2026-02-27T03:20:01Z"
     },
     {
-      "title": "EU lanserar miljardverktyg för östgränsen efter Rysslands anfallskrig",
-      "summary": "EU har lanserat ett nytt finansieringsverktyg på 28 miljarder euro för att stödja östliga gränsregioner. Initiativet riktar sig till Finland, Estland, Lettland, Litauen, Polen, Slovakien, Ungern, Rumänien och Bulgarien. Verktyget gör det möjligt att erbjuda lån till medlemsländerna på förmånligare villkor, i kombination med EU: s sammanhållningsfonder.",
-      "url": "https://yle.fi/a/7-10094100?origin=rss",
+      "title": "Iran och USA ska ha gjort ”stora framsteg” under samtalen i Genève",
+      "summary": "Länderna har fört samtal om Irans kärnenergiprogram. USA kräver att Iran slutar anrika uran, vilket Iran inte går med på. Oman har medlat i förhandlingarna, och al - Busaidi presenterade på torsdag ett iranskt förslag för att nå en överenskommelse.",
+      "url": "https://yle.fi/a/7-10094129?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-26T17:30:14Z"
+      "published": "2026-02-26T19:52:41Z"
     }
   ]
 }

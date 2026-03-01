@@ -2,15 +2,29 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-02-28T07:41:55+00:00",
-  "total_raw": 40,
-  "total_rank": 6,
+  "generated": "2026-03-01T08:12:41+00:00",
+  "total_raw": 37,
+  "total_rank": 7,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Israel och USA har attackerat Iran",
-      "summary": "Flera explosioner ha hörts i Tehran, rapporterar Irna, enligt Reuters. Enligt vittnen på plats stiger tjock rök mot himlen. Även USA: s president Donald Trump bekräftar att USA deltar i attackerna.",
+      "title": "Anders Mård skriver om vardagen i krigets Ryssland: ”Det finns inga möjligheter…",
+      "summary": "Journalisten och författaren Anders Mård besökte Ryssland vid årsskiftet. Hans bok Rysk dagbok – anteckningar från Putins Ryssland 2022 – 2025. Mård hoppas kunna bidra till att förstå det ryska folket, speciellt vi i Finland.",
+      "url": "https://yle.fi/a/7-10094117?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-01T05:13:01Z"
+    },
+    {
+      "title": "Guide: Fem frågor som kan avgöra Mellanösterns framtid",
+      "summary": "Under 2024 gick Donald Trump till val på att han inte skulle starta några så kallade så kallade \" evighetskrig \" Jan Hallengren, USA - expert och professor i statsvetenskap vid Försvarshögskolan, säger att det viktigaste som kommer att avgöra framåt är huruvida det kommer att stupa amerikanska soldater i det här kriget. Han menar att det är svårt att veta hur reaktionen från Irans befolkning ser ut eftersom stora delar av telefonkommunikationen och internenetuppkopplingen i landet är blockerad.",
+      "url": "https://svt.se/nyheter/utrikes/guide-fem-fragor-som-kan-avgora-mellanosterns-framtid",
+      "domain": "svt.se",
+      "published": "2026-02-28T23:03:31Z"
+    },
+    {
+      "title": "Israel och USA angriper Iran",
+      "summary": "Israelisk försvarsminister säger att landet har inlett ett \" förebyggande anfall \" mot Iran. En av explosionerna skedde vid ayatolla Ali Khameneis högkvarter. Enligt satellitbilder totalförstördes högkvarteret i attacken.",
       "url": "https://svt.se/nyheter/utrikes/israel-har-attackerat-iran-skriver-reuters",
       "domain": "svt.se",
       "published": "2026-02-28T06:19:22Z"
@@ -23,11 +37,11 @@
       "published": "2026-02-28T04:00:03Z"
     },
     {
-      "title": "Nya tider får västerländska ledare att besöka Kinas Xi Jinping",
-      "summary": "Tysklands förbundskansler Friedrich Merz är på besök i Kina för att träffa landets president Xi Jinping. Syftet med mötet är att fördjupa ländernas \" strategiska partnerskap \" Mark Carney var den första kanadensiska premiärministern att besöka Kina på nästan tio år. Kina vill presentera sig som en motvikt till USA och en ansvarstagande stormakt och en nödvändig partner, säger Björn Jerdén, chef för Nationellt kunskapscentrum om Kina vid Utrikespolitisk Institution.",
-      "url": "https://svt.se/nyheter/utrikes/nya-tider-far-vasterlandska-ledare-att-besoka-kinas-xi-jinping",
+      "title": "IAEA i ny rapport: Oklart om Iran stoppat anrikning av uran",
+      "summary": "IAEA uppskattar att Iran före attackerna hade 440, 9 kg anrikat upp till 60 procent. Detta är tillräckligt för tio kärnvapen, enligt IAEA: s måttstock. Iran har inte tillåtit FN: s IAEA att få tillgång till de kärnkraftsanläggningar som attackerades av USA och Israel under 12 - dagarsskriget i juni 2025.",
+      "url": "https://svt.se/nyheter/utrikes/iaea-i-ny-rapport-oklart-om-iran-stoppat-anrikning-av-uran",
       "domain": "svt.se",
-      "published": "2026-02-27T03:45:16Z"
+      "published": "2026-02-27T14:59:45Z"
     },
     {
       "title": "AI-företaget Anthropic säger nej till amerikanska militärens krav på autonoma dö…",
@@ -37,18 +51,11 @@
       "published": "2026-02-27T03:20:01Z"
     },
     {
-      "title": "Kärnteknikprogrammet ”slogs ut”",
-      "summary": "Konflikten mellan USA och Iran Enligt USA försöker Iran bygga upp kärnprogrammet på nytt. På torsdag hålls samtal i Genève om ett nytt kärnenergiavtal mellan länderna. Den senaste tiden har USA trappat upp sin närvaro i Mellanöstern, bland annat med världens största hangarfartyg.",
-      "url": "https://svt.se/nyheter/utrikes/karnteknikprogrammet-slogs-ut-darfor-fortsatter-usa-att-pressa",
-      "domain": "svt.se",
-      "published": "2026-02-26T19:59:20Z"
-    },
-    {
-      "title": "EU lanserar miljardverktyg för östgränsen efter Rysslands anfallskrig",
-      "summary": "EU har lanserat ett nytt finansieringsverktyg på 28 miljarder euro för att stödja östliga gränsregioner. Initiativet riktar sig till Finland, Estland, Lettland, Litauen, Polen, Slovakien, Ungern, Rumänien och Bulgarien. Verktyget gör det möjligt att erbjuda lån till medlemsländerna på förmånligare villkor, i kombination med EU: s sammanhållningsfonder.",
-      "url": "https://yle.fi/a/7-10094100?origin=rss",
+      "title": "Iran och USA ska ha gjort ”stora framsteg” under samtalen i Genève",
+      "summary": "Länderna har fört samtal om Irans kärnenergiprogram. USA kräver att Iran slutar anrika uran, vilket Iran inte går med på. Oman har medlat i förhandlingarna, och al - Busaidi presenterade på torsdag ett iranskt förslag för att nå en överenskommelse.",
+      "url": "https://yle.fi/a/7-10094129?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-26T17:30:14Z"
+      "published": "2026-02-26T19:52:41Z"
     }
   ]
 }
