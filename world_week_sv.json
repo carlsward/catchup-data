@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-01T08:12:41+00:00",
-  "total_raw": 37,
-  "total_rank": 7,
+  "generated": "2026-03-02T08:03:12+00:00",
+  "total_raw": 38,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Anders Mård skriver om vardagen i krigets Ryssland: ”Det finns inga möjligheter…",
-      "summary": "Journalisten och författaren Anders Mård besökte Ryssland vid årsskiftet. Hans bok Rysk dagbok – anteckningar från Putins Ryssland 2022 – 2025. Mård hoppas kunna bidra till att förstå det ryska folket, speciellt vi i Finland.",
-      "url": "https://yle.fi/a/7-10094117?origin=rss",
+      "title": "Specialsändning om attackerna",
+      "summary": "Peter: Attackerna i Mellanöstern – publikens frågor sänds måndag kväll klockan 18. 00 i SVTPlay. Är det inte ganska uppenbart om det i slutändan handlar om ekonomiska intressen ( olja ) och att distrahera från Epstein filerna?",
+      "url": "https://svt.se/nyheter/utrikes/specialsandning-om-attackerna-stall-dina-fragor",
+      "domain": "svt.se",
+      "published": "2026-03-02T05:36:41Z"
+    },
+    {
+      "title": "Putins Ryssland vill förbjuda Telegram: ”Regimen skjuter sig själv i foten",
+      "summary": "Ryssland planerar att förbjuda Telegram, landets främsta plattform för kommunikation och information. Enligt vissa uppgifter stängs appen den 1 april. Rysslandsforskaren Margarita Zavadskaya vid Finlands utrikespolitiska institut är övertygad om att förbudet genomförs.",
+      "url": "https://yle.fi/a/7-10094089?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-01T05:13:01Z"
+      "published": "2026-03-02T04:14:41Z"
+    },
+    {
+      "title": "I de spanska byarna syns nu krisen efter sommarens bränder",
+      "summary": "Sommaren 2025 var den värsta brandsäsongen i Spanien sedan 1994. Nästan 400 000 hektar brann på bara 10 dagar. I ett igenvuxet landskap skapades en intensiv våg av skogsbränder.",
+      "url": "https://yle.fi/a/7-10092581?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-01T09:00:41Z"
     },
     {
       "title": "Guide: Fem frågor som kan avgöra Mellanösterns framtid",
@@ -23,11 +37,11 @@
       "published": "2026-02-28T23:03:31Z"
     },
     {
-      "title": "Israel och USA angriper Iran",
-      "summary": "Israelisk försvarsminister säger att landet har inlett ett \" förebyggande anfall \" mot Iran. En av explosionerna skedde vid ayatolla Ali Khameneis högkvarter. Enligt satellitbilder totalförstördes högkvarteret i attacken.",
-      "url": "https://svt.se/nyheter/utrikes/israel-har-attackerat-iran-skriver-reuters",
+      "title": "Israels och USA:s attack mot Iran",
+      "summary": "Israel sade sig ha inlett ett \" förebyggande anfall \" mot Iran. Iran svarade med att avfyra robotar mot Israel vid 09: 00 på lördag. President Masoud Pezeshkian sa att det är Irans \" legitima rättighet och skyldighet \" att svara på attackerna.",
+      "url": "https://svt.se/nyheter/utrikes/israel-och-usas-attack-mot-iran-detta-har-hant",
       "domain": "svt.se",
-      "published": "2026-02-28T06:19:22Z"
+      "published": "2026-02-28T15:15:11Z"
     },
     {
       "title": "Möt tre kvinnor som förnyar Georgiens urgamla vinkultur",
@@ -37,25 +51,18 @@
       "published": "2026-02-28T04:00:03Z"
     },
     {
-      "title": "IAEA i ny rapport: Oklart om Iran stoppat anrikning av uran",
-      "summary": "IAEA uppskattar att Iran före attackerna hade 440, 9 kg anrikat upp till 60 procent. Detta är tillräckligt för tio kärnvapen, enligt IAEA: s måttstock. Iran har inte tillåtit FN: s IAEA att få tillgång till de kärnkraftsanläggningar som attackerades av USA och Israel under 12 - dagarsskriget i juni 2025.",
-      "url": "https://svt.se/nyheter/utrikes/iaea-i-ny-rapport-oklart-om-iran-stoppat-anrikning-av-uran",
-      "domain": "svt.se",
-      "published": "2026-02-27T14:59:45Z"
+      "title": "Bill Clinton inför kongressutskott: Såg ingenting som Epstein gjorde",
+      "summary": "Bill Clinton vittnar inför kongressens tillsynsutskott om sina kopplingar till Epstein. I anförandet säger Clinton att han inte såg något, och gjorde inget fel. Han ses också på bilder med Epstein och medbrottsling Ghislaine Maxwell.",
+      "url": "https://yle.fi/a/7-10094211?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-02-27T17:42:26Z"
     },
     {
-      "title": "AI-företaget Anthropic säger nej till amerikanska militärens krav på autonoma dö…",
-      "summary": "Anthropic VD Dario Amodei säger att de gärna fortsätter arbeta med USA: s militär på sina villkor. Han säger att om militären väljer att inte arbeta med Anthropics kommer de att se över en \" smidig övergång till en annan partner \" Detta kan få både affärsmässiga och politiska konsekvenser som sträcker sig bortom dem. Om företaget klassas som en leveranskedjerisk, innebär det att de måste rensa alla spår av sin AI - mjukvara från statliga enheter.",
-      "url": "https://yle.fi/a/7-10094060?origin=rss",
+      "title": "Talibanernas nya strafflag: Två veckor i fängelse för att ha brutit kvinnas arm,…",
+      "summary": "Den 7 januari utfärdade talibanernas emir ett dekret som formellt godkände en ny straffprocessrättslig förordning för domstolar. Dess existens blev uppenbar först efter att den afghanska människorättsorganisationen Rawadari offentliggjorde innehållet. I de nya lagtexterna betonas det att män och \" mästare \" uttryckligen har befogenhet att straffa sina fruar.",
+      "url": "https://yle.fi/a/7-10094153?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-27T03:20:01Z"
-    },
-    {
-      "title": "Iran och USA ska ha gjort ”stora framsteg” under samtalen i Genève",
-      "summary": "Länderna har fört samtal om Irans kärnenergiprogram. USA kräver att Iran slutar anrika uran, vilket Iran inte går med på. Oman har medlat i förhandlingarna, och al - Busaidi presenterade på torsdag ett iranskt förslag för att nå en överenskommelse.",
-      "url": "https://yle.fi/a/7-10094129?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-26T19:52:41Z"
+      "published": "2026-02-27T15:16:15Z"
     }
   ]
 }
