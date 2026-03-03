@@ -2,15 +2,29 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-02T08:03:12+00:00",
-  "total_raw": 38,
+  "generated": "2026-03-03T08:05:13+00:00",
+  "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "3 mars: Nattens nyheter",
+      "summary": "Netanyahu säger att detta inte är ett oändligt krig, det är porten till fred. Inga planerade flyg för strandade svenskar De första passagerarflygen har lämnat Förenade Arabemiraten. Efter de senaste dagarnas attacker och motattacker mellan USA, Israel och Iran sprider sig konflikten fortsatt i regionen under natten mot tisdag.",
+      "url": "https://svt.se/nyheter/utrikes/3-februari-nattens-nyheter-pt3pj4",
+      "domain": "svt.se",
+      "published": "2026-03-03T04:30:18Z"
+    },
+    {
+      "title": "Monarkister, kurdiska miliser och en pseudomarxistisk sekt",
+      "summary": "Oppositionen består av flera olika grupper med helt olika intressen och visioner för hur framtidens Iran ska se ut. Monarkisterna har redan visat att de inte klarar av att samarbeta, säger säkerhetsforskaren Rouzbeh Parsi. Men hur stort stöd Reza Pahlavi verkligen har i Iran är i praktiken omöjligt att säga.",
+      "url": "https://yle.fi/a/7-10094268?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-03T04:03:04Z"
+    },
+    {
       "title": "Specialsändning om attackerna",
-      "summary": "Peter: Attackerna i Mellanöstern – publikens frågor sänds måndag kväll klockan 18. 00 i SVTPlay. Är det inte ganska uppenbart om det i slutändan handlar om ekonomiska intressen ( olja ) och att distrahera från Epstein filerna?",
+      "summary": "Flera plan tillhörande Emirates har lyft från flygplatsen i Dubai under morgonen. Det rör sig om fem stycken Airbus A380, som har två våningar och i vissa konfigurationer kan ta 615 passagerare, som lyft på tisdagsmorgonen. Flygplanens destinationer är Jidda, Manchester, Paris, London och Frankfurt.",
       "url": "https://svt.se/nyheter/utrikes/specialsandning-om-attackerna-stall-dina-fragor",
       "domain": "svt.se",
       "published": "2026-03-02T05:36:41Z"
@@ -37,32 +51,18 @@
       "published": "2026-02-28T23:03:31Z"
     },
     {
-      "title": "Israels och USA:s attack mot Iran",
-      "summary": "Israel sade sig ha inlett ett \" förebyggande anfall \" mot Iran. Iran svarade med att avfyra robotar mot Israel vid 09: 00 på lördag. President Masoud Pezeshkian sa att det är Irans \" legitima rättighet och skyldighet \" att svara på attackerna.",
-      "url": "https://svt.se/nyheter/utrikes/israel-och-usas-attack-mot-iran-detta-har-hant",
+      "title": "Ayatolla Ali Khamenei är död",
+      "summary": "Enligt uppgift släppte Israel 30 bomber över 86 - åriga Ali Khameneis palats på lördagsmorgonen. Senare på kvällen bekräftade israeliska källor för Reuters att ayatollan hittades död. Både Donald Trump och Israels premiärminister Benjamin Netanyahu ska ha sett bilder på Khamenei kropp, rapporterar AFP.",
+      "url": "https://svt.se/nyheter/utrikes/ayatolla-ali-khamenei-ar-dod",
       "domain": "svt.se",
-      "published": "2026-02-28T15:15:11Z"
+      "published": "2026-02-28T21:39:48Z"
     },
     {
-      "title": "Möt tre kvinnor som förnyar Georgiens urgamla vinkultur",
-      "summary": "Georgien anses vara en av världens äldsta vinproducerande kulturer. Vin har odlats i över 8 000 år. Landets vinindustri har länge varit en mansdominerad arena.",
-      "url": "https://yle.fi/a/7-10092687?origin=rss",
+      "title": "Därför har USA och Israel attackerat Iran",
+      "summary": "Explosioner har hörts i Irans huvudstad Teheran, och enligt iranska medier stiger tjock rök upp från staden. Anfallet kommer efter att USA byggt upp den största militära styrkan i Mellanöstern sedan invasionen av Irak 2003. Iran och landets arsenal av ballistiska robotar utgör det största hotet mot sin säkerhet i regionen.",
+      "url": "https://yle.fi/a/7-10093792?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-28T04:00:03Z"
-    },
-    {
-      "title": "Bill Clinton inför kongressutskott: Såg ingenting som Epstein gjorde",
-      "summary": "Bill Clinton vittnar inför kongressens tillsynsutskott om sina kopplingar till Epstein. I anförandet säger Clinton att han inte såg något, och gjorde inget fel. Han ses också på bilder med Epstein och medbrottsling Ghislaine Maxwell.",
-      "url": "https://yle.fi/a/7-10094211?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-27T17:42:26Z"
-    },
-    {
-      "title": "Talibanernas nya strafflag: Två veckor i fängelse för att ha brutit kvinnas arm,…",
-      "summary": "Den 7 januari utfärdade talibanernas emir ett dekret som formellt godkände en ny straffprocessrättslig förordning för domstolar. Dess existens blev uppenbar först efter att den afghanska människorättsorganisationen Rawadari offentliggjorde innehållet. I de nya lagtexterna betonas det att män och \" mästare \" uttryckligen har befogenhet att straffa sina fruar.",
-      "url": "https://yle.fi/a/7-10094153?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-02-27T15:16:15Z"
+      "published": "2026-02-28T07:37:23Z"
     }
   ]
 }
