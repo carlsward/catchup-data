@@ -2,21 +2,35 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-03T08:05:13+00:00",
-  "total_raw": 39,
+  "generated": "2026-03-04T07:57:52+00:00",
+  "total_raw": 40,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "3 mars: Nattens nyheter",
-      "summary": "Netanyahu säger att detta inte är ett oändligt krig, det är porten till fred. Inga planerade flyg för strandade svenskar De första passagerarflygen har lämnat Förenade Arabemiraten. Efter de senaste dagarnas attacker och motattacker mellan USA, Israel och Iran sprider sig konflikten fortsatt i regionen under natten mot tisdag.",
-      "url": "https://svt.se/nyheter/utrikes/3-februari-nattens-nyheter-pt3pj4",
-      "domain": "svt.se",
-      "published": "2026-03-03T04:30:18Z"
+      "title": "Iranska kurdkrigare i exil väntar på order om att gå ut i strid mot regimen",
+      "summary": "Sharare Moradyan har kämpat mot den iranska regimen i exil i tio år. Hon följde banan för ett amerikanskt flygplan som flög över Saudiarabien och hoppades att det skulle svänga mot Iran. Dagarna före attacken hade hon suttit i lägret och uppdaterat Flightradar 24 - appen på sin telefon.",
+      "url": "https://yle.fi/a/7-10094272?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-04T04:28:38Z"
     },
     {
-      "title": "Monarkister, kurdiska miliser och en pseudomarxistisk sekt",
+      "title": "4 mars: Nattens nyheter",
+      "summary": "Två ballistiska robotar har avfyrats från Iran mot landet, Al Jazeera rapporterar. En sköts ned medan den andra träffade flygbasen Al Udeid, den största amerikanska militära anläggningen i Mellanöstern. USA säger att det har förstört 17 iranska fartyg, däribland en ubåt, och slagit mot närmare 2 000 mål i Iran.",
+      "url": "https://svt.se/nyheter/utrikes/4-mars-nattens-nyheter-aqw0n5",
+      "domain": "svt.se",
+      "published": "2026-03-04T04:17:23Z"
+    },
+    {
+      "title": "Rapport: Ungerns köp av rysk olja finansierar Orbáns propaganda",
+      "summary": "Oberoende bulgariska tankesmedjan Center for the Study of Democracy säger att Ungern planerar att fortsätta köpa rysk olja eftersom den är billigare och leder till lägre bränslepriser för ungrarna. Men så är inte fallet, enligt en ny rapport från en oberoende bulgarisk tankesmedja. Den ryska råoljan är ungefär 20 procent billigare än alternativen.",
+      "url": "https://svt.se/nyheter/utrikes/rapport-ungerns-kop-av-rysk-olja-finansierar-orbans-propaganda",
+      "domain": "svt.se",
+      "published": "2026-03-03T15:31:07Z"
+    },
+    {
+      "title": "De här vill ta makten i Iran: Monarkister, kurdiska miliser och en pseudomarxist…",
       "summary": "Oppositionen består av flera olika grupper med helt olika intressen och visioner för hur framtidens Iran ska se ut. Monarkisterna har redan visat att de inte klarar av att samarbeta, säger säkerhetsforskaren Rouzbeh Parsi. Men hur stort stöd Reza Pahlavi verkligen har i Iran är i praktiken omöjligt att säga.",
       "url": "https://yle.fi/a/7-10094268?origin=rss",
       "domain": "yle.fi",
@@ -24,7 +38,7 @@
     },
     {
       "title": "Specialsändning om attackerna",
-      "summary": "Flera plan tillhörande Emirates har lyft från flygplatsen i Dubai under morgonen. Det rör sig om fem stycken Airbus A380, som har två våningar och i vissa konfigurationer kan ta 615 passagerare, som lyft på tisdagsmorgonen. Flygplanens destinationer är Jidda, Manchester, Paris, London och Frankfurt.",
+      "summary": "Det finns 20 000 svenskar runt Persiska viken och flera tusen semesterresande är strandsatta i väntan på att flygen ska börja gå igen. Sverige har nu ett nödteam på plats i Saudiarabiens huvudstad Riyadh för att hjälpa strandsatta svenskar. Irans revolutionsgarde säger att de har avfyrat 230 drönare mot flera anläggningar där amerikanska trupper är stationerade i Mellanöstern.",
       "url": "https://svt.se/nyheter/utrikes/specialsandning-om-attackerna-stall-dina-fragor",
       "domain": "svt.se",
       "published": "2026-03-02T05:36:41Z"
@@ -37,32 +51,18 @@
       "published": "2026-03-02T04:14:41Z"
     },
     {
-      "title": "I de spanska byarna syns nu krisen efter sommarens bränder",
-      "summary": "Sommaren 2025 var den värsta brandsäsongen i Spanien sedan 1994. Nästan 400 000 hektar brann på bara 10 dagar. I ett igenvuxet landskap skapades en intensiv våg av skogsbränder.",
-      "url": "https://yle.fi/a/7-10092581?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-01T09:00:41Z"
-    },
-    {
-      "title": "Guide: Fem frågor som kan avgöra Mellanösterns framtid",
-      "summary": "Under 2024 gick Donald Trump till val på att han inte skulle starta några så kallade så kallade \" evighetskrig \" Jan Hallengren, USA - expert och professor i statsvetenskap vid Försvarshögskolan, säger att det viktigaste som kommer att avgöra framåt är huruvida det kommer att stupa amerikanska soldater i det här kriget. Han menar att det är svårt att veta hur reaktionen från Irans befolkning ser ut eftersom stora delar av telefonkommunikationen och internenetuppkopplingen i landet är blockerad.",
-      "url": "https://svt.se/nyheter/utrikes/guide-fem-fragor-som-kan-avgora-mellanosterns-framtid",
+      "title": "Tusentals strandsatta efter Iran-attackerna: ”Svårt att hjälpa",
+      "summary": "Omkring 20 000 svenskar är bosatta i den region som påverkas av de israeliska attackerna. Det handlar om Iran, Irak, Saudiarabien, Förenade Arabemiraten, Bahrain, Oman och Qatar. Många är fast på andra håll med planerade mellanlandningar.",
+      "url": "https://svt.se/nyheter/utrikes/tusentals-strandsatta-efter-iran-attackerna-svart-att-hjalpa",
       "domain": "svt.se",
-      "published": "2026-02-28T23:03:31Z"
+      "published": "2026-03-01T19:50:15Z"
     },
     {
-      "title": "Ayatolla Ali Khamenei är död",
-      "summary": "Enligt uppgift släppte Israel 30 bomber över 86 - åriga Ali Khameneis palats på lördagsmorgonen. Senare på kvällen bekräftade israeliska källor för Reuters att ayatollan hittades död. Både Donald Trump och Israels premiärminister Benjamin Netanyahu ska ha sett bilder på Khamenei kropp, rapporterar AFP.",
-      "url": "https://svt.se/nyheter/utrikes/ayatolla-ali-khamenei-ar-dod",
-      "domain": "svt.se",
-      "published": "2026-02-28T21:39:48Z"
-    },
-    {
-      "title": "Därför har USA och Israel attackerat Iran",
-      "summary": "Explosioner har hörts i Irans huvudstad Teheran, och enligt iranska medier stiger tjock rök upp från staden. Anfallet kommer efter att USA byggt upp den största militära styrkan i Mellanöstern sedan invasionen av Irak 2003. Iran och landets arsenal av ballistiska robotar utgör det största hotet mot sin säkerhet i regionen.",
-      "url": "https://yle.fi/a/7-10093792?origin=rss",
+      "title": "Bensinpriset kan stiga kraftigt: ”Kanske vi återgår till att använda häst”, skäm…",
+      "summary": "I Östra centrum i Helsingfors kostade bensinen 1, 79 euro per liter på söndagen och det var många som tankade. Flera räknade med att priset kommer att stiga snart. Det finns en risk för att oljepriset kan stiga till 100 dollar per fat, säger Tanja Wennonen - Kärnä, chefsstrateg på S - banken.",
+      "url": "https://yle.fi/a/7-10094242?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-02-28T07:37:23Z"
+      "published": "2026-03-01T13:27:34Z"
     }
   ]
 }
