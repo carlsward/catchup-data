@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-04T07:58:38+00:00",
+  "generated": "2026-03-05T08:01:23+00:00",
   "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Kriget kommer inte ge oss fred eller demokrati",
+      "summary": "Atoosa Farahmand har skapat en utställning tillägnad de kvinnor i Iran som riskerar sina liv för frihet, demokrati och jämlikhet. Bilderna skildrar uppror i ett land där flickor och kvinnor inte får dansa, sjunga, boxas eller gå på fotbollsmatch. Hon lämnade Iran som 23 - åring för att kunna ägna sig åt sin konst.",
+      "url": "https://yle.fi/a/7-10094394?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-05T05:27:04Z"
+    },
+    {
       "title": "Iranska kurdkrigare i exil väntar på order om att gå ut i strid mot regimen",
-      "summary": "Sharare Moradyan har kämpat mot den iranska regimen i exil i tio år. Hon följde banan för ett amerikanskt flygplan som flög över Saudiarabien och hoppades att det skulle svänga mot Iran. Dagarna före attacken hade hon suttit i lägret och uppdaterat Flightradar 24 - appen på sin telefon.",
+      "summary": "Sharare Moradyan har kämpat mot Irans regim i exil i tio år. Hon följde banan för ett amerikanskt flygplan som flög över Saudiarabien och hoppades att det skulle svänga mot Iran. Hon säger att hon greps flera gånger för att hon inte bar hijab som täckte håret.",
       "url": "https://yle.fi/a/7-10094272?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-04T04:28:38Z"
@@ -23,18 +30,11 @@
       "published": "2026-03-03T04:03:04Z"
     },
     {
-      "title": "Specialsändning om attackerna",
-      "summary": "Det finns 20 000 svenskar runt Persiska viken och flera tusen semesterresande är strandsatta i väntan på att flygen ska börja gå igen. Sverige har nu ett nödteam på plats i Saudiarabiens huvudstad Riyadh för att hjälpa strandsatta svenskar. Irans revolutionsgarde säger att de har avfyrat 230 drönare mot flera anläggningar där amerikanska trupper är stationerade i Mellanöstern.",
-      "url": "https://svt.se/nyheter/utrikes/specialsandning-om-attackerna-stall-dina-fragor",
-      "domain": "svt.se",
-      "published": "2026-03-02T05:36:41Z"
-    },
-    {
-      "title": "Bensinpriset kan stiga kraftigt: ”Kanske vi återgår till att använda häst”, skäm…",
-      "summary": "I Östra centrum i Helsingfors kostade bensinen 1, 79 euro per liter på söndagen och det var många som tankade. Flera räknade med att priset kommer att stiga snart. Det finns en risk för att oljepriset kan stiga till 100 dollar per fat, säger Tanja Wennonen - Kärnä, chefsstrateg på S - banken.",
-      "url": "https://yle.fi/a/7-10094242?origin=rss",
+      "title": "Putins Ryssland vill förbjuda Telegram: ”Regimen skjuter sig själv i foten",
+      "summary": "Ryssland planerar att förbjuda Telegram, landets främsta plattform för kommunikation och information. Enligt vissa uppgifter stängs appen den 1 april. Rysslandsforskaren Margarita Zavadskaya vid Finlands utrikespolitiska institut är övertygad om att förbudet genomförs.",
+      "url": "https://yle.fi/a/7-10094089?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-01T13:27:34Z"
+      "published": "2026-03-02T04:14:41Z"
     }
   ]
 }
