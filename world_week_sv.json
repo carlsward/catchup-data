@@ -2,32 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-05T08:00:40+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-06T07:58:38+00:00",
+  "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kriget kommer inte ge oss fred eller demokrati",
-      "summary": "Atoosa Farahmand har skapat en utställning tillägnad de kvinnor i Iran som riskerar sina liv för frihet, demokrati och jämlikhet. Bilderna skildrar uppror i ett land där flickor och kvinnor inte får dansa, sjunga, boxas eller gå på fotbollsmatch. Hon lämnade Iran som 23 - åring för att kunna ägna sig åt sin konst.",
-      "url": "https://yle.fi/a/7-10094394?origin=rss",
+      "title": "Tonåringen greps tre gånger för sång på gatan: ”Jag är rädd för ljudet av dörrar",
+      "summary": "Enligt människorättsorganisationer har gripandet av gatumusikanter ökat i takt med att flera lagar mot att kritisera kriget har instiftats. Ett uppmärksammat exempel är den ryska gruppen Stoptime. När de började spela på gatorna i Sankt Petersburg hösten 2025, tänkte de inte särskilt mycket på några risker.",
+      "url": "https://svt.se/nyheter/utrikes/tonaringen-greps-tre-ganger-for-sang-pa-gatan-jag-ar-radd-for-ljudet-av-dorrar",
+      "domain": "svt.se",
+      "published": "2026-03-06T05:06:50Z"
+    },
+    {
+      "title": "Ryssland är den osynliga fienden i rummet när EU diskuterar utvidgning",
+      "summary": "EU: s kommissionär för grannskapspolitik Márta Kôs säger att utvidgningen är mycket mer än bara utvidgning. Hon säger att Ryssland är en osynlig fiende som ofta dyker upp i samband med utvidgningsförhandlingar. Hon påminner om att Rysslands krig mot Ukraina inte började förrän 2022, utan redan 2014 när Kiev valde att närma sig EU.",
+      "url": "https://yle.fi/a/7-10094186?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-05T05:27:04Z"
+      "published": "2026-03-06T03:30:03Z"
     },
     {
-      "title": "Trump har officiellt nominerat Warsh till Fed-chef",
-      "summary": "Walsh är tänkt att efterträda Jerome Powell som Fed - ordförande när dennes förordnande löper ut i maj. Trump har upprepade gånger attackerat Powell och Fed för att styrräntan inte sänkts så snabbt som presidenten önskat. En omstridd brottsutredning pågår mot Powell, kopplad till en renovering av Feds kontor för 2, 5 miljarder dollar.",
-      "url": "https://svt.se/nyheter/utrikes/trump-har-officiellt-nominerat-warsh-till-fed-chef",
+      "title": "ChatGPT",
+      "summary": "Palantir är ett techjätte med flera av världens försvar och myndigheter som kunder. Företaget bygger plattformar där kunderna samlar enorma mängder data som analyseras och visualiseras för att kunna fatta beslut. Företaget vägrar att böja sig för Donald Trumps krav på att deras AI ska kunna användas utan begränsningar i militären.",
+      "url": "https://svt.se/nyheter/utrikes/chatgpt-med-ratt-att-doda",
       "domain": "svt.se",
-      "published": "2026-03-05T02:07:50Z"
+      "published": "2026-03-05T15:04:16Z"
     },
     {
-      "title": "USA splittrat om Iranattacker",
-      "summary": "USA: s president Donald Trump lockade väljare som var trötta på de långa och dödliga krigen utomlands, säger USA - kännaren Jakob Stenberg. Stenberg tror att Trump försöker göra mycket för att sätta avtryck och gå till historien. Skulle han få till ett regimskifte i Iran vore det en stor skalp för Trump, säger Stenberg.",
-      "url": "https://svt.se/nyheter/utrikes/usa-splittrat-om-iranattacker-kan-paverka-mellanarsvalet",
+      "title": "Amerikansk Mellanösternexpert om kriget i Iran: ”Hur slutar man när man väl börj…",
+      "summary": "Mellanösternexperten Aaron David Miller säger att USA har tydliga mål för Irans krig. Han säger att Donald Trump i morgon kan säga att det fortsätter så här i sex månader eller så kan han börja ge tecken på att han försöker trappa ned kriget. Miller är ledande expert på tankesmedjan Carnegie Endowment for International Peace.",
+      "url": "https://yle.fi/a/7-10094505?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-05T11:50:23Z"
+    },
+    {
+      "title": "Röster från Iran efter anfallen: ”Det är klart att vi är glada",
+      "summary": "Alla röster är anonymiserade. Jag hoppas att förtryckarna Basijmilisen, Islamiska revolutionsgardet, ordningsstyrkan och även den ovärdiga och odugliga militären kommer att slås ut och att vi kan försvara Iran själva, säger \" Dariush \" till SVT. Sveriges Television kan nu publicera delar av röstmeddelanden som nått ut under de korta stunder som nätet varit uppe.",
+      "url": "https://svt.se/nyheter/utrikes/roster-fran-iran-efter-anfallen-det-ar-klart-att-vi-ar-glada",
       "domain": "svt.se",
-      "published": "2026-03-04T07:59:56Z"
+      "published": "2026-03-04T22:20:47Z"
     },
     {
       "title": "Iranska kurdkrigare i exil väntar på order om att gå ut i strid mot regimen",
@@ -37,11 +51,11 @@
       "published": "2026-03-04T04:28:38Z"
     },
     {
-      "title": "Rapport: Ungerns köp av rysk olja finansierar Orbáns propaganda",
-      "summary": "Oberoende bulgariska tankesmedjan Center for the Study of Democracy säger att Ungern planerar att fortsätta köpa rysk olja eftersom den är billigare och leder till lägre bränslepriser för ungrarna. Men så är inte fallet, enligt en ny rapport från en oberoende bulgarisk tankesmedja. Den ryska råoljan är ungefär 20 procent billigare än alternativen.",
-      "url": "https://svt.se/nyheter/utrikes/rapport-ungerns-kop-av-rysk-olja-finansierar-orbans-propaganda",
-      "domain": "svt.se",
-      "published": "2026-03-03T15:31:07Z"
+      "title": "Australien förbjöd sociala medier för unga men Joel Quinlan skrollar vidare",
+      "summary": "Det är nu ett par månader sedan Australien blev det första landet i världen att förbjuda personer under 16 år att använda sociala medier. Restriktionerna gäller plattformar som Tiktok, Instagram, X och Reddit. Plattformarna ska kontrollera användarnas ålder, såsom genom ansiktsigenkänning, uppladdning av id eller genom nätbankskoder.",
+      "url": "https://yle.fi/a/7-10093586?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-03T13:01:32Z"
     },
     {
       "title": "De här vill ta makten i Iran: Monarkister, kurdiska miliser och en pseudomarxist…",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10094268?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-03T04:03:04Z"
-    },
-    {
-      "title": "Det här behöver du veta om attackerna mot Iran",
-      "summary": "USA och Israel attackerade hundratals mål på olika håll i Iran. Iran har attackerat israeliska och amerikanska mål i regionen. Israel genomför nu anfall mot Hizbollah i Libanon.",
-      "url": "https://yle.fi/a/7-10094258?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-02T07:43:43Z"
-    },
-    {
-      "title": "Putins Ryssland vill förbjuda Telegram: ”Regimen skjuter sig själv i foten",
-      "summary": "Ryssland planerar att förbjuda Telegram, landets främsta plattform för kommunikation och information. Enligt vissa uppgifter stängs appen den 1 april. Rysslandsforskaren Margarita Zavadskaya vid Finlands utrikespolitiska institut är övertygad om att förbudet genomförs.",
-      "url": "https://yle.fi/a/7-10094089?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-02T04:14:41Z"
     }
   ]
 }

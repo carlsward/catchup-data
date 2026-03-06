@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-05T08:01:23+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-06T07:59:22+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Kriget kommer inte ge oss fred eller demokrati",
-      "summary": "Atoosa Farahmand har skapat en utställning tillägnad de kvinnor i Iran som riskerar sina liv för frihet, demokrati och jämlikhet. Bilderna skildrar uppror i ett land där flickor och kvinnor inte får dansa, sjunga, boxas eller gå på fotbollsmatch. Hon lämnade Iran som 23 - åring för att kunna ägna sig åt sin konst.",
-      "url": "https://yle.fi/a/7-10094394?origin=rss",
+      "title": "Ryssland är den osynliga fienden i rummet när EU diskuterar utvidgning",
+      "summary": "EU: s kommissionär för grannskapspolitik Márta Kôs säger att utvidgningen är mycket mer än bara utvidgning. Hon säger att Ryssland är en osynlig fiende som ofta dyker upp i samband med utvidgningsförhandlingar. Hon påminner om att Rysslands krig mot Ukraina inte började förrän 2022, utan redan 2014 när Kiev valde att närma sig EU.",
+      "url": "https://yle.fi/a/7-10094186?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-05T05:27:04Z"
+      "published": "2026-03-06T03:30:03Z"
+    },
+    {
+      "title": "Amerikansk Mellanösternexpert om kriget i Iran: ”Hur slutar man när man väl börj…",
+      "summary": "Mellanösternexperten Aaron David Miller säger att USA har tydliga mål för Irans krig. Han säger att Donald Trump i morgon kan säga att det fortsätter så här i sex månader eller så kan han börja ge tecken på att han försöker trappa ned kriget. Miller är ledande expert på tankesmedjan Carnegie Endowment for International Peace.",
+      "url": "https://yle.fi/a/7-10094505?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-05T11:50:23Z"
     },
     {
       "title": "Iranska kurdkrigare i exil väntar på order om att gå ut i strid mot regimen",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10094268?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-03T04:03:04Z"
-    },
-    {
-      "title": "Putins Ryssland vill förbjuda Telegram: ”Regimen skjuter sig själv i foten",
-      "summary": "Ryssland planerar att förbjuda Telegram, landets främsta plattform för kommunikation och information. Enligt vissa uppgifter stängs appen den 1 april. Rysslandsforskaren Margarita Zavadskaya vid Finlands utrikespolitiska institut är övertygad om att förbudet genomförs.",
-      "url": "https://yle.fi/a/7-10094089?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-02T04:14:41Z"
     }
   ]
 }
