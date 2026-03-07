@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-06T07:59:22+00:00",
+  "generated": "2026-03-07T07:49:07+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ryssland är den osynliga fienden i rummet när EU diskuterar utvidgning",
-      "summary": "EU: s kommissionär för grannskapspolitik Márta Kôs säger att utvidgningen är mycket mer än bara utvidgning. Hon säger att Ryssland är en osynlig fiende som ofta dyker upp i samband med utvidgningsförhandlingar. Hon påminner om att Rysslands krig mot Ukraina inte började förrän 2022, utan redan 2014 när Kiev valde att närma sig EU.",
-      "url": "https://yle.fi/a/7-10094186?origin=rss",
+      "title": "Open AI ändrar avtal med USA:s militär efter massiv kritik",
+      "summary": "Open AI VD Sam Altman meddelade att man hade ingått ett avtal med Pentagon om att ta Anthropics plats. Altman hävdade att han lyckats förhandla fram ett nytt avtal, med samma sorts undantag för massövervakning och autonoma vapen. Avtalet ger samtidigt Open AI tillgång till ny data och nya möjligheter till affärskontrakt eftersom man får tillgång till hemligstämplade system.",
+      "url": "https://yle.fi/a/7-10094498?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-06T03:30:03Z"
+      "published": "2026-03-07T04:00:37Z"
+    },
+    {
+      "title": "Iranattacken sätter EU på prov",
+      "summary": "EU: s enighet sätts på prov när krisen i Mellanöstern kräver allt mer politisk uppmärksamhet. EU framstår som maktlöst i det som redan är ett krig i Iran, och det påverkar naturligtvis unionens allmänna trovärdighet, säger EU - parlamentarikern Eero Heinäluoma. Ett utdraget krig skulle kunna leda till en flyktingkris som kan överträffa flyktingkriserna i samband med krigen i Syrien och Irak, säger hon.",
+      "url": "https://yle.fi/a/7-10094605?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-06T13:10:58Z"
     },
     {
       "title": "Amerikansk Mellanösternexpert om kriget i Iran: ”Hur slutar man när man väl börj…",
@@ -23,18 +30,11 @@
       "published": "2026-03-05T11:50:23Z"
     },
     {
-      "title": "Iranska kurdkrigare i exil väntar på order om att gå ut i strid mot regimen",
-      "summary": "Sharare Moradyan har kämpat mot Irans regim i exil i tio år. Hon följde banan för ett amerikanskt flygplan som flög över Saudiarabien och hoppades att det skulle svänga mot Iran. Hon säger att hon greps flera gånger för att hon inte bar hijab som täckte håret.",
-      "url": "https://yle.fi/a/7-10094272?origin=rss",
+      "title": "Yles uppgifter: Regeringen har diskuterat att tillåta genomfart av kärnvapen",
+      "summary": "Regeringen diskuterar ifall Finland borde ändra sina begränsningar gällande kärnvapen. En av begränsningarna är förbudet mot kärnvapengenomfart, så kallad transitering, på finländskt territorium, i vårt luftrum eller våra havsområden. Enligt Yles källor har regeringen diskuterat frågan om genomfart av kärnvapen, men det är ännu oklart om diskussionen kommer att leda till betydande förändringar.",
+      "url": "https://yle.fi/a/7-10094502?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-04T04:28:38Z"
-    },
-    {
-      "title": "De här vill ta makten i Iran: Monarkister, kurdiska miliser och en pseudomarxist…",
-      "summary": "Oppositionen består av flera olika grupper med helt olika intressen och visioner för hur framtidens Iran ska se ut. Monarkisterna har redan visat att de inte klarar av att samarbeta, säger säkerhetsforskaren Rouzbeh Parsi. Men hur stort stöd Reza Pahlavi verkligen har i Iran är i praktiken omöjligt att säga.",
-      "url": "https://yle.fi/a/7-10094268?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-03T04:03:04Z"
+      "published": "2026-03-04T19:03:11Z"
     }
   ]
 }
