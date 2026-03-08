@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-07T07:47:13+00:00",
-  "total_raw": 16,
+  "generated": "2026-03-08T08:01:07+00:00",
+  "total_raw": 12,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Open AI ändrar avtal med USA:s militär efter massiv kritik",
-      "summary": "Open AI VD Sam Altman meddelade att man hade ingått ett avtal med Pentagon om att ta Anthropics plats. Altman hävdade att han lyckats förhandla fram ett nytt avtal, med samma sorts undantag för massövervakning och autonoma vapen. Avtalet ger samtidigt Open AI tillgång till ny data och nya möjligheter till affärskontrakt eftersom man får tillgång till hemligstämplade system.",
-      "url": "https://yle.fi/a/7-10094498?origin=rss",
+      "title": "En vecka sedan kriget mot Iran startade",
+      "summary": "Efter sju dagars krig i Mellanöstern finns det inget som tyder på att parterna är villiga att deeskalera. Israel har inlett ett flerfrontskrig i och med attackerna mot såväl Iran som shiamilisen Hizbollah i Libanon. Kriget har också spritt sig till Irans grannländer och EU: s yttre gränser.",
+      "url": "https://yle.fi/a/7-10094670?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-07T04:00:37Z"
+      "published": "2026-03-07T14:45:18Z"
     },
     {
-      "title": "Iranattacken sätter EU på prov",
-      "summary": "EU: s enighet sätts på prov när krisen i Mellanöstern kräver allt mer politisk uppmärksamhet. EU framstår som maktlöst i det som redan är ett krig i Iran, och det påverkar naturligtvis unionens allmänna trovärdighet, säger EU - parlamentarikern Eero Heinäluoma. Ett utdraget krig skulle kunna leda till en flyktingkris som kan överträffa flyktingkriserna i samband med krigen i Syrien och Irak, säger hon.",
-      "url": "https://yle.fi/a/7-10094605?origin=rss",
+      "title": "Kina väntas göra slut på motståndet i Tibet när Dalai lama dör",
+      "summary": "Tibetanernas 90 år gamla andliga ledare Dalai lama tänker inte ge vika. Han tvistar nu med Kina om hur hans efterträdare ska väljas efter hans bortgång. Barry Sautman säger att Kinas mål är att få kontroll över tibetanernas nästa andliga ledare.",
+      "url": "https://yle.fi/a/7-10093999?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-06T13:10:58Z"
+      "published": "2026-03-08T04:30:14Z"
     },
     {
-      "title": "Analys: Historisk vändning i synen på kärnvapen i Norden",
-      "summary": "Finland skulle i så fall bli det enda landet i Norden som tillåter kärnvapen. Sverige och Danmark var de första som sträckte upp handen när Frankrikes president Emmanuel Macron erbjöd andra länder samarbete om landets kärnvapen. När världen förändras förändras också Sverige.",
-      "url": "https://yle.fi/a/7-10094561?origin=rss",
+      "title": "Tredje världskriget startar inte i Iran, men Trumps hybris är ett allt större ho…",
+      "summary": "Risto E. J. Penttilä är expert på internationell politik och säger att USA just nu för två krig: ett synligt mot Iran – och ett osynligt där andra stormakter är huvudmotståndare.",
+      "url": "https://yle.fi/a/7-10094641?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-06T10:49:50Z"
+      "published": "2026-03-07T14:45:14Z"
     },
     {
-      "title": "Chartrat plan ska hämta svenskar i Dubai",
-      "summary": "Tusentals strandsatta runt om i Mellanöstern på grund av inställda flyg, och de flesta finns i Dubai. De 180 personer som nu erbjudits en plats på regeringens chartrade plan ska tillhöra sårbara grupper. Maria Malmer Stenergard: \" Som personer med en sjukdomsbild eller med små barn i familjen, framför allt barn under fem år \" Hon säger vidare att regeringen haft löpande kontakt med flyg - och resebolag i Sverige, men även med Emirates.",
-      "url": "https://svt.se/nyheter/utrikes/chartrat-plan-ska-hamta-svenskar-i-dubai",
+      "title": "Irans president bad om ursäkt",
+      "summary": "USA: s president Donald Trump krävde en \" villkorslös kapitulation \" av Iran. Men i ett tv - sänt tal kallade Irans president Masoud Pezeshkian kravet för en dröm som de borde ta med sig till graven. Den iranska presidenten bad om ursäkt för att ha attackerat grannländer i regionen – och sa att det skulle upphöra.",
+      "url": "https://svt.se/nyheter/utrikes/irans-president-bad-om-ursakt-samtidigt-attackerades-grannlander",
       "domain": "svt.se",
-      "published": "2026-03-06T13:08:37Z"
+      "published": "2026-03-07T12:12:56Z"
     },
     {
-      "title": "Satellitbilder visar förödelsen på amerikanska militärbaser",
-      "summary": "Det finns minst 36 amerikanska militärbaser i Mellanöstern, enligt den säkerhetspolitiska tankesmedjan American Security Project. SVT: s analys visar omfattande skador på flera av anläggningarna. Bland annat har flyghangarer, bränsledepåer och boendeområden förstörts.",
-      "url": "https://svt.se/nyheter/utrikes/satellitbilder-visar-forodelsen-pa-amerikanska-militarbaser",
+      "title": "Explosion vid USA:s ambassad i Oslo",
+      "summary": "Det finns inga uppgifter om personskador, men ingången till den amerikanska ambassaden har fått mindre skador. En omfattande insats letar nu efter en eller flera gärningspersoner. Enligt vittnen används drönare, hundpatruller och en helikopter i jakten.",
+      "url": "https://svt.se/nyheter/utrikes/larm-om-explosion-vid-usas-ambassad-i-olso",
       "domain": "svt.se",
-      "published": "2026-03-06T19:01:10Z"
+      "published": "2026-03-08T01:29:33Z"
     }
   ]
 }
