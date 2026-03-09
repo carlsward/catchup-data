@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-08T08:01:07+00:00",
-  "total_raw": 12,
+  "generated": "2026-03-09T08:04:59+00:00",
+  "total_raw": 14,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "En vecka sedan kriget mot Iran startade",
-      "summary": "Efter sju dagars krig i Mellanöstern finns det inget som tyder på att parterna är villiga att deeskalera. Israel har inlett ett flerfrontskrig i och med attackerna mot såväl Iran som shiamilisen Hizbollah i Libanon. Kriget har också spritt sig till Irans grannländer och EU: s yttre gränser.",
-      "url": "https://yle.fi/a/7-10094670?origin=rss",
+      "title": "Merz och CDU:s klara seger i tyskt delstatsval kan falla på toppkandidatens sexi…",
+      "summary": "CDU: s kandidat Manuel Hagel berättar om ett besök i en skolklass. Han säger att det för en 29 - årig ledamot finns värre uppdrag än att besöka en skola med 80 procent flickor. Merz och Hagel har kritiserats för sin kvinnosyn.",
+      "url": "https://yle.fi/a/7-10094622?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-07T14:45:18Z"
+      "published": "2026-03-08T13:17:12Z"
     },
     {
-      "title": "Kina väntas göra slut på motståndet i Tibet när Dalai lama dör",
-      "summary": "Tibetanernas 90 år gamla andliga ledare Dalai lama tänker inte ge vika. Han tvistar nu med Kina om hur hans efterträdare ska väljas efter hans bortgång. Barry Sautman säger att Kinas mål är att få kontroll över tibetanernas nästa andliga ledare.",
-      "url": "https://yle.fi/a/7-10093999?origin=rss",
+      "title": "Mojtaba Khamenei utnämnd till Irans högsta ledare",
+      "summary": "Mojtaba Khamenei är den tredje ledaren för Iran sedan den islamiska revolutionen 1979. Han efterträder sin far, som styrde Iran med järnhand i 37 år. Den högsta andliga ledaren innehar den största politiska och moraliska makten.",
+      "url": "https://yle.fi/a/7-10094694?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-08T04:30:14Z"
+      "published": "2026-03-08T21:18:45Z"
     },
     {
-      "title": "Tredje världskriget startar inte i Iran, men Trumps hybris är ett allt större ho…",
-      "summary": "Risto E. J. Penttilä är expert på internationell politik och säger att USA just nu för två krig: ett synligt mot Iran – och ett osynligt där andra stormakter är huvudmotståndare.",
-      "url": "https://yle.fi/a/7-10094641?origin=rss",
+      "title": "Det här har hänt i Mellanöstern under natten och morgonen",
+      "summary": "Explosioner har rapporterats i provinserna Yazd och Isfahan. Irans revolutionsgarde säger att de är redo att strida intensivt åtminstone i sex månader. Israel har hotat med nya attacker mot efterträdaren.",
+      "url": "https://yle.fi/a/7-10094688?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-07T14:45:14Z"
+      "published": "2026-03-08T09:39:40Z"
     },
     {
-      "title": "Irans president bad om ursäkt",
-      "summary": "USA: s president Donald Trump krävde en \" villkorslös kapitulation \" av Iran. Men i ett tv - sänt tal kallade Irans president Masoud Pezeshkian kravet för en dröm som de borde ta med sig till graven. Den iranska presidenten bad om ursäkt för att ha attackerat grannländer i regionen – och sa att det skulle upphöra.",
-      "url": "https://svt.se/nyheter/utrikes/irans-president-bad-om-ursakt-samtidigt-attackerades-grannlander",
+      "title": "Kristersson: Vet precis vad Iran är kapabla till",
+      "summary": "USA: s ambassad i Stockholm uppmanar amerikaner i Sverige att vara försiktiga. Terrorforskaren Magnus Ranstorp säger att Irans agerande i världen är \" något helt annat än till exempel IS - terrorism \" Han säger att det finns utsända individer eller ombud som på uppdrag av den iranska regimen kan göra något. Statsminister Ulf Kristersson: \" Man ska inte vara rädd, vi är förberedda för detta och har varit under en lång tid.",
+      "url": "https://svt.se/nyheter/utrikes/kristersson-vet-precis-vad-iran-ar-kapabla-till",
       "domain": "svt.se",
-      "published": "2026-03-07T12:12:56Z"
+      "published": "2026-03-08T22:29:45Z"
     },
     {
-      "title": "Explosion vid USA:s ambassad i Oslo",
-      "summary": "Det finns inga uppgifter om personskador, men ingången till den amerikanska ambassaden har fått mindre skador. En omfattande insats letar nu efter en eller flera gärningspersoner. Enligt vittnen används drönare, hundpatruller och en helikopter i jakten.",
-      "url": "https://svt.se/nyheter/utrikes/larm-om-explosion-vid-usas-ambassad-i-olso",
+      "title": "Här räddas Ukrainas skadade vapensystem",
+      "summary": "Enheten reparerar vapensystem för hela fronten vid Zaporizjzja. Det beror på den intensiva ryska artilleribeskjutningen, drönarsvärmarna och den rekordstora mängden minor längs med frontlinjen. Varje stillastående vapen är mindre på slagfältet.",
+      "url": "https://svt.se/nyheter/utrikes/har-raddas-ukrainas-skadade-vapensystem",
       "domain": "svt.se",
-      "published": "2026-03-08T01:29:33Z"
+      "published": "2026-03-08T15:38:04Z"
     }
   ]
 }

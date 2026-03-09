@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-08T08:03:03+00:00",
+  "generated": "2026-03-09T08:06:48+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Litauen lär skolbarn flyga drönare för att försvara landet",
+      "summary": "Drönarkurser har blivit allt viktigare på slagfältet i Ukraina. Litauen har inte resurser att upprätthålla ett eget flygvapen och satsar istället på välutrustad armé och drönare. Centren för drönarutbildning öppnades före nyår och totalt ska det grundas nio sådana.",
+      "url": "https://yle.fi/a/7-10086721?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-09T04:43:40Z"
+    },
     {
       "title": "Kina väntas göra slut på motståndet i Tibet när Dalai lama dör",
       "summary": "Tibetanernas 90 år gamla andliga ledare Dalai lama tänker inte ge vika. Han tvistar nu med Kina om hur hans efterträdare ska väljas efter hans bortgång. Barry Sautman säger att Kinas mål är att få kontroll över tibetanernas nästa andliga ledare.",
@@ -23,18 +30,11 @@
       "published": "2026-03-07T14:45:18Z"
     },
     {
-      "title": "Iranattacken sätter EU på prov",
-      "summary": "EU: s enighet sätts på prov när krisen i Mellanöstern kräver allt mer politisk uppmärksamhet. EU framstår som maktlöst i det som redan är ett krig i Iran, och det påverkar naturligtvis unionens allmänna trovärdighet, säger EU - parlamentarikern Eero Heinäluoma. Ett utdraget krig skulle kunna leda till en flyktingkris som kan överträffa flyktingkriserna i samband med krigen i Syrien och Irak, säger hon.",
-      "url": "https://yle.fi/a/7-10094605?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-06T13:10:58Z"
-    },
-    {
-      "title": "ChatGPT",
-      "summary": "Palantir är ett techjätte med flera av världens försvar och myndigheter som kunder. Företaget bygger plattformar där kunderna samlar enorma mängder data som analyseras och visualiseras för att kunna fatta beslut. Företaget vägrar att böja sig för Donald Trumps krav på att deras AI ska kunna användas utan begränsningar i militären.",
-      "url": "https://svt.se/nyheter/utrikes/chatgpt-med-ratt-att-doda",
+      "title": "Chartrat plan ska hämta svenskar i Dubai",
+      "summary": "Tusentals strandsatta runt om i Mellanöstern på grund av inställda flyg, och de flesta finns i Dubai. De 180 personer som nu erbjudits en plats på regeringens chartrade plan ska tillhöra sårbara grupper. Maria Malmer Stenergard: \" Som personer med en sjukdomsbild eller med små barn i familjen, framför allt barn under fem år \" Hon säger vidare att regeringen haft löpande kontakt med flyg - och resebolag i Sverige, men även med Emirates.",
+      "url": "https://svt.se/nyheter/utrikes/chartrat-plan-ska-hamta-svenskar-i-dubai",
       "domain": "svt.se",
-      "published": "2026-03-05T15:04:16Z"
+      "published": "2026-03-06T13:08:37Z"
     }
   ]
 }

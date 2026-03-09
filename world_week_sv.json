@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-08T08:02:20+00:00",
+  "generated": "2026-03-09T08:06:10+00:00",
   "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Litauen lär skolbarn flyga drönare för att försvara landet",
+      "summary": "Drönarkurser har blivit allt viktigare på slagfältet i Ukraina. Litauen har inte resurser att upprätthålla ett eget flygvapen och satsar istället på välutrustad armé och drönare. Centren för drönarutbildning öppnades före nyår och totalt ska det grundas nio sådana.",
+      "url": "https://yle.fi/a/7-10086721?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-09T04:43:40Z"
+    },
+    {
+      "title": "9 mars: Nattens nyheter",
+      "summary": "Kraftiga fall på Asienbörserna Flera av börserna i Asien rasar strax efter öppningen. Nikkei 225 var efter en timme nere med 6, 5 procent. Oljepriset rusar – över 100 dollar fatet Kriget i Iran får priset på olja att rusa.",
+      "url": "https://svt.se/nyheter/utrikes/9-mars-nattens-nyheter-1tqs98",
+      "domain": "svt.se",
+      "published": "2026-03-09T04:17:02Z"
+    },
+    {
+      "title": "Kristersson: Vet precis vad Iran är kapabla till",
+      "summary": "USA: s ambassad i Stockholm uppmanar amerikaner i Sverige att vara försiktiga. Terrorforskaren Magnus Ranstorp säger att Irans agerande i världen är \" något helt annat än till exempel IS - terrorism \" Han säger att det finns utsända individer eller ombud som på uppdrag av den iranska regimen kan göra något. Statsminister Ulf Kristersson: \" Man ska inte vara rädd, vi är förberedda för detta och har varit under en lång tid.",
+      "url": "https://svt.se/nyheter/utrikes/kristersson-vet-precis-vad-iran-ar-kapabla-till",
+      "domain": "svt.se",
+      "published": "2026-03-08T22:29:45Z"
+    },
+    {
       "title": "Kina väntas göra slut på motståndet i Tibet när Dalai lama dör",
       "summary": "Tibetanernas 90 år gamla andliga ledare Dalai lama tänker inte ge vika. Han tvistar nu med Kina om hur hans efterträdare ska väljas efter hans bortgång. Barry Sautman säger att Kinas mål är att få kontroll över tibetanernas nästa andliga ledare.",
       "url": "https://yle.fi/a/7-10093999?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-08T04:30:14Z"
-    },
-    {
-      "title": "Explosion vid USA:s ambassad i Oslo",
-      "summary": "Det finns inga uppgifter om personskador, men ingången till den amerikanska ambassaden har fått mindre skador. En omfattande insats letar nu efter en eller flera gärningspersoner. Enligt vittnen används drönare, hundpatruller och en helikopter i jakten.",
-      "url": "https://svt.se/nyheter/utrikes/larm-om-explosion-vid-usas-ambassad-i-olso",
-      "domain": "svt.se",
-      "published": "2026-03-08T01:29:33Z"
     },
     {
       "title": "En vecka sedan kriget mot Iran startade",
@@ -37,32 +51,18 @@
       "published": "2026-03-07T12:12:56Z"
     },
     {
-      "title": "Iranattacken sätter EU på prov",
-      "summary": "EU: s enighet sätts på prov när krisen i Mellanöstern kräver allt mer politisk uppmärksamhet. EU framstår som maktlöst i det som redan är ett krig i Iran, och det påverkar naturligtvis unionens allmänna trovärdighet, säger EU - parlamentarikern Eero Heinäluoma. Ett utdraget krig skulle kunna leda till en flyktingkris som kan överträffa flyktingkriserna i samband med krigen i Syrien och Irak, säger hon.",
-      "url": "https://yle.fi/a/7-10094605?origin=rss",
+      "title": "Svenska kustbevakningen bordade misstänkt fartyg",
+      "summary": "Fartyget seglar under guineansk flagg men kustbevakningen misstänker att det är statslöst. Utan flaggstat finns det inte någon stat som går i god för fartygets säkerhet och sjövärdighet. Operationen ägde rum i Östersjön på Sveriges sjöterritorium i höjd med Trelleborg, som ligger i sydligaste Sverige.",
+      "url": "https://yle.fi/a/7-10094660?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-06T13:10:58Z"
+      "published": "2026-03-06T20:53:05Z"
     },
     {
-      "title": "Tonåringen greps tre gånger för sång på gatan: ”Jag är rädd för ljudet av dörrar",
-      "summary": "Enligt människorättsorganisationer har gripandet av gatumusikanter ökat i takt med att flera lagar mot att kritisera kriget har instiftats. Ett uppmärksammat exempel är den ryska gruppen Stoptime. När de började spela på gatorna i Sankt Petersburg hösten 2025, tänkte de inte särskilt mycket på några risker.",
-      "url": "https://svt.se/nyheter/utrikes/tonaringen-greps-tre-ganger-for-sang-pa-gatan-jag-ar-radd-for-ljudet-av-dorrar",
+      "title": "Chartrat plan ska hämta svenskar i Dubai",
+      "summary": "Tusentals strandsatta runt om i Mellanöstern på grund av inställda flyg, och de flesta finns i Dubai. De 180 personer som nu erbjudits en plats på regeringens chartrade plan ska tillhöra sårbara grupper. Maria Malmer Stenergard: \" Som personer med en sjukdomsbild eller med små barn i familjen, framför allt barn under fem år \" Hon säger vidare att regeringen haft löpande kontakt med flyg - och resebolag i Sverige, men även med Emirates.",
+      "url": "https://svt.se/nyheter/utrikes/chartrat-plan-ska-hamta-svenskar-i-dubai",
       "domain": "svt.se",
-      "published": "2026-03-06T05:06:50Z"
-    },
-    {
-      "title": "ChatGPT",
-      "summary": "Palantir är ett techjätte med flera av världens försvar och myndigheter som kunder. Företaget bygger plattformar där kunderna samlar enorma mängder data som analyseras och visualiseras för att kunna fatta beslut. Företaget vägrar att böja sig för Donald Trumps krav på att deras AI ska kunna användas utan begränsningar i militären.",
-      "url": "https://svt.se/nyheter/utrikes/chatgpt-med-ratt-att-doda",
-      "domain": "svt.se",
-      "published": "2026-03-05T15:04:16Z"
-    },
-    {
-      "title": "Experten: Det avgör kriget i Mellanösterns utveckling",
-      "summary": "USA: s och Israels attacker mot Iran handlade om ett \" förebyggande anfall \" Enligt uppgift arbetar CIA för att för att beväpna kurdiska miliser i syfte att utlösa ett uppror i Iran. Högre dödssiffror kan snabbt öka instabiliteten I dag har ytterligare runt 14 nationer i regionen dragits in i konflikten när Iran riktar motattacker mot länder som hyser amerikanska militärbaser. Avgörande för möjligheten till förhandling En annan aspekt som kommer att avgöra utvecklingen är huruvida det slutgiltiga målet är att störta det iranska styret.",
-      "url": "https://svt.se/nyheter/utrikes/experten-det-avgor-kriget-i-mellanosterns-utveckling",
-      "domain": "svt.se",
-      "published": "2026-03-05T14:57:14Z"
+      "published": "2026-03-06T13:08:37Z"
     }
   ]
 }
