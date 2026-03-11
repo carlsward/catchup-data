@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-10T07:59:47+00:00",
+  "generated": "2026-03-11T07:59:28+00:00",
   "total_raw": 40,
-  "total_rank": 5,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Israels före detta ambassadör i Moskva om kriget: ”Putin känner sig mycket obekv…",
-      "summary": "Arkady Mil - Man är programchef för Rysslandsstudier vid Institute for National Security Studies, INSS. Han säger att det pågående kriget har skakat om Kreml och gjort de globala maktförhållandena uppenbara. Han varnar för att Ryssland fortfarande utgör ett reellt hot mot Europa och hotar de baltiska staterna.",
-      "url": "https://yle.fi/a/7-10094712?origin=rss",
+      "title": "Europas upprustning hotar att falla på finansieringen",
+      "summary": "Europa står inför ett tredubbelt säkerhetshot med Rysslands imperialistiska ambitioner och Kinas njugga inställning till USA. Samtidigt kämpar EU - länderna med att nå upp till Natos mål om att höja försvarsutgifterna till fem procent före 2035. I Frankrike, Tyskland och Storbritannien ligger ytterhögern kring 20 – 30 procent i opinionen och kan vinna kommande nationella val.",
+      "url": "https://yle.fi/a/7-10094826?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-10T06:30:14Z"
+      "published": "2026-03-11T03:00:14Z"
+    },
+    {
+      "title": "CNN: Minor i Hormuzsundet",
+      "summary": "Källor inom rederibranschen uppger att den amerikanska flottan bedömer att risken för anfall är för stor för att man ska eskortera kommersiella fartyg genom sundet. USA: s försvarsministerium meddelade tidigare på tisdagen att man skulle förstöra iranska minfartyg och - lager. Enligt Trump har USA inga uppgifter om att minor skulle ha lagts ut i sundet.",
+      "url": "https://yle.fi/a/7-10094830?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-10T17:50:01Z"
     },
     {
       "title": "Irans hårda linje väntas fortsätta efter valet av den nya ledaren",
@@ -23,25 +30,11 @@
       "published": "2026-03-09T15:11:41Z"
     },
     {
-      "title": "Merz och CDU:s klara seger i tyskt delstatsval kan falla på toppkandidatens sexi…",
-      "summary": "CDU: s kandidat Manuel Hagel berättar om ett besök i en skolklass. Han säger att det för en 29 - årig ledamot finns värre uppdrag än att besöka en skola med 80 procent flickor. Merz och Hagel har kritiserats för sin kvinnosyn.",
-      "url": "https://yle.fi/a/7-10094622?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-08T13:17:12Z"
-    },
-    {
-      "title": "Irans president bad om ursäkt",
-      "summary": "USA: s president Donald Trump krävde en \" villkorslös kapitulation \" av Iran. Men i ett tv - sänt tal kallade Irans president Masoud Pezeshkian kravet för en dröm som de borde ta med sig till graven. Den iranska presidenten bad om ursäkt för att ha attackerat grannländer i regionen – och sa att det skulle upphöra.",
-      "url": "https://svt.se/nyheter/utrikes/irans-president-bad-om-ursakt-samtidigt-attackerades-grannlander",
+      "title": "Kristersson: Vet precis vad Iran är kapabla till",
+      "summary": "USA: s ambassad i Stockholm uppmanar amerikaner i Sverige att vara försiktiga. Terrorforskaren Magnus Ranstorp säger att Irans agerande i världen är \" något helt annat än till exempel IS - terrorism \" Han säger att det finns utsända individer eller ombud som på uppdrag av den iranska regimen kan göra något. Statsminister Ulf Kristersson: \" Man ska inte vara rädd, vi är förberedda för detta och har varit under en lång tid.",
+      "url": "https://svt.se/nyheter/utrikes/kristersson-vet-precis-vad-iran-ar-kapabla-till",
       "domain": "svt.se",
-      "published": "2026-03-07T12:12:56Z"
-    },
-    {
-      "title": "Island ska folkomrösta om EU-förhandlingar",
-      "summary": "Efter att Island dragit tillbaka sin medlemskapsansökan från 2009 har frågan om ett framtida medlemskap legat långt ned på den politiska dagordningen. 2009 försökte Island hantera en eskalerande finanskris, 2015 hade landet återhämtat sig samtidigt som euro - krisen fördjupades. Efter Ukrainakrigets utbrott förändrades den geopolitiska situationen i Europa snabbt.",
-      "url": "https://svt.se/nyheter/utrikes/island-ska-folkomrosta-om-eu-forhandlingar",
-      "domain": "svt.se",
-      "published": "2026-03-06T21:22:44Z"
+      "published": "2026-03-08T22:29:45Z"
     }
   ]
 }
