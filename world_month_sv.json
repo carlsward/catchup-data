@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-11T07:59:28+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-12T08:04:45+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Europas upprustning hotar att falla på finansieringen",
-      "summary": "Europa står inför ett tredubbelt säkerhetshot med Rysslands imperialistiska ambitioner och Kinas njugga inställning till USA. Samtidigt kämpar EU - länderna med att nå upp till Natos mål om att höja försvarsutgifterna till fem procent före 2035. I Frankrike, Tyskland och Storbritannien ligger ytterhögern kring 20 – 30 procent i opinionen och kan vinna kommande nationella val.",
-      "url": "https://yle.fi/a/7-10094826?origin=rss",
+      "title": "I Finland kan ni komma överens, i Frankrike är vi radikalare",
+      "summary": "Våldet trappas upp på båda utkanterna av det politiska fältet. Tolv personer har dödats i politiskt våld sedan 2022. Fallen av misshandel är många fler och har riktats mot anhängare, kandidater och borgmästare på små och medelstora orter.",
+      "url": "https://yle.fi/a/7-10094139?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-11T03:00:14Z"
+      "published": "2026-03-12T08:00:14Z"
+    },
+    {
+      "title": "Så här försöker Putins Ryssland utnyttja det skyhöga oljepriset",
+      "summary": "Ryssland står för 16 % av Europas LNG - import och 13 % av de totala gasleveranserna. President Putin kallade till ett stort möte i Moskva med ministrar och ledare från energisektorn för att diskutera effekterna av kriget i Mellanöstern. På mötet tog Putin upp EU - ländernas beslut att stegvis sluta importera rysk naturgas och olja fram till slutet av 2027.",
+      "url": "https://yle.fi/a/7-10094733?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-11T09:00:14Z"
     },
     {
       "title": "CNN: Minor i Hormuzsundet",
@@ -23,18 +30,11 @@
       "published": "2026-03-10T17:50:01Z"
     },
     {
-      "title": "Irans hårda linje väntas fortsätta efter valet av den nya ledaren",
-      "summary": "Mojtaba Khamenei den yngre har varit en figur som hållit sig ganska långt i bakgrunden under sin fars styre. Hans inflytande sägs vara stort men det är svårt att veta exakt hur det ser ut på grund av hemlighetsmakeriet. En del spekulerar om att det handlar om överlevnad för regimen i första hand, och att arvstanken då får stå åt sidan, precis som krav på att man ska ha tillräckligt med teologisk status.",
-      "url": "https://yle.fi/a/7-10094723?origin=rss",
+      "title": "Hur stoppa drönare som jagar i flock? Överste som kallats Finlands Q ger svar",
+      "summary": "Drönare har förändrat krigföringen i Ukraina. Små obemannade farkoster har förstört stridsvagnar, letat upp mål för artilleriet och stört truppmanövrar. I en svärm gör inte alla drönare samma sak, utan de har olika roller.",
+      "url": "https://yle.fi/a/7-10094761?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-09T15:11:41Z"
-    },
-    {
-      "title": "Kristersson: Vet precis vad Iran är kapabla till",
-      "summary": "USA: s ambassad i Stockholm uppmanar amerikaner i Sverige att vara försiktiga. Terrorforskaren Magnus Ranstorp säger att Irans agerande i världen är \" något helt annat än till exempel IS - terrorism \" Han säger att det finns utsända individer eller ombud som på uppdrag av den iranska regimen kan göra något. Statsminister Ulf Kristersson: \" Man ska inte vara rädd, vi är förberedda för detta och har varit under en lång tid.",
-      "url": "https://svt.se/nyheter/utrikes/kristersson-vet-precis-vad-iran-ar-kapabla-till",
-      "domain": "svt.se",
-      "published": "2026-03-08T22:29:45Z"
+      "published": "2026-03-09T18:34:59Z"
     }
   ]
 }
