@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-12T08:04:00+00:00",
+  "generated": "2026-03-13T08:00:36+00:00",
   "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Här är bevisen som pekar mot USA i attacken mot flickskolan",
+      "summary": "Satellitbilder visar att skolbyggnaden tidigare har legat innanför det militära området. Ett viktigt bevis är ett videoklipp som visar hur en robot slår ned på området. Trots olika påståenden som cirkulerar på nätet är ammunitionen \" helt klart inte en iransk Soumar - robot, \" analytiker berättar för Washington Post.",
+      "url": "https://svt.se/nyheter/utrikes/har-ar-bevisen-som-pekar-mot-usa-i-attacken-mot-flickskolan",
+      "domain": "svt.se",
+      "published": "2026-03-13T04:45:10Z"
+    },
+    {
+      "title": "Amerikanerna känner av Irankriget vid bensinpumpen: ”Det suger",
+      "summary": "Sedan USA och Israel anföll Iran för snart två veckor sedan har priset på bränsle ökat med 20 procent på nationell nivå i USA. Prisökningen beror på att oljan blivit dyrare på grund av riskerna med kriget och Irans beslut att stänga Hormuzsundet. USA: s president Donald Trump har varnat amerikanerna för att bränslepriserna kommer att stiga i och med kriget, men samtidigt sagt att de inte ökat så mycket som han tänkt sig.",
+      "url": "https://yle.fi/a/7-10094907?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-13T03:31:03Z"
+    },
+    {
+      "title": "Tåg mellan Kina och Nordkorea går igen",
+      "summary": "Kina har länge kunnat öppna upp sina gränser mot omvärlden efter pandemin. Nordkorea har tagit längre tid, med flyg och tåg till Ryssland som undantag. Under torsdagen börjar tågen rulla mellan den nordkoreanska huvudstaden Pyongyang och den kinesiska gränsstaden Dandong.",
+      "url": "https://svt.se/nyheter/utrikes/tag-mellan-kina-och-nordkorea-gar-igen-ska-lappa-ihop-relationen",
+      "domain": "svt.se",
+      "published": "2026-03-12T21:37:02Z"
+    },
+    {
       "title": "I Finland kan ni komma överens, i Frankrike är vi radikalare",
-      "summary": "Våldet trappas upp på båda utkanterna av det politiska fältet. Tolv personer har dödats i politiskt våld sedan 2022. Fallen av misshandel är många fler och har riktats mot anhängare, kandidater och borgmästare på små och medelstora orter.",
+      "summary": "Tusentals människor utsätts för fysiskt eller verbalt våld varje år. Många fransmän talar om en ökad allmän oro och spänning i samhället. Våldet trappas nu upp på båda utkanterna av det politiska fältet.",
       "url": "https://yle.fi/a/7-10094139?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-12T08:00:14Z"
-    },
-    {
-      "title": "USA gör omtag i tullfrågan",
-      "summary": "Jamieson Greer sa att stora överskott i handelsbalansen är ett tecken på orättvisa. Han stödde sig på en 1977 lag som ger presidenten rätt att deklarera nödläge i samband med \" ovanliga och extraordinära \" utländska hot. Men det hade han inte rätt till, fastslog Högsta domstolen i februari.",
-      "url": "https://svt.se/nyheter/utrikes/usa-gor-omtag-i-tullfragan-utreder-orattvis-handel",
-      "domain": "svt.se",
-      "published": "2026-03-12T04:35:02Z"
     },
     {
       "title": "Experten: Så hänger Libanon ihop med kriget i Iran",
@@ -44,25 +58,11 @@
       "published": "2026-03-10T17:50:01Z"
     },
     {
-      "title": "Tre Gen Z-protester",
-      "summary": "Unga nepaleser samlades i huvudstaden Antananarivo för att protestera mot el - och vattenbrist, stigande levnadskostnader och korruption. Krisen fördjupades när en elitenhet inom militären tog makten efter att presidenten Andry Rajoelina flytt landet. Premiärminister Sheikh Hasina flydde landet och i oktober 2025 dömdes hon för sin roll i att över 1 400 personer dödades under protesterna.",
-      "url": "https://svt.se/nyheter/utrikes/tre-gen-z-protester-sa-gick-det-sen",
-      "domain": "svt.se",
-      "published": "2026-03-10T16:12:57Z"
-    },
-    {
-      "title": "Oro för att Irak dras in desto längre kriget pågår",
-      "summary": "Fler än 200 missil - och drönarattacker riktade mot irakiska Kurdistan sedan kriget mellan USA, Israel och Iran bröt ut. Bakom attackerna står det iranska revolutionsgardet men också iranstödda väpnade irakiska miliser. Under helgen tillbakavisade USA uppgifterna om att USA planerar att beväpna iranska kurdiska exilgrupper med baser i gränsområdet för en markoperation in i Iran.",
-      "url": "https://svt.se/nyheter/utrikes/oro-for-att-irak-dras-in-desto-langre-kriget-pagar",
-      "domain": "svt.se",
-      "published": "2026-03-09T21:34:00Z"
-    },
-    {
-      "title": "Hur stoppa drönare som jagar i flock? Överste som kallats Finlands Q ger svar",
-      "summary": "Drönare har förändrat krigföringen i Ukraina. Små obemannade farkoster har förstört stridsvagnar, letat upp mål för artilleriet och stört truppmanövrar. I en svärm gör inte alla drönare samma sak, utan de har olika roller.",
-      "url": "https://yle.fi/a/7-10094761?origin=rss",
+      "title": "Så här hotar Iran världens viktigaste oljefarled",
+      "summary": "20 procent av den olja som produceras i världen transporteras genom sundet varje dag. Iran har kapacitet att göra stor skada med lite USA: s militära fokus ligger på att förstöra platser där robotar avfyras eller stora ammunitionsdepåer och anläggningar som kan utgöra ett hot. Det finns dock ingen tidsram för när den utlovade eskortplanen skulle sättas i verket.",
+      "url": "https://yle.fi/a/7-10094811?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-09T18:34:59Z"
+      "published": "2026-03-10T13:31:13Z"
     }
   ]
 }

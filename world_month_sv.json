@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-12T08:04:45+00:00",
+  "generated": "2026-03-13T08:01:18+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Amerikanerna känner av Irankriget vid bensinpumpen: ”Det suger",
+      "summary": "Sedan USA och Israel anföll Iran för snart två veckor sedan har priset på bränsle ökat med 20 procent på nationell nivå i USA. Prisökningen beror på att oljan blivit dyrare på grund av riskerna med kriget och Irans beslut att stänga Hormuzsundet. USA: s president Donald Trump har varnat amerikanerna för att bränslepriserna kommer att stiga i och med kriget, men samtidigt sagt att de inte ökat så mycket som han tänkt sig.",
+      "url": "https://yle.fi/a/7-10094907?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-13T03:31:03Z"
+    },
+    {
       "title": "I Finland kan ni komma överens, i Frankrike är vi radikalare",
-      "summary": "Våldet trappas upp på båda utkanterna av det politiska fältet. Tolv personer har dödats i politiskt våld sedan 2022. Fallen av misshandel är många fler och har riktats mot anhängare, kandidater och borgmästare på små och medelstora orter.",
+      "summary": "Tusentals människor utsätts för fysiskt eller verbalt våld varje år. Många fransmän talar om en ökad allmän oro och spänning i samhället. Våldet trappas nu upp på båda utkanterna av det politiska fältet.",
       "url": "https://yle.fi/a/7-10094139?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-12T08:00:14Z"
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10094830?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-10T17:50:01Z"
-    },
-    {
-      "title": "Hur stoppa drönare som jagar i flock? Överste som kallats Finlands Q ger svar",
-      "summary": "Drönare har förändrat krigföringen i Ukraina. Små obemannade farkoster har förstört stridsvagnar, letat upp mål för artilleriet och stört truppmanövrar. I en svärm gör inte alla drönare samma sak, utan de har olika roller.",
-      "url": "https://yle.fi/a/7-10094761?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-09T18:34:59Z"
     }
   ]
 }
