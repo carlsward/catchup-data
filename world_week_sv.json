@@ -2,15 +2,29 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-13T08:00:36+00:00",
+  "generated": "2026-03-14T07:58:31+00:00",
   "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Här är bevisen som pekar mot USA i attacken mot flickskolan",
-      "summary": "Satellitbilder visar att skolbyggnaden tidigare har legat innanför det militära området. Ett viktigt bevis är ett videoklipp som visar hur en robot slår ned på området. Trots olika påståenden som cirkulerar på nätet är ammunitionen \" helt klart inte en iransk Soumar - robot, \" analytiker berättar för Washington Post.",
+      "title": "Explosion vid judisk skola i Amsterdam",
+      "summary": "Händelsen betraktas av både Halsema som polisen och rättsväsendet som en riktad attack mot den judiska gemenskapen. Polisen analyserar material från övervakningskameror, där en person ses utlösa en sprängladdning, enligt Telegraaf. På fredag greps fyra män efter en explosion utanför en synagoga i Rotterdam, enligt nyhetsbyrån AFP.",
+      "url": "https://svt.se/nyheter/utrikes/explosion-vid-judisk-skola-i-amsterdam",
+      "domain": "svt.se",
+      "published": "2026-03-14T06:35:02Z"
+    },
+    {
+      "title": "EU-ledare kräver åtgärder för att hindra ryska krigsveteraner från att röra sig…",
+      "summary": "Åtta EU - ledare uppmanar till åtgärder för att hindra tidigare ryska krigare från att röra sig fritt inom EU. Ledarna hänvisar till att 180 000 brottslingar rekryterats från ryska fängelser för att strida i Ukraina. De påpekar att personer med stridserfarenhet kan utgöra en risk inom EU för ökat våld, organiserad brottslighet, politisk extremism eller fientlig statlig verksamhet.",
+      "url": "https://yle.fi/a/7-10095043?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-14T03:23:05Z"
+    },
+    {
+      "title": "Här är bevisen som pekar på USA i attacken mot flickskolan",
+      "summary": "I videon ovan kan du se bevis som motsäger Donald Trumps påstående om attacken mot skolan i Minab i Iran. Enligt Irans utrikesminister var byggnaden som träffades en grundskola för flickor. På området finns två vakttorn och kontrollerade infartspunkter för fordon och fotgängare, enligt analytikern William Goodhind som har analyserat satellitbilder.",
       "url": "https://svt.se/nyheter/utrikes/har-ar-bevisen-som-pekar-mot-usa-i-attacken-mot-flickskolan",
       "domain": "svt.se",
       "published": "2026-03-13T04:45:10Z"
@@ -24,7 +38,7 @@
     },
     {
       "title": "Tåg mellan Kina och Nordkorea går igen",
-      "summary": "Kina har länge kunnat öppna upp sina gränser mot omvärlden efter pandemin. Nordkorea har tagit längre tid, med flyg och tåg till Ryssland som undantag. Under torsdagen börjar tågen rulla mellan den nordkoreanska huvudstaden Pyongyang och den kinesiska gränsstaden Dandong.",
+      "summary": "Kina har kunnat öppna upp sina gränser mot omvärlden efter pandemin. Nordkorea har tagit längre tid, med Ryssland som undantag. Under torsdagen börjar tågen rulla mellan den nordkoreanska huvudstaden Pyongyang och den kinesiska gränsstaden Dandong.",
       "url": "https://svt.se/nyheter/utrikes/tag-mellan-kina-och-nordkorea-gar-igen-ska-lappa-ihop-relationen",
       "domain": "svt.se",
       "published": "2026-03-12T21:37:02Z"
@@ -37,11 +51,11 @@
       "published": "2026-03-12T08:00:14Z"
     },
     {
-      "title": "Experten: Så hänger Libanon ihop med kriget i Iran",
-      "summary": "Den 7 oktober 2023 forcerade ett tusental beväpnade män barriärer runt Gaza och gav sig på den israeliska civilbefolkningen. Lärdomarna Israel dragit från den händelsen är en del av motivet för dagens attacker mot Libanon, menar Alexander Atarodi. Hittills har över 800 000 personer tvingats på flykt, men det kan lätt stiga till en miljon, säger han.",
-      "url": "https://svt.se/nyheter/utrikes/experten-sa-hanger-libanon-ihop-med-kriget-i-iran",
+      "title": "400 miljoner fat från oljereserv ska dämpa priserna",
+      "summary": "400 miljoner fat olja från den gemensamma oljereserven ska frigöras. Åtgärden syftar till att dämpa oljemarknaden efter att viktiga Hormuzsundet stängts. Råvaruanalytiker Christian Kopfer säger att stängningen får allt större effekter på den globala oljemarknaden.",
+      "url": "https://svt.se/nyheter/utrikes/400-miljoner-fat-fran-oljereserv-ska-dampa-priserna",
       "domain": "svt.se",
-      "published": "2026-03-11T13:55:01Z"
+      "published": "2026-03-11T17:10:45Z"
     },
     {
       "title": "Så här försöker Putins Ryssland utnyttja det skyhöga oljepriset",
@@ -49,20 +63,6 @@
       "url": "https://yle.fi/a/7-10094733?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-11T09:00:14Z"
-    },
-    {
-      "title": "CNN: Minor i Hormuzsundet",
-      "summary": "Källor inom rederibranschen uppger att den amerikanska flottan bedömer att risken för anfall är för stor för att man ska eskortera kommersiella fartyg genom sundet. USA: s försvarsministerium meddelade tidigare på tisdagen att man skulle förstöra iranska minfartyg och - lager. Enligt Trump har USA inga uppgifter om att minor skulle ha lagts ut i sundet.",
-      "url": "https://yle.fi/a/7-10094830?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-10T17:50:01Z"
-    },
-    {
-      "title": "Så här hotar Iran världens viktigaste oljefarled",
-      "summary": "20 procent av den olja som produceras i världen transporteras genom sundet varje dag. Iran har kapacitet att göra stor skada med lite USA: s militära fokus ligger på att förstöra platser där robotar avfyras eller stora ammunitionsdepåer och anläggningar som kan utgöra ett hot. Det finns dock ingen tidsram för när den utlovade eskortplanen skulle sättas i verket.",
-      "url": "https://yle.fi/a/7-10094811?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-10T13:31:13Z"
     }
   ]
 }

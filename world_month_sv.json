@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-13T08:01:18+00:00",
+  "generated": "2026-03-14T07:59:11+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "EU-ledare kräver åtgärder för att hindra ryska krigsveteraner från att röra sig…",
+      "summary": "Åtta EU - ledare uppmanar till åtgärder för att hindra tidigare ryska krigare från att röra sig fritt inom EU. Ledarna hänvisar till att 180 000 brottslingar rekryterats från ryska fängelser för att strida i Ukraina. De påpekar att personer med stridserfarenhet kan utgöra en risk inom EU för ökat våld, organiserad brottslighet, politisk extremism eller fientlig statlig verksamhet.",
+      "url": "https://yle.fi/a/7-10095043?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-14T03:23:05Z"
+    },
     {
       "title": "Amerikanerna känner av Irankriget vid bensinpumpen: ”Det suger",
       "summary": "Sedan USA och Israel anföll Iran för snart två veckor sedan har priset på bränsle ökat med 20 procent på nationell nivå i USA. Prisökningen beror på att oljan blivit dyrare på grund av riskerna med kriget och Irans beslut att stänga Hormuzsundet. USA: s president Donald Trump har varnat amerikanerna för att bränslepriserna kommer att stiga i och med kriget, men samtidigt sagt att de inte ökat så mycket som han tänkt sig.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10094733?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-11T09:00:14Z"
-    },
-    {
-      "title": "CNN: Minor i Hormuzsundet",
-      "summary": "Källor inom rederibranschen uppger att den amerikanska flottan bedömer att risken för anfall är för stor för att man ska eskortera kommersiella fartyg genom sundet. USA: s försvarsministerium meddelade tidigare på tisdagen att man skulle förstöra iranska minfartyg och - lager. Enligt Trump har USA inga uppgifter om att minor skulle ha lagts ut i sundet.",
-      "url": "https://yle.fi/a/7-10094830?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-10T17:50:01Z"
     }
   ]
 }
