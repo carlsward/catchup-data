@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-14T07:58:31+00:00",
+  "generated": "2026-03-15T08:22:25+00:00",
   "total_raw": 39,
-  "total_rank": 8,
+  "total_rank": 9,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Explosion vid judisk skola i Amsterdam",
-      "summary": "Händelsen betraktas av både Halsema som polisen och rättsväsendet som en riktad attack mot den judiska gemenskapen. Polisen analyserar material från övervakningskameror, där en person ses utlösa en sprängladdning, enligt Telegraaf. På fredag greps fyra män efter en explosion utanför en synagoga i Rotterdam, enligt nyhetsbyrån AFP.",
-      "url": "https://svt.se/nyheter/utrikes/explosion-vid-judisk-skola-i-amsterdam",
+      "title": "Beirutborna flyttar ut på gatorna av rädsla för Israels missiler",
+      "summary": "Libanon dras in i Irankrigets epicentrum efter USA: s och Israels attacker mot Iran. På mindre än två veckor har mer än 822 000 människor tvingats lämna sina hem. Både Israel och Hizbollah säger att man är redo för ett långt krig.",
+      "url": "https://svt.se/nyheter/utrikes/beirutborna-flyttar-ut-pa-gatorna-av-radsla-for-israels-missiler",
       "domain": "svt.se",
-      "published": "2026-03-14T06:35:02Z"
+      "published": "2026-03-15T04:55:58Z"
     },
     {
-      "title": "EU-ledare kräver åtgärder för att hindra ryska krigsveteraner från att röra sig…",
-      "summary": "Åtta EU - ledare uppmanar till åtgärder för att hindra tidigare ryska krigare från att röra sig fritt inom EU. Ledarna hänvisar till att 180 000 brottslingar rekryterats från ryska fängelser för att strida i Ukraina. De påpekar att personer med stridserfarenhet kan utgöra en risk inom EU för ökat våld, organiserad brottslighet, politisk extremism eller fientlig statlig verksamhet.",
-      "url": "https://yle.fi/a/7-10095043?origin=rss",
+      "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
+      "summary": "Genalguacil, i Andalusien, har lyckats bromsa utflyttningen och locka nya invånare. Elena Crespo växte upp i Madrid men gillade aldrig storstadens larm. Hon sålde sin klädbutik som hon hade haft i Estepona för att förverkliga sin dröm.",
+      "url": "https://yle.fi/a/7-10092143?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-14T03:23:05Z"
+      "published": "2026-03-15T04:55:22Z"
+    },
+    {
+      "title": "Efter två veckor",
+      "summary": "USA och Israel har attackerat Irans försvar och viktiga ledare. Donald Trump har sagt att målen är att slå ut de iranska robotsystemen och resterna från kärnprogrammet. Mellanösternanalytiker på FOI: USA: s mål är att knäcka Irans regim och tvinga den till ett nytt förhållande till USA.",
+      "url": "https://svt.se/nyheter/utrikes/efter-tva-veckor-sa-ar-laget-i-irankriget",
+      "domain": "svt.se",
+      "published": "2026-03-14T18:26:35Z"
+    },
+    {
+      "title": "Franska Gilles Quinton är bonde, borgmästare och en symbol för fungerande närdem…",
+      "summary": "Franska borgmästare har starkare befogenheter än i de flesta andra EU - länder. Antalet kommuner i Finland och på många andra håll i Europa har minskat kraftigt med årens lopp. I Frankrike blev det nästan revolution när man för ett par år sedan minskade antalet, trots att det bara gällde ett tusental kommuner.",
+      "url": "https://yle.fi/a/7-10094514?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-14T16:00:14Z"
     },
     {
       "title": "Här är bevisen som pekar på USA i attacken mot flickskolan",
@@ -51,18 +65,11 @@
       "published": "2026-03-12T08:00:14Z"
     },
     {
-      "title": "400 miljoner fat från oljereserv ska dämpa priserna",
-      "summary": "400 miljoner fat olja från den gemensamma oljereserven ska frigöras. Åtgärden syftar till att dämpa oljemarknaden efter att viktiga Hormuzsundet stängts. Råvaruanalytiker Christian Kopfer säger att stängningen får allt större effekter på den globala oljemarknaden.",
-      "url": "https://svt.se/nyheter/utrikes/400-miljoner-fat-fran-oljereserv-ska-dampa-priserna",
-      "domain": "svt.se",
-      "published": "2026-03-11T17:10:45Z"
-    },
-    {
-      "title": "Så här försöker Putins Ryssland utnyttja det skyhöga oljepriset",
-      "summary": "Ryssland står för 16 % av Europas LNG - import och 13 % av de totala gasleveranserna. President Putin kallade till ett stort möte i Moskva med ministrar och ledare från energisektorn för att diskutera effekterna av kriget i Mellanöstern. På mötet tog Putin upp EU - ländernas beslut att stegvis sluta importera rysk naturgas och olja fram till slutet av 2027.",
-      "url": "https://yle.fi/a/7-10094733?origin=rss",
+      "title": "Bombade oljedepåer i Teheran kan ha väldigt allvarliga konsekvenser",
+      "summary": "Tjock giftig rök lade sig i helgen över staden, som har omkring tio miljoner invånare. Föroreningarna har också gett upphov till ett svart regn, som kan kontaminera både vatten och jordbruk. Världshälsoorganisationen har varnat för att röken och föroreningarna från de brinnande oljedepåerna kan vara skadliga för invånarna i Teherans huvudstad.",
+      "url": "https://yle.fi/a/7-10094840?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-11T09:00:14Z"
+      "published": "2026-03-11T17:23:33Z"
     }
   ]
 }
