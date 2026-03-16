@@ -2,18 +2,32 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-15T08:22:25+00:00",
-  "total_raw": 39,
-  "total_rank": 9,
+  "generated": "2026-03-16T08:26:31+00:00",
+  "total_raw": 40,
+  "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Beirutborna flyttar ut på gatorna av rädsla för Israels missiler",
-      "summary": "Libanon dras in i Irankrigets epicentrum efter USA: s och Israels attacker mot Iran. På mindre än två veckor har mer än 822 000 människor tvingats lämna sina hem. Både Israel och Hizbollah säger att man är redo för ett långt krig.",
-      "url": "https://svt.se/nyheter/utrikes/beirutborna-flyttar-ut-pa-gatorna-av-radsla-for-israels-missiler",
+      "title": "16 mars: Nattens nyheter",
+      "summary": "Ingen historisk Oscar till Ludwig Göransson. Istället fick den svenska kompositören Ludwig Göransson ta emot en statyett för bästa musik för ” Sinners \" Men den stora vinnaren blev ” One battle after another \" Donald Trump varnar för att Nato står inför en \" mycket dålig framtid \" om USA: s allierade inte hjälper till att säkra trafiken genom Hormuzsundet. Flygningar har tillfälligt stoppats med undantag för vissa som omdirigerats till Al Maktoum International Airport, enligt Dubai Media Office på X.",
+      "url": "https://svt.se/nyheter/utrikes/16-mars-nattens-nyheter-2e3y4q",
       "domain": "svt.se",
-      "published": "2026-03-15T04:55:58Z"
+      "published": "2026-03-16T04:12:30Z"
+    },
+    {
+      "title": "Israeliska markstyrkor går längre in i södra Libanon",
+      "summary": "Trump hotar att skjuta upp sitt besök i Kina senare denna månad om Kina inte hjälper USA. Han har krävt att ungefär sju andra länder skickar krigsfartyg till Hormuszsundet för att hjälpa till med att hålla det öppet. Trump kritiserade särskilt Storbritannien och premiärminister Keir Starmer för att inte ha hjälpt USA.",
+      "url": "https://yle.fi/a/7-10095094?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-16T03:30:07Z"
+    },
+    {
+      "title": "Unika militärövningen: 100 dagar ensamma i arktisk miljö",
+      "summary": "Norska försvarsmakten startade en övning som skulle ge ny och dokumenterad kunskap. 13 soldater skulle vara ute i fält i hundra dagar, utan support. De har legat stilla och spanat i flera dagar, och haft fysiskt tunga uppdrag, som att evakuera simulerade skadade personer med pulka i tung snö.",
+      "url": "https://svt.se/nyheter/utrikes/unika-militarovningen-100-dagar-ensamma-i-arktisk-miljo",
+      "domain": "svt.se",
+      "published": "2026-03-15T18:03:20Z"
     },
     {
       "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
@@ -51,25 +65,18 @@
       "published": "2026-03-13T03:31:03Z"
     },
     {
-      "title": "Tåg mellan Kina och Nordkorea går igen",
-      "summary": "Kina har kunnat öppna upp sina gränser mot omvärlden efter pandemin. Nordkorea har tagit längre tid, med Ryssland som undantag. Under torsdagen börjar tågen rulla mellan den nordkoreanska huvudstaden Pyongyang och den kinesiska gränsstaden Dandong.",
-      "url": "https://svt.se/nyheter/utrikes/tag-mellan-kina-och-nordkorea-gar-igen-ska-lappa-ihop-relationen",
-      "domain": "svt.se",
-      "published": "2026-03-12T21:37:02Z"
+      "title": "Stort polispådrag efter skottlossning vid synagoga i Michigan",
+      "summary": "Dussintals polis - och räddningsfordon var på plats vid synagogan Temple Israel i West Bloomfield Township i Michigan på torsdagskvällen. En beväpnad man körde in i byggnaden och öppnade eld mot synagogans säkerhetsvakter. Enligt polisen har nästan alla klarat sig oskadda.",
+      "url": "https://yle.fi/a/7-10094979?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-12T18:02:01Z"
     },
     {
-      "title": "I Finland kan ni komma överens, i Frankrike är vi radikalare",
-      "summary": "Tusentals människor utsätts för fysiskt eller verbalt våld varje år. Många fransmän talar om en ökad allmän oro och spänning i samhället. Våldet trappas nu upp på båda utkanterna av det politiska fältet.",
-      "url": "https://yle.fi/a/7-10094139?origin=rss",
+      "title": "Fyra män får livstids fängelse för terrordåd i konsertsal i Moskva",
+      "summary": "Fyra personer dömdes på torsdag till livstids fängelse för terrorattacken mot Crocus City Hall i Moskva i mars 2024. Tre av de åtalade erkände brottet inför domstolen i Moskva. Den fjärde åtalade erkände inte sin skuld med motiveringen att han hade genomfört jihad.",
+      "url": "https://yle.fi/a/7-10094938?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-12T08:00:14Z"
-    },
-    {
-      "title": "Bombade oljedepåer i Teheran kan ha väldigt allvarliga konsekvenser",
-      "summary": "Tjock giftig rök lade sig i helgen över staden, som har omkring tio miljoner invånare. Föroreningarna har också gett upphov till ett svart regn, som kan kontaminera både vatten och jordbruk. Världshälsoorganisationen har varnat för att röken och föroreningarna från de brinnande oljedepåerna kan vara skadliga för invånarna i Teherans huvudstad.",
-      "url": "https://yle.fi/a/7-10094840?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-11T17:23:33Z"
+      "published": "2026-03-12T11:54:10Z"
     }
   ]
 }

@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-15T08:23:21+00:00",
-  "total_raw": 39,
+  "generated": "2026-03-16T08:27:18+00:00",
+  "total_raw": 40,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Israeliska markstyrkor går längre in i södra Libanon",
+      "summary": "Trump hotar att skjuta upp sitt besök i Kina senare denna månad om Kina inte hjälper USA. Han har krävt att ungefär sju andra länder skickar krigsfartyg till Hormuszsundet för att hjälpa till med att hålla det öppet. Trump kritiserade särskilt Storbritannien och premiärminister Keir Starmer för att inte ha hjälpt USA.",
+      "url": "https://yle.fi/a/7-10095094?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-16T03:30:07Z"
+    },
     {
       "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
       "summary": "Genalguacil, i Andalusien, har lyckats bromsa utflyttningen och locka nya invånare. Elena Crespo växte upp i Madrid men gillade aldrig storstadens larm. Hon sålde sin klädbutik som hon hade haft i Estepona för att förverkliga sin dröm.",
@@ -30,18 +37,11 @@
       "published": "2026-03-13T03:31:03Z"
     },
     {
-      "title": "I Finland kan ni komma överens, i Frankrike är vi radikalare",
-      "summary": "Tusentals människor utsätts för fysiskt eller verbalt våld varje år. Många fransmän talar om en ökad allmän oro och spänning i samhället. Våldet trappas nu upp på båda utkanterna av det politiska fältet.",
-      "url": "https://yle.fi/a/7-10094139?origin=rss",
+      "title": "Fyra män får livstids fängelse för terrordåd i konsertsal i Moskva",
+      "summary": "Fyra personer dömdes på torsdag till livstids fängelse för terrorattacken mot Crocus City Hall i Moskva i mars 2024. Tre av de åtalade erkände brottet inför domstolen i Moskva. Den fjärde åtalade erkände inte sin skuld med motiveringen att han hade genomfört jihad.",
+      "url": "https://yle.fi/a/7-10094938?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-12T08:00:14Z"
-    },
-    {
-      "title": "Bombade oljedepåer i Teheran kan ha väldigt allvarliga konsekvenser",
-      "summary": "Tjock giftig rök lade sig i helgen över staden, som har omkring tio miljoner invånare. Föroreningarna har också gett upphov till ett svart regn, som kan kontaminera både vatten och jordbruk. Världshälsoorganisationen har varnat för att röken och föroreningarna från de brinnande oljedepåerna kan vara skadliga för invånarna i Teherans huvudstad.",
-      "url": "https://yle.fi/a/7-10094840?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-11T17:23:33Z"
+      "published": "2026-03-12T11:54:10Z"
     }
   ]
 }
