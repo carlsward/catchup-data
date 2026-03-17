@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-16T08:26:31+00:00",
+  "generated": "2026-03-17T08:05:28+00:00",
   "total_raw": 40,
   "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "16 mars: Nattens nyheter",
-      "summary": "Ingen historisk Oscar till Ludwig Göransson. Istället fick den svenska kompositören Ludwig Göransson ta emot en statyett för bästa musik för ” Sinners \" Men den stora vinnaren blev ” One battle after another \" Donald Trump varnar för att Nato står inför en \" mycket dålig framtid \" om USA: s allierade inte hjälper till att säkra trafiken genom Hormuzsundet. Flygningar har tillfälligt stoppats med undantag för vissa som omdirigerats till Al Maktoum International Airport, enligt Dubai Media Office på X.",
-      "url": "https://svt.se/nyheter/utrikes/16-mars-nattens-nyheter-2e3y4q",
-      "domain": "svt.se",
-      "published": "2026-03-16T04:12:30Z"
+      "title": "Ukraina för nu drönarkrig både i luften och på marken",
+      "summary": "Ukrainas 56: e mekaniserade brigad har stridit i Donbas i flera år och har en del av sina ställningar kring Kramatorsk och Slovjansk. Den ukrainska militären använder allt högre grad av markdrönare för underhåll. Markdrönarna är ute varje natt för att leverera ammunition, drönare och provisioner till soldaterna i ställningarna.",
+      "url": "https://yle.fi/a/7-10094963?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-17T03:30:14Z"
     },
     {
-      "title": "Israeliska markstyrkor går längre in i södra Libanon",
-      "summary": "Trump hotar att skjuta upp sitt besök i Kina senare denna månad om Kina inte hjälper USA. Han har krävt att ungefär sju andra länder skickar krigsfartyg till Hormuszsundet för att hjälpa till med att hålla det öppet. Trump kritiserade särskilt Storbritannien och premiärminister Keir Starmer för att inte ha hjälpt USA.",
-      "url": "https://yle.fi/a/7-10095094?origin=rss",
+      "title": "Läkare utan gränser: Krävs mer än att Rafah-övergången öppnas",
+      "summary": "Mötet är det första kända sedan USA och Israel attackerade Iran. Gränsövergångarna till Gaza stängde när kriget bröt ut i slutet av februari i år. På söndagen meddelade den israeliska samordningsmyndigheten COGAT att man ska öppna övergången onsdag.",
+      "url": "https://svt.se/nyheter/utrikes/lakare-utan-granser-kravs-mer-an-att-rafah-overgangen-oppnas",
+      "domain": "svt.se",
+      "published": "2026-03-17T02:38:18Z"
+    },
+    {
+      "title": "Vad undrar du om kriget i Mellanöstern?",
+      "summary": "Aron Lund, analytiker på FOI Georg, säger att en direkt konfrontation mellan Ryssland och USA i Iran är osannolik. Att USA skulle gå in och försöka ockupera Iran tror jag är närmast uteslutet. Det finns inga marktrupper i regionen som står och väntar, exempelvis.",
+      "url": "https://svt.se/nyheter/utrikes/vad-undrar-du-om-kriget-i-mellanostern",
+      "domain": "svt.se",
+      "published": "2026-03-16T10:06:38Z"
+    },
+    {
+      "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
+      "summary": "Kina har talat varmt om sitt partnerskap med regimen i Teheran och är dessutom beroende av iransk olja. Trots all kinesisk retorik de senaste åren om hur nära relationer Iran och Kina har, väljer Peking alltså att tiga. Ett välbekant mönster Kinas förhållningssätt till Iran är inte unikt för det här kriget.",
+      "url": "https://yle.fi/a/7-10094714?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-16T03:30:07Z"
+      "published": "2026-03-16T08:45:27Z"
     },
     {
       "title": "Unika militärövningen: 100 dagar ensamma i arktisk miljö",
@@ -51,32 +65,18 @@
       "published": "2026-03-14T16:00:14Z"
     },
     {
-      "title": "Här är bevisen som pekar på USA i attacken mot flickskolan",
-      "summary": "I videon ovan kan du se bevis som motsäger Donald Trumps påstående om attacken mot skolan i Minab i Iran. Enligt Irans utrikesminister var byggnaden som träffades en grundskola för flickor. På området finns två vakttorn och kontrollerade infartspunkter för fordon och fotgängare, enligt analytikern William Goodhind som har analyserat satellitbilder.",
-      "url": "https://svt.se/nyheter/utrikes/har-ar-bevisen-som-pekar-mot-usa-i-attacken-mot-flickskolan",
-      "domain": "svt.se",
-      "published": "2026-03-13T04:45:10Z"
+      "title": "Ny flyktingvåg kan nå Europa när miljontals tvingas på flykt i Iran",
+      "summary": "Enligt en sammanställning från FN: s flyktingorganisation UNHCR är 3, 2 miljoner människor på flykt i Iran och över 800 000 i Libanon. Hittills har en liten del av dem tagit sig över gränsen till grannländer. Traditionellt flyr många över Medelhavet, och Libanon ligger vid Medelhavet så det finns en risk för att det spiller över till Europa, säger Annika Sandlund, nordisk och baltisk flyktingchef för FN.",
+      "url": "https://yle.fi/a/7-10094987?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-13T14:32:14Z"
     },
     {
-      "title": "Amerikanerna känner av Irankriget vid bensinpumpen: ”Det suger",
-      "summary": "Sedan USA och Israel anföll Iran för snart två veckor sedan har priset på bränsle ökat med 20 procent på nationell nivå i USA. Prisökningen beror på att oljan blivit dyrare på grund av riskerna med kriget och Irans beslut att stänga Hormuzsundet. USA: s president Donald Trump har varnat amerikanerna för att bränslepriserna kommer att stiga i och med kriget, men samtidigt sagt att de inte ökat så mycket som han tänkt sig.",
-      "url": "https://yle.fi/a/7-10094907?origin=rss",
+      "title": "Svenska Liberalerna vill regera med Sverigedemokraterna",
+      "summary": "Simona Mohamsson säger att hon är stolt över att de nu tar gemensamt ansvar för att styra Sverige efter valet. Hon har upprepade gånger sagt att hon inte godkänner att SD får ministerposter, bland annat eftersom SD enligt henne inte kan bete sig. Bakgrunden till helomvändningen är Liberalernas sjunkande väljarstöd som skapat desperation.",
+      "url": "https://yle.fi/a/7-10095031?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-13T03:31:03Z"
-    },
-    {
-      "title": "Stort polispådrag efter skottlossning vid synagoga i Michigan",
-      "summary": "Dussintals polis - och räddningsfordon var på plats vid synagogan Temple Israel i West Bloomfield Township i Michigan på torsdagskvällen. En beväpnad man körde in i byggnaden och öppnade eld mot synagogans säkerhetsvakter. Enligt polisen har nästan alla klarat sig oskadda.",
-      "url": "https://yle.fi/a/7-10094979?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-12T18:02:01Z"
-    },
-    {
-      "title": "Fyra män får livstids fängelse för terrordåd i konsertsal i Moskva",
-      "summary": "Fyra personer dömdes på torsdag till livstids fängelse för terrorattacken mot Crocus City Hall i Moskva i mars 2024. Tre av de åtalade erkände brottet inför domstolen i Moskva. Den fjärde åtalade erkände inte sin skuld med motiveringen att han hade genomfört jihad.",
-      "url": "https://yle.fi/a/7-10094938?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-12T11:54:10Z"
+      "published": "2026-03-13T13:47:48Z"
     }
   ]
 }

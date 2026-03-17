@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-16T08:27:18+00:00",
+  "generated": "2026-03-17T08:06:17+00:00",
   "total_raw": 40,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Israeliska markstyrkor går längre in i södra Libanon",
-      "summary": "Trump hotar att skjuta upp sitt besök i Kina senare denna månad om Kina inte hjälper USA. Han har krävt att ungefär sju andra länder skickar krigsfartyg till Hormuszsundet för att hjälpa till med att hålla det öppet. Trump kritiserade särskilt Storbritannien och premiärminister Keir Starmer för att inte ha hjälpt USA.",
-      "url": "https://yle.fi/a/7-10095094?origin=rss",
+      "title": "Ukraina för nu drönarkrig både i luften och på marken",
+      "summary": "Ukrainas 56: e mekaniserade brigad har stridit i Donbas i flera år och har en del av sina ställningar kring Kramatorsk och Slovjansk. Den ukrainska militären använder allt högre grad av markdrönare för underhåll. Markdrönarna är ute varje natt för att leverera ammunition, drönare och provisioner till soldaterna i ställningarna.",
+      "url": "https://yle.fi/a/7-10094963?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-16T03:30:07Z"
+      "published": "2026-03-17T03:30:14Z"
+    },
+    {
+      "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
+      "summary": "Kina har talat varmt om sitt partnerskap med regimen i Teheran och är dessutom beroende av iransk olja. Trots all kinesisk retorik de senaste åren om hur nära relationer Iran och Kina har, väljer Peking alltså att tiga. Ett välbekant mönster Kinas förhållningssätt till Iran är inte unikt för det här kriget.",
+      "url": "https://yle.fi/a/7-10094714?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-16T08:45:27Z"
     },
     {
       "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
@@ -30,18 +37,11 @@
       "published": "2026-03-14T16:00:14Z"
     },
     {
-      "title": "Amerikanerna känner av Irankriget vid bensinpumpen: ”Det suger",
-      "summary": "Sedan USA och Israel anföll Iran för snart två veckor sedan har priset på bränsle ökat med 20 procent på nationell nivå i USA. Prisökningen beror på att oljan blivit dyrare på grund av riskerna med kriget och Irans beslut att stänga Hormuzsundet. USA: s president Donald Trump har varnat amerikanerna för att bränslepriserna kommer att stiga i och med kriget, men samtidigt sagt att de inte ökat så mycket som han tänkt sig.",
-      "url": "https://yle.fi/a/7-10094907?origin=rss",
+      "title": "Svenska Liberalerna vill regera med Sverigedemokraterna",
+      "summary": "Simona Mohamsson säger att hon är stolt över att de nu tar gemensamt ansvar för att styra Sverige efter valet. Hon har upprepade gånger sagt att hon inte godkänner att SD får ministerposter, bland annat eftersom SD enligt henne inte kan bete sig. Bakgrunden till helomvändningen är Liberalernas sjunkande väljarstöd som skapat desperation.",
+      "url": "https://yle.fi/a/7-10095031?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-13T03:31:03Z"
-    },
-    {
-      "title": "Fyra män får livstids fängelse för terrordåd i konsertsal i Moskva",
-      "summary": "Fyra personer dömdes på torsdag till livstids fängelse för terrorattacken mot Crocus City Hall i Moskva i mars 2024. Tre av de åtalade erkände brottet inför domstolen i Moskva. Den fjärde åtalade erkände inte sin skuld med motiveringen att han hade genomfört jihad.",
-      "url": "https://yle.fi/a/7-10094938?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-12T11:54:10Z"
+      "published": "2026-03-13T13:47:48Z"
     }
   ]
 }

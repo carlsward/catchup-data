@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-16T08:25:02+00:00",
-  "total_raw": 10,
+  "generated": "2026-03-17T08:03:57+00:00",
+  "total_raw": 13,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Drönarkriget trappas upp: USA har redan kopierat Irans attackdrönare",
-      "summary": "Centcom, USA: s centralkommando med ansvar för amerikanska säkerhetspolitiska intressen i Mellanöstern och Centralasien, skrev på X om ett vapen som USA använde för allra första gången i strid. Lucas - drönarna, som har fått namnet Lucas – en akronym för Low - cost Uncrewed Combat Attack System, alltså ungefär Billigt Obemannat System för Anfall i Strid – grundades så sent som i december förra året. Ukrainas president har sagt att Ukraina är villigt att hjälpa sina allierade försvara sig mot drönare – något USA också har bett om.",
-      "url": "https://yle.fi/a/7-10095088?origin=rss",
+      "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
+      "summary": "Kina har talat varmt om sitt partnerskap med regimen i Teheran och är dessutom beroende av iransk olja. Trots all kinesisk retorik de senaste åren om hur nära relationer Iran och Kina har, väljer Peking alltså att tiga. Ett välbekant mönster Kinas förhållningssätt till Iran är inte unikt för det här kriget.",
+      "url": "https://yle.fi/a/7-10094714?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-15T17:37:15Z"
+      "published": "2026-03-16T08:45:27Z"
     },
     {
-      "title": "Bakom Norges gräns förbereder sig Ryssland för krig",
-      "summary": "Liv gör sin värnplikt i Kirkenes i norr. I Norge är det försvarsmakten som bevakar gränsen mot Ryssland. Beväringar deltar i det arbetet.",
-      "url": "https://yle.fi/a/7-10095074?origin=rss",
+      "title": "Ukraina för nu drönarkrig både i luften och på marken",
+      "summary": "Ukrainas 56: e mekaniserade brigad har stridit i Donbas i flera år och har en del av sina ställningar kring Kramatorsk och Slovjansk. Den ukrainska militären använder allt högre grad av markdrönare för underhåll. Markdrönarna är ute varje natt för att leverera ammunition, drönare och provisioner till soldaterna i ställningarna.",
+      "url": "https://yle.fi/a/7-10094963?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-15T11:20:29Z"
+      "published": "2026-03-17T03:30:14Z"
     },
     {
-      "title": "Rekordmånga reser till Kanarieöarna trots protester mot massturism",
-      "summary": "Rekordmånga turister, totalt 15, 7 miljoner, reste till Kanarieöarna år 2025. Intresset för Kanarieöarna har hållit i sig också i år. I januari reste 1, 43 miljoner turister till öarna på semester, vilket är fem procent mera än i januari i fjol.",
-      "url": "https://yle.fi/a/7-10095081?origin=rss",
+      "title": "Afghanistan anklagar Pakistan för att ha dödat 400 människor i anfall mot ett sj…",
+      "summary": "Pakistanska regeringsrepresentanter uppger att man genomfört flyganfall på måndag kväll. Regimens biträdande talesperson Hamdullah Fitrat uppgav i natt på X att minst 400 människor dödats och ungefär 250 skadats i anfallet. Bilder och videor på natten visade lågor över en låg byggnad och sedan män i vita rockar och i civila kläder som letade efter överlevande i rasmassor.",
+      "url": "https://yle.fi/a/7-10095153?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-15T11:15:09Z"
+      "published": "2026-03-17T06:01:11Z"
     },
     {
-      "title": "Unika militärövningen: 100 dagar ensamma i arktisk miljö",
-      "summary": "Norska försvarsmakten startade en övning som skulle ge ny och dokumenterad kunskap. 13 soldater skulle vara ute i fält i hundra dagar, utan support. De har legat stilla och spanat i flera dagar, och haft fysiskt tunga uppdrag, som att evakuera simulerade skadade personer med pulka i tung snö.",
-      "url": "https://svt.se/nyheter/utrikes/unika-militarovningen-100-dagar-ensamma-i-arktisk-miljo",
+      "title": "Läkare utan gränser: Krävs mer än att Rafah-övergången öppnas",
+      "summary": "Mötet är det första kända sedan USA och Israel attackerade Iran. Gränsövergångarna till Gaza stängde när kriget bröt ut i slutet av februari i år. På söndagen meddelade den israeliska samordningsmyndigheten COGAT att man ska öppna övergången onsdag.",
+      "url": "https://svt.se/nyheter/utrikes/lakare-utan-granser-kravs-mer-an-att-rafah-overgangen-oppnas",
       "domain": "svt.se",
-      "published": "2026-03-15T18:03:20Z"
+      "published": "2026-03-17T02:38:18Z"
     },
     {
-      "title": "Iranska regimens digitala ”kill switch” skärmar av befolkningen från världen",
-      "summary": "Irans digitala \" kill switch \" internet har aldrig varit fritt i Iran. Regimen har skapat ett alternativt internet som skiljer sig avsevärt från det du är van vid. Men även de statskontrollerade apparna är nu begränsade.",
-      "url": "https://svt.se/nyheter/utrikes/iranska-regimens-digitala-kill-switch-skarmar-av-befolkningen-fran-varlden",
+      "title": "Vad undrar du om kriget i Mellanöstern?",
+      "summary": "Aron Lund, analytiker på FOI Georg, säger att en direkt konfrontation mellan Ryssland och USA i Iran är osannolik. Att USA skulle gå in och försöka ockupera Iran tror jag är närmast uteslutet. Det finns inga marktrupper i regionen som står och väntar, exempelvis.",
+      "url": "https://svt.se/nyheter/utrikes/vad-undrar-du-om-kriget-i-mellanostern",
       "domain": "svt.se",
-      "published": "2026-03-15T14:43:47Z"
+      "published": "2026-03-16T10:06:38Z"
     }
   ]
 }
