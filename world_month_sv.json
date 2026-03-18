@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-17T08:06:17+00:00",
+  "generated": "2026-03-18T08:13:39+00:00",
   "total_raw": 40,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Ukraina för nu drönarkrig både i luften och på marken",
-      "summary": "Ukrainas 56: e mekaniserade brigad har stridit i Donbas i flera år och har en del av sina ställningar kring Kramatorsk och Slovjansk. Den ukrainska militären använder allt högre grad av markdrönare för underhåll. Markdrönarna är ute varje natt för att leverera ammunition, drönare och provisioner till soldaterna i ställningarna.",
-      "url": "https://yle.fi/a/7-10094963?origin=rss",
+      "title": "Höghus i centrala Beirut kollapsade i nattens israeliska anfall",
+      "summary": "Iran bekräftar att säkerhetschef Ali Larijani har dödats. Gholamreza Soleimani är chef för Basij - styrkorna. På tisdagen avgick chefen för USA: s chef för terrorbekämpning i protest mot kriget.",
+      "url": "https://yle.fi/a/7-10095207?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-17T03:30:14Z"
+      "published": "2026-03-18T03:40:49Z"
+    },
+    {
+      "title": "Iran bekräftar: Säkerhetschefen Ali Larijani död",
+      "summary": "Iran har svarat med anfall mot Israel och mot amerikanska mål runt om i Mellanöstern. Iran har sagt att Hormuzsundet, världens viktigaste oljefarled, förblir stängt för landets fiender. Sundet har blivit en central bricka i kriget.",
+      "url": "https://yle.fi/a/7-10095152?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-17T03:08:54Z"
     },
     {
       "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
@@ -30,18 +37,11 @@
       "published": "2026-03-15T04:55:22Z"
     },
     {
-      "title": "Franska Gilles Quinton är bonde, borgmästare och en symbol för fungerande närdem…",
-      "summary": "Franska borgmästare har starkare befogenheter än i de flesta andra EU - länder. Antalet kommuner i Finland och på många andra håll i Europa har minskat kraftigt med årens lopp. I Frankrike blev det nästan revolution när man för ett par år sedan minskade antalet, trots att det bara gällde ett tusental kommuner.",
-      "url": "https://yle.fi/a/7-10094514?origin=rss",
+      "title": "Historiker: USA i kallt krig mot Kina",
+      "summary": "Det tredje Gulfkriget kan bli en lika avgörande händelse som oljekrisen 1973 – 74, säger Niall Ferguson. Hur länge kriget varar och ju längre det hålls stängt, desto högre blir kostnaderna för Europa, Japan, Korea och Taiwan, som samtliga är stora importörer av olja och gas. Hur kriget artar sig hänger på hur USA och Israel klarar av att neutralisera Irans robot - och drönarkapacitet.",
+      "url": "https://yle.fi/a/7-10095063?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-14T16:00:14Z"
-    },
-    {
-      "title": "Svenska Liberalerna vill regera med Sverigedemokraterna",
-      "summary": "Simona Mohamsson säger att hon är stolt över att de nu tar gemensamt ansvar för att styra Sverige efter valet. Hon har upprepade gånger sagt att hon inte godkänner att SD får ministerposter, bland annat eftersom SD enligt henne inte kan bete sig. Bakgrunden till helomvändningen är Liberalernas sjunkande väljarstöd som skapat desperation.",
-      "url": "https://yle.fi/a/7-10095031?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-13T13:47:48Z"
+      "published": "2026-03-14T18:56:22Z"
     }
   ]
 }
