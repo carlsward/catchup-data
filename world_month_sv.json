@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-18T08:13:39+00:00",
+  "generated": "2026-03-19T08:13:13+00:00",
   "total_raw": 40,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Höghus i centrala Beirut kollapsade i nattens israeliska anfall",
-      "summary": "Iran bekräftar att säkerhetschef Ali Larijani har dödats. Gholamreza Soleimani är chef för Basij - styrkorna. På tisdagen avgick chefen för USA: s chef för terrorbekämpning i protest mot kriget.",
+      "title": "Ungerns Orbán på väg att stjäla showen vid viktigt toppmöte",
+      "summary": "EU: s ledare träffas i Bryssel i dag för att diskutera krisen i Ukraina. Ukrainaveto ses som en kalldusch i EU - kretsen med kännbara effekter för Ukrainas möjligheter att försvara sig. EU försöker navigera mellan USA: s president Donald Trump krav på europeisk uppbackning i Mellanöstern och risken för att dras med i ett okontrollerat krig.",
+      "url": "https://yle.fi/a/7-10095242?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-19T03:31:17Z"
+    },
+    {
+      "title": "USA:s underrättelsechef: Iran försökte inte anrika uran igen",
+      "summary": "Iran bekräftade att landets mäktiga säkerhetschef Ali Larijani dödats, liksom Gholamreza Soleimani som är chef för Basij - styrkorna och landets underrättelseminister Esmail Khatib. Hormuzsundet, världens viktigaste oljefarled, har blivit en central bricka i kriget. På tisdagen avgick chefen för USA: s chef för terrorbekämpning i protest mot kriget.",
       "url": "https://yle.fi/a/7-10095207?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-18T03:40:49Z"
@@ -30,18 +37,11 @@
       "published": "2026-03-16T08:45:27Z"
     },
     {
-      "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
-      "summary": "Genalguacil, i Andalusien, har lyckats bromsa utflyttningen och locka nya invånare. Elena Crespo växte upp i Madrid men gillade aldrig storstadens larm. Hon sålde sin klädbutik som hon hade haft i Estepona för att förverkliga sin dröm.",
-      "url": "https://yle.fi/a/7-10092143?origin=rss",
+      "title": "Drönarkriget trappas upp: USA har redan kopierat Irans attackdrönare",
+      "summary": "Centcom, USA: s centralkommando med ansvar för amerikanska säkerhetspolitiska intressen i Mellanöstern och Centralasien, skrev på X om ett vapen som USA använde för allra första gången i strid. Lucas - drönarna, som har fått namnet Lucas – en akronym för Low - cost Uncrewed Combat Attack System, alltså ungefär Billigt Obemannat System för Anfall i Strid – grundades så sent som i december förra året. Ukrainas president har sagt att Ukraina är villigt att hjälpa sina allierade försvara sig mot drönare – något USA också har bett om.",
+      "url": "https://yle.fi/a/7-10095088?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-15T04:55:22Z"
-    },
-    {
-      "title": "Historiker: USA i kallt krig mot Kina",
-      "summary": "Det tredje Gulfkriget kan bli en lika avgörande händelse som oljekrisen 1973 – 74, säger Niall Ferguson. Hur länge kriget varar och ju längre det hålls stängt, desto högre blir kostnaderna för Europa, Japan, Korea och Taiwan, som samtliga är stora importörer av olja och gas. Hur kriget artar sig hänger på hur USA och Israel klarar av att neutralisera Irans robot - och drönarkapacitet.",
-      "url": "https://yle.fi/a/7-10095063?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-14T18:56:22Z"
+      "published": "2026-03-15T17:37:15Z"
     }
   ]
 }

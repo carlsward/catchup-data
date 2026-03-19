@@ -2,25 +2,46 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-18T08:12:45+00:00",
+  "generated": "2026-03-19T08:12:14+00:00",
   "total_raw": 40,
   "total_rank": 10,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Avslöjar nya spår i Epstein-fallet: ”Mikrofilm från hundratals tidningar",
-      "summary": "Eva Andersson - Dubin ska ha hjälpt till i rekryteringen av kvinnor. SVT: s reportrar har följt spåren genom gamla tidningsannonser, mejltrådar och vittnesmål från svenska barnflickor. Annonser hade rubriken \" toppenjobb \", precis som Eva Anderssons Dubins annonser, och handlade också om ett jobb på Manhattan.",
-      "url": "https://svt.se/nyheter/utrikes/avslojar-nya-spar-i-epstein-fallet-mikrofilm-fran-hundratals-tidningar",
+      "title": "Källor: Danmark förberedde sig på möjligt angrepp från USA",
+      "summary": "Underrättelsekällor berättar hur man förberedde sig inför ett eventuellt angrepp. Vi har inte varit i en sådan situation sedan april 1940, säger en dansk försvarskälla. En särskild roll ska Frankrike och Tyskland ha spelat, enligt uppgifterna ska Frankrike ha varit redo att skicka hundratals soldater till ön.",
+      "url": "https://svt.se/nyheter/utrikes/kallor-danmark-forberedde-sig-pa-mojligt-angrepp-fran-usa",
       "domain": "svt.se",
-      "published": "2026-03-18T07:30:54Z"
+      "published": "2026-03-19T05:04:59Z"
     },
     {
-      "title": "Höghus i centrala Beirut kollapsade i nattens israeliska anfall",
-      "summary": "Iran bekräftar att säkerhetschef Ali Larijani har dödats. Gholamreza Soleimani är chef för Basij - styrkorna. På tisdagen avgick chefen för USA: s chef för terrorbekämpning i protest mot kriget.",
+      "title": "Ungerns Orbán på väg att stjäla showen vid viktigt toppmöte",
+      "summary": "EU: s ledare träffas i Bryssel i dag för att diskutera krisen i Ukraina. Ukrainaveto ses som en kalldusch i EU - kretsen med kännbara effekter för Ukrainas möjligheter att försvara sig. EU försöker navigera mellan USA: s president Donald Trump krav på europeisk uppbackning i Mellanöstern och risken för att dras med i ett okontrollerat krig.",
+      "url": "https://yle.fi/a/7-10095242?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-19T03:31:17Z"
+    },
+    {
+      "title": "Vapes på klubben ett av spåren",
+      "summary": "Utbrottet av hjärnhinneinflammation i Storbritannien kopplas till nattklubben Club Chemistry i Canterbury, där universitetet i Kent ligger. Alla som besökte lokalen den 5 - 7 mars eller hade nära kontakt med någon som var det, uppmanas att ta antibiotika. Ungefär en vecka efter festhelgen bekräftades de första fallen, rapporterar The Guardian.",
+      "url": "https://svt.se/nyheter/utrikes/vapes-pa-klubben-ett-av-sparen-tva-doda-i-utbrott-av-hjarnhinneinflammation-i-storbritannien",
+      "domain": "svt.se",
+      "published": "2026-03-18T19:24:26Z"
+    },
+    {
+      "title": "USA:s underrättelsechef: Iran försökte inte anrika uran igen",
+      "summary": "Iran bekräftade att landets mäktiga säkerhetschef Ali Larijani dödats, liksom Gholamreza Soleimani som är chef för Basij - styrkorna och landets underrättelseminister Esmail Khatib. Hormuzsundet, världens viktigaste oljefarled, har blivit en central bricka i kriget. På tisdagen avgick chefen för USA: s chef för terrorbekämpning i protest mot kriget.",
       "url": "https://yle.fi/a/7-10095207?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-18T03:40:49Z"
+    },
+    {
+      "title": "Demokratin är på dekis och det är ditt fel inte mitt",
+      "summary": "V - Dems slutsatser om en allt svagare amerikansk demokrati rimmar överlag väl med flera internationella rapporter. Många analytiker kopplar utvecklingen till stor del till Donald Trump. Underliggande motsättningar och polarisering tillhör politiken men hans öppna angrepp på motståndare, medier och samhällsinstitutioner saknar motstycke i modern amerikansk politik.",
+      "url": "https://svt.se/nyheter/utrikes/demokratin-ar-pa-dekis-och-det-ar-ditt-fel-inte-mitt",
+      "domain": "svt.se",
+      "published": "2026-03-17T19:26:39Z"
     },
     {
       "title": "Iran bekräftar: Säkerhetschefen Ali Larijani död",
@@ -30,18 +51,11 @@
       "published": "2026-03-17T03:08:54Z"
     },
     {
-      "title": "Läkare utan gränser: Krävs mer än att Rafah-övergången öppnas",
-      "summary": "Mötet är det första kända sedan USA och Israel attackerade Iran. Gränsövergångarna till Gaza stängde när kriget bröt ut i slutet av februari i år. På söndagen meddelade den israeliska samordningsmyndigheten COGAT att man ska öppna övergången onsdag.",
-      "url": "https://svt.se/nyheter/utrikes/lakare-utan-granser-kravs-mer-an-att-rafah-overgangen-oppnas",
-      "domain": "svt.se",
-      "published": "2026-03-17T02:38:18Z"
-    },
-    {
-      "title": "Vad undrar du om kriget i Mellanöstern?",
-      "summary": "Aron Lund, analytiker på FOI Georg, säger att en direkt konfrontation mellan Ryssland och USA i Iran är osannolik. Att USA skulle gå in och försöka ockupera Iran tror jag är närmast uteslutet. Det finns inga marktrupper i regionen som står och väntar, exempelvis.",
-      "url": "https://svt.se/nyheter/utrikes/vad-undrar-du-om-kriget-i-mellanostern",
-      "domain": "svt.se",
-      "published": "2026-03-16T10:06:38Z"
+      "title": "Marinen: Finländska minröjningsfartyg kan inte skickas till Hormuzsundet",
+      "summary": "Frågan om vad som kan göras från europeisk sida för att öppna Hormuzsundet är på agendan när EU: s utrikesministrar samlas i Bryssel på måndag. Tre minröjningsfartyg i Katanpää - klassen kan inte skickas till Hormuz sundet, säger Marinen. Säkerhetsexpert Charly Salonius - Pasternak, VD för Nordic West Office, har tagit ställning till frågan på sociala medier.",
+      "url": "https://yle.fi/a/7-10095117?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-16T10:16:06Z"
     },
     {
       "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
@@ -58,25 +72,11 @@
       "published": "2026-03-15T17:37:15Z"
     },
     {
-      "title": "Anita Zdarzil bytte storstaden mot byn som vägrar dö: ”Jag kände direkt att det…",
-      "summary": "Genalguacil, i Andalusien, har lyckats bromsa utflyttningen och locka nya invånare. Elena Crespo växte upp i Madrid men gillade aldrig storstadens larm. Hon sålde sin klädbutik som hon hade haft i Estepona för att förverkliga sin dröm.",
-      "url": "https://yle.fi/a/7-10092143?origin=rss",
+      "title": "Bakom Norges gräns förbereder sig Ryssland för krig",
+      "summary": "Liv gör sin värnplikt i Kirkenes i norr. I Norge är det försvarsmakten som bevakar gränsen mot Ryssland. Beväringar deltar i det arbetet.",
+      "url": "https://yle.fi/a/7-10095074?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-15T04:55:22Z"
-    },
-    {
-      "title": "Historiker: USA i kallt krig mot Kina",
-      "summary": "Det tredje Gulfkriget kan bli en lika avgörande händelse som oljekrisen 1973 – 74, säger Niall Ferguson. Hur länge kriget varar och ju längre det hålls stängt, desto högre blir kostnaderna för Europa, Japan, Korea och Taiwan, som samtliga är stora importörer av olja och gas. Hur kriget artar sig hänger på hur USA och Israel klarar av att neutralisera Irans robot - och drönarkapacitet.",
-      "url": "https://yle.fi/a/7-10095063?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-14T18:56:22Z"
-    },
-    {
-      "title": "Franska Gilles Quinton är bonde, borgmästare och en symbol för fungerande närdem…",
-      "summary": "Franska borgmästare har starkare befogenheter än i de flesta andra EU - länder. Antalet kommuner i Finland och på många andra håll i Europa har minskat kraftigt med årens lopp. I Frankrike blev det nästan revolution när man för ett par år sedan minskade antalet, trots att det bara gällde ett tusental kommuner.",
-      "url": "https://yle.fi/a/7-10094514?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-14T16:00:14Z"
+      "published": "2026-03-15T11:20:29Z"
     }
   ]
 }
