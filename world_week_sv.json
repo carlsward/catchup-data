@@ -2,22 +2,36 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-19T08:12:14+00:00",
+  "generated": "2026-03-20T08:02:00+00:00",
   "total_raw": 40,
-  "total_rank": 10,
+  "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Källor: Danmark förberedde sig på möjligt angrepp från USA",
-      "summary": "Underrättelsekällor berättar hur man förberedde sig inför ett eventuellt angrepp. Vi har inte varit i en sådan situation sedan april 1940, säger en dansk försvarskälla. En särskild roll ska Frankrike och Tyskland ha spelat, enligt uppgifterna ska Frankrike ha varit redo att skicka hundratals soldater till ön.",
-      "url": "https://svt.se/nyheter/utrikes/kallor-danmark-forberedde-sig-pa-mojligt-angrepp-fran-usa",
+      "title": "Kronprinsessan Mette-Marit till NRK: Jag blev manipulerad och lurad av Epstein",
+      "summary": "I en intervju för norska NRK uttalar sig Norges kronprinsessa Mette - Marit om sin vänskap med den döda finansmannen och sexförbrytaren Jeffrey Epstein. Kronprinsessan säger att hon blev manipulerad och lurad, men att hon tar ansvar för det. Hon säger också att Epsteins offer förtjänar rättvisa och att hon känner ilska för att de inte har fått det.",
+      "url": "https://yle.fi/a/7-10095346?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-20T06:21:35Z"
+    },
+    {
+      "title": "20 mars: Nattens nyheter",
+      "summary": "Samtalen kan börja nästa vecka, säger Internationella sjöfartsorganisationens ordförande Victor Jimenez Fernandez. L - ledaren Simona Mohamsson säger att överenskommelsen med SD inte är hennes förstahandsval. Sveriges lag Wranå besegrade Sydkorea med 8 – 7 i curling - VM i Calgary.",
+      "url": "https://svt.se/nyheter/utrikes/20-mars-nattens-nyheter-uygtpp",
       "domain": "svt.se",
-      "published": "2026-03-19T05:04:59Z"
+      "published": "2026-03-20T04:26:17Z"
+    },
+    {
+      "title": "Spänt läge i Europa",
+      "summary": "Viktor Orbáns budskap inför EU - ledarnas möte är att oljan måste flöda igen innan Ungern kan gå med på stödet. Sveriges statsminister Ulf Kristersson säger att det finns \" alternativ \" om EU inte kan enas om Ukraina - stödet. Det finns inga möjligheter i EU: s förordning att utesluta en medlem, men ett EU - land måste i så fall lämna frivilligt.",
+      "url": "https://svt.se/nyheter/utrikes/spant-lage-i-europa-stall-dina-fragor-till-svts-utrikesredaktion",
+      "domain": "svt.se",
+      "published": "2026-03-19T10:15:07Z"
     },
     {
       "title": "Ungerns Orbán på väg att stjäla showen vid viktigt toppmöte",
-      "summary": "EU: s ledare träffas i Bryssel i dag för att diskutera krisen i Ukraina. Ukrainaveto ses som en kalldusch i EU - kretsen med kännbara effekter för Ukrainas möjligheter att försvara sig. EU försöker navigera mellan USA: s president Donald Trump krav på europeisk uppbackning i Mellanöstern och risken för att dras med i ett okontrollerat krig.",
+      "summary": "Viktor Orbáns veto mot ett stort lånepaket ses som en kalldusch i EU - kretsarna. Premiärministern kräver att den ryskbeskjutna oljeledningen Druzhba repareras i utbyte mot att frigöra finansieringen till Ukraina. Statsminister Petteri Orpo ( Saml ) anser att det är absurt av Ungern att kräva att Ukraina ska reparera en ledning som Ryssland förstört i sitt anfallskrig samtidigt som landet blockerar Ukrainas finansiering på EU - nivå.",
       "url": "https://yle.fi/a/7-10095242?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-19T03:31:17Z"
@@ -37,46 +51,18 @@
       "published": "2026-03-18T03:40:49Z"
     },
     {
-      "title": "Demokratin är på dekis och det är ditt fel inte mitt",
-      "summary": "V - Dems slutsatser om en allt svagare amerikansk demokrati rimmar överlag väl med flera internationella rapporter. Många analytiker kopplar utvecklingen till stor del till Donald Trump. Underliggande motsättningar och polarisering tillhör politiken men hans öppna angrepp på motståndare, medier och samhällsinstitutioner saknar motstycke i modern amerikansk politik.",
-      "url": "https://svt.se/nyheter/utrikes/demokratin-ar-pa-dekis-och-det-ar-ditt-fel-inte-mitt",
-      "domain": "svt.se",
-      "published": "2026-03-17T19:26:39Z"
+      "title": "Det stängda Hormuzsundet driver inte bara upp oljepriset, också maten hotar bli…",
+      "summary": "Mellan 25 och 30 procent av världens gödsel fraktas genom Hormuzsundet. Transporterna står still sedan kriget mot Iran bröt ut för drygt två veckor sedan. Centralförbundet för jord - och skogsbrukare Max Schulman är oroad över utvecklingen.",
+      "url": "https://yle.fi/a/7-10095161?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-17T15:25:46Z"
     },
     {
-      "title": "Iran bekräftar: Säkerhetschefen Ali Larijani död",
-      "summary": "Iran har svarat med anfall mot Israel och mot amerikanska mål runt om i Mellanöstern. Iran har sagt att Hormuzsundet, världens viktigaste oljefarled, förblir stängt för landets fiender. Sundet har blivit en central bricka i kriget.",
-      "url": "https://yle.fi/a/7-10095152?origin=rss",
+      "title": "Långa internetavbrott i Moskva avslöjar: Kreml testar nya verktyg för censur",
+      "summary": "Internetstörningar för andra veckan i rad i Moskva. Mobilnätet har satts ur spel medan offentliga wifi - nätverk fungerar dåligt. Störningarna berör särskilt innerstaden medan nätet fungerar bättre ute i förorterna.",
+      "url": "https://yle.fi/a/7-10095135?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-17T03:08:54Z"
-    },
-    {
-      "title": "Marinen: Finländska minröjningsfartyg kan inte skickas till Hormuzsundet",
-      "summary": "Frågan om vad som kan göras från europeisk sida för att öppna Hormuzsundet är på agendan när EU: s utrikesministrar samlas i Bryssel på måndag. Tre minröjningsfartyg i Katanpää - klassen kan inte skickas till Hormuz sundet, säger Marinen. Säkerhetsexpert Charly Salonius - Pasternak, VD för Nordic West Office, har tagit ställning till frågan på sociala medier.",
-      "url": "https://yle.fi/a/7-10095117?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-16T10:16:06Z"
-    },
-    {
-      "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
-      "summary": "Kina har talat varmt om sitt partnerskap med regimen i Teheran och är dessutom beroende av iransk olja. Trots all kinesisk retorik de senaste åren om hur nära relationer Iran och Kina har, väljer Peking alltså att tiga. Ett välbekant mönster Kinas förhållningssätt till Iran är inte unikt för det här kriget.",
-      "url": "https://yle.fi/a/7-10094714?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-16T08:45:27Z"
-    },
-    {
-      "title": "Drönarkriget trappas upp: USA har redan kopierat Irans attackdrönare",
-      "summary": "Centcom, USA: s centralkommando med ansvar för amerikanska säkerhetspolitiska intressen i Mellanöstern och Centralasien, skrev på X om ett vapen som USA använde för allra första gången i strid. Lucas - drönarna, som har fått namnet Lucas – en akronym för Low - cost Uncrewed Combat Attack System, alltså ungefär Billigt Obemannat System för Anfall i Strid – grundades så sent som i december förra året. Ukrainas president har sagt att Ukraina är villigt att hjälpa sina allierade försvara sig mot drönare – något USA också har bett om.",
-      "url": "https://yle.fi/a/7-10095088?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-15T17:37:15Z"
-    },
-    {
-      "title": "Bakom Norges gräns förbereder sig Ryssland för krig",
-      "summary": "Liv gör sin värnplikt i Kirkenes i norr. I Norge är det försvarsmakten som bevakar gränsen mot Ryssland. Beväringar deltar i det arbetet.",
-      "url": "https://yle.fi/a/7-10095074?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-15T11:20:29Z"
+      "published": "2026-03-17T09:05:14Z"
     }
   ]
 }

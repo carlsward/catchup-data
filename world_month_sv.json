@@ -2,15 +2,22 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-19T08:13:13+00:00",
+  "generated": "2026-03-20T08:02:47+00:00",
   "total_raw": 40,
-  "total_rank": 5,
+  "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
+      "title": "Kronprinsessan Mette-Marit till NRK: Jag blev manipulerad och lurad av Epstein",
+      "summary": "I en intervju för norska NRK uttalar sig Norges kronprinsessa Mette - Marit om sin vänskap med den döda finansmannen och sexförbrytaren Jeffrey Epstein. Kronprinsessan säger att hon blev manipulerad och lurad, men att hon tar ansvar för det. Hon säger också att Epsteins offer förtjänar rättvisa och att hon känner ilska för att de inte har fått det.",
+      "url": "https://yle.fi/a/7-10095346?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-20T06:21:35Z"
+    },
+    {
       "title": "Ungerns Orbán på väg att stjäla showen vid viktigt toppmöte",
-      "summary": "EU: s ledare träffas i Bryssel i dag för att diskutera krisen i Ukraina. Ukrainaveto ses som en kalldusch i EU - kretsen med kännbara effekter för Ukrainas möjligheter att försvara sig. EU försöker navigera mellan USA: s president Donald Trump krav på europeisk uppbackning i Mellanöstern och risken för att dras med i ett okontrollerat krig.",
+      "summary": "Viktor Orbáns veto mot ett stort lånepaket ses som en kalldusch i EU - kretsarna. Premiärministern kräver att den ryskbeskjutna oljeledningen Druzhba repareras i utbyte mot att frigöra finansieringen till Ukraina. Statsminister Petteri Orpo ( Saml ) anser att det är absurt av Ungern att kräva att Ukraina ska reparera en ledning som Ryssland förstört i sitt anfallskrig samtidigt som landet blockerar Ukrainas finansiering på EU - nivå.",
       "url": "https://yle.fi/a/7-10095242?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-19T03:31:17Z"
@@ -23,25 +30,11 @@
       "published": "2026-03-18T03:40:49Z"
     },
     {
-      "title": "Iran bekräftar: Säkerhetschefen Ali Larijani död",
-      "summary": "Iran har svarat med anfall mot Israel och mot amerikanska mål runt om i Mellanöstern. Iran har sagt att Hormuzsundet, världens viktigaste oljefarled, förblir stängt för landets fiender. Sundet har blivit en central bricka i kriget.",
-      "url": "https://yle.fi/a/7-10095152?origin=rss",
+      "title": "Långa internetavbrott i Moskva avslöjar: Kreml testar nya verktyg för censur",
+      "summary": "Internetstörningar för andra veckan i rad i Moskva. Mobilnätet har satts ur spel medan offentliga wifi - nätverk fungerar dåligt. Störningarna berör särskilt innerstaden medan nätet fungerar bättre ute i förorterna.",
+      "url": "https://yle.fi/a/7-10095135?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-17T03:08:54Z"
-    },
-    {
-      "title": "Kina riskerar inte konfrontation med USA om Iran: ”Kan lika gärna samarbeta med…",
-      "summary": "Kina har talat varmt om sitt partnerskap med regimen i Teheran och är dessutom beroende av iransk olja. Trots all kinesisk retorik de senaste åren om hur nära relationer Iran och Kina har, väljer Peking alltså att tiga. Ett välbekant mönster Kinas förhållningssätt till Iran är inte unikt för det här kriget.",
-      "url": "https://yle.fi/a/7-10094714?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-16T08:45:27Z"
-    },
-    {
-      "title": "Drönarkriget trappas upp: USA har redan kopierat Irans attackdrönare",
-      "summary": "Centcom, USA: s centralkommando med ansvar för amerikanska säkerhetspolitiska intressen i Mellanöstern och Centralasien, skrev på X om ett vapen som USA använde för allra första gången i strid. Lucas - drönarna, som har fått namnet Lucas – en akronym för Low - cost Uncrewed Combat Attack System, alltså ungefär Billigt Obemannat System för Anfall i Strid – grundades så sent som i december förra året. Ukrainas president har sagt att Ukraina är villigt att hjälpa sina allierade försvara sig mot drönare – något USA också har bett om.",
-      "url": "https://yle.fi/a/7-10095088?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-15T17:37:15Z"
+      "published": "2026-03-17T09:05:14Z"
     }
   ]
 }
