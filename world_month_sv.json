@@ -2,12 +2,19 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-22T08:12:00+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-23T08:16:09+00:00",
+  "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Natos exchef: Europa ska ta mer ansvar för försvaret men inte tro att man klarar…",
+      "summary": "Natos tidigare generalsekreterare George Robertson avfärdar det som en farlig, kostsam, och orealistisk väg att gå. Han hänvisar till en uträkning som cirkulerar i försvarskretsar utan att någon verkar veta källan: Europa behöver fem procent av sin bruttonationalprodukt på försvar med USA, eller sju procent utan. Vissa talar om strategisk autonomi som om Europa skulle skaffa sig alla medel för att bli helt oberoende av USA.",
+      "url": "https://yle.fi/a/7-10094713?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-23T03:30:03Z"
+    },
     {
       "title": "Kurdiska kvinnor i Syrien släpper inte sina vapen",
       "summary": "YPJ - styrkorna undertecknade ett avtal med den syriska regeringen i januari. Avtalet slöts efter att regeringens styrkor i januari tagit över stora områden som SDF hade kontroll över i ett decennium. Men Penaber Afrin litar inte på att den nya regeringen under den tidigare rebellledaren Ahmed Al - Sharaa har goda avsikter eller på att lugnet håller.",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10095358?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-20T16:48:13Z"
-    },
-    {
-      "title": "Finland bäst i världen också på frihetslista",
-      "summary": "Freedom House säger att frihetsgraden i världens länder har sjunkit oavbrutet i tjugo år. Finland får hundra poäng av hundra, men Sverige och Norge kommer hack i häl, båda med 99 poäng. På sista plats kommer Sydsudan med noll poäng.",
-      "url": "https://yle.fi/a/7-10095338?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-19T17:47:09Z"
     }
   ]
 }

@@ -2,12 +2,26 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-22T08:11:16+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-23T08:15:24+00:00",
+  "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
+    {
+      "title": "Natos exchef: Europa ska ta mer ansvar för försvaret men inte tro att man klarar…",
+      "summary": "Natos tidigare generalsekreterare George Robertson avfärdar det som en farlig, kostsam, och orealistisk väg att gå. Han hänvisar till en uträkning som cirkulerar i försvarskretsar utan att någon verkar veta källan: Europa behöver fem procent av sin bruttonationalprodukt på försvar med USA, eller sju procent utan. Vissa talar om strategisk autonomi som om Europa skulle skaffa sig alla medel för att bli helt oberoende av USA.",
+      "url": "https://yle.fi/a/7-10094713?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-23T03:30:03Z"
+    },
+    {
+      "title": "Kina växlar upp i AI-racet",
+      "summary": "Folkkongressen, Kinas högsta lagstiftande organ som samlar närmare 3 000 delegater från hela landet, avslutades i mars. Här presenteras de ekonomiska tillväxtmålen och statsbudgeten godkänns. Här pekas också de övergripande prioriteringarna ut för de kommande åren – där AI och ökad självförsörjning av högteknologiska komponenter lyfts fram som strategiska områden.",
+      "url": "https://svt.se/nyheter/utrikes/kina-vaxlar-upp-i-ai-racet-satsar-pa-humanioda-robotar",
+      "domain": "svt.se",
+      "published": "2026-03-23T02:20:24Z"
+    },
     {
       "title": "Kurdiska kvinnor i Syrien släpper inte sina vapen",
       "summary": "YPJ - styrkorna undertecknade ett avtal med den syriska regeringen i januari. Avtalet slöts efter att regeringens styrkor i januari tagit över stora områden som SDF hade kontroll över i ett decennium. Men Penaber Afrin litar inte på att den nya regeringen under den tidigare rebellledaren Ahmed Al - Sharaa har goda avsikter eller på att lugnet håller.",
@@ -37,13 +51,6 @@
       "published": "2026-03-21T10:00:14Z"
     },
     {
-      "title": "Trumpadministrationen stämmer Harvard",
-      "summary": "Trumpadministrationen stämmer Harvard i en civilrättslig tvist, rapporterar flera internationella medier. Enligt den inlämnade stämningsansökan har universitetet kränkt judiska studenters medborgerliga rättigheter. Stämningsansökan lämnades in vid den federala distriktsdomstolen i Massachusetts under fredagen.",
-      "url": "https://svt.se/nyheter/utrikes/trumpadministrationen-stammer-harvard-igen",
-      "domain": "svt.se",
-      "published": "2026-03-20T16:57:06Z"
-    },
-    {
       "title": "USA har skapat sig en perfekt storm”, säger Iranexpert",
       "summary": "Krig i Mellanöstern har pågått i tre veckor. Israel och USA har turvis sagt att de redan har vunnit kriget. Hur är Irans aggressiva motstånd då fortfarande möjligt?",
       "url": "https://yle.fi/a/7-10095358?origin=rss",
@@ -51,18 +58,11 @@
       "published": "2026-03-20T16:48:13Z"
     },
     {
-      "title": "Irankriget: Legofilm och spel används i propagandan",
-      "summary": "Vita huset har delat flera inlägg på plattformen X där videor från attacker under kriget i Iran klipps ihop med Hollywoodfilmer och dataspel som Call Of Duty och Grand Theft Auto. De här klippen har väckt blandade reaktioner, säger SVT: s USA - korrespondent Sofia Yohannes. Trumps kärnväljare tycker de roliga och häftiga men andra anser att de är osmakliga eller respektlösa, säger hon i Utrikesbyrån: Kriget om sanningen på SVT Play.",
-      "url": "https://svt.se/nyheter/utrikes/irankriget-legofilm-och-spel-anvands-i-propagandan",
+      "title": "Reaktionerna på Mette-Marits intervju: ”Enorm kris för norsk monarki",
+      "summary": "Det har varit en stor uppståndelse i Norge kring NRK: s intervju med Mette - Marit. Kronprinsparet har haft en turbulent tid. I januari skakades landet av avslöjandena i Epsteinfilerna.",
+      "url": "https://svt.se/nyheter/utrikes/reaktionerna-pa-mette-marits-intervju-enorm-kris-for-norsk-monarki",
       "domain": "svt.se",
-      "published": "2026-03-19T19:08:08Z"
-    },
-    {
-      "title": "Finland bäst i världen också på frihetslista",
-      "summary": "Freedom House säger att frihetsgraden i världens länder har sjunkit oavbrutet i tjugo år. Finland får hundra poäng av hundra, men Sverige och Norge kommer hack i häl, båda med 99 poäng. På sista plats kommer Sydsudan med noll poäng.",
-      "url": "https://yle.fi/a/7-10095338?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-19T17:47:09Z"
+      "published": "2026-03-20T10:32:17Z"
     }
   ]
 }
