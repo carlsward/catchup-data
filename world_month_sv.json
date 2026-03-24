@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-23T08:16:09+00:00",
+  "generated": "2026-03-24T08:08:10+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Natos exchef: Europa ska ta mer ansvar för försvaret men inte tro att man klarar…",
-      "summary": "Natos tidigare generalsekreterare George Robertson avfärdar det som en farlig, kostsam, och orealistisk väg att gå. Han hänvisar till en uträkning som cirkulerar i försvarskretsar utan att någon verkar veta källan: Europa behöver fem procent av sin bruttonationalprodukt på försvar med USA, eller sju procent utan. Vissa talar om strategisk autonomi som om Europa skulle skaffa sig alla medel för att bli helt oberoende av USA.",
-      "url": "https://yle.fi/a/7-10094713?origin=rss",
+      "title": "Dagens danska val är en rörig historia: ”De andra kandidaterna är helt förfärlig…",
+      "summary": "Mette Frederiksen har varit partiledare för de danska Socialdemokraterna sedan 2015 och statsminister sedan 2019. Den nuvarande regeringen består av Socialdemokraterna, borgerliga Venstre och nybildade mittenpartiet Moderaterna, som leds av den populäre utrikesministern Lars Løkke Rasmussen. Trots sin populäre partiledare bara ett väljarstöd på omkring sex procent och sammanlagt ser regeringspartierna ut att skrapa ihop ungefär 60 av de 90 platser som krävs för majoritet i Folketinget.",
+      "url": "https://yle.fi/a/7-10095287?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-23T03:30:03Z"
+      "published": "2026-03-24T04:05:14Z"
+    },
+    {
+      "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
+      "summary": "Franska vänstern firar valframgångar i landets största städer. Socialisterna behöll makten i Paris samt i Marseille och Lyon, medan ytterhögerpartiet Nationell samling gjorde ett svagare resultat än väntat. Professorn vid universitet Sciences Po Lille, Pierre Mathiot, ser valresultatet som ett uttryck för stabilitet.",
+      "url": "https://yle.fi/a/7-10095245?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-23T12:30:57Z"
     },
     {
       "title": "Kurdiska kvinnor i Syrien släpper inte sina vapen",
@@ -23,18 +30,11 @@
       "published": "2026-03-22T05:35:03Z"
     },
     {
-      "title": "Spanien tjänar miljoner på migranter medan andra EU-länder stramar åt",
-      "summary": "EU har betalat mer än fem miljarder euro till nordafrikanska länder för att slå ner på den organiserade människosmugglingen. Ett samarbete mellan alla inbalandade länder räddar liv, säger myndigheterna. Kunskap om att Europa sätter upp allt större hinder för migrationen, menar journalisten Marie Louise Ndiaye.",
-      "url": "https://yle.fi/a/7-10093995?origin=rss",
+      "title": "Robert Mueller är död",
+      "summary": "Mueller ledde utredningen om rysk påverkan i presidentvalet 2016, då Trump blev president första gången. USA: s president Donald Trump gläder sig över dödsbudet i ett inlägg på sin webbplattform Truth Social. Han skulle ta reda på om Trumps kampanj samarbetat med Ryssland inför valet.",
+      "url": "https://yle.fi/a/7-10095435?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-21T10:00:14Z"
-    },
-    {
-      "title": "USA har skapat sig en perfekt storm”, säger Iranexpert",
-      "summary": "Krig i Mellanöstern har pågått i tre veckor. Israel och USA har turvis sagt att de redan har vunnit kriget. Hur är Irans aggressiva motstånd då fortfarande möjligt?",
-      "url": "https://yle.fi/a/7-10095358?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-20T16:48:13Z"
+      "published": "2026-03-21T19:47:12Z"
     }
   ]
 }

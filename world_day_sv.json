@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-23T08:14:03+00:00",
-  "total_raw": 10,
+  "generated": "2026-03-24T08:05:45+00:00",
+  "total_raw": 19,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Natos exchef: Europa ska ta mer ansvar för försvaret men inte tro att man klarar…",
-      "summary": "Natos tidigare generalsekreterare George Robertson avfärdar det som en farlig, kostsam, och orealistisk väg att gå. Han hänvisar till en uträkning som cirkulerar i försvarskretsar utan att någon verkar veta källan: Europa behöver fem procent av sin bruttonationalprodukt på försvar med USA, eller sju procent utan. Vissa talar om strategisk autonomi som om Europa skulle skaffa sig alla medel för att bli helt oberoende av USA.",
-      "url": "https://yle.fi/a/7-10094713?origin=rss",
+      "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
+      "summary": "Franska vänstern firar valframgångar i landets största städer. Socialisterna behöll makten i Paris samt i Marseille och Lyon, medan ytterhögerpartiet Nationell samling gjorde ett svagare resultat än väntat. Professorn vid universitet Sciences Po Lille, Pierre Mathiot, ser valresultatet som ett uttryck för stabilitet.",
+      "url": "https://yle.fi/a/7-10095245?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-23T03:30:03Z"
+      "published": "2026-03-23T12:30:57Z"
     },
     {
-      "title": "Efter krisen: Grönland kan avgöra danska valet",
-      "summary": "Det är väldigt jämnt mellan blocken och de så kallade nordatlantiska mandaten kan avgöra. Grönland har tillsammans med Färöarna fyra mandat i danska Folketinget. Traditionellt har Färöarna skickat två blå mandat och Grönland två röda, men nu lämnar fältet öppet för stöd till endera block eller mitten.",
-      "url": "https://svt.se/nyheter/utrikes/efter-krisen-gronland-kan-avgora-danska-valet",
+      "title": "Dagens danska val är en rörig historia: ”De andra kandidaterna är helt förfärlig…",
+      "summary": "Mette Frederiksen har varit partiledare för de danska Socialdemokraterna sedan 2015 och statsminister sedan 2019. Den nuvarande regeringen består av Socialdemokraterna, borgerliga Venstre och nybildade mittenpartiet Moderaterna, som leds av den populäre utrikesministern Lars Løkke Rasmussen. Trots sin populäre partiledare bara ett väljarstöd på omkring sex procent och sammanlagt ser regeringspartierna ut att skrapa ihop ungefär 60 av de 90 platser som krävs för majoritet i Folketinget.",
+      "url": "https://yle.fi/a/7-10095287?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-24T04:05:14Z"
+    },
+    {
+      "title": "Havsörnen inte längre rödlistad: ”Trodde aldrig",
+      "summary": "År 1973 fanns det bara sex havsörnsungar längs den svenska ostkusten. Antalet häckande par är nu runt 1 400. Förutom havsörnen mår uttern, långbensgrodan och fisken asp bättre och tas bort från listan.",
+      "url": "https://svt.se/nyheter/utrikes/havsornen-inte-langre-rodlistad-trodde-aldrig",
       "domain": "svt.se",
-      "published": "2026-03-22T15:12:37Z"
+      "published": "2026-03-24T06:03:21Z"
     },
     {
-      "title": "Trump- och Orbánsympatisör går mot seger i Sloveniens parlamentsval",
-      "summary": "Det regerande centervänsterpartiet Frihetsrörelsen ( GS ) möter hårt motstånd av det största oppositionspartiet, Sloveniens demokratiska parti ( SDS ) Sittande premiärministern Robert Golob utmanas närmast av den trefaldiga premiärministern Janez Janša. Slovenerna är i synnerhet missnöjda med hälsovården och andra offentliga tjänster. Medan GS ledord under kampanjen har varit \" framåt \", vill SDS se Slovenien återvända till sina rötter och traditionella familjevärderingar.",
-      "url": "https://yle.fi/a/7-10095429?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-22T09:00:22Z"
-    },
-    {
-      "title": "Ytterhögerns storslam uteblev",
-      "summary": "Socialistpartiet behöll makten i Frankrikes två största städer efter den andra omgången i lokalvalet. I Paris betyder det att partiets redan kvartssekellånga styre fortsätter. När resultaten började klarna under natten visade det sig att partierna på ytterkanten både till höger och vänster gjorde ett mindre bra val än de hoppats på.",
-      "url": "https://yle.fi/a/7-10095453?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-23T04:30:29Z"
-    },
-    {
-      "title": "Kina växlar upp i AI-racet",
-      "summary": "Folkkongressen, Kinas högsta lagstiftande organ som samlar närmare 3 000 delegater från hela landet, avslutades i mars. Här presenteras de ekonomiska tillväxtmålen och statsbudgeten godkänns. Här pekas också de övergripande prioriteringarna ut för de kommande åren – där AI och ökad självförsörjning av högteknologiska komponenter lyfts fram som strategiska områden.",
-      "url": "https://svt.se/nyheter/utrikes/kina-vaxlar-upp-i-ai-racet-satsar-pa-humanioda-robotar",
+      "title": "Valrysare väntar i Danmark",
+      "summary": "Mette Frederiksen leder en mittenkoalition där samtliga partier har gått bakåt i opinionen sedan de tillträdde för fyra år sedan. Missnöje med för dyra levnadskostnader, klimatpolitik, vård, skola, omsorg – klassiska valfrågor – har gjort att socialdemokraterna tappat till det gröna vänsterpartiet Socialistiskt folkeparti. Det libertarianska partiet, Liberal Alliance är just nu största borgerliga parti.",
+      "url": "https://svt.se/nyheter/utrikes/valrysare-vantar-i-danmark-frederiksen-dubbelt-utmanad",
       "domain": "svt.se",
-      "published": "2026-03-23T02:20:24Z"
+      "published": "2026-03-24T05:16:18Z"
+    },
+    {
+      "title": "Ingen risk för oljespill i Finska viken efter ukrainska anfallet mot Primorsk",
+      "summary": "Miljöforskaren Harri Kankaanpää säger att det inte finns någon risk för att olja rinner ut i Finska viken. Han konstaterar att luftförorening är en annan fråga. Leningradregionen har inlett en omfattande drönarattack mot regionen.",
+      "url": "https://yle.fi/a/7-10095517?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-23T16:19:32Z"
     }
   ]
 }
