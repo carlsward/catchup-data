@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-24T08:08:10+00:00",
+  "generated": "2026-03-25T08:11:00+00:00",
   "total_raw": 39,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Dagens danska val är en rörig historia: ”De andra kandidaterna är helt förfärlig…",
-      "summary": "Mette Frederiksen har varit partiledare för de danska Socialdemokraterna sedan 2015 och statsminister sedan 2019. Den nuvarande regeringen består av Socialdemokraterna, borgerliga Venstre och nybildade mittenpartiet Moderaterna, som leds av den populäre utrikesministern Lars Løkke Rasmussen. Trots sin populäre partiledare bara ett väljarstöd på omkring sex procent och sammanlagt ser regeringspartierna ut att skrapa ihop ungefär 60 av de 90 platser som krävs för majoritet i Folketinget.",
-      "url": "https://yle.fi/a/7-10095287?origin=rss",
+      "title": "Analys: En person kan avgöra vem som blir Danmarks nästa statsminister",
+      "summary": "Mette Frederiksen går till kung Frederik X och meddelar att hennes regering avgår. Den blocköverskridande regeringen med Socialdemokratiet, borgerliga Venstre och mittenpartiet Moderaterna har inte varit särskilt populär. Det nuvarande regeringspartiet Venstre får drygt tio procent och de övriga borgerliga rösterna splittras över ett otal partier som äter väljare av varandra.",
+      "url": "https://yle.fi/a/7-10095291?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-24T04:05:14Z"
+      "published": "2026-03-25T03:05:30Z"
+    },
+    {
+      "title": "Serhij Kostynskyj gick från affärsman till befälhavare under fyra år av krig i U…",
+      "summary": "Serhij Kostynskyj var en av dem som tog upp vapen när de ryska pansarkolonnerna rullade in i Ukraina för drygt fyra år sedan. Idag leder han drönarbataljonen Seraphim. Han säger att kriget visar att intellektuellt utbildade och intellektuellt begåvade personer alltid kommer att vara viktiga, också i krig.",
+      "url": "https://yle.fi/a/7-10095226?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-24T08:59:37Z"
     },
     {
       "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
@@ -23,18 +30,11 @@
       "published": "2026-03-23T12:30:57Z"
     },
     {
-      "title": "Kurdiska kvinnor i Syrien släpper inte sina vapen",
-      "summary": "YPJ - styrkorna undertecknade ett avtal med den syriska regeringen i januari. Avtalet slöts efter att regeringens styrkor i januari tagit över stora områden som SDF hade kontroll över i ett decennium. Men Penaber Afrin litar inte på att den nya regeringen under den tidigare rebellledaren Ahmed Al - Sharaa har goda avsikter eller på att lugnet håller.",
-      "url": "https://yle.fi/a/7-10094027?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-22T05:35:03Z"
-    },
-    {
-      "title": "Robert Mueller är död",
-      "summary": "Mueller ledde utredningen om rysk påverkan i presidentvalet 2016, då Trump blev president första gången. USA: s president Donald Trump gläder sig över dödsbudet i ett inlägg på sin webbplattform Truth Social. Han skulle ta reda på om Trumps kampanj samarbetat med Ryssland inför valet.",
-      "url": "https://yle.fi/a/7-10095435?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-21T19:47:12Z"
+      "title": "Efter krisen: Grönland kan avgöra danska valet",
+      "summary": "Det är väldigt jämnt mellan blocken och de så kallade nordatlantiska mandaten kan avgöra. Grönland har tillsammans med Färöarna fyra mandat i danska Folketinget. Traditionellt har Färöarna skickat två blå mandat och Grönland två röda, men nu lämnar fältet öppet för stöd till endera block eller mitten.",
+      "url": "https://svt.se/nyheter/utrikes/efter-krisen-gronland-kan-avgora-danska-valet",
+      "domain": "svt.se",
+      "published": "2026-03-22T15:12:37Z"
     }
   ]
 }

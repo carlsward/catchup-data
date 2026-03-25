@@ -2,25 +2,39 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-24T08:07:18+00:00",
+  "generated": "2026-03-25T08:10:08+00:00",
   "total_raw": 39,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Havsörnen inte längre rödlistad: ”Trodde aldrig",
-      "summary": "År 1973 fanns det bara sex havsörnsungar längs den svenska ostkusten. Antalet häckande par är nu runt 1 400. Förutom havsörnen mår uttern, långbensgrodan och fisken asp bättre och tas bort från listan.",
-      "url": "https://svt.se/nyheter/utrikes/havsornen-inte-langre-rodlistad-trodde-aldrig",
-      "domain": "svt.se",
-      "published": "2026-03-24T06:03:21Z"
+      "title": "Analys: En person kan avgöra vem som blir Danmarks nästa statsminister",
+      "summary": "Mette Frederiksen går till kung Frederik X och meddelar att hennes regering avgår. Den blocköverskridande regeringen med Socialdemokratiet, borgerliga Venstre och mittenpartiet Moderaterna har inte varit särskilt populär. Det nuvarande regeringspartiet Venstre får drygt tio procent och de övriga borgerliga rösterna splittras över ett otal partier som äter väljare av varandra.",
+      "url": "https://yle.fi/a/7-10095291?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-25T03:05:30Z"
     },
     {
-      "title": "Dagens danska val är en rörig historia: ”De andra kandidaterna är helt förfärlig…",
-      "summary": "Mette Frederiksen har varit partiledare för de danska Socialdemokraterna sedan 2015 och statsminister sedan 2019. Den nuvarande regeringen består av Socialdemokraterna, borgerliga Venstre och nybildade mittenpartiet Moderaterna, som leds av den populäre utrikesministern Lars Løkke Rasmussen. Trots sin populäre partiledare bara ett väljarstöd på omkring sex procent och sammanlagt ser regeringspartierna ut att skrapa ihop ungefär 60 av de 90 platser som krävs för majoritet i Folketinget.",
-      "url": "https://yle.fi/a/7-10095287?origin=rss",
+      "title": "Oljepriset sjunker igen",
+      "summary": "Nordsjöoljan handlades vid klockan 02 svensk tid för cirka 98 dollar per fat i terminshandeln för maj. Även amerikanska WTI sjönk kraftigt, till $ 87, 5 dollar fatet, jämfört med drygt 91 dollar dygnet innan. Oljepriset låg på cirka 70 $ per fat inför USA: s och Israels attack mot Iran i slutet av februari och har sedan dess gått över $ 100 per fat.",
+      "url": "https://svt.se/nyheter/utrikes/oljepriset-sjunker-igen",
+      "domain": "svt.se",
+      "published": "2026-03-25T01:41:37Z"
+    },
+    {
+      "title": "Serhij Kostynskyj gick från affärsman till befälhavare under fyra år av krig i U…",
+      "summary": "Serhij Kostynskyj var en av dem som tog upp vapen när de ryska pansarkolonnerna rullade in i Ukraina för drygt fyra år sedan. Idag leder han drönarbataljonen Seraphim. Han säger att kriget visar att intellektuellt utbildade och intellektuellt begåvade personer alltid kommer att vara viktiga, också i krig.",
+      "url": "https://yle.fi/a/7-10095226?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-24T04:05:14Z"
+      "published": "2026-03-24T08:59:37Z"
+    },
+    {
+      "title": "Valet i Danmark 2026",
+      "summary": "Valet i Danmark 2026 Överblick Långa regeringsförhandlingar förväntas Många analytiker spår att det kan ta tid att få en ny regering på plats i Danmark. I det förra valet 2022 tog det 42 dagar att komma överens om regeringskoalitionen, bestående av Socialdemokraterna, Venstre och moderaterna. Det var den längsta regeringsbildningen i Danmarks moderna historia.",
+      "url": "https://svt.se/nyheter/utrikes/valet-i-danmark-2026-folj-svts-liverapportering",
+      "domain": "svt.se",
+      "published": "2026-03-24T06:47:36Z"
     },
     {
       "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
@@ -37,32 +51,18 @@
       "published": "2026-03-23T02:20:24Z"
     },
     {
-      "title": "Kurdiska kvinnor i Syrien släpper inte sina vapen",
-      "summary": "YPJ - styrkorna undertecknade ett avtal med den syriska regeringen i januari. Avtalet slöts efter att regeringens styrkor i januari tagit över stora områden som SDF hade kontroll över i ett decennium. Men Penaber Afrin litar inte på att den nya regeringen under den tidigare rebellledaren Ahmed Al - Sharaa har goda avsikter eller på att lugnet håller.",
-      "url": "https://yle.fi/a/7-10094027?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-22T05:35:03Z"
-    },
-    {
-      "title": "Raed, 54, dog vid fronten",
-      "summary": "Raed Hammad rekryteras i en Telegramkanal som lockar män, främst från Mellanöstern, med stora summor pengar. Den 40 - åriga ryska kvinnan Polina Aleksandrovna Azarnych påstår sig ha rekryterat tusen män varje dag. Programmet uppmanar männen gång på gång att ta kontakt via stängda chattar, vilket innebär att betydligt fler än de identifierade personerna kan ha rekryterats av Rysslands krigsoperationer.",
-      "url": "https://svt.se/nyheter/utrikes/raed-54-dog-vid-fronten-lockades-dit-av-dodens-gudmor",
+      "title": "Efter krisen: Grönland kan avgöra danska valet",
+      "summary": "Det är väldigt jämnt mellan blocken och de så kallade nordatlantiska mandaten kan avgöra. Grönland har tillsammans med Färöarna fyra mandat i danska Folketinget. Traditionellt har Färöarna skickat två blå mandat och Grönland två röda, men nu lämnar fältet öppet för stöd till endera block eller mitten.",
+      "url": "https://svt.se/nyheter/utrikes/efter-krisen-gronland-kan-avgora-danska-valet",
       "domain": "svt.se",
-      "published": "2026-03-22T04:52:09Z"
+      "published": "2026-03-22T15:12:37Z"
     },
     {
-      "title": "Källor: USA:s sex krav för fred med Iran",
-      "summary": "USA: s president Donald Trump överväger att trappa ner de militära insatserna i Mellanöstern. Trumpadministrationen uppges nu ha inlett samtal om hur ett fredsavtal med Iran skulle kunna se ut, enligt en amerikansk tjänsteman och en källa med insyn. Källor säger att sex krav kommer att ställas på Iran, inklusive att Iran inte får ha något missilprogram de kommande fem åren, att urananrikning inte får förekomma och att det måste finnas garantier för att förhindra en sådan aggression i framtiden.",
-      "url": "https://svt.se/nyheter/utrikes/kallor-usas-sex-krav-for-fred-med-iran",
+      "title": "WHO: 64 dödade i attack mot sjukhus i Sudan",
+      "summary": "Minst 64 personer ska vara döda och 89 skadade, säger WHO: s generaldirektör Tedros Ghebreyesus. Två sjuksköterskor och en läkare, samt flera patienter ska ha dött i attacken. Sedan april 2023 har ett inbördeskrig blossat upp mellan Sudans armé och den paramilitära gruppen RSF ( Rapid Support Forces ) Det har förekommit 213 attacker mot vårdinrättningar sedan konfliktens start för tre år sedan.",
+      "url": "https://svt.se/nyheter/utrikes/who-64-dodade-i-attack-mot-sjukhus-i-sudan",
       "domain": "svt.se",
-      "published": "2026-03-21T21:30:07Z"
-    },
-    {
-      "title": "Robert Mueller är död",
-      "summary": "Mueller ledde utredningen om rysk påverkan i presidentvalet 2016, då Trump blev president första gången. USA: s president Donald Trump gläder sig över dödsbudet i ett inlägg på sin webbplattform Truth Social. Han skulle ta reda på om Trumps kampanj samarbetat med Ryssland inför valet.",
-      "url": "https://yle.fi/a/7-10095435?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-21T19:47:12Z"
+      "published": "2026-03-22T07:04:45Z"
     }
   ]
 }
