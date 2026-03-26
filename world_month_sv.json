@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-25T08:11:00+00:00",
-  "total_raw": 39,
+  "generated": "2026-03-26T08:19:55+00:00",
+  "total_raw": 40,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Analys: En person kan avgöra vem som blir Danmarks nästa statsminister",
-      "summary": "Mette Frederiksen går till kung Frederik X och meddelar att hennes regering avgår. Den blocköverskridande regeringen med Socialdemokratiet, borgerliga Venstre och mittenpartiet Moderaterna har inte varit särskilt populär. Det nuvarande regeringspartiet Venstre får drygt tio procent och de övriga borgerliga rösterna splittras över ett otal partier som äter väljare av varandra.",
-      "url": "https://yle.fi/a/7-10095291?origin=rss",
+      "title": "Vad är JEF? Därför samlas tio länders ledare i Helsingfors på torsdagen",
+      "summary": "JEF består av tio nordeuropeiska länder med liknande säkerhetspolitiska intressen. Samarbetet leds av Storbritannien, och den brittiska premiärministern Keir Starmer närvarar vid mötet i Helsingfors. Tanken är att JEF ska kunna agera snabbare än Nato, EU eller FN när en kris uppstår, eftersom färre länder behöver vara överens.",
+      "url": "https://yle.fi/a/7-10095184?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-25T03:05:30Z"
+      "published": "2026-03-26T04:03:40Z"
+    },
+    {
+      "title": "Europas största pälsproducent lägger ner och Finland kan gå samma väg",
+      "summary": "Sedan november har Polen ett förbud mot pälsdjursuppfödning. Om några år kommer den här gården inte längre att finnas, då pälsnäringen i Polen fasas ut. Minkfarmaren Herman Noordman beklagar utvecklingen.",
+      "url": "https://yle.fi/a/7-10094742?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-25T09:00:18Z"
     },
     {
       "title": "Serhij Kostynskyj gick från affärsman till befälhavare under fyra år av krig i U…",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10095245?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-23T12:30:57Z"
-    },
-    {
-      "title": "Efter krisen: Grönland kan avgöra danska valet",
-      "summary": "Det är väldigt jämnt mellan blocken och de så kallade nordatlantiska mandaten kan avgöra. Grönland har tillsammans med Färöarna fyra mandat i danska Folketinget. Traditionellt har Färöarna skickat två blå mandat och Grönland två röda, men nu lämnar fältet öppet för stöd till endera block eller mitten.",
-      "url": "https://svt.se/nyheter/utrikes/efter-krisen-gronland-kan-avgora-danska-valet",
-      "domain": "svt.se",
-      "published": "2026-03-22T15:12:37Z"
     }
   ]
 }
