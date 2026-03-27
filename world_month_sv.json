@@ -2,18 +2,25 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-26T08:19:55+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-27T08:22:20+00:00",
+  "total_raw": 38,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Vad är JEF? Därför samlas tio länders ledare i Helsingfors på torsdagen",
-      "summary": "JEF består av tio nordeuropeiska länder med liknande säkerhetspolitiska intressen. Samarbetet leds av Storbritannien, och den brittiska premiärministern Keir Starmer närvarar vid mötet i Helsingfors. Tanken är att JEF ska kunna agera snabbare än Nato, EU eller FN när en kris uppstår, eftersom färre länder behöver vara överens.",
-      "url": "https://yle.fi/a/7-10095184?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-26T04:03:40Z"
+      "title": "Tyska politiker förenade i ”brandvägg” mot AfD",
+      "summary": "Alternativ för Tyskland har vuxit från ett eurokritiskt småparti till en stark politisk kraft med invandringskritisk agenda. Det pågår en juridisk process om partiet ska klassificeras som extremistiskt, efter den tyska säkerhetstjänstens bedömning att AfD är ett hot mot demokratin 2025. Nationellt ligger hack i häl med det största partiet CDU ( Kristdemokraterna ) och är det enda partiet i Tyskland som ökar i antalet medlemmar i hela landet.",
+      "url": "https://svt.se/nyheter/utrikes/tyska-politiker-forenade-i-brandvagg-mot-afd",
+      "domain": "svt.se",
+      "published": "2026-03-27T02:38:42Z"
+    },
+    {
+      "title": "Maduro tillbaka i amerikansk domstol",
+      "summary": "Kristi Noam kommer att ersättas av Oklahoma Sen. Markwayne Mullin. Det är oklart vem Mullin kommer att godkännas av kongressen.",
+      "url": "https://svt.se/nyheter/utrikes/maduro-delges-misstanke-om-brott-havdar-immunitet",
+      "domain": "svt.se",
+      "published": "2026-03-26T14:49:22Z"
     },
     {
       "title": "Europas största pälsproducent lägger ner och Finland kan gå samma väg",
@@ -28,13 +35,6 @@
       "url": "https://yle.fi/a/7-10095226?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-24T08:59:37Z"
-    },
-    {
-      "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
-      "summary": "Franska vänstern firar valframgångar i landets största städer. Socialisterna behöll makten i Paris samt i Marseille och Lyon, medan ytterhögerpartiet Nationell samling gjorde ett svagare resultat än väntat. Professorn vid universitet Sciences Po Lille, Pierre Mathiot, ser valresultatet som ett uttryck för stabilitet.",
-      "url": "https://yle.fi/a/7-10095245?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-23T12:30:57Z"
     }
   ]
 }

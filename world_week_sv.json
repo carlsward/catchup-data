@@ -2,29 +2,43 @@
   "span": "week",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-26T08:19:09+00:00",
-  "total_raw": 40,
+  "generated": "2026-03-27T08:21:37+00:00",
+  "total_raw": 38,
   "total_rank": 8,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "EU väntas föreslå förbud mot PFAS",
-      "summary": "EU: s kemikaliemyndighet Echa har bett att utreda PFAS. Kommitténs rekommendation till EU är breda restriktioner med vissa undantag. Undantag förväntas inom kort lägga fram ett förslag om att förbjuda PFAS i dagligvaror som kläder och pizzakartonger.",
-      "url": "https://svt.se/nyheter/utrikes/eu-vantas-foresla-forbud-mot-pfas",
-      "domain": "svt.se",
-      "published": "2026-03-26T07:30:30Z"
+      "title": "Ökad drönarbevakning vid östgränsen",
+      "summary": "Försvarsmakten försäkrar att det finns beredskap och förmåga att avvärja drönare som avsiktligt eller oavsiktligt tränger in i finskt luftrum. Den här veckan har Ukraina anfallit Rysslands två stora oljehamnar i Finska viken, i måndags Primorsk på Karelska näset söder om Viborg och i onsdags Ust - Luga på andra sidan Finska viken. Försvarsminister Antti Häkkänen sade onsdag att drönarattacker som har gjorts i Finlands närområden inte utgör något militärt hot.",
+      "url": "https://yle.fi/a/7-10095784?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-27T07:53:01Z"
     },
     {
-      "title": "Vad är JEF? Därför samlas tio länders ledare i Helsingfors på torsdagen",
-      "summary": "JEF består av tio nordeuropeiska länder med liknande säkerhetspolitiska intressen. Samarbetet leds av Storbritannien, och den brittiska premiärministern Keir Starmer närvarar vid mötet i Helsingfors. Tanken är att JEF ska kunna agera snabbare än Nato, EU eller FN när en kris uppstår, eftersom färre länder behöver vara överens.",
-      "url": "https://yle.fi/a/7-10095184?origin=rss",
+      "title": "Tyska politiker förenade i ”brandvägg” mot AfD",
+      "summary": "Alternativ för Tyskland har vuxit från ett eurokritiskt småparti till en stark politisk kraft med invandringskritisk agenda. Det pågår en juridisk process om partiet ska klassificeras som extremistiskt, efter den tyska säkerhetstjänstens bedömning att AfD är ett hot mot demokratin 2025. Nationellt ligger hack i häl med det största partiet CDU ( Kristdemokraterna ) och är det enda partiet i Tyskland som ökar i antalet medlemmar i hela landet.",
+      "url": "https://svt.se/nyheter/utrikes/tyska-politiker-forenade-i-brandvagg-mot-afd",
+      "domain": "svt.se",
+      "published": "2026-03-27T02:38:42Z"
+    },
+    {
+      "title": "Ukrainas drönarattacker allt närmare Finlands gräns: ”Nya liknande anfall kan in…",
+      "summary": "Den här veckan har Ukraina attackerat två oljehamnar nära Sankt Petersburg och hamnen i Viborg. Ukraina utför också attacker mot militära flygfält. Paasikivi säger att mönstret är att Ukraina upprepar attackerna mot de här målen så att de inte ska gå att reparera.",
+      "url": "https://yle.fi/a/7-10095712?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-26T04:03:40Z"
+      "published": "2026-03-26T15:17:22Z"
+    },
+    {
+      "title": "Maduro tillbaka i amerikansk domstol",
+      "summary": "Kristi Noam kommer att ersättas av Oklahoma Sen. Markwayne Mullin. Det är oklart vem Mullin kommer att godkännas av kongressen.",
+      "url": "https://svt.se/nyheter/utrikes/maduro-delges-misstanke-om-brott-havdar-immunitet",
+      "domain": "svt.se",
+      "published": "2026-03-26T14:49:22Z"
     },
     {
       "title": "Två gripna efter brandattentat mot ambulanser i London",
-      "summary": "Polisen genomför husrannsakan på två adresser i London. Gripandena gjordes i samband med utredningen av brandattacken mot fyra ambulanser i området Golders Green i nordvästra London. Ambulanserna tillhör organisationen Hatzalah, en judisk frivilligorganisation som tillhandahåller sjukvård i flera judiska gemenskaper, och stod parkerade utanför en av flera synagogor i området när de sattes i brand.",
+      "summary": "Polisen genomför husrannsakan på två adresser i London. Gripandena gjordes i samband med utredningen av brandattacken mot fyra ambulanser i området Golders Green i nordvästra London. Ambulanserna tillhör organisationen Hatzalah, en judisk frivilligorganisation som tillhandahåller sjukvård i bland annat judiska gemenskaper, och stod parkerade utanför en av flera synagogor i området när de sattes i brand.",
       "url": "https://svt.se/nyheter/utrikes/tva-gripna-efter-brandattentat-mot-ambulanser-i-london",
       "domain": "svt.se",
       "published": "2026-03-25T21:15:43Z"
@@ -37,32 +51,18 @@
       "published": "2026-03-25T09:00:18Z"
     },
     {
+      "title": "Röda sidan störst trots S-tapp",
+      "summary": "Med rösterna färdigräknade får Socialdemokratiet 21, 9 procent – en tydlig nedgång från föregående val. Trots att S backat, ökade vänstersidan totalt sett och landade på 48, 2 procent, en uppgång med 0, 2 procentenheter jämfört med förra valet. Valet i Danmark 2026 Inget block når egen majoritet i Folketinget, vilket gör regeringsbildningen till ett pussel.",
+      "url": "https://svt.se/nyheter/utrikes/roda-sidan-storst-trots-tapp-men-ingen-klar-vinnare-i-danska-valet",
+      "domain": "svt.se",
+      "published": "2026-03-24T22:50:57Z"
+    },
+    {
       "title": "Serhij Kostynskyj gick från affärsman till befälhavare under fyra år av krig i U…",
       "summary": "Serhij Kostynskyj var en av dem som tog upp vapen när de ryska pansarkolonnerna rullade in i Ukraina för drygt fyra år sedan. Idag leder han drönarbataljonen Seraphim. Han säger att kriget visar att intellektuellt utbildade och intellektuellt begåvade personer alltid kommer att vara viktiga, också i krig.",
       "url": "https://yle.fi/a/7-10095226?origin=rss",
       "domain": "yle.fi",
       "published": "2026-03-24T08:59:37Z"
-    },
-    {
-      "title": "Danska valet 2026",
-      "summary": "Mette Frederiksen ( S ) får göra det första försöket att bilda regering. Hon vill bilda en regering som sträcker sig från vänster till mitten. Oppositionsledaren Lars Løkke Rasmussen förväntas få en vågmästarroll i frågan om regeringsbildning.",
-      "url": "https://svt.se/nyheter/utrikes/valet-i-danmark-2026-folj-svts-liverapportering",
-      "domain": "svt.se",
-      "published": "2026-03-24T06:47:36Z"
-    },
-    {
-      "title": "Hon sänder radio för judar i Iran",
-      "summary": "Sahar Saidian föddes under Iran - Irakkriget. Som ett skilsmässobarn lämnade hon Shiraz i södra Iran när hon var 18 år. Israel och Iran är fiendeländer, vilket innebär att det är emot landets lag för dess medborgare att resa till respektive land.",
-      "url": "https://svt.se/nyheter/utrikes/hon-sander-radio-for-judar-i-iran-fran-israel",
-      "domain": "svt.se",
-      "published": "2026-03-23T19:54:52Z"
-    },
-    {
-      "title": "Vänstern vann storstäderna och ytterhögern gick sämre än väntat i franska valet",
-      "summary": "Franska vänstern firar valframgångar i landets största städer. Socialisterna behöll makten i Paris samt i Marseille och Lyon, medan ytterhögerpartiet Nationell samling gjorde ett svagare resultat än väntat. Professorn vid universitet Sciences Po Lille, Pierre Mathiot, ser valresultatet som ett uttryck för stabilitet.",
-      "url": "https://yle.fi/a/7-10095245?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-23T12:30:57Z"
     }
   ]
 }

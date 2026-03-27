@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-26T08:17:45+00:00",
-  "total_raw": 9,
+  "generated": "2026-03-27T08:20:17+00:00",
+  "total_raw": 17,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Europas största pälsproducent lägger ner och Finland kan gå samma väg",
-      "summary": "Sedan november har Polen ett förbud mot pälsdjursuppfödning. Om några år kommer den här gården inte längre att finnas, då pälsnäringen i Polen fasas ut. Minkfarmaren Herman Noordman beklagar utvecklingen.",
-      "url": "https://yle.fi/a/7-10094742?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-25T09:00:18Z"
-    },
-    {
-      "title": "Vad är JEF? Därför samlas tio länders ledare i Helsingfors på torsdagen",
-      "summary": "JEF består av tio nordeuropeiska länder med liknande säkerhetspolitiska intressen. Samarbetet leds av Storbritannien, och den brittiska premiärministern Keir Starmer närvarar vid mötet i Helsingfors. Tanken är att JEF ska kunna agera snabbare än Nato, EU eller FN när en kris uppstår, eftersom färre länder behöver vara överens.",
-      "url": "https://yle.fi/a/7-10095184?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-26T04:03:40Z"
-    },
-    {
-      "title": "Två gripna efter brandattentat mot ambulanser i London",
-      "summary": "Polisen genomför husrannsakan på två adresser i London. Gripandena gjordes i samband med utredningen av brandattacken mot fyra ambulanser i området Golders Green i nordvästra London. Ambulanserna tillhör organisationen Hatzalah, en judisk frivilligorganisation som tillhandahåller sjukvård i flera judiska gemenskaper, och stod parkerade utanför en av flera synagogor i området när de sattes i brand.",
-      "url": "https://svt.se/nyheter/utrikes/tva-gripna-efter-brandattentat-mot-ambulanser-i-london",
+      "title": "Maduro tillbaka i amerikansk domstol",
+      "summary": "Kristi Noam kommer att ersättas av Oklahoma Sen. Markwayne Mullin. Det är oklart vem Mullin kommer att godkännas av kongressen.",
+      "url": "https://svt.se/nyheter/utrikes/maduro-delges-misstanke-om-brott-havdar-immunitet",
       "domain": "svt.se",
-      "published": "2026-03-25T21:15:43Z"
+      "published": "2026-03-26T14:49:22Z"
     },
     {
-      "title": "Domstol: Meta och Youtube skyldiga till att orsaka psykisk ohälsa",
-      "summary": "Kvinnan hävdade att sociala medier - företag skapade appar som är lika beroendeframkallande som cigaretter eller onlinekasinon. Meta äger Instagram och Facebook, och Alphabet - ägda Youtube anses ha skadat en ung användare med sina beroendeframkallande tjänster. Företagen ska betala tre miljoner dollar i skadestånd till kvinnan.",
-      "url": "https://svt.se/nyheter/utrikes/domstol-meta-och-youtube-skyldiga-till-att-orsaka-psykisk-ohalsa",
-      "domain": "svt.se",
-      "published": "2026-03-25T17:40:14Z"
-    },
-    {
-      "title": "Meta och Google döms för att ha skapat beroendeframkallande sociala medier",
-      "summary": "En jury i Los Angeles ansåg att bolagen gjort sig skyldiga till att skada den unga kvinnan genom att skapa beroendeframkallande plattformar. Meta och Google ska nu betala \" Kaley \" tre miljoner dollar, ungefär 2, 6 miljoner euro, i kompensation. Tiktok och Snapchat stod också inför rätta i fallet, men de gick med på förlikning redan innan rättegången inleddes i början av februari.",
-      "url": "https://yle.fi/a/7-10095683?origin=rss",
+      "title": "Ukrainas drönarattacker allt närmare Finlands gräns: ”Nya liknande anfall kan in…",
+      "summary": "Den här veckan har Ukraina attackerat två oljehamnar nära Sankt Petersburg och hamnen i Viborg. Ukraina utför också attacker mot militära flygfält. Paasikivi säger att mönstret är att Ukraina upprepar attackerna mot de här målen så att de inte ska gå att reparera.",
+      "url": "https://yle.fi/a/7-10095712?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-25T18:28:00Z"
+      "published": "2026-03-26T15:17:22Z"
+    },
+    {
+      "title": "Så ska Nato få soldater att överleva den arktiska kylan",
+      "summary": "Flera länders försvarsmakter oroade över de utmaningar kylan kan ställa till med. Extrem kyla i kombination med arktiska vindar hör till skräckmiljöerna för både soldater och deras utrustning. Nato satsar miljoner euro på att locka uppstartsföretag att satsa på bioteknik för att hitta sätt att öka chanserna att överleva i Arktis.",
+      "url": "https://yle.fi/a/7-10092695?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-26T09:00:14Z"
+    },
+    {
+      "title": "JEF-toppmötet i Helsingfors har börjat: Finländska specialförband visade upp sit…",
+      "summary": "Storbritannien tog initiativet till att grunda JEF 2014. Fokus har legat på hybridattacker, särskilt i Östersjöregionen. JEF - styrkan har använt sig av ett brittiskt AI - verktyg för att övervaka den ryska skuggflottan.",
+      "url": "https://yle.fi/a/7-10095614?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-26T11:12:28Z"
+    },
+    {
+      "title": "Unicef-chefen på plats i Gaza: Situationen fortsatt kritisk",
+      "summary": "Sedan den 10 oktober 2025 råder en skör vapenvila mellan Israel och Hamas. Under inledningen av Iran - kriget minskade mängden hjälphjälpen till Gaza markant. Nu ser situationen lite bättre ut, säger Jonathan Veitch, särskilt sändebud i de palestinska områdena för FN: s barnorgan Unicef.",
+      "url": "https://svt.se/nyheter/utrikes/unicef-chefen-pa-plats-i-gaza-situationen-fortsatt-kritisk",
+      "domain": "svt.se",
+      "published": "2026-03-26T19:34:30Z"
     }
   ]
 }
