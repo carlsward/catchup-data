@@ -2,39 +2,39 @@
   "span": "month",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-27T08:22:20+00:00",
+  "generated": "2026-03-28T08:09:44+00:00",
   "total_raw": 38,
   "total_rank": 4,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Tyska politiker förenade i ”brandvägg” mot AfD",
-      "summary": "Alternativ för Tyskland har vuxit från ett eurokritiskt småparti till en stark politisk kraft med invandringskritisk agenda. Det pågår en juridisk process om partiet ska klassificeras som extremistiskt, efter den tyska säkerhetstjänstens bedömning att AfD är ett hot mot demokratin 2025. Nationellt ligger hack i häl med det största partiet CDU ( Kristdemokraterna ) och är det enda partiet i Tyskland som ökar i antalet medlemmar i hela landet.",
-      "url": "https://svt.se/nyheter/utrikes/tyska-politiker-forenade-i-brandvagg-mot-afd",
-      "domain": "svt.se",
-      "published": "2026-03-27T02:38:42Z"
+      "title": "Kriget i Iran skapar spänningar inom Maga: ”Rörelsen är totalförstörd",
+      "summary": "Conservative Political Action Conferense, eller CPAC, samlar konservativa från USA: s alla hörn. Tidigare år har konferensen utgjort en plattform för Trump där han lovat allt från sänkta bränslepriser till att USA inte ska föra krig. Republikanerna drar sig från att lita blint på Trump, men han har ändå levererat på vissa punkter, som migrationsfrågor.",
+      "url": "https://yle.fi/a/7-10095654?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-28T05:00:16Z"
+    },
+    {
+      "title": "Misstänkt insiderhandel: Miljarder satsades minuter före Trumps utspel",
+      "summary": "En eller flera personer satsade totalt över en halv miljard euro på att råoljepriset skulle falla. Det skedde bara femton minuter innan Donald Trump meddelade framsteg i fredssamtal med Iran. Tajmningen väcker misstankar om att någon visste i förväg vad presidenten skulle säga.",
+      "url": "https://yle.fi/a/7-10095832?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-27T15:17:29Z"
     },
     {
       "title": "Maduro tillbaka i amerikansk domstol",
-      "summary": "Kristi Noam kommer att ersättas av Oklahoma Sen. Markwayne Mullin. Det är oklart vem Mullin kommer att godkännas av kongressen.",
+      "summary": "Domaren ska återkomma med ett beslut om huruvida Trump - administrationen ska beordras att tillåta Venezuela betala presidentparets rättegångskostnader. Detta har hittills inte varit möjligt på grund av sanktioner mot landet. Kristi Noam har uppfattats som en lojal nyckelperson i att driva igenom Trumps migrationspolitik men har mött tilltagande kritik, inte minst kring en reklamkampanj som enligt somliga satt henne snarare än politiken i centrum.",
       "url": "https://svt.se/nyheter/utrikes/maduro-delges-misstanke-om-brott-havdar-immunitet",
       "domain": "svt.se",
       "published": "2026-03-26T14:49:22Z"
     },
     {
-      "title": "Europas största pälsproducent lägger ner och Finland kan gå samma väg",
-      "summary": "Sedan november har Polen ett förbud mot pälsdjursuppfödning. Om några år kommer den här gården inte längre att finnas, då pälsnäringen i Polen fasas ut. Minkfarmaren Herman Noordman beklagar utvecklingen.",
-      "url": "https://yle.fi/a/7-10094742?origin=rss",
+      "title": "Trump förlänger deadline mot Iran",
+      "summary": "Donald Trump meddelar att han förlänger pausen i attacker mot Irans energianläggningar med ytterligare tio dagar. USA: s president Donald Trumppåstår på måndagen att det har förekommit produktiva samtal mellan USA och Iran. Iran har mottagit en plan på 15 punkter från USA i syfte att uppnå en vapenvila.",
+      "url": "https://yle.fi/a/7-10095637?origin=rss",
       "domain": "yle.fi",
-      "published": "2026-03-25T09:00:18Z"
-    },
-    {
-      "title": "Serhij Kostynskyj gick från affärsman till befälhavare under fyra år av krig i U…",
-      "summary": "Serhij Kostynskyj var en av dem som tog upp vapen när de ryska pansarkolonnerna rullade in i Ukraina för drygt fyra år sedan. Idag leder han drönarbataljonen Seraphim. Han säger att kriget visar att intellektuellt utbildade och intellektuellt begåvade personer alltid kommer att vara viktiga, också i krig.",
-      "url": "https://yle.fi/a/7-10095226?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-24T08:59:37Z"
+      "published": "2026-03-25T11:53:58Z"
     }
   ]
 }

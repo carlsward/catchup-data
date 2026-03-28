@@ -2,46 +2,46 @@
   "span": "day",
   "language": "sv",
   "category": "world",
-  "generated": "2026-03-27T08:20:17+00:00",
-  "total_raw": 17,
+  "generated": "2026-03-28T08:07:23+00:00",
+  "total_raw": 8,
   "total_rank": 5,
   "min_required": 3,
   "fallback_used": false,
   "cards": [
     {
-      "title": "Maduro tillbaka i amerikansk domstol",
-      "summary": "Kristi Noam kommer att ersättas av Oklahoma Sen. Markwayne Mullin. Det är oklart vem Mullin kommer att godkännas av kongressen.",
-      "url": "https://svt.se/nyheter/utrikes/maduro-delges-misstanke-om-brott-havdar-immunitet",
+      "title": "Kriget i Iran skapar spänningar inom Maga: ”Rörelsen är totalförstörd",
+      "summary": "Conservative Political Action Conferense, eller CPAC, samlar konservativa från USA: s alla hörn. Tidigare år har konferensen utgjort en plattform för Trump där han lovat allt från sänkta bränslepriser till att USA inte ska föra krig. Republikanerna drar sig från att lita blint på Trump, men han har ändå levererat på vissa punkter, som migrationsfrågor.",
+      "url": "https://yle.fi/a/7-10095654?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-28T05:00:16Z"
+    },
+    {
+      "title": "Misstänkt insiderhandel: Miljarder satsades minuter före Trumps utspel",
+      "summary": "En eller flera personer satsade totalt över en halv miljard euro på att råoljepriset skulle falla. Det skedde bara femton minuter innan Donald Trump meddelade framsteg i fredssamtal med Iran. Tajmningen väcker misstankar om att någon visste i förväg vad presidenten skulle säga.",
+      "url": "https://yle.fi/a/7-10095832?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-27T15:17:29Z"
+    },
+    {
+      "title": "Varför har Iran ett sådant grepp om Hormuzsundet?",
+      "summary": "Irans revolutionsgarde säger att alla fartyg som passerar genom Hormuzsundet kommer att beskjutas. Nästan all trafik har avstannat, delvis av försiktighetsskäl men också för att försäkringsbolag har höjt premierna med så mycket som 300 procent. Iran har en nästan 1 600 kilometer lång kustlinje varifrån man kan avfyra robotar.",
+      "url": "https://yle.fi/a/7-10095794?origin=rss",
+      "domain": "yle.fi",
+      "published": "2026-03-27T15:28:57Z"
+    },
+    {
+      "title": "Nepals tidigare premiärminister gripen",
+      "summary": "Khadga Prasad Sharma Oli greps under lördagsmorgonen tillsammans med den före detta inrikesministern Ramesh Lekhak. De båda politikerna misstänks för inblandning i det dödliga ingripandet mot demonstranter i höstas. Minst 77 personer dödades i samband med protester mot korruption i landet i september.",
+      "url": "https://svt.se/nyheter/utrikes/nepals-tidigare-premiarminister-gripen",
       "domain": "svt.se",
-      "published": "2026-03-26T14:49:22Z"
+      "published": "2026-03-28T03:05:17Z"
     },
     {
-      "title": "Ukrainas drönarattacker allt närmare Finlands gräns: ”Nya liknande anfall kan in…",
-      "summary": "Den här veckan har Ukraina attackerat två oljehamnar nära Sankt Petersburg och hamnen i Viborg. Ukraina utför också attacker mot militära flygfält. Paasikivi säger att mönstret är att Ukraina upprepar attackerna mot de här målen så att de inte ska gå att reparera.",
-      "url": "https://yle.fi/a/7-10095712?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-26T15:17:22Z"
-    },
-    {
-      "title": "Så ska Nato få soldater att överleva den arktiska kylan",
-      "summary": "Flera länders försvarsmakter oroade över de utmaningar kylan kan ställa till med. Extrem kyla i kombination med arktiska vindar hör till skräckmiljöerna för både soldater och deras utrustning. Nato satsar miljoner euro på att locka uppstartsföretag att satsa på bioteknik för att hitta sätt att öka chanserna att överleva i Arktis.",
-      "url": "https://yle.fi/a/7-10092695?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-26T09:00:14Z"
-    },
-    {
-      "title": "JEF-toppmötet i Helsingfors har börjat: Finländska specialförband visade upp sit…",
-      "summary": "Storbritannien tog initiativet till att grunda JEF 2014. Fokus har legat på hybridattacker, särskilt i Östersjöregionen. JEF - styrkan har använt sig av ett brittiskt AI - verktyg för att övervaka den ryska skuggflottan.",
-      "url": "https://yle.fi/a/7-10095614?origin=rss",
-      "domain": "yle.fi",
-      "published": "2026-03-26T11:12:28Z"
-    },
-    {
-      "title": "Unicef-chefen på plats i Gaza: Situationen fortsatt kritisk",
-      "summary": "Sedan den 10 oktober 2025 råder en skör vapenvila mellan Israel och Hamas. Under inledningen av Iran - kriget minskade mängden hjälphjälpen till Gaza markant. Nu ser situationen lite bättre ut, säger Jonathan Veitch, särskilt sändebud i de palestinska områdena för FN: s barnorgan Unicef.",
-      "url": "https://svt.se/nyheter/utrikes/unicef-chefen-pa-plats-i-gaza-situationen-fortsatt-kritisk",
+      "title": "28 mars: Nattens nyheter",
+      "summary": "Tiger Woods greps efter en bilolycka, men har nu släppts mot borgen. Thailand har nått en överenskommelse med Iran om fri passage för thailändska tankfartyg genom Hormuzsundet. Polisen kraftsamlar efter fem skottlossningar på mindre än en vecka, med både minderåriga förövare och offer kraftsamla nu polisen.",
+      "url": "https://svt.se/nyheter/utrikes/28-mars-nattens-nyheter-m0bqk9",
       "domain": "svt.se",
-      "published": "2026-03-26T19:34:30Z"
+      "published": "2026-03-28T04:48:48Z"
     }
   ]
 }
